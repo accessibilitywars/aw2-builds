@@ -1,2 +1,6 @@
 # aw2-builds
 Builds for the Accessibility Wars site
+
+## Notes
+
+- docs/ -- contains the jekyll site for Github Pages to render the [static site](https://accessibilitywars.github.io/aw2-builds/)

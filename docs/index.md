@@ -2,6 +2,13 @@
 
 This site is a proof-of-concept to hosting the LI builds resposity for the Accessibility Wars 2 community.
 
-## Stay Tuned
+## Builds
 
-This is coming soon...
+<ul>
+	{% for post in site.posts %}
+	<li>
+		<h2><a href="{{post.url | relative_url}}">{{post.title}}</a></h2>
+		{{post.excerpt}}
+	</li>
+	{% endfor %}
+</ul>

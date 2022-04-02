@@ -1,6 +1,6 @@
 <nav>
   {% for item in site.data.navigation %}
-    <a href="{{site.url}}{{ item.link }}"> {{ item.name }}
+    <a href="{{ item.link | relative_url }}"> {{ item.name }}
     </a>
   {% endfor %}
 </nav>

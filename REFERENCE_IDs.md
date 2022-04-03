@@ -52,8 +52,8 @@
  - Ranger - Beastmastery - 32
  - Ranger - Wilderness Survival - 33
  - Ranger - Druid - 5
-
  - Ranger - Soulbeast - 55
+
  - Engineer - Explosives - 6
  - Engineer - Tools - 21
  - Engineer - Alchemy - 29

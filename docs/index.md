@@ -1,6 +1,6 @@
 # Accessibility Wars 2
 
-This site is a proof-of-concept to hosting the LI builds resposity for the Accessibility Wars 2 community.
+This site is a proof-of-concept to hosting the LI builds respository for the Accessibility Wars 2 community.
 
 ## Builds
 

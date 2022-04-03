@@ -11,6 +11,15 @@ but may be of use in other modes.
 
 ## The Builds
 
+A note from jupiter:
+
+These builds are designed to be exceptionally easy to play in solo content, or with open world groups.
+These builds are fluid, and you should consider the builds listed as a starting point or guideline.
+Play around with different traits, skills, and weapons at your leisure.
+Think about if builds are power or condi, and try not to mix the two (often).
+Some folks find more defense is more comfortable, while others are more comfortable when they can burst down enemies.
+These builds are about enabling you to find your own comfort zone in the game.
+
 <ul>
 	{% for post in site.posts %}
 	<li>

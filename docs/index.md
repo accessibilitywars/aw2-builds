@@ -5,9 +5,8 @@ This site is a proof-of-concept for hosting Low-Intensity builds for the Accessi
 ## Our Mission
 
 We are a community of Guild Wars 2 gamers with accessibility needs.  We aim to help accommodate a wide range of needs, from
-physical to cognitive. To this end, we publish with the help of the community, low-intensity (LI) builds that can allow
-players to comfortably contribute in group play. Most builds here are focused on instanced play (raids, strikes, fractals, etc),
-but may be of use in other modes.
+physical to cognitive. To this end, with the help of the community, we publish and archive low-intensity (LI)
+builds that can allow players to solo more difficult content, and comfortably contribute in group play.
 
 ## The Builds
 

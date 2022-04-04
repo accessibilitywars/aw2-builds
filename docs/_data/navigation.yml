@@ -1,6 +1,8 @@
-- name: Home
-  link: /
-- name: Builds
-  link: /builds.html
-- name: Discord
-  link: https://discord.gg/bKt2CdS8k3
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Builds by Date"
+    url: /builds/
+  - title: "Builds by Tag"
+    url: /tags/

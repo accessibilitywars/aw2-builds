@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 author: berdandy / jupiter
 title: Condi Core Engineer
+tags: condi engineer core
 ---
 
 This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).
@@ -38,6 +39,7 @@ Template code:
   data-armory-29-traits="509,470,1854"
 >
 </div>
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
 
 ## Gearing
 

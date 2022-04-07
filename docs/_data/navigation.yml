@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Builds by Date"
     url: /builds/
   - title: "Builds by Tag"

@@ -4,7 +4,7 @@ author_profile: true
 title: About Accessibility Wars
 ---
 
-This site is a proof-of-concept for hosting Low-Intensity builds for the Accessibility Wars 2 community
+This site is a proof-of-concept for hosting Low-Intensity builds for the Accessibility Wars Too community
 
 ## Our Mission
 

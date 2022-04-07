@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Accessibility Wars Too
+title: About Accessibility Wars Too
 ---
 
 ## Our Mission

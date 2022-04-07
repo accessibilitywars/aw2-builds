@@ -9,8 +9,6 @@ header:
   overlay_image: https://render.guildwars2.com/file/DEE244AB7045EE31941E222AE4A06A94DCB4360E/1769901.png
 ---
 
-This is a scourge LI build provided by jupiter. This build may also be viewed at [gw2skills](http://en.gw2skills.net/editor/?PSgAs+lFwoYTsK2IeKTfPLA-zxIY1ohvMiLBCsAEeA-e).
-
 ## Tier Notes
 
 Start at 1, work up the list.
@@ -53,3 +51,8 @@ Template code:
 ## Variants
 
 The sigils are pretty loose in this build, so use what you like. Blood is about +200 hp/s, malice is higher dps than earth over long fights. Cele can be replaced with Viper (higher dps), Trailblazer (higher tank), or Dire (budget). If using Dire swap sigils to Agony + Venom. Runes can be swapped for Rune of the Tempest or 5x Trapper + 1x Black Diamond. There are many trait variants, which are noted in the Tier Usage.
+
+## Other References
+
+This build may also be viewed at [gw2skills](http://en.gw2skills.net/editor/?PSgAs+lFwoYTsK2IeKTfPLA-zxIY1ohvMiLBCsAEeA-e).
+

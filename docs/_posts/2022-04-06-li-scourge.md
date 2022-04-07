@@ -9,6 +9,8 @@ header:
   overlay_image: https://render.guildwars2.com/file/DEE244AB7045EE31941E222AE4A06A94DCB4360E/1769901.png
 ---
 
+This is a LI Scourge build provided by jupiter. It has a lot of variation, and centers around supporting yourself and your minions with the scourge's shades.
+
 ## Tier Notes
 
 Start at 1, work up the list.

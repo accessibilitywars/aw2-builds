@@ -3,6 +3,10 @@ layout: single
 author: berdandy / jupiter
 title: Condi Core Engineer
 tags: condi engineer core
+toc: true
+tagline: Scarlet ain't got nothing on these clockwork turrets.
+header:
+  overlay_image: https://render.guildwars2.com/file/159455B54672DF9C9BEEC2EB13E05DB07E757E02/1012041.png
 ---
 
 This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).
@@ -15,7 +19,7 @@ Start at 1, work up the list.
 2. As in 1, + spam F2 (Flamethrower Toolbelt) off cooldown.
 3. As in 2, + occasionally drop Flamethrower for a moment to use Pistol 4.
 
-Once comfortable, experiment with removing 1-2 turrets and using Elixirs like Elixir U and Elixir B in their place.
+Once comfortable, experiment with removing 1-2 turrets and using Elixirs, like Elixir U and Elixir B in their place.
 
 ## Traits and Skills
 

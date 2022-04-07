@@ -3,6 +3,10 @@ layout: single
 author: berdandy / jupiter
 title: Bloody Minions Scourge
 tags: condi necromancer scourge pof
+toc: true
+tagline: "It's always a party when you throw around some shade."
+header:
+  overlay_image: https://render.guildwars2.com/file/DEE244AB7045EE31941E222AE4A06A94DCB4360E/1769901.png
 ---
 
 This is a scourge LI build provided by jupiter. This build may also be viewed at [gw2skills](http://en.gw2skills.net/editor/?PSgAs+lFwoYTsK2IeKTfPLA-zxIY1ohvMiLBCsAEeA-e).

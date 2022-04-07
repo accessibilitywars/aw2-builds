@@ -6,7 +6,7 @@ tags: condi necromancer scourge pof
 toc: true
 tagline: "It's always a party when you throw around some shade."
 header:
-  overlay_image: https://render.guildwars2.com/file/DEE244AB7045EE31941E222AE4A06A94DCB4360E/1769901.png
+  overlay_image: /assets/spec/scourge.jpg
 ---
 
 This is a LI Scourge build provided by jupiter. It has a lot of variation, and centers around supporting yourself and your minions with the scourge's shades.

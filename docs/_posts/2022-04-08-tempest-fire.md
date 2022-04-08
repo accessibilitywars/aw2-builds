@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-![image-left](/assets/icons/tempest.png){: .align-left} 
+![image-left](/assets/icons/tempest.png){: .align-left} This spicy Fire Tempest build uses the teamwork of elementals combined with a few signets to keep the complexity down. Great for barbeques.
 
 ## Tier Notes
 

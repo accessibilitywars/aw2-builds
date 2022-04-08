@@ -7,6 +7,7 @@ toc: true
 tagline: "Rumbly in the tumbly"
 header:
   overlay_image: /assets/spec/tempest.jpg
+  overlay_filter: 0.5
 ---
 
 This elemental and signet-heavy build allows you to focus on just a few weapon skills

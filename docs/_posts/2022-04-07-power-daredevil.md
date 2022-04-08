@@ -7,6 +7,7 @@ toc: true
 tagline: "Walk even more softly, and carry an even bigger stick."
 header:
   overlay_image: /assets/spec/daredevil.jpg
+  overlay_filter: 0.5
 ---
 
 This Daredevil build is a a little more on the moderate side of difficulty. Follow along the tier notes to find your spot.

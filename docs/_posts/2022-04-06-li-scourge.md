@@ -7,6 +7,7 @@ toc: true
 tagline: "It's always a party when you throw around some shade."
 header:
   overlay_image: /assets/spec/scourge.jpg
+  overlay_filter: 0.5
 ---
 
 This is a LI Scourge build provided by jupiter. It has a lot of variation, and centers around supporting yourself and your minions with the scourge's shades.

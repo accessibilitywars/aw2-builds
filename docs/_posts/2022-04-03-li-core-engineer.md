@@ -7,6 +7,7 @@ toc: true
 tagline: Scarlet ain't got nothing on these clockwork turrets.
 header:
   overlay_image: /assets/spec/engineer.jpg
+  overlay_filter: 0.5
 ---
 
 This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).

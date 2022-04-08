@@ -7,6 +7,7 @@ toc: true
 tagline: "Walk softly and carry a big stick"
 header:
   overlay_image: /assets/spec/scourge.jpg
+  overlay_filter: 0.5
 ---
 
 This LI Scourge build focuses on heavy sustain, and very low gear requirements.

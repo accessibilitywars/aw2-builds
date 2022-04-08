@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-This is a LI Scourge build provided by jupiter. It has a lot of variation, and centers around supporting yourself and your minions with the scourge's shades.
+![image-left](/assets/icons/scourge.png){: .align-left} This is a LI Scourge build provided by jupiter. It has a lot of variation, and centers around supporting yourself and your minions with the scourge's shades.
 
 ## Tier Notes
 

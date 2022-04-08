@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-This LI Core Ranger build 
+![image-left](/assets/icons/ranger.png){: .align-left} This LI Core Ranger build has some great variation, allowing for greatsword mobility, longbow range, or axe dps.
 
 ## Tier Notes
 

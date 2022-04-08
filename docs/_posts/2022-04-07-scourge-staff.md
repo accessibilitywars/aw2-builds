@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-This LI Scourge build focuses on heavy sustain, and very low gear requirements.
+![image-left](/assets/icons/scourge.png){: .align-left} This LI Scourge build focuses on heavy sustain, and very low gear requirements by sticking with the staff.
 
 ## Tier Notes
 

@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-This Mechanist build makes stuff blow up and light on fire. What could go wrong?
+![image-left](/assets/icons/mechanist.png){: .align-left} This Mechanist build makes stuff blow up and light on fire. What could go wrong?
 
 ## Tier Notes
 

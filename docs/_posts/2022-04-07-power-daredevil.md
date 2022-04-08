@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-This Daredevil build is a a little more on the moderate side of difficulty. Follow along the tier notes to find your spot.
+![image-left](/assets/icons/daredevil.png){: .align-left} This Daredevil build is a a little more on the moderate side of difficulty. Follow along the tier notes to find your spot.
 
 ## Tier Notes
 

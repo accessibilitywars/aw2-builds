@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-This elemental and signet-heavy build allows you to focus on just a few weapon skills
+![image-left](/assets/icons/tempest.png){: .align-left} This elemental and signet-heavy Tempest build allows you to focus on just a few weapon skills.
 
 ## Tier Notes
 

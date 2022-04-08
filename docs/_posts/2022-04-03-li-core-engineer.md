@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5
 ---
 
-This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).
+![image-left](/assets/icons/engineer.png){: .align-left} This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).
 
 ## Tier Notes
 

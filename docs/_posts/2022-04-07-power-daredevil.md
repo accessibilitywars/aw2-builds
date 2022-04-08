@@ -6,7 +6,7 @@ tags: power thief daredevil
 toc: true
 tagline: "Walk even more softly, and carry an even bigger stick."
 header:
-  overlay_image: /assets/spec/daredevil.jpg
+  overlay_image: /assets/specs/daredevil.jpg
   overlay_filter: 0.5
 ---
 

@@ -6,7 +6,7 @@ tags: condi necromancer scourge pof
 toc: true
 tagline: "It's always a party when you throw around some shade."
 header:
-  overlay_image: /assets/spec/scourge.jpg
+  overlay_image: /assets/specs/scourge.jpg
   overlay_filter: 0.5
 ---
 

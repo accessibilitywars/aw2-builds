@@ -6,7 +6,7 @@ tags: power core ranger
 toc: true
 tagline: "You're a natural"
 header:
-  overlay_image: /assets/spec/ranger.jpg
+  overlay_image: /assets/specs/ranger.jpg
   overlay_filter: 0.5
 ---
 

@@ -6,7 +6,7 @@ tags: condi engineer core
 toc: true
 tagline: Scarlet ain't got nothing on these clockwork turrets.
 header:
-  overlay_image: /assets/spec/engineer.jpg
+  overlay_image: /assets/specs/engineer.jpg
   overlay_filter: 0.5
 ---
 

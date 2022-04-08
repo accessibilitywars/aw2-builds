@@ -6,7 +6,7 @@ tags: condi elementalist tempest
 toc: true
 tagline: "Rumbly in the tumbly"
 header:
-  overlay_image: /assets/spec/tempest.jpg
+  overlay_image: /assets/specs/tempest.jpg
   overlay_filter: 0.5
 ---
 

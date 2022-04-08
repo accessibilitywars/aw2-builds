@@ -6,7 +6,7 @@ tags: condi mechanist engineer
 toc: true
 tagline: "I'm the Juggernaut! Ain't nothin' -- ain't nobody -- can beat me!"
 header:
-  overlay_image: /assets/spec/mechanist.jpg
+  overlay_image: /assets/specs/mechanist.jpg
   overlay_filter: 0.5
 ---
 

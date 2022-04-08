@@ -6,7 +6,7 @@ tags: healing necromancer scourge pof
 toc: true
 tagline: "Walk softly and carry a big stick"
 header:
-  overlay_image: /assets/spec/scourge.jpg
+  overlay_image: /assets/specs/scourge.jpg
   overlay_filter: 0.5
 ---
 

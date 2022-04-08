@@ -6,7 +6,7 @@ tags: power thief deadeye
 toc: true
 tagline: "Shooty Shooty McBangBang"
 header:
-  overlay_image: /assets/spec/deadeye.jpg
+  overlay_image: /assets/specs/deadeye.jpg
   overlay_filter: 0.5
 ---
 

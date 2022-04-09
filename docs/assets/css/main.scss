@@ -7,9 +7,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/*
-.page__hero--overlay {
-    background-position: 0 -200px;
-    background-size: 2500px, cover;
+// neon support
+::selection {
+	background: #f21368;
 }
-*/
+::-moz-selection {
+	background: #f21368;
+}

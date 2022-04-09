@@ -12,6 +12,9 @@
 {% elsif page.header.overlay_filter %}
   {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
   {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
+{% else %}
+  {% capture overlay_filter %}rgba(0, 0, 0, 0.5){% endcapture %}
+  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
 {% endif %}
 
 {% if page.header.image_description %}

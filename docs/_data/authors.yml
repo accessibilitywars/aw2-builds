@@ -1,0 +1,23 @@
+berdandy:
+  name        : "Berdandy"
+  bio         : "Code slinger, MS-haver and general accessibility advocate"
+  avatar      : "/assets/bio_photos/berdandy.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/andyberdan"
+jupiter:
+  name        : "Jupiter"
+  bio         : "Original author of the metabattle li builds"
+  # avatar      : "/assets/bio_photos/berdandy.jpg"
+mukluk:
+  name        : "Mukluk"
+  bio         : "GW2 Streamer"
+  avatar      : "/assets/bio_photos/mukluk.jpg"
+  links:
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/mukluk"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/MuklukYoutube"

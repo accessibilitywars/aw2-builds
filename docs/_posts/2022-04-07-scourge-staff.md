@@ -2,7 +2,7 @@
 layout: single
 author: berdandy / jupiter
 title: Scourge Staff
-tags: healing necromancer scourge pof
+tags: healing necromancer scourge PoF
 toc: true
 tagline: "Walk softly and carry a big stick"
 spec: scourge

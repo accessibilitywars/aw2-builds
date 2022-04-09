@@ -2,9 +2,9 @@
 layout: single
 author: berdandy / jupiter
 title: Tempest Fire
-tags: condi elementalist tempest
+tags: condi elementalist tempest HoT
 toc: true
-tagline: "Burn, baby, burn!"
+tagline: "'Burn, baby, burn!'"
 spec: tempest
 ---
 

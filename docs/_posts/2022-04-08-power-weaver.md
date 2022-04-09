@@ -2,9 +2,9 @@
 layout: single
 author: berdandy / jupiter
 title: Storm Weaver
-tags: power elementalist weaver
+tags: power elementalist weaver PoF
 toc: true
-tagline: "The elements marshal their infinite might at my beckoning! Power seethes in the roiling clouds! Now, at my command -- STRIKE!"
+tagline: "'The elements marshal their infinite might at my beckoning! Power seethes in the roiling clouds! Now, at my command -- STRIKE!'"
 spec: weaver
 ---
 

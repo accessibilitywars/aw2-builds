@@ -1,8 +1,8 @@
 ---
 layout: single
 author: berdandy / mukluk
-title: LI Power Herald
-tags: power herald revenant
+title: Power Herald
+tags: power herald revenant HoT
 toc: true
 tagline: "Shiny facets for fun and profit"
 spec: herald
@@ -10,9 +10,7 @@ spec: herald
 
 This Herald build uses glint's facets to keep boon uptime high without much stress.
 
-## Tier Notes
-
-See video below.
+See video below for more details.
 
 ## Traits and Skills
 
@@ -42,10 +40,6 @@ Legendary Stances:
 - Runes of the Scholar
 - Sword/Axe Force/Impact
 - Staff Force/Impact
-
-## Variants
-
-None provided
 
 ## Other References
 

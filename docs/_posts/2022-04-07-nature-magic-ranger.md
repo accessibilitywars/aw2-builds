@@ -8,7 +8,7 @@ tagline: "You're a natural"
 spec: ranger
 ---
 
-This LI Core Ranger build has some great variation, allowing for greatsword mobility, longbow range, or axe dps.
+This LI Core Ranger build has good variation, allowing for greatsword mobility, longbow range, or axe dps.
 
 ## Tier Notes
 

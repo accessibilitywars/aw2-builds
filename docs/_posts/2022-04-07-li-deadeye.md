@@ -2,7 +2,7 @@
 layout: single
 author: berdandy / jupiter
 title: Power Deadeye
-tags: power thief deadeye
+tags: power thief deadeye PoF
 toc: true
 tagline: "Shooty Shooty McBangBang"
 spec: deadeye

@@ -2,7 +2,7 @@
 layout: single
 author: berdandy / jupiter
 title: Power Daredevil
-tags: power thief daredevil
+tags: power thief daredevil HoT
 toc: true
 tagline: "Walk even more softly, and carry an even bigger stick."
 spec: daredevil

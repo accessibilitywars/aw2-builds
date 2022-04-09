@@ -2,9 +2,9 @@
 layout: single
 author: berdandy / jupiter
 title: Tempest Earth
-tags: condi elementalist tempest
+tags: condi elementalist tempest HoT
 toc: true
-tagline: "Rumbly in the tumbly"
+tagline: "'You can no more win a war than you can win an earthquake.'"
 spec: tempest
 ---
 

@@ -2,7 +2,7 @@
 layout: single
 author: berdandy / jupiter
 title: Mech Juggernaut
-tags: condi mechanist engineer
+tags: condi mechanist engineer EoD
 toc: true
 tagline: "I'm the Juggernaut! Ain't nothin' -- ain't nobody -- can beat me!"
 spec: mechanist

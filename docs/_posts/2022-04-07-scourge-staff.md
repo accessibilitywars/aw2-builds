@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Scourge Staff
 tags: healing necromancer scourge PoF
 toc: true

@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Power Deadeye
 tags: power thief deadeye PoF
 toc: true

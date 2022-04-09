@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Power Daredevil
 tags: power thief daredevil HoT
 toc: true

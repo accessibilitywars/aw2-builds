@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Mad Bomber Mech
 tags: power mechanist engineer EoD
 toc: true

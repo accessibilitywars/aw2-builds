@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Storm Weaver
 tags: power elementalist weaver PoF
 toc: true

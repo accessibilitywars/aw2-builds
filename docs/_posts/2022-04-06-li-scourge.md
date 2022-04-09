@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Bloody Minions Scourge
 tags: condi necromancer scourge PoF
 toc: true

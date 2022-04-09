@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Mech Juggernaut
 tags: condi mechanist engineer EoD
 toc: true

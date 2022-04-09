@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Tempest Fire
 tags: condi elementalist tempest HoT
 toc: true

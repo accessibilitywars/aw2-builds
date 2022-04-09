@@ -1,6 +1,7 @@
 ---
 layout: build
-author: berdandy / jupiter
+author: jupiter
+editor: berdandy
 title: Fire Weaver
 tags: condi elementalist weaver PoF
 toc: true

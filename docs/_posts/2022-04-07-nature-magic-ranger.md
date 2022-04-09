@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Nature Magic Ranger
 tags: power core ranger
-toc: true
 tagline: "You're a natural"
 spec: ranger
 ---

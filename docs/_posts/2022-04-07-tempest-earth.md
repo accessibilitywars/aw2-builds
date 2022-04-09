@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Tempest Earth
 tags: condi elementalist tempest HoT
-toc: true
 tagline: "'You can no more win a war than you can win an earthquake.'"
 spec: tempest
 ---

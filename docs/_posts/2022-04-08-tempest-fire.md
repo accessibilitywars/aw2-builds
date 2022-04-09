@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Tempest Fire
 tags: condi elementalist tempest HoT
-toc: true
 tagline: "'Burn, baby, burn!'"
 spec: tempest
 ---

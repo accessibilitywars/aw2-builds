@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Mad Bomber Mech
 tags: power mechanist engineer EoD
-toc: true
 tagline: "Badda bing, badda boom. Badda big boom."
 spec: mechanist
 ---

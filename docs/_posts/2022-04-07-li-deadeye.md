@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Power Deadeye
 tags: power thief deadeye PoF
-toc: true
 tagline: "Shooty Shooty McBangBang"
 spec: deadeye
 ---

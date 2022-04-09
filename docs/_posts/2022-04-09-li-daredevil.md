@@ -4,7 +4,6 @@ author: mukluk
 editor: berdandy
 title: LI Daredevil
 tags: power thief daredevil HoT
-toc: true
 tagline: "Learn how to push to 30k dps with your bonk stick on Daredevil!"
 excerpt: "Learn how to push to 30k dps with your bonk stick on Daredevil!"
 spec: daredevil

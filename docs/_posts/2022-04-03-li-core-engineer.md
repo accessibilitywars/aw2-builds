@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Condi Core Engineer
 tags: condi engineer core
-toc: true
 tagline: "Scarlet ain't got nothing on these clockwork turrets."
 spec: engineer
 ---

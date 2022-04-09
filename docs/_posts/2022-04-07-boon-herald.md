@@ -4,7 +4,6 @@ author: mukluk
 editor: berdandy
 title: Power Herald
 tags: power herald revenant HoT
-toc: true
 tagline: "Shiny facets for fun and profit"
 spec: herald
 ---

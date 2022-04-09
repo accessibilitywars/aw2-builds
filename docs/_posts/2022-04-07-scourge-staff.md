@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Scourge Staff
 tags: healing necromancer scourge PoF
-toc: true
 tagline: "Walk softly and carry a big stick"
 spec: scourge
 ---

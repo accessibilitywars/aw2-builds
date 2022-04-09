@@ -4,7 +4,6 @@ author: jupiter
 editor: berdandy
 title: Bloody Minions Scourge
 tags: condi necromancer scourge PoF
-toc: true
 tagline: "It's always a party when you throw around some shade."
 spec: scourge
 ---

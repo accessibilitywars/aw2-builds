@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / mukluk
 title: LI Daredevil
 tags: power thief daredevil HoT

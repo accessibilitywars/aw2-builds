@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Nature Magic Ranger
 tags: power core ranger

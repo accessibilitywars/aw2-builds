@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Storm Weaver
 tags: power elementalist weaver PoF

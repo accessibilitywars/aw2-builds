@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Power Daredevil
 tags: power thief daredevil HoT

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Tempest Earth
 tags: condi elementalist tempest HoT

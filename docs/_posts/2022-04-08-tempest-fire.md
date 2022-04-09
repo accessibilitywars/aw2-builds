@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Tempest Fire
 tags: condi elementalist tempest HoT

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Mech Juggernaut
 tags: condi mechanist engineer EoD

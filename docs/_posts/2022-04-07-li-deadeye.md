@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Power Deadeye
 tags: power thief deadeye PoF

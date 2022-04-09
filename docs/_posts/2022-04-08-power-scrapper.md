@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Turret Gyro Spam-a-lot
 tags: power scrapper engineer HoT

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Fire Weaver
 tags: condi elementalist weaver PoF

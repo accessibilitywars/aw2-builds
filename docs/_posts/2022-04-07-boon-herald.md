@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / mukluk
 title: Power Herald
 tags: power herald revenant HoT

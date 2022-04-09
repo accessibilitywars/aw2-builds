@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: build
 author: berdandy / jupiter
 title: Scourge Staff
 tags: healing necromancer scourge PoF

@@ -5,14 +5,13 @@ title: LI Daredevil
 tags: power thief daredevil HoT
 toc: true
 tagline: "Learn how to push to 30k dps with your bonk stick on Daredevil!"
+excerpt: "Learn how to push to 30k dps with your bonk stick on Daredevil!"
 spec: daredevil
 ---
 
 This Daredevil build comes to you from Mukluk.
 
-## Tier Notes
-
-Not provided. [See video](https://www.youtube.com/watch?v=JPbY6u7JeK4)
+[See video](https://www.youtube.com/watch?v=JPbY6u7JeK4) for more details.
 
 ## Traits and Skills
 
@@ -42,10 +41,6 @@ Template code:
 - Full Beserker
 - Runes of the Scholar
 - Staff Force/Impact
-
-## Variants
-
-Not provided. [See video](https://www.youtube.com/watch?v=JPbY6u7JeK4)
 
 ## Other References
 

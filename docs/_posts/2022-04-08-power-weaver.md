@@ -5,12 +5,10 @@ title: Storm Weaver
 tags: power elementalist weaver
 toc: true
 tagline: "The elements marshal their infinite might at my beckoning! Power seethes in the roiling clouds! Now, at my command -- STRIKE!"
-header:
-  overlay_image: /assets/specs/weaver.jpg
-  overlay_filter: 0.5
+spec: weaver
 ---
 
-![image-left](/assets/icons/weaver.png){: .align-left} This signet-heavy Weaver build sets up a single weave. There is no element swapping necessary, reducing the complexity of Weaver greatly. That said, this build is one of the more intense builds on the site.
+This signet-heavy Weaver build sets up a single weave. There is no element swapping necessary, reducing the complexity of Weaver greatly. That said, this build is one of the more intense builds on the site.
 
 ## Tier Notes
 

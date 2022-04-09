@@ -5,12 +5,10 @@ title: Power Deadeye
 tags: power thief deadeye
 toc: true
 tagline: "Shooty Shooty McBangBang"
-header:
-  overlay_image: /assets/specs/deadeye.jpg
-  overlay_filter: 0.5
+spec: deadeye
 ---
 
-![image-left](/assets/icons/deadeye.png){: .align-left} This Deadeye build focuses on using pistols to deadly advantage.
+This Deadeye build focuses on using pistols to deadly advantage.
 
 ## Tier Notes
 

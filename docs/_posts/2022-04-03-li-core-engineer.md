@@ -5,12 +5,10 @@ title: Condi Core Engineer
 tags: condi engineer core
 toc: true
 tagline: Scarlet ain't got nothing on these clockwork turrets.
-header:
-  overlay_image: /assets/specs/engineer.jpg
-  overlay_filter: 0.5
+spec: engineer
 ---
 
-![image-left](/assets/icons/engineer.png){: .align-left} This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).
+This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).
 
 ## Tier Notes
 

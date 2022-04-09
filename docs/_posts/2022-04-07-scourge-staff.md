@@ -5,12 +5,10 @@ title: Scourge Staff
 tags: healing necromancer scourge pof
 toc: true
 tagline: "Walk softly and carry a big stick"
-header:
-  overlay_image: /assets/specs/scourge.jpg
-  overlay_filter: 0.5
+spec: scourge
 ---
 
-![image-left](/assets/icons/scourge.png){: .align-left} This LI Scourge build focuses on heavy sustain, and very low gear requirements by sticking with the staff.
+This LI Scourge build focuses on heavy sustain, and very low gear requirements by sticking with the staff.
 
 ## Tier Notes
 

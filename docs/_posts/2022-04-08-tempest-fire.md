@@ -5,12 +5,10 @@ title: Tempest Fire
 tags: condi elementalist tempest
 toc: true
 tagline: "Burn, baby, burn!"
-header:
-  overlay_image: /assets/specs/tempest.jpg
-  overlay_filter: 0.5
+spec: tempest
 ---
 
-![image-left](/assets/icons/tempest.png){: .align-left} This spicy Fire Tempest build uses the teamwork of elementals combined with a few signets to keep the complexity down. Great for barbeques.
+This spicy Fire Tempest build uses the teamwork of elementals combined with a few signets to keep the complexity down. Great for barbeques.
 
 ## Tier Notes
 

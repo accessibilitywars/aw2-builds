@@ -5,12 +5,10 @@ title: Turret Gyro Spam-a-lot
 tags: power scrapper engineer
 toc: true
 tagline: "Turrets and Gyros and Boons oh my"
-header:
-  overlay_image: /assets/specs/scrapper.jpg
-  overlay_filter: 0.5
+spec: scrapper
 ---
 
-![image-left](/assets/icons/scrapper.png){: .align-left} Spam is on the menu today! This Scrapper build allows you to find your personal sweet spot between turret spam and gyro spam.
+Spam is on the menu today! This Scrapper build allows you to find your personal sweet spot between turret spam and gyro spam.
 
 ## Tier Notes
 

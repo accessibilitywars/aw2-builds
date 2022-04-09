@@ -5,12 +5,10 @@ title: Nature Magic Ranger
 tags: power core ranger
 toc: true
 tagline: "You're a natural"
-header:
-  overlay_image: /assets/specs/ranger.jpg
-  overlay_filter: 0.5
+spec: ranger
 ---
 
-![image-left](/assets/icons/ranger.png){: .align-left} This LI Core Ranger build has some great variation, allowing for greatsword mobility, longbow range, or axe dps.
+This LI Core Ranger build has some great variation, allowing for greatsword mobility, longbow range, or axe dps.
 
 ## Tier Notes
 

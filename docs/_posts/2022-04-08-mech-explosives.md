@@ -5,12 +5,10 @@ title: Mad Bomber Mech
 tags: power mechanist engineer
 toc: true
 tagline: "Badda bing, badda boom. Badda big boom."
-header:
-  overlay_image: /assets/specs/mechanist.jpg
-  overlay_filter: 0.5
+spec: mechanist
 ---
 
-![image-left](/assets/icons/mechanist.png){: .align-left} This signet- and explosives-heavy Mechanist build lets you blow stuff up and laugh maniacally.
+This signet- and explosives-heavy Mechanist build lets you blow stuff up and laugh maniacally.
 
 ## Tier Notes
 

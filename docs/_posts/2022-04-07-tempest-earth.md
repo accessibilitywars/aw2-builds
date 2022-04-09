@@ -5,12 +5,10 @@ title: Tempest Earth
 tags: condi elementalist tempest
 toc: true
 tagline: "Rumbly in the tumbly"
-header:
-  overlay_image: /assets/specs/tempest.jpg
-  overlay_filter: 0.5
+spec: tempest
 ---
 
-![image-left](/assets/icons/tempest.png){: .align-left} This elemental and signet-heavy Tempest build allows you to focus on just a few weapon skills.
+This elemental and signet-heavy Tempest build allows you to focus on just a few weapon skills.
 
 ## Tier Notes
 

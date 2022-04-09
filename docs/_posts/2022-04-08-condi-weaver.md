@@ -5,12 +5,10 @@ title: Fire Weaver
 tags: condi elementalist weaver
 toc: true
 tagline: "To know that this flame will spread this way across the door and up across the ceiling, not because of the physics of flammable liquids, but because it wants to."
-header:
-  overlay_image: /assets/specs/weaver.jpg
-  overlay_filter: 0.5
+spec: weaver
 ---
 
-![image-left](/assets/icons/weaver.png){: .align-left} With the power of Balthazar, elementals, and a single unchanging weave (no element swapping), this Weaver build is an accessible way to light everyone and everything on fire.
+With the power of Balthazar, elementals, and a single unchanging weave (no element swapping), this Weaver build is an accessible way to light everyone and everything on fire.
 
 ## Tier Notes
 

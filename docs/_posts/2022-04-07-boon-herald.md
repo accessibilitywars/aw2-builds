@@ -5,12 +5,10 @@ title: LI Power Herald
 tags: power herald revenant
 toc: true
 tagline: "Shiny facets for fun and profit"
-header:
-  overlay_image: /assets/specs/herald.jpg
-  overlay_filter: 0.5
+spec: herald
 ---
 
-![image-left](/assets/icons/herald.png){: .align-left} This Herald build uses glint's facets to keep boon uptime high without much stress.
+This Herald build uses glint's facets to keep boon uptime high without much stress.
 
 ## Tier Notes
 

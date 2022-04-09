@@ -5,12 +5,10 @@ title: Mech Juggernaut
 tags: condi mechanist engineer
 toc: true
 tagline: "I'm the Juggernaut! Ain't nothin' -- ain't nobody -- can beat me!"
-header:
-  overlay_image: /assets/specs/mechanist.jpg
-  overlay_filter: 0.5
+spec: mechanist
 ---
 
-![image-left](/assets/icons/mechanist.png){: .align-left} This Mechanist build makes stuff blow up and light on fire. What could go wrong?
+This Mechanist build makes stuff blow up and light on fire. What could go wrong?
 
 ## Tier Notes
 

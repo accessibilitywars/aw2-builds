@@ -282,8 +282,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: build
       author_profile: true
+      editor_profile: true
       read_time: false
       comments: # true
       share: true

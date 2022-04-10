@@ -6,11 +6,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-// neon support
-::selection {
-	background: #f21368;
-}
-::-moz-selection {
-	background: #f21368;
-}

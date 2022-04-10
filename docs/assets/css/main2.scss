@@ -1,0 +1,16 @@
+---
+# In dark mode, used to replace: https://github.com/mmistakes/minimal-mistakes/blob/master/assets/css/main.scss
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_dark | default: 'dark' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// neon support
+::selection {
+	background: #f21368;
+}
+::-moz-selection {
+	background: #f21368;
+}

@@ -276,6 +276,8 @@ compress_html:
   ignore:
     envs: development
 
+feed:
+  posts_limit: 50
 
 # Defaults
 defaults:

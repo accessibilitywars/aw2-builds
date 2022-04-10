@@ -1,5 +1,3 @@
-<!-- overrides: https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/head.html -->
-
 <meta charset="utf-8">
 
 {% include seo.html %}
@@ -15,7 +13,7 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- Light mode -->
+<!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 <!-- Dark mode -->
@@ -28,7 +26,6 @@
 
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
-
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}

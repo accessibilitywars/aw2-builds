@@ -20,7 +20,7 @@ title                    : "Accessibility Wars Too"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "berdandy"
-description              : "Low-Intensity Builds for the GW2 Community."
+description              : "Low-Intensity Builds for the Guild Wars 2 Community."
 url                      : https://accessibilitywars.com/
 baseurl                  :
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-6H8PLH8HBS
+    tracking_id          : "G-6H8PLH8HBS"
     anonymize_ip         : # true, false (default)
 
 

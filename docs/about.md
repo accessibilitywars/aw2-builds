@@ -22,3 +22,7 @@ builds that can allow players to solo more difficult content, and comfortably co
 > <cite>jupiter (the original author of many of our builds)</cite>
 
 You can browse the builds above, chronologically by date, or by tag.
+
+## Contributions
+
+To get involved, join the Accessibility Wars Too discord and check out [the GitHub](https://github.com/accessibilitywars/aw2-builds#contributing).

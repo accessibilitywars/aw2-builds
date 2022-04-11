@@ -122,9 +122,9 @@ author:
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    # - label: "GitHub"
-      # icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/accessibilitywars/"
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/accessibilitywars/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

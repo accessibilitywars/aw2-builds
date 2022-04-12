@@ -8,7 +8,7 @@ tagline: "We men dream dreams, we work magic, we do good, we do evil. The dragon
 spec: dragonhunter
 ---
 
-This moderate intensity Dragonhunter build something something
+This moderate intensity Dragonhunter build stays in melee distance and uses the strong sustain of dragonhunter skills to good effect.
 
 ## Tier Notes
 

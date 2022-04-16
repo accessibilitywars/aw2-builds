@@ -9,7 +9,11 @@ berdandy:
 jupiter:
   name        : "Jupiter"
   bio         : "Original author of the metabattle LI builds"
-  # avatar      : "/assets/bio_photos/berdandy.jpg"
+  # avatar      : "/assets/bio_photos/???.jpg"
+  links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCW14gSHtjG_dSSPMZDiQl6w/featured"
 mukluk:
   name        : "Mukluk"
   bio         : "GW2 Streamer"

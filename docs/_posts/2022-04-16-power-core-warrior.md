@@ -8,7 +8,7 @@ tagline: "'Careful, careful, careful with that axe, Eugene'<br/>-- Pink Floyd"
 spec: warrior
 ---
 
-This low-moderate intensity Core Warrior build uses signets for passive bonuses. This is a melee-heavy build, making movement control a potential factor.
+This low-moderate intensity Core Warrior build uses signets for passive bonuses, as well as notable passive defense from traits. This is a melee-heavy build, making movement control a potential factor.
 
 ## Tier Notes
 

@@ -1,5 +1,5 @@
 {% assign author = page.editor | default: page.authors[0] | default: site.author %}
-{% assign author = site.data.authors[author] | default: author %}
+{% assign author = site.data.authors[author] %}
 
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 
@@ -12,9 +12,11 @@
   {% endif %}
 
   <div class="author__content">
+	{% if author.name %}
     <p class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">Editor: {{ author.name }}</a>
     </p>
+    {% endif %}
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
         {{ author.bio | markdownify }}

@@ -1,6 +1,7 @@
-—
+---
 title: Cognitive Accessibility
-—
+excerpt: Guides for accommodating cognitive challenges, such as memory, processing speed, etc
+---
 
 Cognitive Accessibility refers to providing accommodations to issues such as processing speed, memory or other cognition-related challenges.
 

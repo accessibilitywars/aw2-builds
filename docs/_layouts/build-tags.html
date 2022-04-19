@@ -1,0 +1,29 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign sorted_tags  = site.tags | sort %}
+<ul class="taxonomy__index">
+{% for tag in sorted_tags %}
+<li>
+  <a href="#{{ tag[0] | slugify }}">
+    <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+  </a>
+</li>
+{% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% for tag in sorted_tags %}
+  <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ tag[0] }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for post in tag.last %}
+        {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}

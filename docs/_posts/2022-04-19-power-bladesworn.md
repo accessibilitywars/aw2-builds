@@ -1,7 +1,6 @@
 ---
 layout: build
 author: muwum
-editor: muwum
 title: Power Bladesworn
 tags: power warrior bladesworn
 tagline: "'It is my duty to keep the people of Cantha safe.'<br/>-- Minister Li"

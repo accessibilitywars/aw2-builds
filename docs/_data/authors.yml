@@ -25,3 +25,17 @@ mukluk:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/c/MuklukYoutube"
+muwum:
+  name        : "MuwuM"
+  bio         : "GW2 Community-Developer"
+  avatar      : "/assets/bio_photos/muwum.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MuwuM_net"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/user/MuwuMAvA"
+    - label: "GitHub"
+      icon: "fab fa-fw fab fa-github"
+      url: "https://github.com/MuwuM"

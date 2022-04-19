@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Storm Weaver
-tags: power elementalist weaver PoF
+tags: power elementalist weaver pof
 tagline: "'The elements marshal their infinite might at my beckoning! Power seethes in the roiling clouds! Now, at my command -- STRIKE!'"
 spec: weaver
 ---

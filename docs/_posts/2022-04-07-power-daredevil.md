@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Power Daredevil
-tags: power thief daredevil HoT
+tags: power thief daredevil hot
 tagline: "Walk even more softly, and carry an even bigger stick."
 spec: daredevil
 ---

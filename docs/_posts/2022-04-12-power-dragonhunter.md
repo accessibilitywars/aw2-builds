@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Power Dragonhunter
-tags: power guardian dragonhunter HoT
+tags: power guardian dragonhunter hot
 tagline: "We men dream dreams, we work magic, we do good, we do evil. The dragons do not dream. They are dreams. They do not work magic: it is their substance, their being. They do not do; they are."
 spec: dragonhunter
 ---

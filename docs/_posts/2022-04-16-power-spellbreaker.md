@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Power Spellbreaker
-tags: power warrior spellbreaker PoF
+tags: power warrior spellbreaker pof
 tagline: "'Justice and power must be brought together, so that whatever is just may be powerful, and whatever is powerful may be just.'<br/> -- Blaise Pascal"
 spec: spellbreaker
 ---

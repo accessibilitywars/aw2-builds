@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Scourge Staff
-tags: healing necromancer scourge PoF
+tags: healing necromancer scourge pof
 tagline: "Walk softly and carry a big stick"
 spec: scourge
 ---

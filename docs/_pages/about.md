@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: About Accessibility Wars Too
+permalink: /about/
 ---
 
 ## Our Mission

@@ -279,6 +279,11 @@ compress_html:
 feed:
   posts_limit: 50
 
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -294,4 +299,13 @@ defaults:
       share: true
       toc: true
       related: true
+  # _guides
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 

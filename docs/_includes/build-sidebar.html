@@ -2,7 +2,7 @@
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.editor_profile or layout.editor_profile %}
-  {% if page.author == page.editor %}{% else %}
+  {% if page.author != page.editor %}
   {% include editor-profile.html %}
   {% endif %}
   {% endif %}

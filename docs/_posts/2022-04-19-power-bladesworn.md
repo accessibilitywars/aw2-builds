@@ -58,6 +58,6 @@ Keep your sigils the same on this one, as crit is very important and force is pr
 
 ## Other References
 
-Check out [my video discussing showcasing](https://www.youtube.com/watch?v=AaPuiW0ulGM) this build.
+Check out [my video showcasing](https://www.youtube.com/watch?v=AaPuiW0ulGM) this build.
 
 

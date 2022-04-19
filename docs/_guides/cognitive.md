@@ -9,6 +9,8 @@ Of course, the LI builds on this site are great for reducing cognitive load when
 
 Useful tools:
 
+- Adjust graphics and other settings to reduce visual and auditory noise to lower cognitive processing load (see the other guides)
+- Play with noise-isolating headphones so external stimuli is reduced
 - The `/wiki` command.
 > Enter this in the chat field, and it will open the game’s wiki in your web browser. If you provide text, it’ll go to that page directly (e.g. `/wiki Sunrise`. You can even shift click to paste a chat code for an item and that works too: `/wiki [&abcdefghi]`
 - The [BlishHUD](https://blishhud.com) add-on with:

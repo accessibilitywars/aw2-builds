@@ -96,7 +96,5 @@ Elite skills are flexible and not particularly effective in this build. Generall
 
 You can unmerge with your pet, and use it to tank for you. If your pet is about to die, merge and unmerge to refresh its health.
 
-## Other References
-
-Check out [Mukluk's video discussing this build](https://www.youtube.com/watch?v=rS2ogstNepI)
-
+## Video
+{% include video id="rS2ogstNepI" provider="youtube" %}

@@ -41,7 +41,5 @@ Legendary Stances:
 - Sword/Axe Force/Impact
 - Staff Force/Impact
 
-## Other References
-
-This build video may be viewed on [Mukluk's channel](https://www.youtube.com/watch?v=Zfyt_Cy6ajg)
-
+## Video
+{% include video id="Zfyt_Cy6ajg" provider="youtube" %}

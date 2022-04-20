@@ -17,6 +17,10 @@ This Bladesworn Warrior build averages at about 13 APM (Tier 1). This is a melee
 
 press <span class="armory-inline" data-aw2-key="F2" data-armory-embed="skills" data-armory-ids="62803" data-armory-size="32"></span> and wait until your ![](https://wiki.guildwars2.com/images/thumb/9/98/Gunsaber_Cartridge_%28uncharged%29.png/12px-Gunsaber_Cartridge_%28uncharged%29.png)charges are full
 
+
+<button onclick="(()=>{const keyMap={'F2':'Shift + W'};Array.from(document.querySelectorAll('[data-aw2-key]')).map(key=>{const k = key.getAttribute('data-aw2-key');if(keyMap[k]){key.setAttribute('data-aw2-key-mapped',keyMap[k])}})})()">Preview Key-bind change</button>
+<button onclick="(()=>{Array.from(document.querySelectorAll('[data-aw2-key-mapped]')).map(key=>{key.removeAttribute('data-aw2-key-mapped');})})()">Reset Key-bind change</button>
+
 3. press [![Dragon Slash—Force](https://wiki.guildwars2.com/images/thumb/b/b5/Dragon_Slash%E2%80%94Force.png/33px-Dragon_Slash%E2%80%94Force.png) `1`](https://wiki.guildwars2.com/wiki/Dragon_Slash%E2%80%94Force) and wait for your [![Sheathe Gunsaber](https://wiki.guildwars2.com/images/thumb/8/87/Sheathe_Gunsaber.png/33px-Sheathe_Gunsaber.png) `F1`](https://wiki.guildwars2.com/wiki/Sheathe_Gunsaber) to become ready
 4. press [![Sheathe Gunsaber](https://wiki.guildwars2.com/images/thumb/8/87/Sheathe_Gunsaber.png/33px-Sheathe_Gunsaber.png) `F1`](https://wiki.guildwars2.com/wiki/Sheathe_Gunsaber) and wait for your [![](https://wiki.guildwars2.com/images/thumb/c/c4/Heat.png/20px-Heat.png) flow bar](https://wiki.guildwars2.com/wiki/Flow) again
 

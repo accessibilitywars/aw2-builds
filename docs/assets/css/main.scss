@@ -27,5 +27,5 @@
   border-bottom-right-radius: 4px;
 }
 [data-aw2-key-mapped]::after{
-  content: attr(data-aw2-key);
+  content: attr(data-aw2-key-mapped);
 }

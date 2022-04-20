@@ -42,7 +42,10 @@ Template code:
 - Runes of the Scholar
 - Staff Force/Impact
 
+
+## Video
+{% include video id="JPbY6u7JeK4" provider="youtube" %}
+
 ## Other References
 
 This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PaUAYlFwyYYsL2JO6LbtaA-zRIYRUwXG1mAVUA2OA-e)
-

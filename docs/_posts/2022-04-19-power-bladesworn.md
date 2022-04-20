@@ -55,8 +55,6 @@ Berserker can be replaced by Marauder and Knight, though knight will perform con
 
 Keep your sigils the same on this one, as crit is very important and force is pretty strong.
 
-## Other References
-
-Check out [my video showcasing](https://www.youtube.com/watch?v=AaPuiW0ulGM) this build.
-
+## Video
+{% include video id="AaPuiW0ulGM" provider="youtube" %}
 

@@ -14,6 +14,9 @@ This Bladesworn Warrior build averages at about 13 APM (Tier 1). This is a melee
 ### Rotation Tier 1
 1. keep auto-attacking until your [![](https://wiki.guildwars2.com/images/thumb/c/c4/Heat.png/20px-Heat.png) flow bar](https://wiki.guildwars2.com/wiki/Flow) is full
 2. press [![Dragon Trigger](https://wiki.guildwars2.com/images/thumb/b/b1/Dragon_Trigger.png/33px-Dragon_Trigger.png) `F2`](https://wiki.guildwars2.com/wiki/Dragon_Trigger) and wait until your ![](https://wiki.guildwars2.com/images/thumb/9/98/Gunsaber_Cartridge_%28uncharged%29.png/12px-Gunsaber_Cartridge_%28uncharged%29.png)charges are full
+
+press <span class="armory-inline" data-aw2-key="F2" data-armory-embed="skills" data-armory-ids="62803" data-armory-size="32"></span> and wait until your ![](https://wiki.guildwars2.com/images/thumb/9/98/Gunsaber_Cartridge_%28uncharged%29.png/12px-Gunsaber_Cartridge_%28uncharged%29.png)charges are full
+
 3. press [![Dragon Slash—Force](https://wiki.guildwars2.com/images/thumb/b/b5/Dragon_Slash%E2%80%94Force.png/33px-Dragon_Slash%E2%80%94Force.png) `1`](https://wiki.guildwars2.com/wiki/Dragon_Slash%E2%80%94Force) and wait for your [![Sheathe Gunsaber](https://wiki.guildwars2.com/images/thumb/8/87/Sheathe_Gunsaber.png/33px-Sheathe_Gunsaber.png) `F1`](https://wiki.guildwars2.com/wiki/Sheathe_Gunsaber) to become ready
 4. press [![Sheathe Gunsaber](https://wiki.guildwars2.com/images/thumb/8/87/Sheathe_Gunsaber.png/33px-Sheathe_Gunsaber.png) `F1`](https://wiki.guildwars2.com/wiki/Sheathe_Gunsaber) and wait for your [![](https://wiki.guildwars2.com/images/thumb/c/c4/Heat.png/20px-Heat.png) flow bar](https://wiki.guildwars2.com/wiki/Flow) again
 

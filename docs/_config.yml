@@ -151,6 +151,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+footer_scripts:
+  - /assets/js/aw2-key-mapping.js
+  - https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js
 
 # Reading Files
 include:

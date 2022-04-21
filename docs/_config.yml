@@ -153,6 +153,7 @@ footer:
 
 footer_scripts:
   - /assets/js/keyboard-layout-us.js
+  - /assets/js/keyboard-layout-uk.js
   - /assets/js/keyboard-layout-de.js
   - /assets/js/keyboard-layout-ch.js
   - /assets/js/aw2-key-mapping.js

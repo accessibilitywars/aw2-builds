@@ -32,7 +32,7 @@ Legendary Stances:
   data-armory-52-traits='1716,1738,1803'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

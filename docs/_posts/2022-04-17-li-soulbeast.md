@@ -53,7 +53,7 @@ Pet
   data-armory-55-traits='2071,2161,2143'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ### Open World Build Variant: Beastmastery
 
@@ -80,7 +80,7 @@ Pet
   data-armory-55-traits='2071,2161,2143'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

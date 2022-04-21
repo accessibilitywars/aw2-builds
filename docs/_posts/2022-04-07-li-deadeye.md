@@ -35,7 +35,7 @@ Template code:
   data-armory-58-traits='2173,2078,2093'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

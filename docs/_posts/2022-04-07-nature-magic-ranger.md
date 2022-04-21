@@ -44,7 +44,7 @@ Pets:
   data-armory-25-traits='978,1054,1988'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

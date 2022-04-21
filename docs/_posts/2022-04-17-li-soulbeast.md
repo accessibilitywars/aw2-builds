@@ -16,7 +16,7 @@ This low-medium intensity condi Soulbeast build uses shortbow, flanking and zero
 
 1. Merge with pet <span data-aw2-key="F5" data-aw2-skill="42944"></span>, Autoattack, prioritizing flanking position
 2. As in 1, + <span data-aw2-key="2" data-aw2-skill="12468"></span>, <span data-aw2-key="4" data-aw2-skill="12507"></span>,  <span data-aw2-key="F1" data-aw2-skill="41406"></span> off cooldown
-3. As in 2, + <span data-aw2-key="6" data-aw2-skill="12537"></span>, <span data-aw2-key="7" data-aw2-skill="40498"></span> off cooldown
+3. As in 2, + <span data-aw2-key="7" data-aw2-skill="12537"></span>, <span data-aw2-key="8" data-aw2-skill="40498"></span> off cooldown
 
 _Note: these are animation-free utilities and share cooldown timings. Position them next to each other on the skill bar, and hit both keys at the same time_
 

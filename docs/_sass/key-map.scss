@@ -1,18 +1,30 @@
 @charset "utf-8";
 
+
+.armory-inline {
+  display: inline-flex;
+  vertical-align: middle;
+  flex-direction: row;
+}
 .armory-inline .gw2a-skills-embed {
   display: inline-block;
   vertical-align: middle;
+}
+.armory-inline [data-armory-embed]{
+  display: inline-block;
+  vertical-align: middle;
+  width: 32px;
+  height: 32px;
+  user-select: none;
 }
 
 [data-aw2-key]{
   position: relative;
 }
 
-[data-aw2-key]::after{
+[data-aw2-key] .aw2-show-key{
   display: inline-block;
   vertical-align: top;
-  content: attr(data-aw2-key);
   padding: 4px;
   box-sizing: border-box;
   min-width: 32px;
@@ -24,24 +36,8 @@
   border-bottom-right-radius: 4px;
   text-align: center;
 }
-[data-aw2-key-mapped]::after{
-  content: attr(data-aw2-key-mapped);
+[data-aw2-key-mapped] .aw2-show-key{
   border-right: 4px solid #f21368;
-}
-[data-aw2-key-mapped]::before{
-  position: absolute;
-  width: 100%;
-  min-width: 92px;
-  height: 14px;
-  bottom: -14px;
-  content: "Custom Key-bind";
-  font-size: 12px;
-  text-align: center;
-  opacity: 0;
-  transition: opacity 1s;
-}
-[data-aw2-key-mapped]:hover::before{
-  opacity: 1;
 }
 .aw2-key-map-notice{
   font-size: .6875em;

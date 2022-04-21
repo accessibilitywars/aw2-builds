@@ -185,24 +185,52 @@
 
   let keyMap = {};
   try {
-    keyMap = (JSON.parse(localStorage.getItem('aw2-settings-key-mapping')))||{};
+    keyMap = (JSON.parse(localStorage.getItem('aw2-settings-key-mapping'))) || {};
   } catch (error) {
     console.error(error);
   }
 
-  function saveKeyMap(){
-    localStorage.setItem('aw2-settings-key-mapping',JSON.stringify(keyMap));
+  function checkSettingsFromLocalStorage() {
+
+    try {
+      const newKeyMap = (JSON.parse(localStorage.getItem('aw2-settings-key-mapping'))) || {};
+      if (JSON.stringify(newKeyMap) !== JSON.stringify(keyMap)) {
+        keyMap = newKeyMap;
+        updateKeymaps();
+      }
+    } catch (error) {
+      console.error(error);
+    }
+    setTimeout(checkSettingsFromLocalStorage, 1000);
+  }
+
+  function saveKeyMap() {
+    localStorage.setItem('aw2-settings-key-mapping', JSON.stringify(keyMap));
   }
 
   function loadSkills() {
     const aw2Skills = Array.from(document.querySelectorAll('[data-aw2-skill]'));
     aw2Skills.forEach(function (key) {
-      if (!key.hasAttribute("data-armory-embed")) {
+      if (!key.classList.contains("armory-inline")) {
         const skillId = key.getAttribute('data-aw2-skill');
         key.classList.add("armory-inline");
-        key.setAttribute('data-armory-ids', skillId);
-        key.setAttribute('data-armory-size', "32");
-        key.setAttribute('data-armory-embed', "skills");
+        const armoryElement = document.createElement("span");
+        armoryElement.setAttribute('data-armory-ids', skillId);
+        armoryElement.setAttribute('data-armory-size', "32");
+        armoryElement.setAttribute('data-armory-embed', "skills");
+        armoryElement.style.userSelect = "none";
+        key.appendChild(armoryElement);
+        const showKey = document.createElement("span");
+        showKey.classList.add("aw2-show-key");
+        showKey.textContent = key.getAttribute("data-aw2-key-mapped") || key.getAttribute("data-aw2-key");
+        var observer = new MutationObserver(function (mutations) {
+          showKey.textContent = key.getAttribute("data-aw2-key-mapped") || key.getAttribute("data-aw2-key");
+        });
+        observer.observe(key, {
+          attributes: true,
+          attributeFilter: ['data-aw2-key-mapped']
+        });
+        key.appendChild(showKey);
       }
     });
 
@@ -235,6 +263,15 @@
     });
   }
   updateKeymaps();
+
+  const buttons = {
+    1: "Mouse1",
+    2: "Mouse2",
+    4: "Mouse3",
+    8: "Mouse4",
+    16: "Mouse5"
+  }
+
   function updateSettingsControl() {
     const settingsHook = document.querySelector('[data-aw2-settings="hook"]');
     if (settingsHook) {
@@ -244,60 +281,75 @@
       keyBindingList.style.display = "block";
       const aw2SkillKeySettings = Array.from(document.querySelectorAll('[data-aw2-settings-key]'));
       function skillSettingKeyDownHandler(event) {
-        event.preventDefault();
-        if (["Shift", "Alt", "Control"].includes(event.key)) {
-          return;
-        }
-        const defaultKey = event.target.getAttribute("data-aw2-settings-key");
-        if (event.key === "Escape") {
-          delete keyMap[defaultKey];
-          saveKeyMap();
-          event.target.value = "";
-          event.target.blur();
-          return;
-        }
-        const modifiers = [];
-        if (event.ctrlKey) {
-          modifiers.push("Ctrl +");
-        }
-        if (event.altKey) {
-          modifiers.push("Alt +");
-        }
-        if (event.shiftKey) {
-          modifiers.push("Shift +");
-        }
-        /*const digit = event.code.match(/^Digit(\d)$/);
-        const letter = event.code.match(/^Key(\w)$/);
-        if(digit){
-          modifiers.push(digit[1]);
-        }else if(letter){
-          modifiers.push(letter[1]);
-        }else if(event.key === "Dead" && event.code ==="Backquote"){
-          modifiers.push("`");
-        }else{
-          modifiers.push(event.key);
-        }*/
-        const keyLabel = keyCodes[event.keyCode];
-        if (keyLabel.includes(" ")) {
-          modifiers.push('(' + keyLabel + ')');
-        } else{
-          modifiers.push(keyLabel);
-        }
-          
+        if (event instanceof MouseEvent) {
+          if (document.activeElement === event.target) {
+            event.preventDefault();
+            console.log(event, event.buttons);
+            if (buttons[event.buttons]) {
+              const defaultKey = event.target.getAttribute("data-aw2-settings-key");
+              keyMap[defaultKey] = buttons[event.buttons];
+              saveKeyMap();
+              event.target.value = keyMap[defaultKey];
+            }
+          }
+        } else if (event instanceof KeyboardEvent) {
+          event.preventDefault();
+          if (["Shift", "Alt", "Control"].includes(event.key)) {
+            return;
+          }
+          const defaultKey = event.target.getAttribute("data-aw2-settings-key");
+          if (event.key === "Escape") {
+            delete keyMap[defaultKey];
+            saveKeyMap();
+            event.target.value = "";
+            event.target.blur();
+            return;
+          }
+          const modifiers = [];
+          if (event.ctrlKey) {
+            modifiers.push("Ctrl +");
+          }
+          if (event.altKey) {
+            modifiers.push("Alt +");
+          }
+          if (event.shiftKey) {
+            modifiers.push("Shift +");
+          }
+          /*const digit = event.code.match(/^Digit(\d)$/);
+          const letter = event.code.match(/^Key(\w)$/);
+          if(digit){
+            modifiers.push(digit[1]);
+          }else if(letter){
+            modifiers.push(letter[1]);
+          }else if(event.key === "Dead" && event.code ==="Backquote"){
+            modifiers.push("`");
+          }else{
+            modifiers.push(event.key);
+          }*/
+          const keyLabel = keyCodes[event.keyCode];
+          if (keyLabel.includes(" ")) {
+            modifiers.push('(' + keyLabel + ')');
+          } else {
+            modifiers.push(keyLabel);
+          }
 
-        keyMap[defaultKey] = modifiers.join(" ");
-        saveKeyMap();
-        event.target.value = keyMap[defaultKey];
-        console.log(defaultKey, event);
+
+          keyMap[defaultKey] = modifiers.join(" ");
+          saveKeyMap();
+          event.target.value = keyMap[defaultKey];
+        }
       }
       aw2SkillKeySettings.forEach(function (aw2SkillKeySettingInput) {
         aw2SkillKeySettingInput.addEventListener("keydown", skillSettingKeyDownHandler);
+        aw2SkillKeySettingInput.addEventListener("mousedown", skillSettingKeyDownHandler);
         const key = aw2SkillKeySettingInput.getAttribute("data-aw2-settings-key");
         aw2SkillKeySettingInput.setAttribute("placeholder", key);
         if (keyMap[key]) {
           aw2SkillKeySettingInput.value = keyMap[key];
         }
       });
+    } else {
+      checkSettingsFromLocalStorage();
     }
   }
   updateSettingsControl();

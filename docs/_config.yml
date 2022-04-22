@@ -159,6 +159,7 @@ footer_scripts:
   - /assets/js/keyboard-layout-ch.js
   - /assets/js/keyboard-layout-es.js
   - /assets/js/keyboard-layout-es_la.js
+  - /assets/js/keyboard-layout-ar.js
   - /assets/js/aw2-key-mapping.js
   - https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js
 

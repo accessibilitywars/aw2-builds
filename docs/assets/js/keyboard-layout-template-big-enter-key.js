@@ -44,7 +44,6 @@ window.aw2KeyboardLayouts.us = {
   "KeyP": false,
   "BracketLeft": false,
   "BracketRight": false,
-  "Backslash": false, 
   "Delete": "Del",
   //4th row
   "CapsLock": "CapsLock",
@@ -59,6 +58,7 @@ window.aw2KeyboardLayouts.us = {
   "KeyL": false,
   "Semicolon": false,
   "Quote": false,
+  "Backslash": false, 
   "Enter": "Enter",
   //5th row
   "ShiftLeft": "ShiftLeft",

@@ -42,4 +42,4 @@ Template code:
 - Sword/Torch Bursting/Fire
 
 ## Video
-{% include video id="rS2ogstNepI" provider="youtube" %}
+{% include video id="Qqmc3Rzkd0M" provider="youtube" %}

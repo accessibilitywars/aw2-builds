@@ -4,26 +4,82 @@ layout: archive
 
 {{ content }}
 
-{% assign sorted_tags  = site.tags | sort %}
+
+{% assign known_tags = "" | split: "," %}
+
+{% assign addon_tags = "core,hot,pof,eod" | split: "," %}
+<h2>Addon</h2>
 <ul class="taxonomy__index">
-{% for tag in sorted_tags %}
-<li>
-  <a href="#{{ tag[0] | slugify }}">
-    <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
-  </a>
-</li>
-{% endfor %}
+  {% for tag_name in addon_tags %}
+  {% for tag in site.tags %}
+  {% if tag[0] == tag_name %}
+  {% assign known_tags = known_tags | push: tag[0] %}
+  <li>
+    <a href="#{{ tag[0] | slugify }}">
+      <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</ul>
+<h2>Professions</h2>
+<ul class="taxonomy__index">
+  {% for profession in site.data.professions %}
+  {% assign profession_tags = site.tags %}
+  {% for tag in profession_tags %}
+  {% if tag[0] == profession.id %}
+  {% assign known_tags = known_tags | push: tag[0] %}
+  <li>
+    <a href="#{{ tag[0] | slugify }}">
+      <img src="/assets/icons/{{profession.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ profession.name }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+    </a>
+    {% for spec in profession.specs %}
+    {% for tag_spec in site.tags %}
+  {% if tag_spec[0] == spec.id %}
+  {% assign known_tags = known_tags | push: tag_spec[0] %}
+    <a href="#{{ spec.id | slugify }}">
+      <span></span><img src="/assets/icons/{{spec.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ spec.name }}</strong> <span class="taxonomy__count">{{ tag_spec[1].size }}</span>
+    </a>
+  {% endif %}
+  {% endfor %}
+    {% endfor %}
+  </li>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
 </ul>
 
+<h2>Other Tags</h2>
+{% assign sorted_tags = site.tags | sort %}
+<ul class="taxonomy__index">
+  {% for tag in sorted_tags %}
+  {% assign known = false %}
+  {% for k_tag in known_tags %}
+  {% if tag[0] == k_tag %}
+  {% assign known = true %}
+  {% endif %}
+  {% endfor %}
+  {% if known == false %}
+  <li>
+    <a href="#{{ tag[0] | slugify }}">
+      <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Tags</h2>
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for tag in sorted_tags %}
-  <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ tag[0] }}</h2>
-    <div class="entries-{{ entries_layout }}">
-      {% for post in tag.last %}
-        {% include archive-single.html type=entries_layout %}
-      {% endfor %}
-    </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
+<section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
+  <h2 class="archive__subtitle">{{ tag[0] }}</h2>
+  <div class="entries-{{ entries_layout }}">
+    {% for post in tag.last %}
+    {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+  </div>
+  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section>
 {% endfor %}

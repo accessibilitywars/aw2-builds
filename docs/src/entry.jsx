@@ -147,7 +147,7 @@ import skillFallback from "./skill-fallback.js";
         const keyMapNoticeParent = document.querySelector(".sidebar__right>.toc");
         const keyMapNotice = document.createElement("footer");
         keyMapNotice.classList.add("aw2-key-map-notice");
-        keyMapNotice.innerHTML = "<a href=\"/key-bind-mapping\"><i class=\"fas fa-cog\"></i> Customize Key-bindings</a>";
+        ReactDOM.render(<a href="/key-bind-mapping"><i className="fas fa-cog"></i> Customize Key-bindings</a>, keyMapNotice);
         keyMapNoticeParent.appendChild(keyMapNotice);
       }
     } else {

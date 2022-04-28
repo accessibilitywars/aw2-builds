@@ -6,7 +6,8 @@
   "scripts": {
     "start": "bundle exec jekyll serve",
     "start-webpack": "webpack watch",
-    "build": "webpack --mode=production"
+    "build": "webpack --mode=production",
+    "format": "eslint src --fix"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.2.5",
     "css-loader": "^6.7.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.29.4",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "style-loader": "^3.3.1",

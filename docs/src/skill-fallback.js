@@ -11,6 +11,12 @@ module.exports={
     description: 'Slash foes in front of you, ending Dragon Trigger. This attack consumes all charges to deal more damage. ',
     facts: [
       {
+        icon: 'https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png',
+        text: 'Recharge',
+        type: 'Recharge',
+        value: 1
+      },
+      {
         icon: 'https://wiki.guildwars2.com/images/thumb/6/6a/Damage.png/20px-Damage.png',
         text: 'Minimum Damage',
         type: 'Damage',

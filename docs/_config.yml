@@ -152,6 +152,7 @@ footer:
       # url:
 
 footer_scripts:
+  - /assets/js/main.min.js
   - /assets/js/dist/bundle.js
 
 # Reading Files

@@ -12,13 +12,13 @@ This signet-heavy Weaver build sets up a single weave. There is no element swapp
 
 ## Tier Notes
 
-Camp Air Mainhand and Fire Offhand.
+Camp <span data-aw2-key="F3" data-aw2-skill="5494"></span> Mainhand and <span data-aw2-key="F1" data-aw2-skill="5492"></span> Offhand.
 
-1. Auto-attack + use 3
-2. As in 1, + 2
-3. As in 2, + swap to fire/air and use 2. 
+1. Auto-attack + use <span data-aw2-key="3" data-aw2-skill="43074"></span>
+2. As in 1, + <span data-aw2-key="2" data-aw2-skill="44998"></span>
+3. As in 2, + swap to <span data-aw2-key="F1" data-aw2-skill="5492"></span>/<span data-aw2-key="F3" data-aw2-skill="5494"></span> and use <span data-aw2-key="2" data-aw2-skill="44998"></span>. 
 
-If comfortable with the above, consider swapping Bolstered Elements to Weaver's Prowress and/or swapping water or earth signet to Primordial Stance.
+If comfortable with the above, consider swapping Bolstered Elements to Weaver's Prowress and/or swapping <span data-aw2-key="8" data-aw2-skill="5570"></span> or <span data-aw2-key="9" data-aw2-skill="5571"></span> to <span data-aw2-key="8" data-aw2-skill="40183"></span> or <span data-aw2-key="9" data-aw2-skill="40183"></span>.
 
 ## Traits and Skills
 
@@ -54,7 +54,7 @@ Template code:
 
 ## Variants
 
-Marauder can be replaced by Berserker, Knight, or Soldier, though soldier and knight will perform considerably worse. Sigil of Accuracy is a large DPS boost over Blood. Water or Earth signet can be replaced with Elemental glyph or any other utility of your choice. 
+Marauder can be replaced by Berserker, Knight, or Soldier, though soldier and knight will perform considerably worse. Sigil of Accuracy is a large DPS boost over Blood. <span data-aw2-key="8" data-aw2-skill="5570"></span> or <span data-aw2-key="9" data-aw2-skill="5571"></span> can be replaced with <span data-aw2-key="8" data-aw2-skill="5502"></span> or any other utility of your choice. 
 
 ## Other References
 

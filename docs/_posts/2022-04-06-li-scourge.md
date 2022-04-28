@@ -14,11 +14,11 @@ This is a LI Scourge build provided by jupiter. It has a lot of variation, and c
 
 Start at 1, work up the list.
 
-1. Use 1 and 5 off cooldown. Maintain your shade uptime by using F1 somewhat frequently.
-2. As in 1, + 3
-3. As in 2, + F5 (OR: Change Bone Fiend to Blood Is Power and use that off cooldown).
+1. Use <span data-aw2-key="1" data-aw2-skill="10698"></span> and <span data-aw2-key="5" data-aw2-skill="44296"></span> off cooldown. Maintain your shade uptime by using <span data-aw2-key="F1" data-aw2-skill="44946"></span> somewhat frequently.
+2. As in 1, + <span data-aw2-key="3" data-aw2-skill="10709"></span>
+3. As in 2, + <span data-aw2-key="F5" data-aw2-skill="44663"></span> (OR: Change <span data-aw2-key="7" data-aw2-skill="10533"></span> to <span data-aw2-key="7" data-aw2-skill="10544"></span> and use that off cooldown).
 
-Once comfortable, experiment with changing traits. Either Blood Magic or Death Magic can be swapped for Curses (top/x/bot, mid/x/bot, or x/x/mid) or Soul Reaping (top/x/bot, with x being top or mid). It is also beneficial to eventually work on using as many of F2-F4 as is comfortable if using the Soul Reaping variant, as Dhuumfire has a 1 second ICD and when proc'd deals quite a lot of DPS.
+Once comfortable, experiment with changing traits. Either Blood Magic or Death Magic can be swapped for Curses (top/x/bot, mid/x/bot, or x/x/mid) or Soul Reaping (top/x/bot, with x being top or mid). It is also beneficial to eventually work on using as many of <span data-aw2-key="F2" data-aw2-skill="40813"></span>,<span data-aw2-key="F3" data-aw2-skill="43448"></span>,<span data-aw2-key="F4" data-aw2-skill="44428"></span> as is comfortable if using the Soul Reaping variant, as Dhuumfire has a 1 second ICD and when proc'd deals quite a lot of DPS.
 
 ## Traits and Skills
 

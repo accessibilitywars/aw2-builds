@@ -21,8 +21,8 @@ Template code:
 ---
 
 Legendary Stances:
-- Dragon (99% of the time)
-- Dwarf
+- Dragon <span data-aw2-key="F1" data-aw2-skill="28085"></span> (99% of the time)
+- Dwarf <span data-aw2-key="F1" data-aw2-skill="28419"></span>
 
 <div
   data-armory-embed='specializations'

@@ -12,13 +12,13 @@ This is a core engineer LI build provided by jupiter. This build may also be vie
 
 ## Tier Notes
 
-Start at 1, work up the list.
+Start at 1, work up the list. Start in Flamethrower <span data-aw2-key="7" data-aw2-skill="5927"></span>.
 
-1. Use auto-attacks off cooldown. Drop your turrets and group mobs near them.
-2. As in 1, + spam F2 (Flamethrower Toolbelt) off cooldown.
-3. As in 2, + occasionally drop Flamethrower for a moment to use Pistol 4.
+1. Use auto-attacks off cooldown(<span data-aw2-key="1" data-aw2-skill="5928"></span>). Drop your turrets and group mobs near them.
+2. As in 1, + spam <span data-aw2-key="F2" data-aw2-skill="5977"></span> off cooldown.
+3. As in 2, + occasionally drop Flamethrower for a moment to use Pistol <span data-aw2-key="4" data-aw2-skill="5831"></span>.
 
-Once comfortable, experiment with removing 1-2 turrets and using Elixirs, like Elixir U and Elixir B in their place.
+Once comfortable, experiment with removing 1-2 turrets and using Elixirs, like <span data-aw2-key="8" data-aw2-skill="5862"></span> and <span data-aw2-key="9" data-aw2-skill="5821"></span> in their place.
 
 ## Traits and Skills
 

@@ -14,11 +14,11 @@ This Daredevil build is a a little more on the moderate side of difficulty. Foll
 
 Either Staff or P/P can be used. 
 
-1. Auto-attack. Spam 2 (Staff) or 3 (Pistol). 
+1. Auto-attack. Spam <span data-aw2-key="2" data-aw2-skill="29911"></span> (Staff) or <span data-aw2-key="3" data-aw2-skill="13011"></span> (Pistol). 
 2. As in 1, + time dodges to line up with initiative dumps if using Bounding Dodger. If not using Bounding Dodger, there is no further complexity. 
 3. There is no further complexity. Focus on avoiding attacks. 
 
-If comfortable with the tiers above, experiment with replacing Infiltrator's Signet with Pitfall or Fist Flurry and using the skill off cooldown. "
+If comfortable with the tiers above, experiment with replacing <span data-aw2-key="8" data-aw2-skill="13064"></span> with <span data-aw2-key="8" data-aw2-skill="13057"></span> or <span data-aw2-key="8" data-aw2-skill="30868"></span> and using the skill off cooldown.
 
 ## Traits and Skills
 

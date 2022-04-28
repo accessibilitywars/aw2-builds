@@ -12,7 +12,7 @@ This LI Scourge build focuses on heavy sustain, and very low gear requirements b
 
 ## Tier Notes
 
-Use 1 and 2 off cooldown. There are no further tiers. All hail Staff Scourge.
+Use <span data-aw2-key="1" data-aw2-skill="10596"></span> and <span data-aw2-key="2" data-aw2-skill="19117"></span> off cooldown. There are no further tiers. All hail Staff Scourge.
 
 ## Traits and Skills
 

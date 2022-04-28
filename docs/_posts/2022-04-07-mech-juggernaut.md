@@ -12,11 +12,13 @@ This Mechanist build makes stuff blow up and light on fire. What could go wrong?
 
 ## Tier Notes
 
-1. Use auto-attacks off cooldown. Pick a mech skill and spam it. 
-2. As in 1, + spam another mech skill OR use 2 off cooldown.
-3. As in 2, + spam elite signet
+Start at 1, work up the list. Start in Flamethrower <span data-aw2-key="7" data-aw2-skill="5927"></span>.
 
-Once comfortable, experiment with dropping flamethrower for short times to use Pistol 4, and Pistol 2/3 if using mainhand pistol.
+1. Use auto-attacks off cooldown(<span data-aw2-key="1" data-aw2-skill="5928"></span>). Pick a mech skill and spam it. 
+2. As in 1, + spam another mech skill OR use <span data-aw2-key="2" data-aw2-skill="5931"></span> off cooldown.
+3. As in 2, + spam <span data-aw2-key="0" data-aw2-skill="63095"></span>
+
+Once comfortable, experiment with dropping flamethrower for short times to use Pistol <span data-aw2-key="4" data-aw2-skill="5831"></span>, and Pistol <span data-aw2-key="2" data-aw2-skill="5828"></span>/<span data-aw2-key="3" data-aw2-skill="5829"></span> if using mainhand pistol.
 
 ## Traits and Skills
 
@@ -50,7 +52,7 @@ Template code:
 
 ## Variants
 
-Mace or pistol mainhand, doesn't matter which. Celestial can be swapped for Viper (higher dps), Trailblazer (higher tank), or Dire (budget). If using Dire, change runes to Balthazar. Luck Sigil combined with the passive from Swift Signet may be pretty fun to try.
+Mace or pistol mainhand, doesn't matter which. Celestial can be swapped for Viper (higher dps), Trailblazer (higher tank), or Dire (budget). If using Dire, change runes to Balthazar. Luck Sigil combined with the passive from <span data-aw2-key="8" data-aw2-skill="63111"></span> may be pretty fun to try.
 
 ## Other References
 

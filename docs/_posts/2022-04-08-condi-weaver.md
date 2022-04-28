@@ -12,11 +12,11 @@ With the power of Balthazar, elementals, and a single unchanging weave (no eleme
 
 ## Tier Notes
 
-1. Camp Fire + Earth. Use 1 + 2 while summoning elementals.
-2. As in 2, + 3 + Primordial Stance
-3. As in 3, + 4 + Signet of Earth.
+1. Camp <span data-aw2-key="F1" data-aw2-skill="5492"></span> + <span data-aw2-key="F4" data-aw2-skill="5495"></span>. Use <span data-aw2-key="1" data-aw2-skill="39964"></span> + <span data-aw2-key="2" data-aw2-skill="45313"></span> while summoning elementals.
+2. As in 2, + <span data-aw2-key="3" data-aw2-skill="46447"></span> + <span data-aw2-key="7" data-aw2-skill="40183"></span>
+3. As in 3, + <span data-aw2-key="4" data-aw2-skill="5690"></span> + <span data-aw2-key="8" data-aw2-skill="5571"></span>.
 
-Once comfortable, explore options such as swapping between Fire/Fire, Fire/Earth, and Earth/Fire.
+Once comfortable, explore options such as swapping between <span data-aw2-key="F1" data-aw2-skill="5492"></span>/<span data-aw2-key="F1" data-aw2-skill="5492"></span>, <span data-aw2-key="F1" data-aw2-skill="5492"></span>/<span data-aw2-key="F4" data-aw2-skill="5495"></span>, and <span data-aw2-key="F4" data-aw2-skill="5495"></span>/<span data-aw2-key="F1" data-aw2-skill="5492"></span>.
 
 ## Traits and Skills
 

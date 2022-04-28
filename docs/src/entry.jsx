@@ -119,7 +119,8 @@ import '@discretize/typeface-menomonia';
         key.classList.add("armory-inline");
         const armoryElement = document.createElement("span");
         key.appendChild(armoryElement);
-        ReactDOM.render(<Skill id={skillId} disableText={true} style={{fontSize:"32px"}} />,armoryElement)
+        ReactDOM.render(<Skill className="aw2-skill-inline" id={skillId} disableText={true} style={{fontSize:"32px",
+        lineHeight: "32px"}} />,armoryElement)
         const showKey = document.createElement("span");
         showKey.classList.add("aw2-show-key");
         showKey.textContent = key.getAttribute("data-aw2-key-mapped") || localKey(keyFromDefault(key.getAttribute("data-aw2-key"))) ;

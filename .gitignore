@@ -2,3 +2,5 @@
 *.lock
 _site
 chatr.exe
+docs/node_modules
+docs/assets/js/dist

@@ -1,0 +1,39 @@
+{
+  "name": "aw2-builds",
+  "version": "2.0.0",
+  "description": "Low-Intensity Builds for the Guild Wars 2 Community.",
+  "main": "assets/js/aw2-key-mapping.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "start-webpack": "webpack watch",
+    "build": "webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accessibilitywars/aw2-builds.git"
+  },
+  "author": "berdandy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/accessibilitywars/aw2-builds/issues"
+  },
+  "homepage": "https://github.com/accessibilitywars/aw2-builds#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.17.9",
+    "@discretize/gw2-ui-new": "^0.0.15"
+  }
+}

@@ -152,16 +152,7 @@ footer:
       # url:
 
 footer_scripts:
-  - /assets/js/keyboard-layout-us.js
-  - /assets/js/keyboard-layout-uk.js
-  - /assets/js/keyboard-layout-de.js
-  - /assets/js/keyboard-layout-fr.js
-  - /assets/js/keyboard-layout-ch.js
-  - /assets/js/keyboard-layout-es.js
-  - /assets/js/keyboard-layout-es_la.js
-  - /assets/js/keyboard-layout-ar.js
-  - https://cdn.jsdelivr.net/npm/@discretize/gw2-ui-new@0.0.15/dist/index.js
-  - /assets/js/aw2-key-mapping.js
+  - /assets/js/dist/bundle.js
 
 # Reading Files
 include:

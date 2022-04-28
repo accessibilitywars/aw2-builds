@@ -43,6 +43,11 @@ jobs:
         run: |
           cd docs
           npm run build
+      - name: "Delete src"
+        run: |
+          cd docs
+          rm -rf src
+          rm -rf node_modules
       - name: "Deploy to gh-pages 🚀"
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:

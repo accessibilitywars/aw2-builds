@@ -29,8 +29,10 @@ jobs:
         uses: actions/setup-node@v1
         with: { node-version: '16.x' }
       - name: "Use Ruby"
-        uses: actions/setup-ruby@v1
-        with: { ruby-version: '2.7.1' }
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+          bundler-cache: true
       - name: "Set up dependencies"
         run: |
           cd docs

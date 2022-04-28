@@ -42,7 +42,7 @@ jobs:
       - name: "Build npm"
         run: |
           cd docs
-          npm build
+          npm run build
       - name: "Deploy to gh-pages 🚀"
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:

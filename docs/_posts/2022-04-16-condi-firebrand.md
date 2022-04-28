@@ -16,8 +16,6 @@ This low-moderate intensity Firebrand build has signifigant flexibility with uti
 2. As in 1, + <span data-aw2-key="3" data-aw2-skill="45402"></span> OR <span data-aw2-key="4" data-aw2-skill="9104"></span> off cd
 3. as in 2, + <span data-aw2-key="4" data-aw2-skill="9104"></span> OR <span data-aw2-key="3" data-aw2-skill="45402"></span> off cd (the one you didn't choose before), + spam <span data-aw2-key="7" data-aw2-skill="46148"></span>.
 
-You are expected to use <span data-aw2-key="6" data-aw2-skill="21664"></span>, your heal, when its available. 
-
 This build is very flexible in its utility options, so you should mix and match to your own preferences.
 
 If you are comfortable with the above, consider swapping away from Stoic Demeanor to Loremaster and learning how Firebrand tomes work. They really aren't too bad once you put in just a little practice on them.

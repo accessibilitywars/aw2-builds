@@ -1,7 +1,4 @@
-if (typeof window.aw2KeyboardLayouts === "undefined") {
-  window.aw2KeyboardLayouts = {};
-}
-module.exports = window.aw2KeyboardLayouts.us = {
+module.exports = {
   "Backquote": "`",
   "Backslash": "\\", 
   "Backspace": "Backspace",

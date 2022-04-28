@@ -1,7 +1,4 @@
-if (typeof window.aw2KeyboardLayouts === "undefined") {
-  window.aw2KeyboardLayouts = {};
-}
-module.exports = window.aw2KeyboardLayouts.ar = {
+module.exports = {
   "Escape": "Esc",
   "F1": "F1",
   "F2": "F2",

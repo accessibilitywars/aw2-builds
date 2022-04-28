@@ -45,7 +45,7 @@ Template code:
 ## Gearing
 
 - Full Berserker armor & trinkets
-- [![](https://wiki.guildwars2.com/images/thumb/9/96/Superior_Rune_of_the_Thief.png/27px-Superior_Rune_of_the_Thief.png) Runes of the Thief](https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Thief)
+- <span data-aw2-item="24818">Runes of the Thief</span>
 - Berserker Axe/Axe Force/Accuracy
 
 ## Variants

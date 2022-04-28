@@ -1,5 +1,5 @@
 // @flow
-import { Skill } from '@discretize/gw2-ui-new';
+import { Item, Skill, TraitLine } from '@discretize/gw2-ui-new';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
@@ -66,6 +66,51 @@ import '@discretize/typeface-menomonia';
   function saveSelectedLayout() {
     localStorage.setItem('aw2-settings-key-layout', selectedLayout);
   }
+
+  function loadSpecializations(){
+    const specializations = Array.from(document.querySelectorAll('[data-armory-embed="specializations"]'));
+    specializations.forEach(function (specialization) {
+    const traitlines = [];
+    for (const line of  (specialization.getAttribute('data-armory-ids') || "").split(",")) {
+      const id = parseInt(line,10);
+      const defaultSelected = (specialization.getAttribute('data-armory-'+id+'-traits') || "").split(",").map(t=>parseInt(t,10));
+      traitlines.push(<TraitLine id={id} defaultSelected={defaultSelected}/>)
+    }
+
+    ReactDOM.render(<div>{traitlines}</div>,specialization)
+    });
+  }
+  loadSpecializations();
+  function loadItems(){
+    const items = Array.from(document.querySelectorAll('[data-aw2-item]'));
+    items.forEach(function (item) {
+      const id = parseInt(item.getAttribute('data-aw2-item'),10);
+      ReactDOM.render(<Item id={id} inline={true} />,item)
+    });
+  }
+  loadItems();
+
+  function loadSkillLoadout(){
+    const loadouts = Array.from(document.querySelectorAll('[data-armory-embed="skills"][data-armory-ids]'));
+    loadouts.forEach(function (loadout) {
+    const skillLoadout = [];
+    let i= 0;
+    for (const line of  (loadout.getAttribute('data-armory-ids') || "").split(",")) {
+      const id = parseInt(line,10);
+      const slotId = ((i+6)%10)+'';
+      skillLoadout.push(<div key={'slot-'+slotId} className="aw2-skill-loadout-slot" data-aw2-key={slotId}>
+        <Skill id={id} disableText={true} style={{fontSize:"64px"}}/>
+        <div className="aw2-show-key">{localKey(keyFromDefault(slotId))}</div>
+      </div>);
+      i++;
+    }
+
+    ReactDOM.render(<div className="aw2-skill-loadout" >{skillLoadout}</div>,loadout);
+  
+    });
+  }
+  loadSkillLoadout();
+
   function loadSkills() {
     const aw2Skills = Array.from(document.querySelectorAll('[data-aw2-skill]'));
     aw2Skills.forEach(function (key) {
@@ -74,21 +119,10 @@ import '@discretize/typeface-menomonia';
         key.classList.add("armory-inline");
         const armoryElement = document.createElement("span");
         key.appendChild(armoryElement);
-        ReactDOM.render(<Skill id={skillId} disableText={true} />,armoryElement)
-        /*armoryElement.setAttribute('data-armory-ids', skillId);
-        armoryElement.setAttribute('data-armory-size', "32");
-        armoryElement.setAttribute('data-armory-embed', "skills");
-        armoryElement.style.userSelect = "none";*/
+        ReactDOM.render(<Skill id={skillId} disableText={true} style={{fontSize:"32px"}} />,armoryElement)
         const showKey = document.createElement("span");
         showKey.classList.add("aw2-show-key");
         showKey.textContent = key.getAttribute("data-aw2-key-mapped") || localKey(keyFromDefault(key.getAttribute("data-aw2-key"))) ;
-        var observer = new MutationObserver(function (mutations) {
-          showKey.textContent = key.getAttribute("data-aw2-key-mapped") || localKey(keyFromDefault(key.getAttribute("data-aw2-key")));
-        });
-        observer.observe(key, {
-          attributes: true,
-          attributeFilter: ['data-aw2-key-mapped']
-        });
         key.appendChild(showKey);
       }
     });
@@ -114,7 +148,6 @@ import '@discretize/typeface-menomonia';
     aw2Skills.forEach(function (key) {
       const k = keyFromDefault(key.getAttribute('data-aw2-key'));
       if (keyMap[k]) {
-        hasCustomKeyMapping = true;
         key.setAttribute('data-aw2-key-mapped', keyMap[k])
       } else {
         key.removeAttribute('data-aw2-key-mapped');

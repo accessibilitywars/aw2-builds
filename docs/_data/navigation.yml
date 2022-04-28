@@ -2,6 +2,8 @@
 main:
   - title: "About Us"
     url: /about/
+  - title: "Guides"
+    url: /guides/
   - title: "Builds by Date"
     url: /builds/
   - title: "Builds by Tag"

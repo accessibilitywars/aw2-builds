@@ -35,14 +35,22 @@ layout: archive
       <img src="/assets/icons/{{profession.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ profession.name }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
     </a>
     {% for spec in profession.specs %}
+    {% assign spec_found = false %}
     {% for tag_spec in site.tags %}
   {% if tag_spec[0] == spec.id %}
   {% assign known_tags = known_tags | push: tag_spec[0] %}
+  
+  {% assign spec_found = true %}
     <a href="#{{ spec.id | slugify }}">
       <span></span><img src="/assets/icons/{{spec.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ spec.name }}</strong> <span class="taxonomy__count">{{ tag_spec[1].size }}</span>
     </a>
   {% endif %}
   {% endfor %}
+  {% if spec_found == false %}
+  <a style="opacity: 0.4;">
+    <span></span><img src="/assets/icons/{{spec.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ spec.name }}</strong> <span class="taxonomy__count">0</span>
+  </a>
+  {% endif %}
     {% endfor %}
   </li>
   {% endif %}

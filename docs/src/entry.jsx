@@ -2,14 +2,16 @@
 import {
   APILanguageProvider, CustomComponent, Item, Skill, TraitLine
 } from "@discretize/gw2-ui-new";
-import React from "react";
+import React, {useState} from "react";
 import ReactDOM from "react-dom";
+import PropTypes from "prop-types";
 
 import layouts from "./keyboard_layouts/layouts.jsx";
 import "@discretize/gw2-ui-new/dist/default_style.css";
 import "@discretize/gw2-ui-new/dist/index.css";
 import "@discretize/typeface-menomonia";
 import skillFallback from "./skill-fallback.js";
+import keyMappingSlots from "./key-mapping-slots.js";
 
 
 (() => {
@@ -29,14 +31,14 @@ import skillFallback from "./skill-fallback.js";
   }
 
   function keyFromDefault(def) {
-    const res = Object.entries(layouts.us).find((a) => a[1] === def);
+    const res = Object.entries(layouts.us.map).find((a) => a[1] === def);
     if (res) {
       return res[0];
     }
     return null;
   }
   function localKey(key) {
-    return layouts[selectedLayout][key];
+    return layouts[selectedLayout].map[key];
   }
 
   function checkSettingsFromLocalStorage() {
@@ -182,20 +184,21 @@ import skillFallback from "./skill-fallback.js";
     16: "Mouse5"
   };
 
+  const keyMapListener = {};
 
   function skillSettingKeyDownHandler(event) {
-    if (event instanceof MouseEvent) {
+    if (event.nativeEvent instanceof MouseEvent) {
       if (document.activeElement === event.target) {
         event.preventDefault();
-        console.log(event, event.buttons);
         if (buttons[event.buttons]) {
           const defaultKey = keyFromDefault(event.target.getAttribute("data-aw2-settings-key"));
           keyMap[defaultKey] = buttons[event.buttons];
           saveKeyMap();
+          keyMapListener[defaultKey](keyMap[defaultKey]);
           event.target.value = keyMap[defaultKey];
         }
       }
-    } else if (event instanceof KeyboardEvent) {
+    } else if (event.nativeEvent instanceof KeyboardEvent) {
       event.preventDefault();
       const defaultKey = keyFromDefault(event.target.getAttribute("data-aw2-settings-key"));
       if (event.key === "Unidentified") {
@@ -210,12 +213,14 @@ import skillFallback from "./skill-fallback.js";
       ].includes(event.key)) {
         keyMap[defaultKey] = localKey(event.code);
         saveKeyMap();
+        keyMapListener[defaultKey](keyMap[defaultKey]);
         event.target.value = keyMap[defaultKey];
         return;
       }
       if (event.key === "Escape") {
         delete keyMap[defaultKey];
         saveKeyMap();
+        keyMapListener[defaultKey]("");
         event.target.value = "";
         event.target.blur();
         return;
@@ -240,9 +245,32 @@ import skillFallback from "./skill-fallback.js";
 
       keyMap[defaultKey] = modifiers.join(" ");
       saveKeyMap();
+      keyMapListener[defaultKey](keyMap[defaultKey]);
       event.target.value = keyMap[defaultKey];
     }
   }
+
+  function KeyMappingLine({slot}) {
+    const key = keyFromDefault(slot.id);
+    const [
+      mappedKey,
+      setMappedKey
+    ] = useState(keyMap[key]);
+    keyMapListener[key] = (val) => setMappedKey(val);
+    return <tr key={`key-mapping-line-${key}`}>
+      <td width="200"><span className="aw2-key-display">{slot.id}</span></td>
+      <td><input
+        type="text"
+        data-aw2-settings-key={slot.id}
+        placeholder={localKey(key)}
+        value={mappedKey}
+        onKeyDown={skillSettingKeyDownHandler}
+        onMouseDown={skillSettingKeyDownHandler}
+        onChange={() => {}}
+      /></td>
+      <td width="500">{slot.info}</td></tr>;
+  }
+  KeyMappingLine.propTypes = {slot: PropTypes.object.isRequired};
 
   function updateSettingsControl() {
     const settingsHook = document.querySelector("[data-aw2-settings=\"hook\"]");
@@ -250,34 +278,47 @@ import skillFallback from "./skill-fallback.js";
       const aw2NoJsNotice = settingsHook.querySelector(".aw2-no-js-notice");
       aw2NoJsNotice.style.display = "none";
       const keyBindingList = settingsHook.querySelector(".aw2-key-binding-list");
+
+      const keyboardLayoutOptions = [];
+      for (const layout of Object.values(layouts)) {
+        keyboardLayoutOptions.push(<option key={`keyboardLayoutOption-${layout.id}`} value={layout.id}>{layout.label}</option>);
+      }
+
+      const keyMappingLines = [];
+      for (const slot of keyMappingSlots) {
+        const key = keyFromDefault(slot.id);
+        keyMappingLines.push(<KeyMappingLine key={`key-mapping-line-${key}`} slot={slot} />);
+      }
+
+      ReactDOM.render(<div>
+        <div>
+          <p>Click into the field in custom Column and then press the key(s) of your key-binding. You can reset a key with pressing <span className="aw2-key-display">Esc</span>.</p>
+        </div>
+        <label htmlFor="aw2-keyboard-layout">Keyboard Layout</label>
+        <select id="aw2-keyboard-layout" value={selectedLayout} onChange={(evt) => {
+          const aw2KeyboardLayout = evt.target;
+          if (aw2KeyboardLayout.value !== selectedLayout) {
+            selectedLayout = aw2KeyboardLayout.value;
+            saveSelectedLayout();
+            updateSettingsControl();
+          }
+        }}>{keyboardLayoutOptions}</select>
+        <div id="aw2-keyboard-mapping-editor">
+          <table className="table" style={{
+            width: "100%",
+            maxWidth: "700px"
+          }}>
+            <thead>
+              <tr>
+                <th>Default</th>
+                <th>Custom</th>
+                <th>Skills</th>
+              </tr>
+            </thead>
+            <tbody>{keyMappingLines}</tbody></table></div>
+      </div>, keyBindingList);
+
       keyBindingList.style.display = "block";
-
-      const aw2KeyboardLayout = keyBindingList.querySelector("#aw2-keyboard-layout");
-      aw2KeyboardLayout.value = selectedLayout;
-      aw2KeyboardLayout.addEventListener("change", () => {
-        if (aw2KeyboardLayout.value !== selectedLayout) {
-          selectedLayout = aw2KeyboardLayout.value;
-          saveSelectedLayout();
-          aw2SkillKeySettings.forEach((aw2SkillKeySettingInput) => {
-            const key = keyFromDefault(aw2SkillKeySettingInput.getAttribute("data-aw2-settings-key"));
-            aw2SkillKeySettingInput.setAttribute("placeholder", localKey(key));
-            if (keyMap[key]) {
-              aw2SkillKeySettingInput.value = keyMap[key];
-            }
-          });
-        }
-      });
-
-      const aw2SkillKeySettings = Array.from(document.querySelectorAll("[data-aw2-settings-key]"));
-      aw2SkillKeySettings.forEach((aw2SkillKeySettingInput) => {
-        aw2SkillKeySettingInput.addEventListener("keydown", skillSettingKeyDownHandler);
-        aw2SkillKeySettingInput.addEventListener("mousedown", skillSettingKeyDownHandler);
-        const key = keyFromDefault(aw2SkillKeySettingInput.getAttribute("data-aw2-settings-key"));
-        aw2SkillKeySettingInput.setAttribute("placeholder", localKey(key));
-        if (keyMap[key]) {
-          aw2SkillKeySettingInput.value = keyMap[key];
-        }
-      });
     } else {
       checkSettingsFromLocalStorage();
     }

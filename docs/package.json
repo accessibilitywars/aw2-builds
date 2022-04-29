@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.17.9",
-    "@discretize/gw2-ui-new": "^0.0.15"
+    "@discretize/gw2-ui-new": "^0.0.15",
+    "prop-types": "^15.8.1"
   }
 }

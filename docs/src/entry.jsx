@@ -10,8 +10,8 @@ import layouts from "./keyboard_layouts/layouts.jsx";
 import "@discretize/gw2-ui-new/dist/default_style.css";
 import "@discretize/gw2-ui-new/dist/index.css";
 import "@discretize/typeface-menomonia";
-import skillFallback from "./skill-fallback.js";
 import keyMappingSlots from "./key-mapping-slots.js";
+import SkillWithFallback from "./skill-with-fallback.jsx";
 
 
 (() => {
@@ -123,19 +123,19 @@ import keyMappingSlots from "./key-mapping-slots.js";
         key.classList.add("armory-inline");
         const armoryElement = document.createElement("span");
         key.appendChild(armoryElement);
-        if (skillFallback[skillId]) {
+        /*if (skillFallback[skillId]) {
           ReactDOM.render(<APILanguageProvider value="en">
             <CustomComponent type="Skill" className="aw2-skill-inline" data={skillFallback[skillId]} disableText={true} style={{
               fontSize: "32px",
               lineHeight: "32px"
             }} />
           </APILanguageProvider>, armoryElement);
-        } else {
-          ReactDOM.render(<APILanguageProvider value="en"><Skill className="aw2-skill-inline" id={skillId} disableText={true} style={{
+        } else {*/
+          ReactDOM.render(<APILanguageProvider value="en"><SkillWithFallback className="aw2-skill-inline" id={skillId} disableText={true} style={{
             fontSize: "32px",
             lineHeight: "32px"
           }} /></APILanguageProvider>, armoryElement);
-        }
+        //}
         const showKey = document.createElement("span");
         showKey.classList.add("aw2-show-key");
         showKey.textContent = key.getAttribute("data-aw2-key-mapped") || localKey(keyFromDefault(key.getAttribute("data-aw2-key"))) ;

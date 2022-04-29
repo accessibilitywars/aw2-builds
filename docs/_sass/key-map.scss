@@ -106,11 +106,21 @@
 [data-aw2-key-mapped] .aw2-show-key{
   border-right: 4px solid #f21368;
 }
-.aw2-skill-inline{
+.aw2-skill-inline,.aw2-skill-inline-fallback{
   font-size: 32px;
   line-height: 32px;
   box-sizing: border-box;
   width: 32px;
   height: 32px;
+  display: block;
+}
+
+.aw2-skill-inline-has-fallback[class*=Error-module_errorColor]{
+  display: none;
+}
+.aw2-skill-inline-fallback{
+  display: none;
+}
+.aw2-skill-inline-has-fallback[class*=Error-module_errorColor]+.aw2-skill-inline-fallback{
   display: block;
 }

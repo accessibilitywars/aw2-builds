@@ -198,7 +198,7 @@ import skillFallback from "./skill-fallback.js";
     } else if (event instanceof KeyboardEvent) {
       event.preventDefault();
       const defaultKey = keyFromDefault(event.target.getAttribute("data-aw2-settings-key"));
-      if (event.code === 229) {
+      if (event.key === "Unidentified") {
         const aw2KeyboardLayout = document.querySelector("[data-aw2-settings=\"hook\"] .aw2-key-binding-list #aw2-keyboard-layout");
         ReactDOM.render(<div>Not supported on mobile devices</div>, aw2KeyboardLayout);
         return;

@@ -200,7 +200,7 @@ import skillFallback from "./skill-fallback.js";
       const defaultKey = keyFromDefault(event.target.getAttribute("data-aw2-settings-key"));
       if (event.key === "Unidentified") {
         const aw2KeyboardLayout = document.querySelector("[data-aw2-settings=\"hook\"] .aw2-key-binding-list #aw2-keyboard-mapping-editor");
-        ReactDOM.render(<div>Not supported on mobile devices</div>, aw2KeyboardLayout);
+        ReactDOM.render(<div>Customized key-bindings are not supported on mobile devices.</div>, aw2KeyboardLayout);
         return;
       }
       if ([

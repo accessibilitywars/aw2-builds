@@ -1,0 +1,41 @@
+berdandy:
+  name        : "Berdandy"
+  bio         : "Code slinger, MS-haver and general accessibility advocate"
+  avatar      : "/assets/bio_photos/berdandy.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/andyberdan"
+jupiter:
+  name        : "Jupiter"
+  bio         : "Original author of the metabattle LI builds"
+  # avatar      : "/assets/bio_photos/???.jpg"
+  links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCW14gSHtjG_dSSPMZDiQl6w/featured"
+mukluk:
+  name        : "Mukluk"
+  bio         : "GW2 Streamer"
+  avatar      : "/assets/bio_photos/mukluk.jpg"
+  links:
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/mukluk"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/MuklukYoutube"
+muwum:
+  name        : "MuwuM"
+  bio         : "GW2 Community-Developer"
+  avatar      : "/assets/bio_photos/muwum.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MuwuM_net"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/user/MuwuMAvA"
+    - label: "GitHub"
+      icon: "fab fa-fw fab fa-github"
+      url: "https://github.com/MuwuM"

@@ -1,0 +1,8 @@
+<nav>
+  {% for item in site.data.navigation %}
+	{% if forloop.first != true %}
+	| 
+	{% endif %}
+    <a href="{{ item.link | relative_url }}"> {{ item.name }}</a>
+  {% endfor %}
+</nav>

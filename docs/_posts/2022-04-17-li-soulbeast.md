@@ -14,9 +14,9 @@ This low-medium intensity condi Soulbeast build uses shortbow, flanking and zero
 
 **Important: this build has significant flanking bonuses. This nearly doubles damage if you're able to position to attack from the side or rear.**
 
-1. Merge with pet, Autoattack, prioritizing flanking position
-2. As in 1, + Shortbow 2, Shortbow 4, Warthog F1 off cooldown
-3. As in 2, + Sharpening Stone, Vulture Stance off cooldown
+1. Merge with pet <span data-aw2-key="F5" data-aw2-skill="42944"></span>, Autoattack, prioritizing flanking position
+2. As in 1, + <span data-aw2-key="2" data-aw2-skill="12468"></span>, <span data-aw2-key="4" data-aw2-skill="12507"></span>,  <span data-aw2-key="F1" data-aw2-skill="41406"></span> off cooldown
+3. As in 2, + <span data-aw2-key="7" data-aw2-skill="12537"></span>, <span data-aw2-key="8" data-aw2-skill="40498"></span> off cooldown
 
 _Note: these are animation-free utilities and share cooldown timings. Position them next to each other on the skill bar, and hit both keys at the same time_
 
@@ -24,9 +24,9 @@ _Note: these are animation-free utilities and share cooldown timings. Position t
 
 If you have CC needs (blue breakbars), and can accommodate it, consider the following options.
 
-- Shortbow 5
-- Warthog F2
-- Warthog Unmerge F5, wait for attack, Remerge (F5) when able
+- Concussion Shot <span data-aw2-key="5" data-aw2-skill="12508"></span>
+- Warthog <span data-aw2-key="F2" data-aw2-skill="46432"></span>
+- Warthog Unmerge <span data-aw2-key="F5" data-aw2-skill="43014"></span>, wait for attack, Remerge <span data-aw2-key="F5" data-aw2-skill="42944"></span> when able
 
 ## Traits and Skills
 
@@ -53,7 +53,7 @@ Pet
   data-armory-55-traits='2071,2161,2143'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ### Open World Build Variant: Beastmastery
 
@@ -80,7 +80,7 @@ Pet
   data-armory-55-traits='2071,2161,2143'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

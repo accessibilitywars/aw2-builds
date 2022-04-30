@@ -12,9 +12,9 @@ This low-moderate intensity Core Warrior build uses signets for passive bonuses,
 
 ## Tier Notes
 
-1. Auto-attack, F1, For Great Justice.
-2. As in 1, + 5 off cooldown
-3. As in 2, + 2 off cooldown
+1. Auto-attack, <span data-aw2-key="F1" data-aw2-skill="14353"></span>, <span data-aw2-key="9" data-aw2-skill="14403"></span>.
+2. As in 1, + <span data-aw2-key="5" data-aw2-skill="14399"></span> off cooldown
+3. As in 2, + <span data-aw2-key="2" data-aw2-skill="14421"></span> off cooldown
 
 ## Traits
 
@@ -37,7 +37,7 @@ Template code:
   data-armory-61-traits='2107,2095,2060'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

@@ -14,11 +14,11 @@ This higher intensity melee-oriented Berserker build is more complex than most L
 
 The baseline to make this build work is higher than most LI builds.
 
-1. Autoattack. Use F1, 2, and For Great Justice off cooldown.
-2. As in 1, + change your heal to Blood Reckoning and use it directly after Arc Divider.
-3. As in 3, + Signet of Rage
+1. Autoattack. Use <span data-aw2-key="F1" data-aw2-skill="29852"></span>, <span data-aw2-key="2" data-aw2-skill="14554"></span>, and <span data-aw2-key="9" data-aw2-skill="14403"></span> off cooldown.
+2. As in 1, + change your heal to <span data-aw2-key="6" data-aw2-skill="30189"></span> and use it directly after <span data-aw2-key="F1" data-aw2-skill="29852"></span>.
+3. As in 2, + <span data-aw2-key="0" data-aw2-skill="14355"></span>
 
-If comfortable with the above, add 4 and 3+5 to your rotation. Play around with more DPS-oriented traits. Against certain bosses, consider changing a signet for Wild Blow for heavy cc.
+If comfortable with the above, add <span data-aw2-key="4" data-aw2-skill="14510"></span> and <span data-aw2-key="3" data-aw2-skill="14447"></span>+<span data-aw2-key="5" data-aw2-skill="14446"></span> to your rotation. Play around with more DPS-oriented traits. Against certain bosses, consider changing <span data-aw2-key="8" data-aw2-skill="14404"></span> for <span data-aw2-key="8" data-aw2-skill="29941"></span> for heavy cc.
 
 ## Traits
 
@@ -41,7 +41,7 @@ Template code:
   data-armory-18-traits='2049,2011,1928'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

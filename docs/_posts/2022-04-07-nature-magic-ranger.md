@@ -14,10 +14,11 @@ This LI Core Ranger build has good variation, allowing for greatsword mobility, 
 
 Start at 1, work your way down the list.
 
-1. Auto attack and use 5 (axes) or 2 (greatsword / longbow)
-2. As in 1, + 3 (axes) or 5 (gs, use after 2) or F2 (longbow)
-3. As in 2, + F2 or 5 (longbow)
-If comfortable with the above, consider dropping Signet of the Wild for Frost Trap.
+1. Auto attack and use <span data-aw2-key="5" data-aw2-skill="12639"></span> (axes) or <span data-aw2-key="2" data-aw2-skill="12525"></span> (greatsword or <span data-aw2-key="2" data-aw2-skill="12509"></span> longbow)
+2. As in 1, + <span data-aw2-key="3" data-aw2-skill="12490"></span> (axes) or <span data-aw2-key="5" data-aw2-skill="12475"></span> (gs, use after 2) or <span data-aw2-key="F2" data-aw2-skill="31568"></span> (longbow)
+3. As in 2, + <span data-aw2-key="F2" data-aw2-skill="31568"></span> or <span data-aw2-key="5" data-aw2-skill="12469"></span> (longbow)
+
+If comfortable with the above, consider dropping <span data-aw2-key="9" data-aw2-skill="12491"></span> for <span data-aw2-key="9" data-aw2-skill="12492"></span>.
 
 ## Traits and Skills
 
@@ -44,7 +45,7 @@ Pets:
   data-armory-25-traits='978,1054,1988'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

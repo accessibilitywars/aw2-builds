@@ -12,9 +12,11 @@ This signet- and explosives-heavy Mechanist build lets you blow stuff up and lau
 
 ## Tier Notes
 
-1. Auto attack with bombs.
+Start at 1, work up the list. Start in Bomb Kit <span data-aw2-key="7" data-aw2-skill="5812"></span>.
+
+1. Auto attack with bombs (<span data-aw2-key="1" data-aw2-skill="5842"></span>).
 2. As in 1, + choose one mech skill and spam it
-3. As in 2, + drop bombs to use Mace 2 occasionally. 
+3. As in 2, + drop bombs to use <span data-aw2-key="2" data-aw2-skill="63169"></span> occasionally. 
 
 There is not much complexity with this build and it doesn't have much further to go. If comfortable with the above tiers, spam your mech skills.
 
@@ -39,7 +41,7 @@ Template code:
   data-armory-70-traits='2296,2294,2298'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 
 ## Gearing

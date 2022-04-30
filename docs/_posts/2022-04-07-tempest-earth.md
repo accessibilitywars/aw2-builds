@@ -14,11 +14,11 @@ This elemental and signet-heavy Tempest build allows you to focus on just a few 
 
 Start with 1, and work your way up.
 
-1. Use 1 and 5 while summoning elementals.
-2. As in 1, + 2
-3. As in 2, + F4 + Signet of Earth
+1. Use <span data-aw2-key="1" data-aw2-skill="5500"></span> and <span data-aw2-key="5" data-aw2-skill="30336"></span> while summoning elementals.
+2. As in 1, + <span data-aw2-key="2" data-aw2-skill="5695"></span>
+3. As in 2, + <span data-aw2-key="F4" data-aw2-skill="29618"></span> + <span data-aw2-key="8" data-aw2-skill="5571"></span>
 
-Once comfortable, experiment with adding 3 (Dagger mainhand only) and Signet of Fire. Use 4 as an emergency defense button.
+Once comfortable, experiment with adding <span data-aw2-key="3" data-aw2-skill="5559"></span> (Dagger mainhand only) and <span data-aw2-key="7" data-aw2-skill="5542"></span>. Use <span data-aw2-key="4" data-aw2-skill="29453"></span> as an emergency defense button.
 
 ## Traits and Skills
 
@@ -41,7 +41,7 @@ Template code:
   data-armory-48-traits='1952,1902,1839'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

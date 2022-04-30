@@ -12,11 +12,11 @@ This spicy Fire Tempest build uses the teamwork of elementals combined with a fe
 
 ## Tier Notes
 
-1. Use 1 and 5 while summong Elementals.
-2. As in 1, + F1
-3. As in 2, + Signet of Fire
+1. Use <span data-aw2-key="1" data-aw2-skill="5508"></span> and <span data-aw2-key="5" data-aw2-skill="29533"></span> while summoning Elementals.
+2. As in 1, + <span data-aw2-key="F1" data-aw2-skill="29706"></span>
+3. As in 2, + <span data-aw2-key="7" data-aw2-skill="5542"></span>
 
-Once comfortable, experiment with adding 2, 3, and signet of earth. Try to add in 2 after 5 or F1.
+Once comfortable, experiment with adding <span data-aw2-key="2" data-aw2-skill="5692"></span>, <span data-aw2-key="3" data-aw2-skill="5675"></span>, and <span data-aw2-key="8" data-aw2-skill="5571"></span>. Try to add in <span data-aw2-key="2" data-aw2-skill="5692"></span> after <span data-aw2-key="5" data-aw2-skill="29533"></span> or <span data-aw2-key="F1" data-aw2-skill="29706"></span>.
 
 ## Traits and Skills
 
@@ -39,7 +39,7 @@ Template code:
   data-armory-48-traits='1952,1902,1839'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 
 ## Gearing

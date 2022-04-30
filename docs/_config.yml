@@ -151,6 +151,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+footer_scripts:
+  - /assets/js/main.min.js
+  - /assets/js/dist/bundle.js
 
 # Reading Files
 include:
@@ -181,6 +184,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - src
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:

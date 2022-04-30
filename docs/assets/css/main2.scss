@@ -7,10 +7,19 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_dark | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+@import "key-map.scss"; // keymapping styles
+
 // neon support
 ::selection {
 	background: #f21368;
 }
 ::-moz-selection {
 	background: #f21368;
+}
+
+[data-aw2-key] .aw2-show-key{
+	background-color: rgba(255, 255, 255, 0.2);
+}
+.aw2-skill-loadout-slot .aw2-show-key{
+  background-color: rgb(67, 64, 64);;
 }

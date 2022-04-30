@@ -12,8 +12,8 @@ This Heal Chronomancer Mesmer build averages at about 12 APM. This is a build ba
 ## Tier Notes
 
 ### Rotation
-1. cast your wells (<span data-aw2-key="6" data-aw2-skill="30305">Well of Eternity</span>, <span data-aw2-key="7" data-aw2-skill="29856">Well of Recall</span>, <span data-aw2-key="8" data-aw2-skill="29526">Well of Precognition</span> and <span data-aw2-key="0" data-aw2-skill="30359">Gravity Well</span>) and staff <span data-aw2-key="5" data-aw2-skill="10169">5</span> off cooldown.
-2. Shatter <span data-aw2-key="F3" data-aw2-skill="56873">F3</span> when you have 3 clones.
+1. cast your wells (<span data-aw2-key="6" data-aw2-skill="30305"></span>, <span data-aw2-key="7" data-aw2-skill="29856"></span>, <span data-aw2-key="8" data-aw2-skill="29526"></span> and <span data-aw2-key="0" data-aw2-skill="30359"></span>) and staff <span data-aw2-key="5" data-aw2-skill="10169"></span> off cooldown.
+2. Shatter <span data-aw2-key="F3" data-aw2-skill="56873"></span> when you have 3 clones.
 
 ## Traits
 

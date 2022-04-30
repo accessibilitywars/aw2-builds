@@ -12,11 +12,11 @@ This moderate intensity Spellbreaker build uses signets for passive bonuses, and
 
 ## Tier Notes
 
-1. Auto-attack, F1, For Great Justice.
-2. As in 1, + 4 OR 5.
-3. As in 2, + 4 OR 5, + activate Signet of Rage off cooldown
+1. Auto-attack, <span data-aw2-key="F1" data-aw2-skill="45252"></span>, <span data-aw2-key="9" data-aw2-skill="14403"></span>.
+2. As in 1, + <span data-aw2-key="4" data-aw2-skill="44004"></span> OR <span data-aw2-key="5" data-aw2-skill="45160"></span>.
+3. As in 2, + <span data-aw2-key="4" data-aw2-skill="44004"></span> OR <span data-aw2-key="5" data-aw2-skill="45160"></span>, + activate <span data-aw2-key="0" data-aw2-skill="14355"></span> off cooldown
 
-If comfortable with the above, consder swapping your mainhand to an axe and using 2 off cooldown.
+If comfortable with the above, consder swapping your mainhand to an axe and using <span data-aw2-key="2" data-aw2-skill="14421"></span> off cooldown.
 
 ## Traits
 
@@ -39,7 +39,7 @@ Template code:
   data-armory-61-traits='2107,2095,2060'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 

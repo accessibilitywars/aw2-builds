@@ -13,12 +13,12 @@ This Bladesworn Warrior build averages at about 13 APM (Tier 1). This is a melee
 
 ### Rotation Tier 1
 1. keep auto-attacking until your [![](https://wiki.guildwars2.com/images/thumb/c/c4/Heat.png/20px-Heat.png) flow bar](https://wiki.guildwars2.com/wiki/Flow) is full
-2. press [![Dragon Trigger](https://wiki.guildwars2.com/images/thumb/b/b1/Dragon_Trigger.png/33px-Dragon_Trigger.png) `F2`](https://wiki.guildwars2.com/wiki/Dragon_Trigger) and wait until your ![](https://wiki.guildwars2.com/images/thumb/9/98/Gunsaber_Cartridge_%28uncharged%29.png/12px-Gunsaber_Cartridge_%28uncharged%29.png)charges are full
-3. press [![Dragon Slash—Force](https://wiki.guildwars2.com/images/thumb/b/b5/Dragon_Slash%E2%80%94Force.png/33px-Dragon_Slash%E2%80%94Force.png) `1`](https://wiki.guildwars2.com/wiki/Dragon_Slash%E2%80%94Force) and wait for your [![Sheathe Gunsaber](https://wiki.guildwars2.com/images/thumb/8/87/Sheathe_Gunsaber.png/33px-Sheathe_Gunsaber.png) `F1`](https://wiki.guildwars2.com/wiki/Sheathe_Gunsaber) to become ready
-4. press [![Sheathe Gunsaber](https://wiki.guildwars2.com/images/thumb/8/87/Sheathe_Gunsaber.png/33px-Sheathe_Gunsaber.png) `F1`](https://wiki.guildwars2.com/wiki/Sheathe_Gunsaber) and wait for your [![](https://wiki.guildwars2.com/images/thumb/c/c4/Heat.png/20px-Heat.png) flow bar](https://wiki.guildwars2.com/wiki/Flow) again
+2. press <span data-aw2-key="F2" data-aw2-skill="62803"></span> and wait until your ![](https://wiki.guildwars2.com/images/thumb/9/98/Gunsaber_Cartridge_%28uncharged%29.png/12px-Gunsaber_Cartridge_%28uncharged%29.png)charges are full
+3. press <span data-aw2-key="1" data-aw2-skill="62797"></span> and wait for your <span data-aw2-key="F1" data-aw2-skill="62861"> to become ready
+4. press <span data-aw2-key="F1" data-aw2-skill="62861"> and wait for your [![](https://wiki.guildwars2.com/images/thumb/c/c4/Heat.png/20px-Heat.png) flow bar](https://wiki.guildwars2.com/wiki/Flow) again
 
 ### Rotation Tier 2
-Same as Tier 1 + use [![Whirling Axe](https://wiki.guildwars2.com/images/thumb/e/ec/Whirling_Axe.png/33px-Whirling_Axe.png) Axe 5](https://wiki.guildwars2.com/wiki/Whirling_Axe) off cooldown. **Make sure to wait until all hits are done**
+Same as Tier 1 + use <span data-aw2-key="5" data-aw2-skill="14399"></span> off cooldown. **Make sure to wait until all hits are done**
 
 ## Traits
 
@@ -41,12 +41,11 @@ Template code:
   data-armory-68-traits='2225,2302,2239'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
 
 ## Gearing
 
 - Full Berserker armor & trinkets
-- [![](https://wiki.guildwars2.com/images/thumb/9/96/Superior_Rune_of_the_Thief.png/27px-Superior_Rune_of_the_Thief.png) Runes of the Thief](https://wiki.guildwars2.com/wiki/Superior_Rune_of_the_Thief)
+- <span data-aw2-item="24818">Runes of the Thief</span>
 - Berserker Axe/Axe Force/Accuracy
 
 ## Variants

@@ -12,9 +12,9 @@ Spam is on the menu today! This Scrapper build allows you to find your personal 
 
 ## Tier Notes
 
-1. Auto attack and spam Elixir U along with laying down turrets.
-2. As in 1, + Spam 2
-3. As in 2, + Spam 3 or F4.
+1. Auto attack and spam <span data-aw2-key="7" data-aw2-skill="5862"></span> along with laying down turrets.
+2. As in 1, + Spam <span data-aw2-key="2" data-aw2-skill="30088"></span>
+3. As in 2, + Spam <span data-aw2-key="3" data-aw2-skill="30665"></span> or <span data-aw2-key="F4" data-aw2-skill="6178"></span>.
 
 If comfortable with the above, begin replacing Turrets with Gyros.
 
@@ -39,7 +39,7 @@ Template code:
   data-armory-43-traits='1971,1954,1981'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 
 ## Gearing
@@ -52,7 +52,7 @@ Template code:
 
 ## Variants
 
-Marauder can be replaced by Berserker, Knight, or Soldier, though soldier and knight will perform considerably worse. Sigil of Blood can provide an extra 200 hp/s. If using 5, Celerity can provide additional quickness, and Concentration will help with boons. The turret slots are very flexible, especially if you are comfortable using more active utilities like elixirs or gyros.
+Marauder can be replaced by Berserker, Knight, or Soldier, though soldier and knight will perform considerably worse. Sigil of Blood can provide an extra 200 hp/s. If using <span data-aw2-key="5" data-aw2-skill="30713"></span>, Celerity can provide additional quickness, and Concentration will help with boons. The turret slots are very flexible, especially if you are comfortable using more active utilities like elixirs or gyros.
 
 ## Other References
 

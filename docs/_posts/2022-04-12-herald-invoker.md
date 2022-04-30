@@ -12,21 +12,21 @@ This relatively low-intensity Herald build is melee-ranged, but brings a bunch o
 
 ## Tier Notes
 
-1. Keep Facet of Darkness and active for fury and auto-attack. Choose Facet of Strength (more dps) or Facet of Chaos (Defense) as well. If using Shiro or Jalis, maintain Impossible Odds or Hammers respectively instead.
-2. As in 1, + use sword 2 off cooldown. 
-3. As in 2, + legend swap (f1) any time your energy hits 0. This allows you to maintain more facets in glint.
+1. Keep <span data-aw2-key="7" data-aw2-skill="28379"></span> active for fury and auto-attack. Choose <span data-aw2-key="9" data-aw2-skill="26644"></span> (more dps) or <span data-aw2-key="0" data-aw2-skill="27760"></span> (Defense) as well. If using Shiro <span data-aw2-key="F1" data-aw2-skill="28134"></span> or Jalis <span data-aw2-key="F1" data-aw2-skill="28419"></span>, maintain Impossible Odds <span data-aw2-key="9" data-aw2-skill="27107"></span> or Hammers <span data-aw2-key="9" data-aw2-skill="26557"></span> respectively instead.
+2. As in 1, + use sword <span data-aw2-key="2" data-aw2-skill="29233"></span> off cooldown. 
+3. As in 2, + legend swap (<span data-aw2-key="F1" data-aw2-skill="28085"></span>) any time your energy hits 0. This allows you to maintain more facets in glint.
 
 Can choose to camp either offhand sword (useful teleport) or shield (+60 toughness and useful block). 
 
-If comfortable with the above, use Sword 4 off cooldown. The full version of this build is one of the easiest DPS builds to play in the game, so its recommended to take a look if you want to move further up the tiers.
+If comfortable with the above, use Sword <span data-aw2-key="2" data-aw2-skill="28472"></span> off cooldown. The full version of this build is one of the easiest DPS builds to play in the game, so its recommended to take a look if you want to move further up the tiers.
 
 ## Legendary Stances
 
 These are all options. Also see Variants below:
 
-- Glint/Shiro (boons + dps)
-- Shiro/Jalis (dps + defense)
-- Jalis/Glint (defense + boons)
+- Glint<span data-aw2-key="F1" data-aw2-skill="28085"></span>/Shiro<span data-aw2-key="F1" data-aw2-skill="28134"></span> (boons + dps)
+- Shiro<span data-aw2-key="F1" data-aw2-skill="28134"></span>/Jalis<span data-aw2-key="F1" data-aw2-skill="28419"></span> (dps + defense)
+- Jalis<span data-aw2-key="F1" data-aw2-skill="28419"></span>/Glint<span data-aw2-key="F1" data-aw2-skill="28085"></span> (defense + boons)
 
 ## Traits
 
@@ -44,7 +44,7 @@ Template code:
   data-armory-52-traits='1716,1730,1803'
 >
 </div>
-<script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
+
 
 ## Gearing
 
@@ -57,7 +57,7 @@ Template code:
 
 Marauder can be replaced by Berserker, Knight, or Soldier, though soldier and knight will perform considerably worse. Sigil of Blood can provide an extra 200 hp/s.
 
-Pick your Legend from Glint, Shiro, or Jalis. In each one you will maintain specific upkeep skills while activating the same set of sword/x skills. Generally, I recommend Glint as it strikes a great balance between damage and defense.
+Pick your Legend from Glint<span data-aw2-key="F1" data-aw2-skill="28085"></span>, Shiro<span data-aw2-key="F1" data-aw2-skill="28134"></span>, or Jalis<span data-aw2-key="F1" data-aw2-skill="28419"></span>. In each one you will maintain specific upkeep skills while activating the same set of sword/x skills. Generally, I recommend Glint<span data-aw2-key="F1" data-aw2-skill="28085"></span> as it strikes a great balance between damage and defense.
 
 ## Other References
 

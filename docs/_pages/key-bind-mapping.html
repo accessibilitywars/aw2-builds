@@ -1,0 +1,20 @@
+---
+layout: default
+title: Key Binding Mapping
+permalink: /key-bind-mapping/
+---
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  <h1>Customize Key-bindings</h1>
+  <div data-aw2-settings="hook">
+    <div class="aw2-no-js-notice">This page requires JavaScript to be enabled.</div>
+    <div class="aw2-key-binding-list" style="display:none"></div>
+  </div>
+
+</div>

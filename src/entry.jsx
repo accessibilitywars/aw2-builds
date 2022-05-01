@@ -1,6 +1,6 @@
 // @flow
 import {
-  APILanguageProvider, CustomComponent, Item, Skill, TraitLine
+  APILanguageProvider, Item, Skill, TraitLine
 } from "@discretize/gw2-ui-new";
 import React, {useState} from "react";
 import ReactDOM from "react-dom";
@@ -11,7 +11,6 @@ import "@discretize/gw2-ui-new/dist/default_style.css";
 import "@discretize/gw2-ui-new/dist/index.css";
 import "@discretize/typeface-menomonia";
 import keyMappingSlots from "./key-mapping-slots.js";
-import SkillWithFallback from "./skill-with-fallback.jsx";
 
 
 (() => {
@@ -123,19 +122,12 @@ import SkillWithFallback from "./skill-with-fallback.jsx";
         key.classList.add("armory-inline");
         const armoryElement = document.createElement("span");
         key.appendChild(armoryElement);
-        /*if (skillFallback[skillId]) {
-          ReactDOM.render(<APILanguageProvider value="en">
-            <CustomComponent type="Skill" className="aw2-skill-inline" data={skillFallback[skillId]} disableText={true} style={{
-              fontSize: "32px",
-              lineHeight: "32px"
-            }} />
-          </APILanguageProvider>, armoryElement);
-        } else {*/
-          ReactDOM.render(<APILanguageProvider value="en"><SkillWithFallback className="aw2-skill-inline" id={skillId} disableText={true} style={{
-            fontSize: "32px",
-            lineHeight: "32px"
-          }} /></APILanguageProvider>, armoryElement);
-        //}
+
+        ReactDOM.render(<APILanguageProvider value="en"><Skill className="aw2-skill-inline" id={parseInt(skillId, 10)} disableText={true} style={{
+          fontSize: "32px",
+          lineHeight: "32px"
+        }} /></APILanguageProvider>, armoryElement);
+
         const showKey = document.createElement("span");
         showKey.classList.add("aw2-show-key");
         showKey.textContent = key.getAttribute("data-aw2-key-mapped") || localKey(keyFromDefault(key.getAttribute("data-aw2-key"))) ;

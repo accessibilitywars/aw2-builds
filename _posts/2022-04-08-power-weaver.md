@@ -16,9 +16,9 @@ Camp <span data-aw2-key="F3" data-aw2-skill="5494"></span> Mainhand and <span da
 
 1. Auto-attack + use <span data-aw2-key="3" data-aw2-skill="43074"></span>
 2. As in 1, + <span data-aw2-key="2" data-aw2-skill="44998"></span>
-3. As in 2, + swap to <span data-aw2-key="F1" data-aw2-skill="5492"></span>/<span data-aw2-key="F3" data-aw2-skill="5494"></span> and use <span data-aw2-key="2" data-aw2-skill="44998"></span>. 
+3. As in 2, + swap to <span data-aw2-key="F1" data-aw2-skill="5492"></span>/<span data-aw2-key="F3" data-aw2-skill="5494"></span> and use <span data-aw2-key="2" data-aw2-skill="45313"></span>. 
 
-If comfortable with the above, consider swapping Bolstered Elements to Weaver's Prowress and/or swapping <span data-aw2-key="8" data-aw2-skill="5570"></span> or <span data-aw2-key="9" data-aw2-skill="5571"></span> to <span data-aw2-key="8" data-aw2-skill="40183"></span> or <span data-aw2-key="9" data-aw2-skill="40183"></span>.
+If comfortable with the above, consider swapping the Bolstered Elements trait to Weaver's Prowess and/or swapping <span data-aw2-key="8" data-aw2-skill="5570"></span> or <span data-aw2-key="9" data-aw2-skill="5571"></span> to <span data-aw2-key="8" data-aw2-skill="40183"></span>.
 
 ## Traits and Skills
 

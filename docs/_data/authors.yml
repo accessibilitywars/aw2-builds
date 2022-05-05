@@ -57,7 +57,7 @@ zrtassassin:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitters.com/ZRTAssassin"
+      url: "https://twitter.com/ZRTAssassin"
     - label: "GitHub"
       icon: "fab fa-fw fab fa-github"
       url: "https://github.com/ZRTAssassin"

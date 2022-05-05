@@ -50,3 +50,14 @@ muwum:
     - label: "GitHub"
       icon: "fab fa-fw fab fa-github"
       url: "https://github.com/MuwuM"
+zrtassassin:
+  name      : "ZRTAssassin"
+  bio       : "Former GW2 raider, software developer."
+  avatar    : "/assets/bio_photos/zrtassassin.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitters.com/ZRTAssassin"
+    - label: "GitHub"
+      icon: "fab fa-fw fab fa-github"
+      url: "https://github.com/ZRTAssassin"

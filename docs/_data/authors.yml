@@ -14,6 +14,17 @@ jupiter:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCW14gSHtjG_dSSPMZDiQl6w/featured"
+mrmystic:
+  name        : "MrMystic"
+  #bio         : ""
+  avatar      : "/assets/bio_photos/mrmystic.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MisterMysty"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/MrMystic1/videos"
 mukluk:
   name        : "Mukluk"
   bio         : "GW2 Streamer"

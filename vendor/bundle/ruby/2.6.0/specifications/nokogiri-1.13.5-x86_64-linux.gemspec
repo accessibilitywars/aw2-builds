@@ -1,16 +1,16 @@
 # -*- encoding: utf-8 -*-
-# stub: nokogiri 1.13.4 x86_64-linux lib
+# stub: nokogiri 1.13.5 x86_64-linux lib
 
 Gem::Specification.new do |s|
   s.name = "nokogiri".freeze
-  s.version = "1.13.4"
+  s.version = "1.13.5"
   s.platform = "x86_64-linux".freeze
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.metadata = { "bug_tracker_uri" => "https://github.com/sparklemotion/nokogiri/issues", "changelog_uri" => "https://nokogiri.org/CHANGELOG.html", "documentation_uri" => "https://nokogiri.org/rdoc/index.html", "homepage_uri" => "https://nokogiri.org", "rubygems_mfa_required" => "true", "source_code_uri" => "https://github.com/sparklemotion/nokogiri" } if s.respond_to? :metadata=
   s.require_paths = ["lib".freeze]
   s.authors = ["Mike Dalessio".freeze, "Aaron Patterson".freeze, "Yoko Harada".freeze, "Akinori MUSHA".freeze, "John Shahid".freeze, "Karol Bucek".freeze, "Sam Ruby".freeze, "Craig Barnes".freeze, "Stephen Checkoway".freeze, "Lars Kanis".freeze, "Sergio Arbeo".freeze, "Timothy Elliott".freeze, "Nobuyoshi Nakada".freeze]
-  s.date = "2022-04-11"
+  s.date = "2022-05-04"
   s.description = "Nokogiri (\u92F8) makes it easy and painless to work with XML and HTML from Ruby. It provides a\nsensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is\nfast and standards-compliant by relying on native parsers like libxml2 (C) and xerces (Java).\n".freeze
   s.email = "nokogiri-talk@googlegroups.com".freeze
   s.executables = ["nokogiri".freeze]
@@ -39,7 +39,7 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<rake-compiler-dock>.freeze, ["~> 1.2"])
       s.add_development_dependency(%q<rdoc>.freeze, ["~> 6.3"])
       s.add_development_dependency(%q<rexical>.freeze, ["~> 1.0.7"])
-      s.add_development_dependency(%q<rubocop>.freeze, ["~> 1.23"])
+      s.add_development_dependency(%q<rubocop>.freeze, ["~> 1.28", ">= 1.28.2"])
       s.add_development_dependency(%q<rubocop-minitest>.freeze, ["~> 0.17"])
       s.add_development_dependency(%q<rubocop-performance>.freeze, ["~> 1.12"])
       s.add_development_dependency(%q<rubocop-rake>.freeze, ["~> 0.6"])
@@ -57,7 +57,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<rake-compiler-dock>.freeze, ["~> 1.2"])
       s.add_dependency(%q<rdoc>.freeze, ["~> 6.3"])
       s.add_dependency(%q<rexical>.freeze, ["~> 1.0.7"])
-      s.add_dependency(%q<rubocop>.freeze, ["~> 1.23"])
+      s.add_dependency(%q<rubocop>.freeze, ["~> 1.28", ">= 1.28.2"])
       s.add_dependency(%q<rubocop-minitest>.freeze, ["~> 0.17"])
       s.add_dependency(%q<rubocop-performance>.freeze, ["~> 1.12"])
       s.add_dependency(%q<rubocop-rake>.freeze, ["~> 0.6"])
@@ -76,7 +76,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rake-compiler-dock>.freeze, ["~> 1.2"])
     s.add_dependency(%q<rdoc>.freeze, ["~> 6.3"])
     s.add_dependency(%q<rexical>.freeze, ["~> 1.0.7"])
-    s.add_dependency(%q<rubocop>.freeze, ["~> 1.23"])
+    s.add_dependency(%q<rubocop>.freeze, ["~> 1.28", ">= 1.28.2"])
     s.add_dependency(%q<rubocop-minitest>.freeze, ["~> 0.17"])
     s.add_dependency(%q<rubocop-performance>.freeze, ["~> 1.12"])
     s.add_dependency(%q<rubocop-rake>.freeze, ["~> 0.6"])

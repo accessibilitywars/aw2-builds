@@ -29,7 +29,7 @@ fn process() -> Result<(), Box<dyn Error>> {
 
 fn main() {
     if let Err(err) = process() {
-        println!("error running example: {}", err);
+        println!("error: {}", err);
         process::exit(1);
     }
 }

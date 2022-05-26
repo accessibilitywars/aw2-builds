@@ -1,12 +1,12 @@
-current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.1/ext/unf_ext
-/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20220525-1833-fa8x1w.rb extconf.rb
+current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20220526-1812-kbpbl2.rb extconf.rb
 checking for -lstdc++... yes
 creating Makefile
 
-current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
 make "DESTDIR=" clean
 
-current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
 make "DESTDIR="
 compiling unf.cc
 cc1plus: warning: command line option ‘-Wdeclaration-after-statement’ is valid for C/ObjC but not for C++
@@ -17,6 +17,6 @@ cc1plus: warning: unrecognized command line option ‘-Wno-parentheses-equality�
 cc1plus: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
 linking shared-object unf_ext.so
 
-current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20220525-1833-3nyney
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20220526-1812-1uy1w6x

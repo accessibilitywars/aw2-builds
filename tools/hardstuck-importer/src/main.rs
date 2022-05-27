@@ -4,6 +4,7 @@ use std::process;
 
 use serde::Deserialize;
 
+#[allow(dead_code)]
 #[derive(Debug, Deserialize)]
 struct Build {
     winners: String,
@@ -21,12 +22,12 @@ struct Build {
 }
 
 fn dump(line: u64, build: Build) {
-	println!("{}: {profession} {category}: {build_url}",
+	println!("{}: {profession} {category}: {data}",
 		line,
 		profession = build.class,
 		category = build.winners,
-		build_url = build.build,
-		// chatcode = build.chatcode,
+		// data = build.build,
+		data = build.chatcode,
 	)
 }
 
@@ -36,10 +37,7 @@ fn process() -> Result<(), Box<dyn Error>> {
     for result in rdr.deserialize() {
 		line += 1;
         let build: Build = result?;
-        // println!("{:?}", build);
-		if build.chatcode.is_empty() {
-		  dump(line, build);
-		}
+		dump(line, build);
     }
     Ok(())
 }

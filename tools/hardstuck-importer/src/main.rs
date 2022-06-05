@@ -2,7 +2,7 @@ use std::error;
 use std::io;
 use std::process;
 use std::process::Command;
-use std::fs::File;
+use std::fs::OpenOptions;
 use std::io::Write;
 
 use indoc::indoc;
@@ -36,14 +36,15 @@ fn chat2markup(chatcode: String) -> Result<String> {
 	Ok(String::from_utf8_lossy(&output.stdout).into_owned())
 }
 
-fn convert(line: u64, build: Build, path: String) -> Result<()> {
+fn convert(line: u64, build: Build, stem: String) -> Result<()> {
+	let simulated_filepath = "2022-06-05_".to_owned() + &stem.replace(" ", "_") + ".md";
 	println!("Converting {}: {profession} {category}: {data} -> {file}",
 		line,
 		profession = build.class,
 		category = build.winners,
 		// data = build.build,
 		data = build.chatcode,
-		file = path,
+		file = simulated_filepath,
 	);
 
 	let markupcode = match chat2markup(build.chatcode.clone()) {
@@ -55,8 +56,8 @@ fn convert(line: u64, build: Build, path: String) -> Result<()> {
 		---
 		author: {accountname}
 		editor: berdandy
-		title: Accessibility Contest - {profession} {role} {category}
-		tags: {profession}
+		title: Accessibility Contest - {profession} {category}
+		tags: {profession} {role}
 		---
 
 		{desc}
@@ -65,8 +66,6 @@ fn convert(line: u64, build: Build, path: String) -> Result<()> {
 		
 		Template Code:
 		
-		`{chatcode}`
-
 		{chatr_output}
 
 		## References
@@ -78,12 +77,18 @@ fn convert(line: u64, build: Build, path: String) -> Result<()> {
 		role = build.role,
 		category = build.winners,
 		desc = build.desc,
-		chatcode = build.chatcode,
 		chatr_output = markupcode,
 		build = build.build,
 	);
 
-    let mut output = File::create(path)?;
+	let mut candidate = stem.clone();
+	let mut output = loop {
+		let filepath = "2022-06-05_".to_owned() + &candidate.replace(" ", "_") + ".md";
+		match OpenOptions::new().write(true).create_new(true).open(filepath) {
+			Err(_) => candidate = candidate.clone() + " Alt",
+			Ok(file) => break file,
+		}
+	};
     write!(output, "{}", contents)?;
 
 	Ok(())
@@ -97,7 +102,7 @@ fn process() -> Result<()> {
         let build: Build = result?;
 		let profession = build.class.clone();
 		let category = build.winners.clone();
-		convert(line, build, format!("{} {}.txt", profession, category))?;
+		convert(line, build, format!("{} {}", profession, category))?;
     }
     Ok(())
 }

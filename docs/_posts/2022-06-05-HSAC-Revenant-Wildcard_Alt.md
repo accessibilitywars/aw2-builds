@@ -2,8 +2,8 @@
 author: Ebax.1320
 editor: berdandy
 title: Accessibility Contest - Revenant Wildcard
-tags: Revenant Support
-spec: revenant
+tags: revenant support vindicator hsac
+spec: vindicator
 ---
 
 Vindicator has the potential for some absurd healing per second (like 2k per second per player) with just holding up the urn of saint viktor. The self-damaging effect from the urn can be completely negated with the salvation trait "Resilient Spirit" which gives barrier per boon on you every 3 seconds (to a cap of 5 boons). By keeping your vitality low, you minimize the amount of self-damage the urn does to the point that having 4 boons will make it so you can hold up the urn forever

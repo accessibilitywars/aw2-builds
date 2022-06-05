@@ -2,8 +2,8 @@
 author: Dreggon.6598
 editor: berdandy
 title: Accessibility Contest - Necromancer Wildcard
-tags: Necromancer LOL
-spec: necromancer
+tags: necromancer reaper hsac
+spec: reaper
 ---
 
 Solo signet reaper build for open world, designed to go into shroud and STAY THERE. Pulls about 15-17k on a golem without any external buffs, solos a few champs (e.g. guild missions) but not all of them, sustains LONG periods of shroud thanks to signet of undeath, and has a 99% crit chance while in shroud - and you always want to be in shroud, because that's where your damage is. Takes out groups fast and easy, has two health bars to stay alive, uses a cleansing sigil on the axe swap. Build has no stun break, or condi cleanse outside of cleansing sigil

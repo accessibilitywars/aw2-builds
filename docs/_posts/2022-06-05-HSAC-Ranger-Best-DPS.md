@@ -2,8 +2,8 @@
 author: GoE (See Below)
 editor: berdandy
 title: Accessibility Contest - Ranger Best DPS
-tags: Ranger DPS
-spec: ranger
+tags: ranger dps soulbeast hsac
+spec: soulbeast
 ---
 
 A low apm power soulbeast build providing minor group support with spirits, stance share and the versatility of ranger pets

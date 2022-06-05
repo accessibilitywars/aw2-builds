@@ -2,8 +2,8 @@
 author: gewoonreneee.2967
 editor: berdandy
 title: Accessibility Contest - Mesmer Best Support
-tags: Mesmer Support
-spec: mesmer
+tags: mesmer support chronomancer hsac
+spec: chronomancer
 ---
 
 Chrono tank build providing quickness and alacrity, and helping the druid's with a place in the meta.

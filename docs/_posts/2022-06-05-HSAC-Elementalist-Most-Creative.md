@@ -2,8 +2,8 @@
 author: Micro Hard.3601
 editor: berdandy
 title: Accessibility Contest - Elementalist Most Creative
-tags: Elementalist Support
-spec: elementalist
+tags: elementalist support catalyst hsac
+spec: catalyst
 ---
 
 20k dps D/D Quickness Catalyst. Build provides 25might, fury, quickness, prot, and high resistance. Can trade prot and resistance for vigor and resolution by swapping to water instead of earth in the rotation.

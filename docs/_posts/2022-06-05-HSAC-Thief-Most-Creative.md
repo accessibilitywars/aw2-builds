@@ -2,8 +2,8 @@
 author: Bovan.9481
 editor: berdandy
 title: Accessibility Contest - Thief Most Creative
-tags: Thief Support
-spec: thief
+tags: thief support specter hsac
+spec: specter
 ---
 
 There is a lot to talk about but I'll do my best to keep it short.

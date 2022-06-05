@@ -2,8 +2,8 @@
 author: Micro Hard.3601
 editor: berdandy
 title: Accessibility Contest - Warrior Best DPS
-tags: Warrior DPS
-spec: warrior
+tags: warrior dps bladesworn hsac
+spec: bladesworn
 ---
 
 Standard dps role as a Blade Sworn pulling 31k dps. Uses Flow Stabilizer for QoL whenever Flow is needed, but can get away without taking it.

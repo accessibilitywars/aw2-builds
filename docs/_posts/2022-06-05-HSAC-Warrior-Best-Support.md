@@ -2,7 +2,7 @@
 author: Narcin Roc.3018
 editor: berdandy
 title: Accessibility Contest - Warrior Best Support
-tags: Warrior Support
+tags: warrior support hsac
 spec: warrior
 ---
 

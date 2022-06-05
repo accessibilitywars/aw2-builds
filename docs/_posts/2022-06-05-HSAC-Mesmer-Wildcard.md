@@ -2,8 +2,8 @@
 author: rekinetics.6183
 editor: berdandy
 title: Accessibility Contest - Mesmer Wildcard
-tags: Mesmer DPS
-spec: mesmer
+tags: mesmer dps virtuoso
+spec: virtuoso
 ---
 
 Condi Virtuoso ft. rabid gear!

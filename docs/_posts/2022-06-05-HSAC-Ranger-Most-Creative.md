@@ -2,8 +2,8 @@
 author: Sayrann.1356
 editor: berdandy
 title: Accessibility Contest - Ranger Most Creative
-tags: Ranger Support
-spec: ranger
+tags: ranger support soulbeast hsac
+spec: soulbeast
 ---
 
 It's a condition dps support Soulbeast which deals good DPS, supports your allies via stances and spirits and has good utility for itself

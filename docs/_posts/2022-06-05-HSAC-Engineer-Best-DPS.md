@@ -2,8 +2,8 @@
 author: Thor.3267
 editor: berdandy
 title: Accessibility Contest - Engineer Best DPS
-tags: Engineer DPS
-spec: engineer
+tags: engineer dps mechanist condi hsac
+spec: mechanist
 ---
 
 This is my Condition Signet Mechanist build! It features all signets with passive self heal, 5 man barrier, 30 confusion and 17 apm!

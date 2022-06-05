@@ -2,8 +2,8 @@
 author: Waldorn.5643
 editor: berdandy
 title: Accessibility Contest - Revenant Most Creative
-tags: Revenant Support
-spec: revenant
+tags: revenant support herald hsac
+spec: herald
 ---
 
 The Heal Herald

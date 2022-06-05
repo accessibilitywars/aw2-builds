@@ -2,8 +2,8 @@
 author: Locogeke.2537
 editor: berdandy
 title: Accessibility Contest - Elementalist Best DPS
-tags: Elementalist DPS
-spec: elementalist
+tags: elementalist dps tempest hsac condi
+spec: tempest
 ---
 
 This is a condi tempest build, it is based around fire attunement. It is aimed to proved 25 might to the subgroup, decent DPS un PUGS (20k) and is good for handling mechanics while your elementals do damage for you.

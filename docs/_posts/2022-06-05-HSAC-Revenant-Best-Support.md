@@ -2,8 +2,8 @@
 author: Hysvear.7386
 editor: berdandy
 title: Accessibility Contest - Revenant Best Support
-tags: Revenant Support
-spec: revenant
+tags: revenant support herald hsac
+spec: herald
 ---
 
 The "Herald of Life" build is a Revenant Elite spec build that provides. It pulses Alacrity, Healing, Regen, Protection, Fury, Might, and did I mention healing? It also provides CC options and it has quite a bit of toughness and about 25k health.

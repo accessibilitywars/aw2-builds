@@ -2,8 +2,8 @@
 author: Spyritdragon.6048
 editor: berdandy
 title: Accessibility Contest - Warrior Most Creative
-tags: Warrior DPS
-spec: warrior
+tags: warrior dps berserker hsac
+spec: berserker
 ---
 
 An APM-scaling variant of the standard power banner Berserker build that offers a solid and extremely simple baseline for people to follow, and then move on from there as fits their own comfort level.

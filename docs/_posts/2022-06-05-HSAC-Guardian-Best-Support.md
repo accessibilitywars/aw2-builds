@@ -2,8 +2,8 @@
 author: Bovan.9481
 editor: berdandy
 title: Accessibility Contest - Guardian Best Support
-tags: Guardian Support
-spec: guardian
+tags: guardian support hsac firebrand
+spec: firebrand
 ---
 
 This is a very simple to execute quickness heal Firebrand build.

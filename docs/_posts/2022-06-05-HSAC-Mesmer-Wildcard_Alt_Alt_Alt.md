@@ -2,8 +2,8 @@
 author: Kirby.7302
 editor: berdandy
 title: Accessibility Contest - Mesmer Wildcard
-tags: Mesmer Support
-spec: mesmer
+tags: mesmer support mirage hsac
+spec: mirage
 ---
 
 I created a Support Staff Mirage Build, focusing on providing permanent Alacrity and 25 stacks of Might for your Subgroup. The build also generated a good amount of Aegis Applications, Resolution and Swiftness to your subgroup. There is also a decent amount of personal Protection, Vigor and Regeneration if needed

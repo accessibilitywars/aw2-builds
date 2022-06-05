@@ -2,8 +2,8 @@
 author: Micro Hard.3601
 editor: berdandy
 title: Accessibility Contest - Necromancer Best DPS
-tags: Necromancer DPS
-spec: necromancer
+tags: necromancer dps harbinger hsac
+spec: harbinger
 ---
 
 34 3k DPS Harbinger Pistol/Warhorn. This is a standard dps role. It has access to quite a bit of cc in the build. The rotation is more focused on simple concepts and priorities rather than a static follow X steps outlined in the comments section of the video. 

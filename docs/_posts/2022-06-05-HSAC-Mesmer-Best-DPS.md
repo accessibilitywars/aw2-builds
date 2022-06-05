@@ -2,8 +2,8 @@
 author: ntiCe.9071
 editor: berdandy
 title: Accessibility Contest - Mesmer Best DPS
-tags: Mesmer DPS
-spec: mesmer
+tags: mesmer dps hsac mirage
+spec: mirage
 ---
 
 Low intensity variation of the "staxe" mirage variant (Staff and axe plus pistol). It is a very competetive dps build with extremely strong defensive capabilities and strong boon coverage (~19might and ~40% alacrity for the subgroup). It has a extremely easy playstyle with only two buttons in the loop and about 3-4 for the opener. 

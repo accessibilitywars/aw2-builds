@@ -2,8 +2,8 @@
 author: supporthero.4520
 editor: berdandy
 title: Accessibility Contest - Guardian Best DPS
-tags: Guardian DPS
-spec: guardian
+tags: guardian dps hsac firebrand
+spec: firebrand
 ---
 
 Meant for instanced content

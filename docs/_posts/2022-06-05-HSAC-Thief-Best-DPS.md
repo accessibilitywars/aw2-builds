@@ -2,7 +2,7 @@
 author: GoE (See Below)
 editor: berdandy
 title: Accessibility Contest - Thief Best DPS
-tags: Thief DPS
+tags: thief dps condi hsac
 spec: thief
 ---
 

@@ -37,7 +37,7 @@ fn chat2markup(chatcode: String) -> Result<String> {
 }
 
 fn convert(line: u64, build: Build, stem: String) -> Result<()> {
-	let simulated_filepath = "2022-06-05_".to_owned() + &stem.replace(" ", "_") + ".md";
+	let simulated_filepath = "2022-06-05_HSAC_".to_owned() + &stem.replace(" ", "_") + ".md";
 	println!("Converting {}: {profession} {category}: {data} -> {file}",
 		line,
 		profession = build.class,
@@ -83,7 +83,7 @@ fn convert(line: u64, build: Build, stem: String) -> Result<()> {
 
 	let mut candidate = stem.clone();
 	let mut output = loop {
-		let filepath = "2022-06-05_".to_owned() + &candidate.replace(" ", "_") + ".md";
+		let filepath = "2022-06-05_HSAC_".to_owned() + &candidate.replace(" ", "_") + ".md";
 		match OpenOptions::new().write(true).create_new(true).open(filepath) {
 			Err(_) => candidate = candidate.clone() + " Alt",
 			Ok(file) => break file,

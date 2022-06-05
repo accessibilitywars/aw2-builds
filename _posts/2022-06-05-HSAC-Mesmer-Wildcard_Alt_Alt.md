@@ -2,8 +2,8 @@
 author: Kauna Arget.7052
 editor: berdandy
 title: Accessibility Contest - Mesmer Wildcard
-tags: Mesmer DPS
-spec: mesmer
+tags: mesmer dps condi virtuoso
+spec: virtuoso
 ---
 
 Condition Virtuoso - will do 25k with 2 buttons, has a free utility slot, does own stability and can be used to black kite and pylon in raids.

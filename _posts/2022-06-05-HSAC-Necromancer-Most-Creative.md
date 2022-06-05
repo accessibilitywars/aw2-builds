@@ -2,8 +2,8 @@
 author: lcpdragonslayer.7895
 editor: berdandy
 title: Accessibility Contest - Necromancer Most Creative
-tags: Necromancer DPS
-spec: necromancer
+tags: necromancer dps harbinger
+spec: harbinger
 ---
 
 25k DPS on Harbinger using only 2 fingers :D

@@ -2,8 +2,8 @@
 author: Angrax.9420
 editor: berdandy
 title: Accessibility Contest - Necromancer Best Support
-tags: Necromancer Support
-spec: necromancer
+tags: necromancer support harbinger hsac
+spec: harbinger
 ---
 
 It is a Support Harbinger build

@@ -2,8 +2,8 @@
 author: Katastroff.1045 
 editor: berdandy
 title: Accessibility Contest - Necromancer Wildcard
-tags: Necromancer LOL
-spec: necromancer
+tags: necromancer reaper hsac
+spec: reaper
 ---
 
 This is a power reaper minions master killer of all build. 

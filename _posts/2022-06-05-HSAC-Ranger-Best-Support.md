@@ -2,8 +2,8 @@
 author: GoE (See Below)
 editor: berdandy
 title: Accessibility Contest - Ranger Best Support
-tags: Ranger DPS
-spec: ranger
+tags: ranger support hsac soulbeast
+spec: soulbeast
 ---
 
 A low apm condi soulbeast build providing minor support and utility through spirits, stance share, a fast high cc skill and the versatility of ranger pets

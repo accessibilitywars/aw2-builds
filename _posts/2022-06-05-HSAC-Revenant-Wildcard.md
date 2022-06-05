@@ -2,8 +2,8 @@
 author: Waldorn.5643
 editor: berdandy
 title: Accessibility Contest - Revenant Wildcard
-tags: Revenant DPS
-spec: revenant
+tags: revenant dps herald hsac
+spec: herald
 ---
 
 The AFK Herald

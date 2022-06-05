@@ -2,8 +2,8 @@
 author: rekinetics.6183
 editor: berdandy
 title: Accessibility Contest - Thief Best Support
-tags: Thief Support
-spec: thief
+tags: thief support specter hsac
+spec: specter
 ---
 
 Healing Alacrity Specter!

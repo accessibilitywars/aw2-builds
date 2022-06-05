@@ -2,8 +2,8 @@
 author: Awesumness.1823
 editor: berdandy
 title: Accessibility Contest - Mesmer Wildcard
-tags: Mesmer DPS
-spec: mesmer
+tags: mesmer dps virtuoso hsac
+spec: virtuoso
 ---
 
 This build focuses on ease of play and scalability with the APM of the player

@@ -2,8 +2,8 @@
 author: REMagic.8937
 editor: berdandy
 title: Accessibility Contest - Mesmer Most Creative
-tags: Mesmer DPS
-spec: mesmer
+tags: mesmer dps mirage hsac
+spec: mirage
 ---
 
 It's a Axe/Pistol + Staff Mirage raid build, that can either greed for highest personal DPS, or dynamically swap to a Staff for ranged damage and great boon output, depending on the situation - since each rotation only uses one weapon set and they use identical traits, this swap can happen midfight!

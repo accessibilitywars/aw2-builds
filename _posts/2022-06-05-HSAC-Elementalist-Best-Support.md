@@ -2,8 +2,8 @@
 author: Jzaku.9765
 editor: berdandy
 title: Accessibility Contest - Elementalist Best Support
-tags: Elementalist Support
-spec: elementalist
+tags: elementalist support tempest hsac
+spec: tempest
 ---
 
 Thanks to the 10 man target nerf, now Tempest can integrate the overpowered healing and Rez power of Staff + Arcane traitline into your favourite Boon Tempest build. Burst heal your group with just a press of a button! (read: Wash the Pain Away

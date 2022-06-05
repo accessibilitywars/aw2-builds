@@ -2,8 +2,8 @@
 author: Sutepun.9450
 editor: berdandy
 title: Accessibility Contest - Engineer Best Support
-tags: Engineer Support
-spec: engineer
+tags: engineer support hsac scrapper
+spec: scrapper
 ---
 
 An engineer loadout that compresses two DPS support builds with only one equipment template. This allows for a player to easily swap between the two without sacrificing their "main" engineer build.

@@ -2,8 +2,8 @@
 author: asterius.3941
 editor: berdandy
 title: Accessibility Contest - Engineer Wildcard
-tags: Engineer DPS
-spec: engineer
+tags: engineer dps hsac condi mechanist
+spec: mechanist
 ---
 
 Condi Mechanist, mace but without granade kit

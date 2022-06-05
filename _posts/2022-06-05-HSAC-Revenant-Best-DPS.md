@@ -2,8 +2,8 @@
 author: Ziooo.8932
 editor: berdandy
 title: Accessibility Contest - Revenant Best DPS
-tags: Revenant DPS
-spec: revenant
+tags: revenant dps vindicator hsac
+spec: vindicator
 ---
 
 It's a simplistic Power Vindicator DPS build focused for players that are interested in learning about game concepts and getting into the endgame

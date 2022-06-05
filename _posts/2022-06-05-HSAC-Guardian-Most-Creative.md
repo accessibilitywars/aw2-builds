@@ -2,8 +2,8 @@
 author: Sayrann.1356
 editor: berdandy
 title: Accessibility Contest - Guardian Most Creative
-tags: Guardian DPS
-spec: guardian
+tags: guardian dps hsac dragonhunter
+spec: dragonhunter
 ---
 
 It's a DPS Dragonhunter

@@ -36,3 +36,4 @@ Template Code:
 ## References
 
 - http://gw2skills.net/editor/?PmgAEJlxQHMOqh1ROMP6hRSfMCKgJ9lasD-zRIYRUxXG1mCVUB2eQCj9wbJilN-e
+- WIP

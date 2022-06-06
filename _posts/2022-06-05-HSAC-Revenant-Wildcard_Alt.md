@@ -40,3 +40,4 @@ Template Code:
 ## References
 
 - http://gw2skills.net/editor/?PmgAEZlZSJsTiilSTMUqipShsSagn9lZ0H-zxIY9o6vMqoqqOV9dWa/1C-e
+- WIP

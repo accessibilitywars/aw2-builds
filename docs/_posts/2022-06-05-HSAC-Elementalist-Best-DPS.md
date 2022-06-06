@@ -8,6 +8,13 @@ spec: tempest
 
 This is a condi tempest build, it is based around fire attunement. It is aimed to proved 25 might to the subgroup, decent DPS un PUGS (20k) and is good for handling mechanics while your elementals do damage for you.
 
+## Gear
+
+- Viper's Scepter/Focus with Smoldering/Bursting
+- Viper's Armor with Elementalist Runes
+- Viper's Trinkets
+- Food & Utility: Koi Cake & Focusing Crystal
+
 ## Traits and Skills
 
 Template Code:
@@ -35,4 +42,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PGkAs2lZwuYasKGJOqOmtPA-zRJYmRDfZkQB0RCo5sAzZF-e
+- [Gw2Skills](http://gw2skills.net/editor/?PGkAs2lZwuYasKGJOqOmtPA-zRJYmRDfZkQB0RCo5sAzZF-e)

@@ -1,7 +1,7 @@
 ---
 author: lcpdragonslayer.7895
 editor: berdandy
-title: Accessibility Contest - Necromancer Most Creative
+title: Accessibility WIP - Necromancer Most Creative
 tags: necromancer dps harbinger
 spec: harbinger
 ---

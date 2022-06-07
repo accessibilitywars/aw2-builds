@@ -1,7 +1,7 @@
 ---
 author: Katastroff.1045 
 editor: berdandy
-title: Accessibility Contest - Necromancer Wildcard
+title: Accessibility WIP - Necromancer Wildcard
 tags: necromancer reaper hsac
 spec: reaper
 ---

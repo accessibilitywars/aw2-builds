@@ -1,7 +1,7 @@
 ---
 author: Hysvear.7386
 editor: berdandy
-title: Accessibility Contest - Revenant Best Support
+title: Accessibility WIP - Revenant Best Support
 tags: revenant support herald hsac
 spec: herald
 ---

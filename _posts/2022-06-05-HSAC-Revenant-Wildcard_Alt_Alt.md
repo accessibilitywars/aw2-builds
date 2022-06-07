@@ -1,7 +1,7 @@
 ---
 author: Douwe.1746
 editor: berdandy
-title: Accessibility Contest - Revenant Wildcard
+title: Accessibility WIP - Revenant Wildcard
 tags: revenant herald hsac
 spec: herald
 ---

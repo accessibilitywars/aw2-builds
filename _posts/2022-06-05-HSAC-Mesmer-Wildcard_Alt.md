@@ -1,7 +1,7 @@
 ---
 author: Awesumness.1823
 editor: berdandy
-title: Accessibility Contest - Mesmer Wildcard
+title: Accessibility WIP - Mesmer Wildcard
 tags: mesmer dps virtuoso hsac
 spec: virtuoso
 ---

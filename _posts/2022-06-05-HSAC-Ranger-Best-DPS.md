@@ -1,7 +1,7 @@
 ---
 author: GoE (See Below)
 editor: berdandy
-title: Accessibility Contest - Ranger Best DPS
+title: Accessibility WIP - Ranger Best DPS
 tags: ranger dps soulbeast hsac
 spec: soulbeast
 ---

@@ -1,7 +1,7 @@
 ---
 author: Kirby.7302
 editor: berdandy
-title: Accessibility Contest - Mesmer Wildcard
+title: Accessibility WIP - Mesmer Wildcard
 tags: mesmer support mirage hsac
 spec: mirage
 ---

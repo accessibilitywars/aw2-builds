@@ -1,7 +1,7 @@
 ---
 author: Micro Hard.3601
 editor: berdandy
-title: Accessibility Contest - Necromancer Best DPS
+title: Accessibility WIP - Necromancer Best DPS
 tags: necromancer dps harbinger hsac
 spec: harbinger
 ---

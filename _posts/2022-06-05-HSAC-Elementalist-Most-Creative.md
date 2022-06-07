@@ -1,7 +1,7 @@
 ---
 author: Micro Hard.3601
 editor: berdandy
-title: Accessibility Contest - Elementalist Most Creative
+title: Accessibility WIP - Elementalist Most Creative
 tags: elementalist support catalyst hsac
 spec: catalyst
 ---

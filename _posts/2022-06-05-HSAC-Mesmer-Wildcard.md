@@ -1,7 +1,7 @@
 ---
 author: rekinetics.6183
 editor: berdandy
-title: Accessibility Contest - Mesmer Wildcard
+title: Accessibility WIP - Mesmer Wildcard
 tags: mesmer dps virtuoso
 spec: virtuoso
 ---

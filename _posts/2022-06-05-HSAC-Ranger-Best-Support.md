@@ -1,7 +1,7 @@
 ---
 author: GoE (See Below)
 editor: berdandy
-title: Accessibility Contest - Ranger Best Support
+title: Accessibility WIP - Ranger Best Support
 tags: ranger support hsac soulbeast
 spec: soulbeast
 ---

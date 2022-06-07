@@ -1,7 +1,7 @@
 ---
 author: Sayrann.1356
 editor: berdandy
-title: Accessibility Contest - Guardian Most Creative
+title: Accessibility WIP - Guardian Most Creative
 tags: guardian dps hsac dragonhunter
 spec: dragonhunter
 ---

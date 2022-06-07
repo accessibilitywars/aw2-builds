@@ -1,12 +1,21 @@
 ---
 author: asterius.3941
 editor: berdandy
-title: Accessibility WIP - Engineer Wildcard
+title: Engineer - Wildcard
 tags: engineer dps hsac condi mechanist
 spec: mechanist
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Condi Mechanist, mace but without granade kit
+
+## Gear
+
+- Weapons: Viper's Mace/Pistol with Bursting/Earth Sigils
+- Armor: Viper's with Elementalist Runes
+- Trinkets: Viper's
+- Food & Utility: Plate of Beef Rendang, Toxic Focusing Crystal
+- (alternate cheaper) Food & Utility: Red-Lentil Saobosa, Tuning Icicle
 
 ## Traits and Skills
 
@@ -35,5 +44,4 @@ Template Code:
 
 ## References
 
-- https://imgur.com/a/0EUKXeX
-- WIP
+- [Imgur Gallery](https://imgur.com/a/0EUKXeX)

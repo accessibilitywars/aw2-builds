@@ -1,12 +1,20 @@
 ---
 author: Thor.3267
 editor: berdandy
-title: Accessibility WIP - Engineer Best DPS
+title: Engineer - DPS
 tags: engineer dps mechanist condi hsac
 spec: mechanist
+tagline: Hardstuck Accessibility Challenge
 ---
 
 This is my Condition Signet Mechanist build! It features all signets with passive self heal, 5 man barrier, 30 confusion and 17 apm!
+
+## Gear
+
+- Weapons: Viper Mace/Pistol with Bursting/Earth Sigils
+- Armor: Viper with Elementalist Runes
+- Trinkets: Viper
+- Food & Utility: Cilantro and Cured Meat Flatbread, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PegAkqlxyeZwMXWMOWL5xaA-zRJYmRDfZEXC0RBo5BJI2AvmUcWB-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PegAkqlxyeZwMXWMOWL5xaA-zRJYmRDfZEXC0RBo5BJI2AvmUcWB-e)

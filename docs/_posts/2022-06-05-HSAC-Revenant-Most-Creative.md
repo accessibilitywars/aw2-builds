@@ -1,9 +1,10 @@
 ---
 author: Waldorn.5643
 editor: berdandy
-title: Accessibility WIP - Revenant Most Creative
+title: Revenant - Creative
 tags: revenant support herald hsac
 spec: herald
+tagline: Hardstuck Accessibility Challenge
 ---
 
 The Heal Herald
@@ -13,12 +14,14 @@ This build might have a little bit more buttons to press than the average low in
 
 Btw, i am playing full magi, but you can also play this full minstrel or harrier, you will overcap boon duration and have a little less healing, but it works perfectly fine
 
-- First Clip: Build explanatio
-- Second Clip: Ticking and burst heal example outhealing the extreme damage aur
-- Third Clip: Example of me playing this build with one hand in my training group at cairn. It was a bit messy but on a perfect kill healing is boring anyways. :
-(btw clip 2 and 3 are in german since i was talking to my viewers / trainees
+## Gear
 
-If you want to see more clips, i also created stream highlights of my training kills at MO (https://www.twitch.tv/videos/1454612930?collection=y7ZRd8Zq5RaT5Q) and Samarog (https://www.twitch.tv/videos/1454613375?collection=y7ZRd8Zq5RaT5Q), which are way less messy. :D
+- Weapons: 
+  - Magi Mace/Shield with Strength/Concentration Sigils
+  - Magi Staff with Transference/Concentration Sigils
+- Armor: Magi with Monk Runes
+- Trinkets: Magi
+- Food & Utility: Bowl of Fruit Salad with Mint Garnish, Peppermint Oil
 
 ## Traits and Skills
 
@@ -47,5 +50,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PmxAk6ZllQKMKyiNRXsKCjFSisBqgn/lZrE-zxIYwojvQCsAqOCSPF89gEK7h3S7DbA-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PmxAk6ZllQKMKyiNRXsKCjFSisBqgn/lZrE-zxIYwojvQCsAqOCSPF89gEK7h3S7DbA-e)

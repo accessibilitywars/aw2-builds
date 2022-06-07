@@ -1,12 +1,20 @@
 ---
 author: Micro Hard.3601
 editor: berdandy
-title: Accessibility WIP - Necromancer Best DPS
+title: Necromancer - DPS
 tags: necromancer dps harbinger hsac
 spec: harbinger
+tagline: Hardstuck Accessibility Challenge
 ---
 
 34 3k DPS Harbinger Pistol/Warhorn. This is a standard dps role. It has access to quite a bit of cc in the build. The rotation is more focused on simple concepts and priorities rather than a static follow X steps outlined in the comments section of the video. 
+
+## Gear
+
+- Weapons: Viper's Pistol/Warhorn with Torment/Bursting Sigils
+- Armor: Viper's with Nightmare Runes
+- Trinkets: Viper's
+- Food & Utility: Meaty Asparagus Skewer, Tuning Icicle
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PSgEoEWGKriBy0YkYxeVHfB-zRRYmRDvcEMlRuFVHJgwHkgYz/akx0G-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PSgEoEWGKriBy0YkYxeVHfB-zRRYmRDvcEMlRuFVHJgwHkgYz/akx0G-e)

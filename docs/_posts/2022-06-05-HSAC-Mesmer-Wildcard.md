@@ -1,12 +1,20 @@
 ---
 author: rekinetics.6183
 editor: berdandy
-title: Accessibility WIP - Mesmer Wildcard
+title: Mesmer - Wildcard
 tags: mesmer dps virtuoso
 spec: virtuoso
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Condi Virtuoso ft. rabid gear!
+
+## Gear
+
+- Weapons: Rabid Dagger/Sword with Bursting/Earth Runes
+- Armor: Rabid with Krait Runes
+- Trinkets: Rabid Accessories and Backpiece, Viper's Rings and Amulet
+- Food & Utility: Bowl of Fancy Potato and Leek Soup, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PigAgylVwSYKMEmLe8XtxfA-zRRYMRDHuZQHjR8EoTB4bWO1sC-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PigAgylVwSYKMEmLe8XtxfA-zRRYMRDHuZQHjR8EoTB4bWO1sC-e)

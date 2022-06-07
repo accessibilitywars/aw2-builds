@@ -1,12 +1,21 @@
 ---
 author: gewoonreneee.2967
 editor: berdandy
-title: Accessibility WIP - Mesmer Best Support
+title: Mesmer - Support
 tags: mesmer support chronomancer hsac
 spec: chronomancer
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Chrono tank build providing quickness and alacrity, and helping the druid's with a place in the meta.
+
+## Gear
+
+- Weapons: 
+  - Minstrel Scepter/Shield with Concentration/Paralyzation Sigils
+- Armor: Nomad Boots, the rest Giver, with Durability Runes
+- Trinkets: Minstrel
+- Food & Utility: Plate of Peppercorn-Spiced Poultry Aspic, Peppermint Oil
 
 ## Traits and Skills
 
@@ -35,5 +44,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PigAs6lVwcYasD2Ie8T5tXA-zRZYehQNGNYkQXOjWkAprA04BJAqAaewwG-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PigAs6lVwcYasD2Ie8T5tXA-zRZYehQNGNYkQXOjWkAprA04BJAqAaewwG-e)

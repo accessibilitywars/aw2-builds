@@ -1,12 +1,17 @@
 ---
 author: lcpdragonslayer.7895
 editor: berdandy
-title: Accessibility WIP - Necromancer Most Creative
+title: Necromancer - Creative
 tags: necromancer dps harbinger
 spec: harbinger
+tagline: Hardstuck Accessibility Challenge
 ---
 
 25k DPS on Harbinger using only 2 fingers :D
+
+## Gear
+
+_[Editor's Note: Gear was not provided. Good luck!]_
 
 ## Traits and Skills
 
@@ -35,5 +40,4 @@ Template Code:
 
 ## References
 
-- https://i.imgur.com/r36zHT1.png
-- WIP
+- [Imgur Screenshot](https://i.imgur.com/r36zHT1.png)

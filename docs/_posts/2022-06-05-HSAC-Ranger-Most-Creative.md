@@ -1,9 +1,10 @@
 ---
 author: Sayrann.1356
 editor: berdandy
-title: Accessibility WIP - Ranger Most Creative
+title: Ranger - Creative
 tags: ranger support soulbeast hsac
 spec: soulbeast
+tagline: Hardstuck Accessibility Challenge
 ---
 
 It's a condition dps support Soulbeast which deals good DPS, supports your allies via stances and spirits and has good utility for itself
@@ -13,6 +14,13 @@ In addition, you are supporting your allies because of Leader of the Pack (poiso
 You heal yourself every 3 seconds because of Natural Healing. You buff yourself with Fury and Quickness because of Live Fast whenever you press F3 and you extend the duration of every boon on yourself by 2 seconds everytime you get quickness because of Essence of Speed (5 seconds CD), which makes this build not as reliant on others while also supporting others
 Always always always always flank. Shortbow skills deal a lot more DPS when you flank. Not flanking decreases your DPS significantly
 Concussion Shot is a CC. Shortbow 2 can be used for a pretty good DPS increase but it will higher your APM by a lot.
+
+## Gear
+
+- Weapons: Viper's Shortbow with Bursting/Earth Sigils
+- Armor: Viper's with Krait Runes
+- Trinkets: Viper's
+- Food & Utility: Peppered Cured Meat Flatbread, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -41,5 +49,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?POQAUlRwUYSsPmJWaXeP1JkC-zRJYmRB/YEPB6UA+mGQcWB-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?POQAUlRwUYSsPmJWaXeP1JkC-zRJYmRB/YEPB6UA+mGQcWB-e)

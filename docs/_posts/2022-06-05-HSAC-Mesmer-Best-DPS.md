@@ -1,12 +1,22 @@
 ---
 author: ntiCe.9071
 editor: berdandy
-title: Accessibility WIP - Mesmer Best DPS
+title: Mesmer - DPS
 tags: mesmer dps hsac mirage
 spec: mirage
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Low intensity variation of the "staxe" mirage variant (Staff and axe plus pistol). It is a very competetive dps build with extremely strong defensive capabilities and strong boon coverage (~19might and ~40% alacrity for the subgroup). It has a extremely easy playstyle with only two buttons in the loop and about 3-4 for the opener. 
+
+## Gear
+
+- Weapons: 
+  - Viper Staff with Bursting/Energy Sigils
+  - Viper Axe/Pistol with Bursting/Energy Sigils
+- Armor: Viper with Nightmare Runes
+- Trinkets: Viper
+- Food & Utility: Rare Veggie Pizza, Tuning Icicle
 
 ## Traits and Skills
 
@@ -35,5 +45,4 @@ Template Code:
 
 ## References
 
-- http://de.gw2skills.net/editor/?PixAYdrlRwiYIsEmJWOPdPPA-zRJYmRNfZkZK0RFI8sso0G-e
-- WIP
+- [Gw2Skills](http://de.gw2skills.net/editor/?PixAYdrlRwiYIsEmJWOPdPPA-zRJYmRNfZkZK0RFI8sso0G-e)

@@ -1,9 +1,10 @@
 ---
 author: Hysvear.7386
 editor: berdandy
-title: Accessibility WIP - Revenant Best Support
+title: Revenant - Support
 tags: revenant support herald hsac
 spec: herald
+tagline: Hardstuck Accessibility Challenge
 ---
 
 The "Herald of Life" build is a Revenant Elite spec build that provides. It pulses Alacrity, Healing, Regen, Protection, Fury, Might, and did I mention healing? It also provides CC options and it has quite a bit of toughness and about 25k health.
@@ -22,6 +23,15 @@ Technically you can reduce the APM even more by staying in Centaur stance instea
 The build provided in the gw2skills link below uses a very optimized amount of gear. I.E. Ascended Minstrel, food, infusions, etc.
 
 It's fine to run on Exotic gear, and even mismatched pieces, but every 100 healing power makes a difference.
+
+## Gear
+
+- Weapons: 
+  - Minstrel's Sword/Shield with Transference/Concentration Sigils
+  - Minstrel's Staff with Transference/Concentration Sigils
+- Armor: Minstrel's with Monk Runes
+- Trinkets: Minstrel's
+- Food & Utility: Bowl of Tapioca Pudding, Bountiful Maintenance Oil
 
 ## Traits and Skills
 
@@ -50,5 +60,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PmyAw6ZllQKMKyiNRXsKCjFSisBqgl0zfrC-zRJYjR3fZUdVleK47FJU+bpzNL-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PmyAw6ZllQKMKyiNRXsKCjFSisBqgl0zfrC-zRJYjR3fZUdVleK47FJU+bpzNL-e)

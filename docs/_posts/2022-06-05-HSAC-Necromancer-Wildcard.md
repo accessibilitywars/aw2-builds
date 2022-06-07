@@ -1,14 +1,23 @@
 ---
 author: Dreggon.6598
 editor: berdandy
-title: Accessibility WIP - Necromancer Wildcard
+title: Necromancer - Wildcard
 tags: necromancer reaper hsac
 spec: reaper
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Solo signet reaper build for open world, designed to go into shroud and STAY THERE. Pulls about 15-17k on a golem without any external buffs, solos a few champs (e.g. guild missions) but not all of them, sustains LONG periods of shroud thanks to signet of undeath, and has a 99% crit chance while in shroud - and you always want to be in shroud, because that's where your damage is. Takes out groups fast and easy, has two health bars to stay alive, uses a cleansing sigil on the axe swap. Build has no stun break, or condi cleanse outside of cleansing sigil
 
 Heal shout over signet because the heal signet kept dealing its passive damage to enemies while I was running away, which keeps me in combat, which stops me from mounting up and leaving - this happened enough times to swap it out permanently. Locust signet is an amazing heal in the middle of a group, but most importantly it gives MOVEMENT SPEED because reaper is slow as molasses. Flesh golem elite because the other options in that slot aren't great.
+
+## Gear
+
+- Weapons:
+  - Berserker's Greatsword with Force/Accuracy Sigils
+  - Berserker's Axe/Focus with Force/Cleansing Sigils
+- Armor: Berserker's with Eagle Runes
+- Trinkets: Berserker's
 
 ## Traits and Skills
 
@@ -37,5 +46,4 @@ Template Code:
 
 ## References
 
-- http://en.gw2skills.net/editor/?PSwAEd3lJkwwCbaptru2YjOaXlNbA-zRIYRU/XIRko9GCVUVmMA-e
-- WIP
+- [Gw2Skills](http://en.gw2skills.net/editor/?PSwAEd3lJkwwCbaptru2YjOaXlNbA-zRIYRU/XIRko9GCVUVmMA-e)

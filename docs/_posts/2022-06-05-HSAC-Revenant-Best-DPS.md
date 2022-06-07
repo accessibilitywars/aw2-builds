@@ -1,12 +1,22 @@
 ---
 author: Ziooo.8932
 editor: berdandy
-title: Accessibility WIP - Revenant Best DPS
+title: Revenant - DPS
 tags: revenant dps vindicator hsac
 spec: vindicator
+tagline: Hardstuck Accessibility Challenge
 ---
 
 It's a simplistic Power Vindicator DPS build focused for players that are interested in learning about game concepts and getting into the endgame
+
+## Gear
+
+- Weapons:
+  - Berserker's Greatsword with Force/Impact Sigils
+  - Berserker's Hammer with Force/Impact Sigils
+- Armor: Berserker's with Scholar Runes
+- Trinkets: Berserker's
+- Food & Utility: Bowl of Sweet and Spicy Butternut Squash Soup, Tin of Fruitcake
 
 ## Traits and Skills
 
@@ -35,5 +45,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PmgAEJlxQHMOqh1ROMP6hRSfMCKgJ9lasD-zRIYRUxXG1mCVUB2eQCj9wbJilN-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PmgAEJlxQHMOqh1ROMP6hRSfMCKgJ9lasD-zRIYRUxXG1mCVUB2eQCj9wbJilN-e)

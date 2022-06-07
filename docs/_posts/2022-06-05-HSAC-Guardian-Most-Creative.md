@@ -1,9 +1,10 @@
 ---
 author: Sayrann.1356
 editor: berdandy
-title: Accessibility WIP - Guardian Most Creative
+title: Guardian - Creative
 tags: guardian dps hsac dragonhunter
 spec: dragonhunter
+tagline: Hardstuck Accessibility Challenge
 ---
 
 It's a DPS Dragonhunter
@@ -14,6 +15,13 @@ It provides some good utility. F3 is a block for your group and gives Aegis, F2 
 Bane Signet, F1, greatsword 5, Dragon's Maw and Sanctuary are good CCs
 Sanctuary can be swapped out for whatever you want, basically giving even more utility (reflects, stability, stunbreaks, condi cleanses etc.)
 Since you don't need a second weapon, you can take whatever you want there (scepter/focus or longbow for range for example).
+
+## Gear
+
+- Weapons: Berserker Greatsword with Force/Impact Sigils
+- Armor: Berserker with Scholar Runes
+- Trinkets: Berserker
+- Food & Utility: Peppercorn-Crusted Sous-Vide Steak, Potent Superior Sharpening Stone
 
 ## Traits and Skills
 
@@ -42,5 +50,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PWQAElVwEZTMHWJO0L/tcA-zRIYRUwXG1mAVUA2OL6fGB-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PWQAElVwEZTMHWJO0L/tcA-zRIYRUwXG1mAVUA2OL6fGB-e)

@@ -1,12 +1,20 @@
 ---
-author: GoE (See Below)
+author: GoE
 editor: berdandy
-title: Accessibility WIP - Ranger Best DPS
+title: Ranger - DPS
 tags: ranger dps soulbeast hsac
 spec: soulbeast
+tagline: Hardstuck Accessibility Challenge
 ---
 
 A low apm power soulbeast build providing minor group support with spirits, stance share and the versatility of ranger pets
+
+## Gear
+
+- Weapons: Berserker's Sword/Axe with Force/Impact Sigils
+- Armor: Berserker's with Scholar Runes
+- Trinkets: Berserker's
+- Food & Utility: Cilantro-Lime Sous-Vide Steak, Superior Sharpening Stone
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?POgAwelJwAZIMFmJWqX7P3JsD-zRIYR0wXG1mAVUA2ONUYGA-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?POgAwelJwAZIMFmJWqX7P3JsD-zRIYR0wXG1mAVUA2ONUYGA-e)

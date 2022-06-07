@@ -1,9 +1,10 @@
 ---
 author: Bovan.9481
 editor: berdandy
-title: Accessibility WIP - Guardian Best Support
+title: Guardian - Support
 tags: guardian support hsac firebrand
 spec: firebrand
+tagline: Hardstuck Accessibility Challenge
 ---
 
 This is a very simple to execute quickness heal Firebrand build.
@@ -19,6 +20,15 @@ As with any Firebrand build you have a lot of free slots for any utility you'd l
 What makes this build work is Writ of Persistence. Your symbols stay for 2 more seconds and symbol ticks pulse healing on anyone they effect. Your 3rd auto-attack on hammer drops a symbol that pulses protection so you are entirely passively healing by auto-attacking. You have a mace and shield as well which can be used as a knockback, heal, and multiple blocks, but even auto-attacking on mace and using mace 2 does a huge amount of healing. You can even combine the two for moments of really high pressure.
 
 There is just so much more you can do, but this has dragged on for way too long already. Keep auto-attacking on hammer and keep using your mantras and elite skill, and you'll maintain quickness and keep your squad healthy. Happy bonking!
+
+## Gear
+
+- Weapons: 
+  - Harrier Hammer with Concentration/Transference Sigils
+  - Harrier Mace/Shield with Concentration/Transference Sigils
+- Armor: Harrier with Monk Runes
+- Trinkets: Harrier
+- Food & Utility: Mint Creme Brulee, Bountiful Maintenance Oil
 
 ## Traits and Skills
 
@@ -47,5 +57,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PWyAIl7lRweYXsEGJmWXqPbA-zRJYqRNfZUdKkeF47BRA2DHwXS/gl/3sA-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PWyAIl7lRweYXsEGJmWXqPbA-zRJYqRNfZUdKkeF47BRA2DHwXS/gl/3sA-e)

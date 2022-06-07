@@ -1,9 +1,10 @@
 ---
 author: Awesumness.1823
 editor: berdandy
-title: Accessibility WIP - Mesmer Wildcard
+title: Mesmer - Wildcard
 tags: mesmer dps virtuoso hsac
 spec: virtuoso
+tagline: Hardstuck Accessibility Challenge
 ---
 
 This build focuses on ease of play and scalability with the APM of the player
@@ -27,7 +28,16 @@ For ~12 APM, just use one bladesong every 5 seconds in this order: Bladesong Sor
 For ~24 APM do the same as above but use dagger 2 right after a bladesong to quickly restock blades and refresh stacks of Compounding Power + Illusionary Defens
 
 
-Way more detail here: https://wiki.guildwars2.com/wiki/User:Awesumness/Low_Intensity/Condi_Virtuoso#Gameplay_Fundamentals
+Way more detail [here](https://wiki.guildwars2.com/wiki/User:Awesumness/Low_Intensity/Condi_Virtuoso#Gameplay_Fundamentals)
+
+## Gear
+
+- Weapons:
+  - Rampager Dagger with Bursting Sigil/Viper's Focus with Earth Sigil
+  - Empty/Viper's Sword with Earth Sigil
+- Armor: Rampager's with Krait Runes
+- Trinkets: Rampager's
+- Food & Utility: Bowl of Fancy Potato and Leek Soup, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -56,5 +66,4 @@ Template Code:
 
 ## References
 
-- https://optimizer.discretize.eu/build/?m=raids&v=2&data=XQAAAALHAAAAAAAAAABuAACmbVrlI1EA32Xyvu88PT18faNfxSDNu9-zjURv8r4v1imOTaXno-7_mlWBDPaqy9qgFR8a6XDVgIFIa4bgcOWriE9pR06yPAT6M7DSkEqVl639dB9w6XWcEnlLr4jHbEmk3Qs_tr9XK4Lf5t3mtZKSSglMKvqkLlerVVoSu6Tvzr55_2mYWCs2woLw0kphSb_NGNxQHVnyjhFGj2RkkoGLwX6kbWPCudlKyo402JLjIyitLRvcsa74fdVF___K-GAA
-- WIP
+- [Discretize](https://optimizer.discretize.eu/build/?m=raids&v=2&data=XQAAAALHAAAAAAAAAABuAACmbVrlI1EA32Xyvu88PT18faNfxSDNu9-zjURv8r4v1imOTaXno-7_mlWBDPaqy9qgFR8a6XDVgIFIa4bgcOWriE9pR06yPAT6M7DSkEqVl639dB9w6XWcEnlLr4jHbEmk3Qs_tr9XK4Lf5t3mtZKSSglMKvqkLlerVVoSu6Tvzr55_2mYWCs2woLw0kphSb_NGNxQHVnyjhFGj2RkkoGLwX6kbWPCudlKyo402JLjIyitLRvcsa74fdVF___K-GAA)

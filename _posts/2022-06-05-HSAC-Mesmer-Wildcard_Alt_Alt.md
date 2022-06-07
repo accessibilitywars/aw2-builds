@@ -1,12 +1,25 @@
 ---
 author: Kauna Arget.7052
 editor: berdandy
-title: Accessibility WIP - Mesmer Wildcard
+title: Mesmer - Wildcard
 tags: mesmer dps condi virtuoso
 spec: virtuoso
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Condition Virtuoso - will do 25k with 2 buttons, has a free utility slot, does own stability and can be used to black kite and pylon in raids.
+
+## Gear
+
+- Weapons: 
+  - Viper's Dagger/Focus with Malice/Accuracy Sigils
+  - Viper's Dagger/Pistol with Malice/Accuracy Sigils
+- Armor: Bringer's Leggings, the rest as Sinister pieces, with Lyssa Runes
+- Trinkets:
+  - Viper's Amulet and one Accessory
+  - Rampager's Rings and Backpiece
+  - Bringer's Accessory
+- Food & Utility: Koi Cake, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -35,5 +48,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PiBBg2hrlVwWZIsEmLe6XdxfA-zRhYNhgC5L0LzoHFVEk5YEJFCVBanFYOrA-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PiBBg2hrlVwWZIsEmLe6XdxfA-zRhYNhgC5L0LzoHFVEk5YEJFCVBanFYOrA-e)

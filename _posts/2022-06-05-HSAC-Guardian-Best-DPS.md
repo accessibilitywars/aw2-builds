@@ -1,9 +1,10 @@
 ---
 author: supporthero.4520
 editor: berdandy
-title: Accessibility WIP - Guardian Best DPS
+title: Guardian - DPS
 tags: guardian dps hsac firebrand
 spec: firebrand
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Meant for instanced content
@@ -13,6 +14,15 @@ To proc more of Stoic Demeanor I used axe 3 when my APM budget of 20 allowed me 
 You can hold down torch 4 causing it to activate and cast all charges without pressing the button again. Meaning you can cast 3 abilites in 1 button press
 
 All of these things combined create a rotation useable for a wide range of players. You can scale this rotation down easily as long as you use heavy hitting skills like Sanctuary or Purging Flames. The goal was to make a build with a very low skill floor and skill ceiling allowing players to focus on mechanics while offasionally casting heavy hitting skills. Due to Sanctuary, Axe 2 and axe 3 having high amounts of CC this aspect is also covered automatically. The Elite Signet gives more passive sustain.
+
+## Gear
+
+- Weapons: 
+  - Viper Axe/Torch with Torment/Bursting Sigils
+  - Viper Scepter/(empty) with Geomancy Sigil
+- Armor: Viper with Balthazar Runes
+- Trinkets: One Viper Ring and the rest Sinister
+- Food & Utility: Plate of Beef Rendang, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -41,5 +51,4 @@ Template Code:
 
 ## References
 
-- http://en.gw2skills.net/editor/?PWABc+t%2FlJw6YisK2JW0WfvKA-zRRYfBtbG9cEFSlRQuFQHpgDHkgYP8W49sC-e
-- WIP
+- [Gw2Skills](http://en.gw2skills.net/editor/?PWABc+t%2FlJw6YisK2JW0WfvKA-zRRYfBtbG9cEFSlRQuFQHpgDHkgYP8W49sC-e)

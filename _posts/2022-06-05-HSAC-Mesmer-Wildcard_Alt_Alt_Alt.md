@@ -1,9 +1,10 @@
 ---
 author: Kirby.7302
 editor: berdandy
-title: Accessibility WIP - Mesmer Wildcard
+title: Mesmer - Wildcard
 tags: mesmer support mirage hsac
 spec: mirage
+tagline: Hardstuck Accessibility Challenge
 ---
 
 I created a Support Staff Mirage Build, focusing on providing permanent Alacrity and 25 stacks of Might for your Subgroup. The build also generated a good amount of Aegis Applications, Resolution and Swiftness to your subgroup. There is also a decent amount of personal Protection, Vigor and Regeneration if needed
@@ -13,6 +14,13 @@ All this packed within a "Rotation" without any shatters or weapon swaps. You do
 This resolves the Issue of one Player slacking and tearing other Players due to Build Dependencies with him
 
 This makes the Build easy to pull off for new Players trying to access the Endgame PvE in Guild Wars 2. I considered this to be the goal of the Competition.
+
+## Gear
+
+- Weapons: Ritualist Staff with Bursting/Concentration Sigils
+- Armor: Ritualist with Nightmare Runes
+- Trinkets: Ritualist
+- Food & Utility: Peppercorn-Spiced Eggs Benedict, Toxic Maintenance Oil
 
 ## Traits and Skills
 
@@ -41,5 +49,4 @@ Template Code:
 
 ## References
 
-- http://de.gw2skills.net/editor/?PigAYZlRwiYIsE2IWyP9vNA-zRJYyRBfZkeC0RBI8lQcd5/pBkBoxEfVA-e
-- WIP
+- [Gw2Skills](http://de.gw2skills.net/editor/?PigAYZlRwiYIsE2IWyP9vNA-zRJYyRBfZkeC0RBI8lQcd5/pBkBoxEfVA-e)

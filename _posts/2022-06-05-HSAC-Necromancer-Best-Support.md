@@ -1,13 +1,21 @@
 ---
 author: Angrax.9420
 editor: berdandy
-title: Accessibility WIP - Necromancer Best Support
+title: Necromancer - Support
 tags: necromancer support harbinger hsac
 spec: harbinger
+tagline: Hardstuck Accessibility Challenge
 ---
 
 It is a Support Harbinger build
 This build is easily capeable of maintaining Quickness, Fury and Swiftness for your subgroup while providing the benefits the good revive power of Blood Magic. You will heal quite a bit with this build but you will probably still need a "main" healer. I think as kind of an offheal support this build can work quite well.
+
+## Gear
+
+- Weapons: Celestial Pistol/Warhorn with Concentration/Torment Sigils
+- Armor: Celestial with Tormenting Runes
+- Trinkets: Seraph Rings and the rest Celestial
+- Food & Utility: Meaty Asparagus Skewer, Enhanced Lucent Oil
 
 ## Traits and Skills
 
@@ -36,5 +44,4 @@ Template Code:
 
 ## References
 
-- http://en.gw2skills.net/editor/?PSgEoEWGKLlxy0Yt4wNVHVB-zRRYVRzXOaQGlRuJQ6Fg3TjMO3A-e
-- WIP
+- [Gw2Skills](http://en.gw2skills.net/editor/?PSgEoEWGKLlxy0Yt4wNVHVB-zRRYVRzXOaQGlRuJQ6Fg3TjMO3A-e)

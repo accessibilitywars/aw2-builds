@@ -1,13 +1,23 @@
 ---
 author: REMagic.8937
 editor: berdandy
-title: Accessibility WIP - Mesmer Most Creative
+title: Mesmer - Creative
 tags: mesmer dps mirage hsac
 spec: mirage
+tagline: Hardstuck Accessibility Challenge
 ---
 
 It's a Axe/Pistol + Staff Mirage raid build, that can either greed for highest personal DPS, or dynamically swap to a Staff for ranged damage and great boon output, depending on the situation - since each rotation only uses one weapon set and they use identical traits, this swap can happen midfight!
 If the alacrity provider dies, you can take over! Kind of. 50% uptime. But still.
+
+## Gear
+
+- Weapons: 
+  - Viper's Staff with Bursting/Energy Sigils
+  - Viper's Axe/Pistol with Bursting/Energy Sigils
+- Armor: Viper's with Nightmare Runes
+- Trinkets: Viper's
+- Food & Utility: Rare Veggie Pizza, Tuning Icicle
 
 ## Traits and Skills
 
@@ -36,5 +46,5 @@ Template Code:
 
 ## References
 
-- https://snowcrows.com/builds/mesmer/mirage/condition-alacrity-mirage with a sigil of torment
-- WIP
+- [YouTube](https://www.youtube.com/watch?v=oKz5_FJ1cxQ)
+- [Snowcrows](https://snowcrows.com/builds/mesmer/mirage/condition-alacrity-mirage)

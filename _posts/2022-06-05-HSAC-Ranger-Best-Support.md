@@ -1,12 +1,20 @@
 ---
-author: GoE (See Below)
+author: GoE
 editor: berdandy
-title: Accessibility WIP - Ranger Best Support
+title: Ranger - Support
 tags: ranger support hsac soulbeast
 spec: soulbeast
+tagline: Hardstuck Accessibility Challenge
 ---
 
 A low apm condi soulbeast build providing minor support and utility through spirits, stance share, a fast high cc skill and the versatility of ranger pets
+
+## Gear
+
+- Weapons: Viper's Shortbow with Bursting/Earth Sigils
+- Armor: Viper's with Krait Runes
+- Trinkets: Viper's
+- Food & Utility: Cilantro and Cured Meat Flatbread, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?POQAUlRwQYKMJmJWaP3P3RcE-zRJYmRB/YEPB6UA+mmUcWB-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?POQAUlRwQYKMJmJWaP3P3RcE-zRJYmRB/YEPB6UA+mmUcWB-e)

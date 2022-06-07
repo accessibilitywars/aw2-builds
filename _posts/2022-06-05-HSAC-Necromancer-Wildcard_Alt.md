@@ -1,12 +1,21 @@
 ---
 author: Katastroff.1045 
 editor: berdandy
-title: Accessibility WIP - Necromancer Wildcard
+title: Necromancer - Wildcard
 tags: necromancer reaper hsac
 spec: reaper
+tagline: Hardstuck Accessibility Challenge
 ---
 
 This is a power reaper minions master killer of all build. 
+
+## Gear
+
+- Weapons: 
+  - Berserker's Greatsword with Hydromancy/Force Sigils
+  - Berserker's Axe/Warhorn with Hydromancy/Force Sigils
+- Armor: Berserker's with Ogre Runes
+- Trinkets: Berserker's
 
 ## Traits and Skills
 
@@ -35,5 +44,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PSxEE6MssA2EjiVxGxTdyrZD-zRIYRU7XGdWRVkimNA-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PSxEE6MssA2EjiVxGxTdyrZD-zRIYRU7XGdWRVkimNA-e)

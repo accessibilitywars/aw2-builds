@@ -1,12 +1,20 @@
 ---
-author: GoE (See Below)
+author: GoE
 editor: berdandy
-title: Accessibility Contest - Thief Best DPS
+title: Thief - DPS
 tags: thief dps condi hsac
 spec: thief
+tagline: Hardstuck Accessibility Challenge
 ---
 
 A Low APM Core Condition DPS Thief that can also provide high amounts of CC
+
+## Gear
+
+- Weapons: Viper Dagger/Pistol with Earth/Bursting Sigil
+- Armor: Viper with Afflicted Runes
+- Trinkets: Viper
+- Food & Utility: Plate of Kimchi Pancakes, Toxic Focusing Crystal
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PagAgqlZwoYIsD2IO2KbrbA-zRJYmRD/YEvA6kAGmmZcWB-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PagAgqlZwoYIsD2IO2KbrbA-zRJYmRD/YEvA6kAGmmZcWB-e)

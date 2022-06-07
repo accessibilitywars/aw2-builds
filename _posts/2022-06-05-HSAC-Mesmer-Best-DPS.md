@@ -1,5 +1,5 @@
 ---
-author: ntiCe.9071
+credit: ntiCe.9071
 editor: berdandy
 title: Mesmer - DPS
 tags: mesmer dps hsac mirage

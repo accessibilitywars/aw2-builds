@@ -1,5 +1,5 @@
 ---
-author: Katastroff.1045 
+credit: Katastroff.1045 
 editor: berdandy
 title: Necromancer - Wildcard
 tags: necromancer reaper hsac

@@ -1,5 +1,5 @@
 ---
-author: Waldorn.5643
+credit: Waldorn.5643
 editor: berdandy
 title: Revenant - Wildcard
 tags: revenant dps herald hsac

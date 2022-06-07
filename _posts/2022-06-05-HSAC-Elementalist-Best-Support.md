@@ -1,5 +1,5 @@
 ---
-author: Jzaku.9765
+credit: Jzaku.9765
 editor: berdandy
 title: Elementalist - Support
 tags: elementalist support tempest hsac

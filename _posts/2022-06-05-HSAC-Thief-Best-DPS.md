@@ -1,5 +1,5 @@
 ---
-author: GoE
+credit: GoE
 editor: berdandy
 title: Thief - DPS
 tags: thief dps condi hsac

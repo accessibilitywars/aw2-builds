@@ -1,5 +1,5 @@
 ---
-author: Kauna Arget.7052
+credit: Kauna Arget.7052
 editor: berdandy
 title: Mesmer - Wildcard
 tags: mesmer dps condi virtuoso

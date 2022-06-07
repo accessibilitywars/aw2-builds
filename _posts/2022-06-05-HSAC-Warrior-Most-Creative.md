@@ -1,5 +1,5 @@
 ---
-author: Spyritdragon.6048
+credit: Spyritdragon.6048
 editor: berdandy
 title: Warrior - Creative
 tags: warrior dps berserker hsac

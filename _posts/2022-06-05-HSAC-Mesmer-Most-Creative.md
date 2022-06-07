@@ -1,5 +1,5 @@
 ---
-author: REMagic.8937
+credit: REMagic.8937
 editor: berdandy
 title: Mesmer - Creative
 tags: mesmer dps mirage hsac

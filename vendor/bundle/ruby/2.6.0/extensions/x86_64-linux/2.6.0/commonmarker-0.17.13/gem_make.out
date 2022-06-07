@@ -1,5 +1,5 @@
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20220607-1764-19dtkcs.rb extconf.rb
+/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20220607-1797-vnn6b6.rb extconf.rb
 creating Makefile
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -396,4 +396,4 @@ linking shared-object commonmarker/commonmarker.so
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20220607-1764-jhn0m1/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20220607-1797-18g2mgd/commonmarker

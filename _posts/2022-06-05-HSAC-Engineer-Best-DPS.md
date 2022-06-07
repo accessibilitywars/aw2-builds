@@ -1,5 +1,5 @@
 ---
-author: Thor.3267
+credit: Thor.3267
 editor: berdandy
 title: Engineer - DPS
 tags: engineer dps mechanist condi hsac

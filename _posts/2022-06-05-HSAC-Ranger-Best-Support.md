@@ -1,5 +1,5 @@
 ---
-author: GoE
+credit: GoE
 editor: berdandy
 title: Ranger - Support
 tags: ranger support hsac soulbeast

@@ -1,5 +1,5 @@
 ---
-author: Ziooo.8932
+credit: Ziooo.8932
 editor: berdandy
 title: Revenant - DPS
 tags: revenant dps vindicator hsac

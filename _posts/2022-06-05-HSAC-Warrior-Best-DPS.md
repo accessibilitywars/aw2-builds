@@ -1,5 +1,5 @@
 ---
-author: Micro Hard.3601
+credit: Micro Hard.3601
 editor: berdandy
 title: Warrior - DPS
 tags: warrior dps bladesworn hsac

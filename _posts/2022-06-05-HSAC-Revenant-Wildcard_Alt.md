@@ -1,5 +1,5 @@
 ---
-author: Ebax.1320
+credit: Ebax.1320
 editor: berdandy
 title: Revenant - Wildcard
 tags: revenant support vindicator hsac

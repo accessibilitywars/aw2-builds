@@ -1,5 +1,5 @@
 ---
-author: lcpdragonslayer.7895
+credit: lcpdragonslayer.7895
 editor: berdandy
 title: Necromancer - Creative
 tags: necromancer dps harbinger

@@ -1,5 +1,5 @@
 ---
-author: Angrax.9420
+credit: Angrax.9420
 editor: berdandy
 title: Necromancer - Support
 tags: necromancer support harbinger hsac

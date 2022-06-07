@@ -1,5 +1,5 @@
 ---
-author: Douwe.1746
+credit: Douwe.1746
 editor: berdandy
 title: Revenant - Wildcard 
 tags: revenant herald hsac

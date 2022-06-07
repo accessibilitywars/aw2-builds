@@ -1,12 +1,20 @@
 ---
 author: Narcin Roc.3018
 editor: berdandy
-title: Accessibility Contest - Warrior Best Support
+title: Warrior - Support
 tags: warrior support hsac
 spec: warrior
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Low Intensity Banner Friend
+
+## Gear
+
+- Weapons: Berserker Axe/Axe with Force/Impact Sigils
+- Armor: Berserker with Thief Runes
+- Trinkets: Assassin Backpiece and one Ring, the rest as Berserker
+- Food & Utility: Bowl of Sweet & Spicy Butternut Squash Soup, Potent Superior Sharpening Stone
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PKgAcelJwmYcsOGJO+SVLLA-zxQYhohrbHkYZUbCURB45BJM2AvlIOjA-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PKgAcelJwmYcsOGJO+SVLLA-zxQYhohrbHkYZUbCURB45BJM2AvlIOjA-e)

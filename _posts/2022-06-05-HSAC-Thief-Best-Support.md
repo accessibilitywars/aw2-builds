@@ -1,12 +1,20 @@
 ---
 author: rekinetics.6183
 editor: berdandy
-title: Accessibility Contest - Thief Best Support
+title: Thief - Support
 tags: thief support specter hsac
 spec: specter
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Healing Alacrity Specter!
+
+## Gear
+
+- Weapons: Harrier Sword/Dagger with Transference/Water Sigils
+- Armor: Harrier with Monk Runes
+- Trinkets: Harrier
+- Food & Utility: Bowl of Fruit Salad with Mint Garnish, Bountiful Maintenace Oil
 
 ## Traits and Skills
 
@@ -35,5 +43,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PagAwilhyCZpMWWLeKXnxfA-zRJYqRDfZkYCUdB47s0+mF-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PagAwilhyCZpMWWLeKXnxfA-zRJYqRDfZkYCUdB47s0+mF-e)

@@ -1,7 +1,7 @@
 ---
 author: Ebax.1320
 editor: berdandy
-title: Accessibility Contest - Revenant Wildcard
+title: Accessibility WIP - Revenant Wildcard
 tags: revenant support vindicator hsac
 spec: vindicator
 ---

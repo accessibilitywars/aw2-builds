@@ -1,7 +1,7 @@
 ---
 author: Waldorn.5643
 editor: berdandy
-title: Accessibility Contest - Revenant Wildcard
+title: Accessibility WIP - Revenant Wildcard
 tags: revenant dps herald hsac
 spec: herald
 ---

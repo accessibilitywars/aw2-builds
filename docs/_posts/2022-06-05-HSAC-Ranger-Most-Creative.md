@@ -1,7 +1,7 @@
 ---
 author: Sayrann.1356
 editor: berdandy
-title: Accessibility Contest - Ranger Most Creative
+title: Accessibility WIP - Ranger Most Creative
 tags: ranger support soulbeast hsac
 spec: soulbeast
 ---

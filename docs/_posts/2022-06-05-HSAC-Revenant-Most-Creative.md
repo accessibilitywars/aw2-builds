@@ -1,7 +1,7 @@
 ---
 author: Waldorn.5643
 editor: berdandy
-title: Accessibility Contest - Revenant Most Creative
+title: Accessibility WIP - Revenant Most Creative
 tags: revenant support herald hsac
 spec: herald
 ---

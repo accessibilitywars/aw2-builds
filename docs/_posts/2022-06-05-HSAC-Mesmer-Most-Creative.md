@@ -1,7 +1,7 @@
 ---
 author: REMagic.8937
 editor: berdandy
-title: Accessibility Contest - Mesmer Most Creative
+title: Accessibility WIP - Mesmer Most Creative
 tags: mesmer dps mirage hsac
 spec: mirage
 ---

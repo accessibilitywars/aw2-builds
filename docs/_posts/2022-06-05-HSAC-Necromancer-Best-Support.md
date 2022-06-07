@@ -1,7 +1,7 @@
 ---
 author: Angrax.9420
 editor: berdandy
-title: Accessibility Contest - Necromancer Best Support
+title: Accessibility WIP - Necromancer Best Support
 tags: necromancer support harbinger hsac
 spec: harbinger
 ---

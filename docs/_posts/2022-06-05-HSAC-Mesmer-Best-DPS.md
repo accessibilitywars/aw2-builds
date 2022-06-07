@@ -1,7 +1,7 @@
 ---
 author: ntiCe.9071
 editor: berdandy
-title: Accessibility Contest - Mesmer Best DPS
+title: Accessibility WIP - Mesmer Best DPS
 tags: mesmer dps hsac mirage
 spec: mirage
 ---

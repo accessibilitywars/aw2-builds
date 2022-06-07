@@ -1,7 +1,7 @@
 ---
 author: Kauna Arget.7052
 editor: berdandy
-title: Accessibility Contest - Mesmer Wildcard
+title: Accessibility WIP - Mesmer Wildcard
 tags: mesmer dps condi virtuoso
 spec: virtuoso
 ---

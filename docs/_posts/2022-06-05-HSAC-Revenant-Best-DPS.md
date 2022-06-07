@@ -1,7 +1,7 @@
 ---
 author: Ziooo.8932
 editor: berdandy
-title: Accessibility Contest - Revenant Best DPS
+title: Accessibility WIP - Revenant Best DPS
 tags: revenant dps vindicator hsac
 spec: vindicator
 ---

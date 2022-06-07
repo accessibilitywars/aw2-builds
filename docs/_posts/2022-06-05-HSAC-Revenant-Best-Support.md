@@ -1,5 +1,5 @@
 ---
-author: Hysvear.7386
+credit: Hysvear.7386
 editor: berdandy
 title: Revenant - Support
 tags: revenant support herald hsac

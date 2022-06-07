@@ -1,5 +1,5 @@
 ---
-author: asterius.3941
+credit: asterius.3941
 editor: berdandy
 title: Engineer - Wildcard
 tags: engineer dps hsac condi mechanist

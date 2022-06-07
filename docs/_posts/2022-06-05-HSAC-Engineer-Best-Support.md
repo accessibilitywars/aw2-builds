@@ -1,5 +1,5 @@
 ---
-author: Sutepun.9450
+credit: Sutepun.9450
 editor: berdandy
 title: Engineer - Support
 tags: engineer support hsac scrapper

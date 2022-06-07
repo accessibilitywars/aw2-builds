@@ -1,5 +1,5 @@
 ---
-author: Sayrann.1356
+credit: Sayrann.1356
 editor: berdandy
 title: Ranger - Creative
 tags: ranger support soulbeast hsac

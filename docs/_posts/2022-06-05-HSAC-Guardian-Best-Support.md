@@ -1,5 +1,5 @@
 ---
-author: Bovan.9481
+credit: Bovan.9481
 editor: berdandy
 title: Guardian - Support
 tags: guardian support hsac firebrand

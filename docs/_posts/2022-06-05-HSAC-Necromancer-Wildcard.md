@@ -1,5 +1,5 @@
 ---
-author: Dreggon.6598
+credit: Dreggon.6598
 editor: berdandy
 title: Necromancer - Wildcard
 tags: necromancer reaper hsac

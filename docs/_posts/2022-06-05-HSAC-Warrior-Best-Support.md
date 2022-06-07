@@ -1,5 +1,5 @@
 ---
-author: Narcin Roc.3018
+credit: Narcin Roc.3018
 editor: berdandy
 title: Warrior - Support
 tags: warrior support hsac

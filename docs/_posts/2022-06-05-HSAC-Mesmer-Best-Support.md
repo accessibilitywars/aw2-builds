@@ -1,5 +1,5 @@
 ---
-author: gewoonreneee.2967
+credit: gewoonreneee.2967
 editor: berdandy
 title: Mesmer - Support
 tags: mesmer support chronomancer hsac

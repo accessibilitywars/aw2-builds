@@ -1,5 +1,5 @@
 ---
-author: GoE
+credit: GoE
 editor: berdandy
 title: Ranger - DPS
 tags: ranger dps soulbeast hsac

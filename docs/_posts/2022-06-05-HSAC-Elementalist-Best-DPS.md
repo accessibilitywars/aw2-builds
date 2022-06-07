@@ -1,5 +1,5 @@
 ---
-author: Locogeke.2537
+credit: Locogeke.2537
 editor: berdandy
 title: Elementalist - DPS
 tags: elementalist dps tempest hsac condi

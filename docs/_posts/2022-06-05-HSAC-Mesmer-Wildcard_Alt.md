@@ -1,5 +1,5 @@
 ---
-author: Awesumness.1823
+credit: Awesumness.1823
 editor: berdandy
 title: Mesmer - Wildcard
 tags: mesmer dps virtuoso hsac

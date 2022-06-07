@@ -1,5 +1,5 @@
 ---
-author: rekinetics.6183
+credit: rekinetics.6183
 editor: berdandy
 title: Mesmer - Wildcard
 tags: mesmer dps virtuoso

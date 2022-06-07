@@ -1,12 +1,19 @@
 ---
 author: Micro Hard.3601
 editor: berdandy
-title: Accessibility Contest - Warrior Best DPS
+title: Warrior - DPS
 tags: warrior dps bladesworn hsac
 spec: bladesworn
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Standard dps role as a Blade Sworn pulling 31k dps. Uses Flow Stabilizer for QoL whenever Flow is needed, but can get away without taking it.
+
+## Gear
+
+- Weapons: Berserker Axe/Pistol with Accuracy/Force Sigils
+- Armor: Berserker with Scholar Runes
+- Trinkets: A single Asssasin Accessory, the rest as Berserker
 
 ## Traits and Skills
 
@@ -35,5 +42,4 @@ Template Code:
 
 ## References
 
-- http://en.gw2skills.net/editor/?PKgAcqlZwUZTMKWJO+WWxVA-zxQYhoh7eHESZERRVRCY7BRM2A5PpCYh
-- WIP
+- [Gw2Skills](http://en.gw2skills.net/editor/?PKgAcqlZwUZTMKWJO+WWxVA-zxQYhoh7eHESZERRVRCY7BRM2A5PpCYh)

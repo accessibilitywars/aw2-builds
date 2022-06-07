@@ -1,9 +1,10 @@
 ---
 author: Bovan.9481
 editor: berdandy
-title: Accessibility Contest - Thief Most Creative
+title: Thief - Creative
 tags: thief support specter hsac
 spec: specter
+tagline: Hardstuck Accessibility Challenge
 ---
 
 There is a lot to talk about but I'll do my best to keep it short.
@@ -27,6 +28,15 @@ Honestly there is just so much more you can do with very little work. But this h
 
 
 I didn't get a proper video for this but if you want to try something fun, you can also run sanctuary runes if you are with another healer in a squad. Sanctuary runes give you barrier equal to 20% of all healing you get, and you can shatter that barrier and give it to allies with shadowsteps. 
+
+## Gear
+
+- Weapons:
+  - PlagueDoctor Scepter/Dagger with Concentration/Transference Sigils
+  - PlagueDoctor Sword/Pistol with Concentration/Water Sigils
+- Armor: PlagueDoctor with Monk Runes
+- Trinkets: PlagueDoctor
+- Food & Utility: Bowl of Fruit Salad with Mint Garnish, Bountiful Maintenance Oil
 
 ## Traits and Skills
 
@@ -55,5 +65,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PaCBsixrlhyUZssUWLeOXnxfA-zRJYvxfhkYIUdCkeF47s0+mF-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PaCBsixrlhyUZssUWLeOXnxfA-zRJYvxfhkYIUdCkeF47s0+mF-e)

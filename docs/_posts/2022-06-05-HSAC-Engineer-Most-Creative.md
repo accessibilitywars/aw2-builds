@@ -1,7 +1,7 @@
 ---
 author: Xyonon.3987
 editor: berdandy
-title: Engineer - Most Creative
+title: Engineer - Creative
 tags: engineer dps hsac mechanist
 spec: mechanist
 tagline: Hardstuck Accessibility Challenge

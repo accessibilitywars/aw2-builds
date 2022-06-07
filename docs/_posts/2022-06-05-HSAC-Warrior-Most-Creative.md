@@ -1,14 +1,24 @@
 ---
 author: Spyritdragon.6048
 editor: berdandy
-title: Accessibility Contest - Warrior Most Creative
+title: Warrior - Creative
 tags: warrior dps berserker hsac
 spec: berserker
+tagline: Hardstuck Accessibility Challenge
 ---
 
 An APM-scaling variant of the standard power banner Berserker build that offers a solid and extremely simple baseline for people to follow, and then move on from there as fits their own comfort level.
 
 Pushing the amount of burst skills, it can reach over 20 APM, but it remains perfectly functional when only using 20 APM, and it is extremely simple and straightforward to use. 
+
+## Gear
+
+- Weapons:
+  - Berserker Axe/Shield with Force/Impact Sigils
+  - Berserker Mace/Mace with Paralyzation/Severance Sigils
+- Armor: Berserker with Thief Runes
+- Trinkets: Assassin Backpiece and one Ring, the rest as Berserker
+- Food & Utility: Cilantro Lime Sous-Vide Steak, Potent Superior Sharpening Stone
 
 ## Traits and Skills
 
@@ -37,5 +47,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PKEBc6lnlJw6YcsJmJO+WWtKA-zxQYhonbbHE5p0iIoWJQFKgWGCeaaowZE-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PKEBc6lnlJw6YcsJmJO+WWtKA-zxQYhonbbHE5p0iIoWJQFKgWGCeaaowZE-e)

@@ -1,12 +1,22 @@
 ---
 author: Sutepun.9450
 editor: berdandy
-title: Accessibility WIP - Engineer Best Support
+title: Engineer - Support
 tags: engineer support hsac scrapper
 spec: scrapper
+tagline: Hardstuck Accessibility Challenge
 ---
 
 An engineer loadout that compresses two DPS support builds with only one equipment template. This allows for a player to easily swap between the two without sacrificing their "main" engineer build.
+
+_[Editor's Note: only one gw2skills link was provided, perhaps the "two DPS support builds" are shown in the videos provided to the hardstuck challenge?]_
+
+## Gear
+
+- Weapons: Berserker Rifle with Force/Accuracy Sigils
+- Armor: Diviner Leggings, and the rest Berserker, all with Strength Runes
+- Trinkets: One Assassin Ring, and the rest Diviner
+- Food & Utility: Bowl of Curry Butternut Squash Soup, Tin of Fruitcake
 
 ## Traits and Skills
 
@@ -35,5 +45,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PeQAQlRw4YNMI2JO2LvtWA-zRZYBRBtaLIC4QUtHGRJQVBoOLjqsB-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PeQAQlRw4YNMI2JO2LvtWA-zRZYBRBtaLIC4QUtHGRJQVBoOLjqsB-e)

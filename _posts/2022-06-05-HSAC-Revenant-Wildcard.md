@@ -1,9 +1,10 @@
 ---
 author: Waldorn.5643
 editor: berdandy
-title: Accessibility WIP - Revenant Wildcard
+title: Revenant - Wildcard
 tags: revenant dps herald hsac
 spec: herald
+tagline: Hardstuck Accessibility Challenge
 ---
 
 The AFK Herald
@@ -13,6 +14,15 @@ i only have 2 power infusions, so the actual benchmark might be 1-2k higher, esp
 
 btw, i did this on stream and my viewers can activate some memes and effects on my stream. my viewers were a bit hyped in the beginning of the clip, so, sorry..
 also, i can recommend to watch the whole clip... :P
+
+## Gear
+
+- Weapons:
+  - Berserker Sword/Sword with Air/Force Sigils
+  - Berserker Staff with Severance/Force Sigils
+- Armor: Berserker with Scholar Runes
+- Trinkets: Berserker
+- Food & Utility: Peppercorn-Crusted Sous-Vide Steak, Potent Superior Sharpening Stone
 
 ## Traits and Skills
 
@@ -41,5 +51,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PmxAwyZlxQHMPyh1RNMO6hRSfMCKgJ7la7H-zRIYR0xfItpAqQK0yIwWHkwYP8W0/MC-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PmxAwyZlxQHMPyh1RNMO6hRSfMCKgJ7la7H-zRIYR0xfItpAqQK0yIwWHkwYP8W0/MC-e)

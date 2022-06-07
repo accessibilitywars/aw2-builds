@@ -1,9 +1,10 @@
 ---
 author: Ebax.1320
 editor: berdandy
-title: Accessibility WIP - Revenant Wildcard
+title: Revenant - Wildcard
 tags: revenant support vindicator hsac
 spec: vindicator
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Vindicator has the potential for some absurd healing per second (like 2k per second per player) with just holding up the urn of saint viktor. The self-damaging effect from the urn can be completely negated with the salvation trait "Resilient Spirit" which gives barrier per boon on you every 3 seconds (to a cap of 5 boons). By keeping your vitality low, you minimize the amount of self-damage the urn does to the point that having 4 boons will make it so you can hold up the urn forever
@@ -11,6 +12,15 @@ Vindicator has the potential for some absurd healing per second (like 2k per sec
 A problem with healing vindicators in PvE is that they don't offer boons people want in endgame PvE scenarios. That's why I decided to not even bother and try to lean into the other thing vindicator does well, which is hitting things really hard. This lead to a build where you're doing a ton of healing and a lot of damage for a healer with only three or four skills used total
 
 The build is a little tricky to play, but wildly flexible, allowing new players to still get lovely green numbers on screen, and advanced players to start balancing when to focus on healing versus when to focus on damage and not-boon-related utility.
+
+## Gear
+
+- Weapons:
+  - Zealot Greatsword with Force/Transference Sigils
+  - Zealot Staff with Force/Transference Sigils
+- Armor: Zealot with Monk Runes
+- Trinkets: Zealot
+- Food & Utility: Bowl of Fruit Salad with Mint Garnish, Furious Sharpening Stone
 
 ## Traits and Skills
 
@@ -39,5 +49,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PmgAEZlZSJsTiilSTMUqipShsSagn9lZ0H-zxIY9o6vMqoqqOV9dWa/1C-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PmgAEZlZSJsTiilSTMUqipShsSagn9lZ0H-zxIY9o6vMqoqqOV9dWa/1C-e)

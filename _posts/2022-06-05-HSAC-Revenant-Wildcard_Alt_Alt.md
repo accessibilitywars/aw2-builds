@@ -1,14 +1,24 @@
 ---
 author: Douwe.1746
 editor: berdandy
-title: Accessibility WIP - Revenant Wildcard
+title: Revenant - Wildcard 
 tags: revenant herald hsac
 spec: herald
+tagline: Hardstuck Accessibility Challenge
 ---
 
 Farming mobs from the Halloween Labyrinth and similair events are always a bit stressfull and intense for me, while it should be relaxing. So I figured out a way to maximize loot while minimizing stress
 By using Revenants unique aoe upkeep skills and with a few smart gear choices it is possible to have cheap, yet effective, mob farmer
 The main objective was to hit as many unique enemies as possible with the least key presses, low budget so just 1 daily completionist could fund it, and to still be able to function against the inevitable champions
+
+## Gear
+
+- Weapons:
+  - Berserker Mace/Axe with Perception/Fire Sigils
+  - Berserker Sword/(empty) with Rage Sigil
+- Armor: Berserker with Vampirism Runes
+- Trinkets: Berserker
+- Food & Utility: Omnomberry Bar
 
 ## Traits and Skills
 
@@ -37,5 +47,4 @@ Template Code:
 
 ## References
 
-- http://gw2skills.net/editor/?PmwAkexlhQMsIyjJRdMIijBSkMBigj1Ue7H-zRIYhSBWGrQiqAqLBaNC8bJsB-e
-- WIP
+- [Gw2Skills](http://gw2skills.net/editor/?PmwAkexlhQMsIyjJRdMIijBSkMBigj1Ue7H-zRIYhSBWGrQiqAqLBaNC8bJsB-e)

@@ -1,14 +1,14 @@
 # -*- encoding: utf-8 -*-
-# stub: sawyer 0.9.1 ruby lib
+# stub: sawyer 0.9.2 ruby lib
 
 Gem::Specification.new do |s|
   s.name = "sawyer".freeze
-  s.version = "0.9.1"
+  s.version = "0.9.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.3.5".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
   s.authors = ["Rick Olson".freeze, "Wynn Netherland".freeze]
-  s.date = "2022-04-19"
+  s.date = "2022-06-07"
   s.email = "technoweenie@gmail.com".freeze
   s.homepage = "https://github.com/lostisland/sawyer".freeze
   s.licenses = ["MIT".freeze]

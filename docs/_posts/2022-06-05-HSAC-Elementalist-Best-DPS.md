@@ -1,9 +1,10 @@
 ---
 author: Locogeke.2537
 editor: berdandy
-title: Accessibility Contest - Elementalist Best DPS
+title: Elementalist - DPS
 tags: elementalist dps tempest hsac condi
 spec: tempest
+tagline: Hardstuck Accessibility Challenge
 ---
 
 This is a condi tempest build, it is based around fire attunement. It is aimed to proved 25 might to the subgroup, decent DPS un PUGS (20k) and is good for handling mechanics while your elementals do damage for you.

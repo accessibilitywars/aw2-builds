@@ -6,7 +6,7 @@ echo
 echo ' > npm run start-webpack'
 echo ' > bundle exec jekyll serve' 
 echo
-echo '(reminder: use `screen -ls` to list and `screen -DR` to detach-reattach)'
+echo '(reminder: use `screen -ls` to list and `screen -r <id>` to reattach)'
 
 screen -d -m npm run start-webpack
 screen -d -m bundle exec jekyll serve

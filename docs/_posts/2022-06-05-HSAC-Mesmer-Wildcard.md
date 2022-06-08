@@ -2,7 +2,7 @@
 credit: rekinetics.6183
 editor: berdandy
 title: Mesmer - Wildcard
-tags: mesmer dps virtuoso
+tags: mesmer dps virtuoso hsac
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
 ---

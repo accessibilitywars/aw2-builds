@@ -2,7 +2,7 @@
 credit: lcpdragonslayer.7895
 editor: berdandy
 title: Necromancer - Creative
-tags: necromancer dps harbinger
+tags: necromancer dps harbinger hsac
 spec: harbinger
 tagline: Hardstuck Accessibility Challenge
 ---

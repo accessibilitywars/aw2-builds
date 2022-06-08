@@ -2,7 +2,7 @@
 credit: Kauna Arget.7052
 editor: berdandy
 title: Mesmer - Wildcard
-tags: mesmer dps condi virtuoso
+tags: mesmer dps condi virtuoso hsac
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
 ---

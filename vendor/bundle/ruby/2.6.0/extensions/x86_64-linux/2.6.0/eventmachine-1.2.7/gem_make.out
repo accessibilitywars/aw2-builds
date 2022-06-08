@@ -1,5 +1,5 @@
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20220607-1797-4t7mdq.rb extconf.rb
+/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20220608-1780-2d7yt9.rb extconf.rb
 creating Makefile
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -25,4 +25,4 @@ linking shared-object fastfilereaderext.so
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20220607-1797-s0aus5
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20220608-1780-te04o8

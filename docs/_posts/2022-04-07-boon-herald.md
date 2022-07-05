@@ -3,14 +3,16 @@ layout: build
 author: mukluk
 editor: berdandy
 title: Power Herald
-tags: power herald revenant hot
+tags: power herald revenant hot outdated
 tagline: "Shiny facets for fun and profit"
 spec: herald
 ---
 
 This Herald build uses glint's facets to keep boon uptime high without much stress.
 
-See video below for more details.
+See video below for more details. 
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 ## Traits and Skills
 

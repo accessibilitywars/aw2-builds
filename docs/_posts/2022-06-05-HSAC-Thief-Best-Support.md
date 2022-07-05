@@ -2,10 +2,12 @@
 credit: rekinetics.6183
 editor: berdandy
 title: Thief - Support
-tags: thief support specter hsac
+tags: healing support thief specter eod hsac groupcontent outdated
 spec: specter
 tagline: Hardstuck Accessibility Challenge
 ---
+
+Several traits and skills have changed since this build was published, healing and utility may be different now.
 
 Healing Alacrity Specter!
 

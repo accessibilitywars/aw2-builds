@@ -2,10 +2,12 @@
 credit: Narcin Roc.3018
 editor: berdandy
 title: Warrior - Support
-tags: warrior support hsac
+tags: power warrior core hsac groupcontent outdated
 spec: warrior
 tagline: Hardstuck Accessibility Challenge
 ---
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 Low Intensity Banner Friend
 

@@ -2,7 +2,7 @@
 credit: supporthero.4520
 editor: berdandy
 title: Guardian - DPS
-tags: guardian dps hsac firebrand
+tags: condi guardian firebrand pof hsac groupcontent
 spec: firebrand
 tagline: Hardstuck Accessibility Challenge
 ---

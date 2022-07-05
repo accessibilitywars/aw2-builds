@@ -2,7 +2,7 @@
 credit: lcpdragonslayer.7895
 editor: berdandy
 title: Necromancer - Creative
-tags: necromancer dps harbinger hsac
+tags: condi necromancer harbinger eod hsac
 spec: harbinger
 tagline: Hardstuck Accessibility Challenge
 ---
@@ -11,7 +11,10 @@ tagline: Hardstuck Accessibility Challenge
 
 ## Gear
 
-_[Editor's Note: Gear was not provided. Good luck!]_
+- Weapons: Ritualist Pistol/Dagger with Bursting/Torment Sigils
+- Armor: Viper with Tormenting Runes
+- Trinkets: Viper
+- Food & Utility: Plate of Beef Rendang, Tuning Icicle
 
 ## Traits and Skills
 
@@ -40,4 +43,5 @@ Template Code:
 
 ## References
 
+- [Youtube](https://www.youtube.com/watch?v=cvffhAEi4qw)
 - [Imgur Screenshot](https://i.imgur.com/r36zHT1.png)

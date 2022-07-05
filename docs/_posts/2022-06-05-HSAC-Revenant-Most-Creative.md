@@ -2,10 +2,12 @@
 credit: Waldorn.5643
 editor: berdandy
 title: Revenant - Creative
-tags: revenant support herald hsac
+tags: healing revenant herald hot hsac groupcontent outdated
 spec: herald
 tagline: Hardstuck Accessibility Challenge
 ---
+
+Several traits and skills have changed since this build was published, healing and utility may be different now.
 
 The Heal Herald
 

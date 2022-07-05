@@ -2,10 +2,12 @@
 credit: Hysvear.7386
 editor: berdandy
 title: Revenant - Support
-tags: revenant support herald hsac
+tags: healing revenant herald hot hsac groupcontent outdated
 spec: herald
 tagline: Hardstuck Accessibility Challenge
 ---
+
+Several traits and skills have changed since this build was published, healing and utility may be different now.
 
 The "Herald of Life" build is a Revenant Elite spec build that provides. It pulses Alacrity, Healing, Regen, Protection, Fury, Might, and did I mention healing? It also provides CC options and it has quite a bit of toughness and about 25k health.
 (Dodging? pshh who needs it.

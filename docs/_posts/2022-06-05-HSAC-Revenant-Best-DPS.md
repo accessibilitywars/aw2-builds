@@ -2,7 +2,7 @@
 credit: Ziooo.8932
 editor: berdandy
 title: Revenant - DPS
-tags: revenant dps vindicator hsac
+tags: power revenant vindicator eod hsac groupcontent
 spec: vindicator
 tagline: Hardstuck Accessibility Challenge
 ---

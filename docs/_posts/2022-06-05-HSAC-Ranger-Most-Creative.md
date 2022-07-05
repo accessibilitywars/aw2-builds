@@ -2,10 +2,12 @@
 credit: Sayrann.1356
 editor: berdandy
 title: Ranger - Creative
-tags: ranger support soulbeast hsac
+tags: condi ranger soulbeast pof hsac groupcontent outdated
 spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
 ---
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 It's a condition dps support Soulbeast which deals good DPS, supports your allies via stances and spirits and has good utility for itself
 

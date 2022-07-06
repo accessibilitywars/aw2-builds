@@ -20,7 +20,8 @@ This low-moderate intensity Core Warrior build uses signets for passive bonuses,
 
 Template code:
 
-`[&DQIEKSQ6PT1wAAAArwAAAKkAAACoAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAA=]`
+
+`[&DQIEKSQ6FhdwAAAArwAAAKkAAACoAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAA=]`
 
 ---
 
@@ -31,13 +32,12 @@ Template code:
 </div>
 <div
   data-armory-embed='specializations'
-  data-armory-ids='4,36,61'
+  data-armory-ids='4,36,22'
   data-armory-4-traits='1447,1338,1454'
   data-armory-36-traits='1344,1316,1707'
-  data-armory-61-traits='2107,2095,2060'
+  data-armory-22-traits='1372,1368,1375'
 >
 </div>
-
 
 ## Gearing
 

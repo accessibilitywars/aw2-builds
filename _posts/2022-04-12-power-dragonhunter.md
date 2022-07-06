@@ -3,12 +3,14 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Power Dragonhunter
-tags: power guardian dragonhunter hot
+tags: power guardian dragonhunter hot outdated
 tagline: "We men dream dreams, we work magic, we do good, we do evil. The dragons do not dream. They are dreams. They do not work magic: it is their substance, their being. They do not do; they are."
 spec: dragonhunter
 ---
 
 This moderate intensity Dragonhunter build stays in melee distance and uses the strong sustain of dragonhunter skills to good effect.
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 ## Tier Notes
 

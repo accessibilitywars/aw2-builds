@@ -2,7 +2,7 @@
 credit: ntiCe.9071
 editor: berdandy
 title: Mesmer - DPS
-tags: mesmer dps hsac mirage
+tags: condi mesmer mirage pof hsac groupcontent
 spec: mirage
 tagline: Hardstuck Accessibility Challenge
 ---

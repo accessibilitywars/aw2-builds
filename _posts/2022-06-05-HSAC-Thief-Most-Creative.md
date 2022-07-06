@@ -2,10 +2,12 @@
 credit: Bovan.9481
 editor: berdandy
 title: Thief - Creative
-tags: thief support specter hsac
+tags: healing support thief specter eod hsac groupcontent outdated
 spec: specter
 tagline: Hardstuck Accessibility Challenge
 ---
+
+Several traits and skills have changed since this build was published, healing and utility may be different now.
 
 There is a lot to talk about but I'll do my best to keep it short.
 

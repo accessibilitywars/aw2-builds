@@ -3,12 +3,14 @@ layout: build
 author: mukluk
 editor: berdandy
 title: LI Willbender
-tags: condi guardian willbender eod
+tags: condi guardian willbender eod groupcontent
 tagline: "Blue flames burn hotter"
 spec: willbender
 ---
 
 Mukluk released another LI build, this time for the new Guardian EoD specialization, the Willbender.
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 _Note: I'll do a better write-up later when I have spoons, but the build is provided below. Rotation notes can be found in the video below the build_
 

@@ -2,13 +2,15 @@
 credit: Micro Hard.3601
 editor: berdandy
 title: Elementalist - Creative
-tags: elementalist support catalyst hsac
+tags: support power elementalist catalyst eod hsac groupcontent outdated
 spec: catalyst
 tagline: Hardstuck Accessibility Challenge
 ---
 
 20k dps D/D Quickness Catalyst. Build provides 25might, fury, quickness, prot, and high resistance. Can trade prot and resistance for vigor and resolution by swapping to water instead of earth in the rotation.
 Exchanging the fire traitline for arcane with the same rotation provides identical 20k dps in addition to having higher boon duration and the revive trait; however, the fire traitline has the potential to do more dps with additional apm, but that would exceed the requirements.
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 ## Gear
 

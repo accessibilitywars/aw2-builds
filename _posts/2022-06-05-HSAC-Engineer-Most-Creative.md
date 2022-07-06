@@ -2,7 +2,7 @@
 credit: Xyonon.3987
 editor: berdandy
 title: Engineer - Creative
-tags: engineer dps hsac mechanist
+tags: power engineer mechanist eod hsac groupcontent
 spec: mechanist
 tagline: Hardstuck Accessibility Challenge
 ---

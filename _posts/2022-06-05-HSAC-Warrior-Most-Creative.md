@@ -2,10 +2,12 @@
 credit: Spyritdragon.6048
 editor: berdandy
 title: Warrior - Creative
-tags: warrior dps berserker hsac
+tags: power warrior berserker hot hsac groupcontent outdated
 spec: berserker
 tagline: Hardstuck Accessibility Challenge
 ---
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 An APM-scaling variant of the standard power banner Berserker build that offers a solid and extremely simple baseline for people to follow, and then move on from there as fits their own comfort level.
 

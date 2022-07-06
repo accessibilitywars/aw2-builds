@@ -2,12 +2,14 @@
 credit: Kauna Arget.7052
 editor: berdandy
 title: Mesmer - Wildcard
-tags: mesmer dps condi virtuoso hsac
+tags: condi mesmer virtuoso eod hsac groupcontent
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
 ---
 
 Condition Virtuoso - will do 25k with 2 buttons, has a free utility slot, does own stability and can be used to black kite and pylon in raids.
+
+Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 ## Gear
 

@@ -3,7 +3,7 @@ layout: build
 author: mukluk
 editor: berdandy
 title: LI Shortbow Soulbeast
-tags: condi ranger soulbeast pof
+tags: condi ranger soulbeast pof groupcontent
 tagline: "'I know animals more gallant than the African warthog, but none more courageous [...] His eyes are small and lightless and capable of but one expression - suspicion. What he does not understand, he suspects, and what he suspects, he fights.'<br/>-- Beryl Markham"
 spec: soulbeast
 ---
@@ -89,8 +89,6 @@ Pet
 - Shortbow Earth/Bursting
 
 ## Notes and Tips
-
-If running with a group and can accomodate another keypress, consider swapping Signet of the Wild for either Sun Spirit (Power group) or Frost Spirit (Condi group) to buff everyone's damage.
 
 Elite skills are flexible and not particularly effective in this build. Generally choose Strength of the Pack (useful if alone), or Entangle for a bit of extra dps.
 

@@ -2,7 +2,7 @@
 credit: Angrax.9420
 editor: berdandy
 title: Necromancer - Support
-tags: necromancer support harbinger hsac
+tags: support healing necromancer harbinger eod hsac groupcontent
 spec: harbinger
 tagline: Hardstuck Accessibility Challenge
 ---

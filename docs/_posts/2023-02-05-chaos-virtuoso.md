@@ -78,6 +78,9 @@ Template code:
 - Weapons:
   1. Dagger (Rampager)/Sword (Viper), Bursting/Earth Sigils
   2. empty/Torch (Viper), Earth Sigil
+- Food/Utility:
+  - Bowl of Fancy Potato & Leek Soup (+100 Precision/+70 Condition Damage)
+  - Toxic Focusing Crystal (3% power + 3% precision -> condition damage)
 
 ## Videos
 

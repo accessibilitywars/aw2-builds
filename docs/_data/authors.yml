@@ -3,9 +3,9 @@ berdandy:
   bio         : "Code slinger, MS-haver and general accessibility advocate"
   avatar      : "/assets/bio_photos/berdandy.jpg"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/andyberdan"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mstdn.games/berdandy"
 jupiter:
   name        : "Jupiter"
   bio         : "Original author of the metabattle LI builds"
@@ -61,3 +61,5 @@ zrtassassin:
     - label: "GitHub"
       icon: "fab fa-fw fab fa-github"
       url: "https://github.com/ZRTAssassin"
+fenrir:
+  name        : "Fenrir"

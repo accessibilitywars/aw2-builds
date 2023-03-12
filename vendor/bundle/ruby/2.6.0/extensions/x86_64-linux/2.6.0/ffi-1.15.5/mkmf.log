@@ -68,9 +68,9 @@ conftest.c:14:57: error: ‘ffi_prep_cif_var’ undeclared (first use in this fu
       |                                                         ^~~~~~~~~~~~~~~~
 conftest.c:14:57: note: each undeclared identifier is reported only once for each function it appears in
 conftest.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 checked program was:
 /* begin */
  1: #include "ruby.h"
@@ -120,9 +120,9 @@ conftest.c:14:57: error: ‘ffi_raw_call’ undeclared (first use in this functi
       |                                                         ^~~~~~~~~~~~
 conftest.c:14:57: note: each undeclared identifier is reported only once for each function it appears in
 conftest.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 checked program was:
 /* begin */
  1: #include "ruby.h"
@@ -172,9 +172,9 @@ conftest.c:14:57: error: ‘ffi_prep_raw_closure’ undeclared (first use in thi
       |                                                         ^~~~~~~~~~~~~~~~~~~~
 conftest.c:14:57: note: each undeclared identifier is reported only once for each function it appears in
 conftest.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 checked program was:
 /* begin */
  1: #include "ruby.h"

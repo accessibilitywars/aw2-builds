@@ -1,5 +1,5 @@
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20221115-1741-zxdm34.rb extconf.rb
+/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20230312-1838-1b3nbs4.rb extconf.rb
 creating Makefile
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -28,9 +28,9 @@ arena.c:88:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaratio
    88 |   void *new_ptr = arena_calloc(1, size);
       |   ^~~~
 arena.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling autolink.c
 autolink.c: In function ‘www_match’:
 autolink.c:178:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
@@ -61,9 +61,9 @@ autolink.c:415:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclar
   415 |   cmark_mem *mem = cmark_get_default_mem_allocator();
       |   ^~~~~~~~~
 autolink.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling blocks.c
 blocks.c: In function ‘cmark_parser_reset’:
 blocks.c:118:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
@@ -105,9 +105,9 @@ blocks.c:1295:7: warning: ISO C90 forbids mixed declarations and code [-Wdeclara
  1295 |       int matches_end_condition;
       |       ^~~
 blocks.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling buffer.c
 buffer.c: In function ‘cmark_strbuf_grow’:
 buffer.c:54:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
@@ -122,9 +122,9 @@ buffer.c:187:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclarat
   187 |   bufsize_t i;
       |   ^~~~~~~~~
 buffer.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling cmark.c
 compiling cmark_ctype.c
 compiling commonmark.c
@@ -139,9 +139,9 @@ commonmark.c:478:7: warning: ISO C90 forbids mixed declarations and code [-Wdecl
   478 |       char n[32];
       |       ^~~~
 commonmark.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling commonmarker.c
 In file included from /opt/hostedtoolcache/Ruby/2.6.10/x64/include/ruby-2.6.0/ruby/ruby.h:2111,
                  from /opt/hostedtoolcache/Ruby/2.6.10/x64/include/ruby-2.6.0/ruby.h:33,
@@ -219,9 +219,9 @@ commonmarker.c:1093:3: warning: ISO C90 forbids mixed declarations and code [-Wd
  1093 |   cmark_mem *mem = cmark_node_mem(node);
       |   ^~~~~~~~~
 commonmarker.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling core-extensions.c
 compiling ext_scanners.c
 compiling footnotes.c
@@ -238,9 +238,9 @@ html.c:399:7: warning: ISO C90 forbids mixed declarations and code [-Wdeclaratio
   399 |       char n[32];
       |       ^~~~
 html.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling inlines.c
 inlines.c: In function ‘adjust_subj_node_newlines’:
 inlines.c:269:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
@@ -270,9 +270,9 @@ inlines.c:871:7: warning: ISO C90 forbids mixed declarations and code [-Wdeclara
   871 |       cmark_node *node = make_raw_html(subj, subj->pos - matchlen - 1, subj->pos - 1, contents);
       |       ^~~~~~~~~~
 inlines.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling iterator.c
 iterator.c: In function ‘cmark_iter_new’:
 iterator.c:13:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
@@ -287,9 +287,9 @@ iterator.c:132:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclar
   132 |   cmark_iter *iter = cmark_iter_new(root);
       |   ^~~~~~~~~~
 iterator.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling latex.c
 latex.c: In function ‘get_link_type’:
 latex.c:165:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration-after-statement]
@@ -299,9 +299,9 @@ latex.c:177:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclarati
   177 |   const char *title = cmark_node_get_title(node);
       |   ^~~~~
 latex.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling linked_list.c
 compiling man.c
 man.c: In function ‘S_render_node’:
@@ -309,9 +309,9 @@ man.c:132:9: warning: ISO C90 forbids mixed declarations and code [-Wdeclaration
   132 |         char list_number_s[LIST_NUMBER_SIZE];
       |         ^~~~
 man.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling map.c
 compiling node.c
 node.c: In function ‘S_node_unlink’:
@@ -341,9 +341,9 @@ node.c:885:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclaratio
   885 |   cmark_node *old_last_child = node->last_child;
       |   ^~~~~~~~~~
 node.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling plaintext.c
 compiling plugin.c
 compiling references.c
@@ -353,9 +353,9 @@ registry.c:23:3: warning: ISO C90 forbids mixed declarations and code [-Wdeclara
    23 |   cmark_llist *syntax_extensions_list = cmark_plugin_steal_syntax_extensions(plugin),
       |   ^~~~~~~~~~~
 registry.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling render.c
 compiling scanners.c
 compiling strikethrough.c
@@ -364,9 +364,9 @@ strikethrough.c:157:3: warning: ISO C90 forbids mixed declarations and code [-Wd
   157 |   cmark_mem *mem = cmark_get_default_mem_allocator();
       |   ^~~~~~~~~
 strikethrough.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling syntax_extension.c
 compiling table.c
 table.c: In function ‘row_from_string’:
@@ -386,9 +386,9 @@ table.c:626:7: warning: ISO C90 forbids mixed declarations and code [-Wdeclarati
   626 |       int i = 0;
       |       ^~~
 table.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling tagfilter.c
 compiling utf8.c
 compiling xml.c
@@ -396,4 +396,4 @@ linking shared-object commonmarker/commonmarker.so
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20221115-1741-1b9y425/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20230312-1838-1iabjk8/commonmarker

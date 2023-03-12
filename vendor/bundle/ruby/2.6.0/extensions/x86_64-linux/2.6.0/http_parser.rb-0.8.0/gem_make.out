@@ -1,5 +1,5 @@
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20221115-1741-10yxtbw.rb extconf.rb
+/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20230312-1838-ehgdu2.rb extconf.rb
 creating Makefile
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -47,12 +47,12 @@ ruby_http_parser.c:492:3: warning: ISO C90 forbids mixed declarations and code [
   492 |   ParserWrapper *wrapper = NULL;
       |   ^~~~~~~~~~~~~
 ruby_http_parser.c: At top level:
-cc1: warning: unrecognized command line option ‘-Wno-self-assign’
-cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
-cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+cc1: note: unrecognized command-line option ‘-Wno-self-assign’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-parentheses-equality’ may have been intended to silence earlier diagnostics
+cc1: note: unrecognized command-line option ‘-Wno-constant-logical-operand’ may have been intended to silence earlier diagnostics
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20221115-1741-ddib89
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20230312-1838-1hvai90

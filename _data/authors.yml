@@ -5,7 +5,7 @@ berdandy:
   links:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mstdn.games/berdandy"
+      url: "https://mstdn.games/@berdandy"
 jupiter:
   name        : "Jupiter"
   bio         : "Original author of the metabattle LI builds"

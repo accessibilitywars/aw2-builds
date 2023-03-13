@@ -63,3 +63,5 @@ zrtassassin:
       url: "https://github.com/ZRTAssassin"
 fenrir:
   name        : "Fenrir"
+folstar:
+  name        : "Folstar"

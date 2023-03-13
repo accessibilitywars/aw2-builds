@@ -14,7 +14,7 @@ Low Intensity Heal Alac Mech
 
 Autoattack. Don't forget to set auto-attack on your mech F1-3 abilities.
 
-Press 2 once in a while for a defensive bubble.
+Press 2, and use your bubble (Barrier Signet)
 
 ## Traits and Skills
 

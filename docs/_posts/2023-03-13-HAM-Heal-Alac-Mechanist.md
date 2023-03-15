@@ -12,9 +12,12 @@ Low Intensity Heal Alac Mech
 
 #### Rotation
 
-Autoattack. Don't forget to set auto-attack on your mech F1-3 abilities.
+Autoattack. Don't forget to set auto-attack (right-click) on your mech abilities, 
+<span data-aw2-key="F1" data-aw2-skill="63365"/>,
+<span data-aw2-key="F2" data-aw2-skill="63293"/>,
+<span data-aw2-key="F3" data-aw2-skill="63141"/>
 
-Press 2, and use your bubble (Barrier Signet)
+Press <span data-aw2-key="2" data-aw2-skill="63169"/> off cooldown, and use your bubble <span data-aw2-key="7" data-aw2-skill="63262"/> particularly for projectile defense
 
 ## Traits and Skills
 

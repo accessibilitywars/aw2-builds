@@ -15,17 +15,25 @@ Take special attention with the gearing, it's less straightforward that most.
 
 #### Rotation
 
-No need for weapon swap. You only spam Dagger2 and Dagger3.
+No need for weapon swap. You only spam Dagger <span data-aw2-key="2" data-aw2-skill="62560"/> and Dagger <span data-aw2-key="3" data-aw2-skill="62607"/>.
 
-Whenever you have 5 blades you cast F1 or F2.
+Whenever you have 5 blades you cast <span data-aw2-key="F1" data-aw2-skill="62586"/> or <span data-aw2-key="F2" data-aw2-skill="62616"/>.
 
-If you want to increase DPS you can cast the elite too.
+If you want to increase DPS you can cast the elite: <span data-aw2-key="0" data-aw2-skill="24755"/>
 
 Don't bother casting phantasms since there are no traits improving them.
 
-- *Blocks:* You have 3 blocks always available since they are not part of the rotation, F4, F5 and Sword4.
-- *CC:* Sword4, F3, Signet of Domination, Torch5.
-- *Stun Break:* Signet of Midnight is a stun break and it's always available since it's not part of the rotation.
+- *Blocks:* You have 3 blocks always available since they are not part of the rotation, 
+  <span data-aw2-key="F4" data-aw2-skill="68273"/>,
+  <span data-aw2-key="F5" data-aw2-skill="62597"/>,
+  Sword <span data-aw2-key="4" data-aw2-skill="10280"/>,
+- *CC:*
+  Sword <span data-aw2-key="4" data-aw2-skill="10280"/>,
+  <span data-aw2-key="F3" data-aw2-skill="62602"/>,
+  <span data-aw2-key="9" data-aw2-skill="10232"/>,
+  Torch <span data-aw2-key="5" data-aw2-skill="10189"/> (requires weapon swap)
+- *Stun Break:*
+  Signet of Midnight <span data-aw2-key="8" data-aw2-skill="10234"/> is a stun break and it's always available since it's not part of the rotation
 
 #### Features
 

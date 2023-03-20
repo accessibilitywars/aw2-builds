@@ -5,6 +5,8 @@ published: false
 ---
 
 Something on color blindness?
+- reference: https://hardstuck.gg/colorblind-mode-commanding/
+- also: https://www.reddit.com/r/Guildwars2/comments/11vnzyk/small_request_regarding_the_commander_tag/jcvcnce/
 
 Is there a screen reader that works with gw2?
 

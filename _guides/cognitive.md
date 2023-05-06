@@ -3,6 +3,9 @@ title: Cognitive Accessibility
 excerpt: Guides for accommodating cognitive challenges, such as memory, processing speed, etc
 ---
 
+## News
+> In the [Spring 2023 Update](https://www.guildwars2.com/en/news/studio-update-spring-2023/), Anet revealed that they would be adding a new option, _Hide Ally Visual Effects_, which "will give you control over whether visual effects are shown for allied players, pets, and minions. [...] Some high-impact allied visual effects that convey important information in combat, such as combo fields, cannot be hidden." Good news for those of us who get overwhelmed by too much visual noise.
+
 Cognitive Accessibility refers to providing accommodations to issues such as processing speed, memory or other cognition-related challenges.
 
 Of course, the LI builds on this site are great for reducing cognitive load when doing combat, but there are additional tools available to make your life in Tyria just a little easier.

@@ -1,5 +1,5 @@
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
-/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20230326-1824-tnlbud.rb extconf.rb
+/opt/hostedtoolcache/Ruby/2.6.10/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/2.6.0 -r ./siteconf20230506-1825-1jwihmq.rb extconf.rb
 checking for -lstdc++... yes
 creating Makefile
 
@@ -28,4 +28,4 @@ linking shared-object unf_ext.so
 
 current directory: /home/runner/work/aw2-builds/aw2-builds/docs/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20230326-1824-g57zpg
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20230506-1825-1ximm6

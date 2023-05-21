@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo 'This runs the following commandsin a detached screen(1)'
+echo 'This runs the following commands in a detached screen(1)'
 echo 'If you are not familiar with the screen utility, consider running manually:'
 echo
 echo ' > npm run start-webpack'

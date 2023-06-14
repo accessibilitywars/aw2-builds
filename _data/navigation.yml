@@ -8,3 +8,5 @@ main:
     url: /builds/
   - title: "Builds by Tag"
     url: /tags/
+  - title: "Alternatives"
+    url: /alternatives/

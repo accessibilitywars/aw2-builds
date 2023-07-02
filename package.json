@@ -39,5 +39,8 @@
     "@babel/runtime": "^7.17.9",
     "@discretize/gw2-ui-new": "^0.0.17",
     "prop-types": "^15.8.1"
+  },
+  "overrides": {
+    "word-wrap" : "npm:@aashutoshrathi/word-wrap"
   }
 }

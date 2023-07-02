@@ -9,7 +9,7 @@ require "etc"
 # :include: README.rdoc
 
 module Minitest
-  VERSION = "5.18.0" # :nodoc:
+  VERSION = "5.18.1" # :nodoc:
 
   @@installed_at_exit ||= false
   @@after_run = []
@@ -32,7 +32,7 @@ module Minitest
 
   cattr_accessor :parallel_executor
 
-  warn "DEPRECATED: use MT_CPU instead of N for parallel test runs" if ENV["N"]
+  warn "DEPRECATED: use MT_CPU instead of N for parallel test runs" if ENV["N"] && ENV["N"].to_i > 0
   n_threads = (ENV["MT_CPU"] || ENV["N"] || Etc.nprocessors).to_i
 
   self.parallel_executor = Parallel::Executor.new n_threads
@@ -331,19 +331,25 @@ module Minitest
     # reporter to record.
 
     def self.run reporter, options = {}
-      filter = options[:filter] || "/./"
-      filter = Regexp.new $1 if filter.is_a?(String) && filter =~ %r%/(.*)/%
+      filtered_methods = if options[:filter]
+        filter = options[:filter]
+        filter = Regexp.new $1 if filter.is_a?(String) && filter =~ %r%/(.*)/%
 
-      filtered_methods = self.runnable_methods.find_all { |m|
-        filter === m || filter === "#{self}##{m}"
-      }
+        self.runnable_methods.find_all { |m|
+          filter === m || filter === "#{self}##{m}"
+        }
+      else
+        self.runnable_methods
+      end
 
-      exclude = options[:exclude]
-      exclude = Regexp.new $1 if exclude =~ %r%/(.*)/%
+      if options[:exclude]
+        exclude = options[:exclude]
+        exclude = Regexp.new $1 if exclude =~ %r%/(.*)/%
 
-      filtered_methods.delete_if { |m|
-        exclude === m || exclude === "#{self}##{m}"
-      }
+        filtered_methods.delete_if { |m|
+          exclude === m || exclude === "#{self}##{m}"
+        }
+      end
 
       return if filtered_methods.empty?
 
@@ -363,6 +369,14 @@ module Minitest
     def self.run_one_method klass, method_name, reporter
       reporter.prerecord klass, method_name
       reporter.record Minitest.run_one_method(klass, method_name)
+    end
+
+    ##
+    # Defines the order to run tests (:random by default). Override
+    # this or use a convenience method to change it for your tests.
+
+    def self.test_order
+      :random
     end
 
     def self.with_info_handler reporter, &block # :nodoc:

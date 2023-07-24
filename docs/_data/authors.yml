@@ -1,5 +1,6 @@
 berdandy:
   name        : "Berdandy"
+  ign         : "berdandy.1968"
   bio         : "Code slinger, MS-haver and general accessibility advocate"
   avatar      : "/assets/bio_photos/berdandy.jpg"
   links:
@@ -65,3 +66,6 @@ fenrir:
   name        : "Fenrir"
 folstar:
   name        : "Folstar"
+riack:
+  name        : "Riack"
+  ign         : "manannan.8291"

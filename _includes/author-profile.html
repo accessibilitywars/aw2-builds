@@ -20,6 +20,7 @@
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">Author: {{ author.name }}</a>
     </h3>
+	<br/>
     {% endif %}
 
     {% if page.credit %}
@@ -40,6 +41,12 @@
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">{{ author.location }}</span>
+        </li>
+      {% endif %}
+
+      {% if author.ign %}
+        <li>
+            <i class="fas fa-fw fa-users" aria-hidden="true"></i><span class="label">GW2: {{ author.ign }}</span>
         </li>
       {% endif %}
 

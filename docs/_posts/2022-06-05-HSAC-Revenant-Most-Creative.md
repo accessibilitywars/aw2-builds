@@ -7,8 +7,6 @@ spec: herald
 tagline: Hardstuck Accessibility Challenge
 ---
 
-Several traits and skills have changed since this build was published, healing and utility may be different now.
-
 The Heal Herald
 
 This is a "druid-like" build which is really easy to play, has really reliable boons (100% protection, regen, fury, swiftness and 25 might) really good ticking healing, insane burst healing (~11k heal with one button press which has 1.5s cd) and one of the best cc skills in the game if needed (rev staff 5)

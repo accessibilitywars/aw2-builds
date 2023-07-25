@@ -9,8 +9,6 @@ tagline: Hardstuck Accessibility Challenge
 
 Chrono tank build providing quickness and alacrity, and helping the druid's with a place in the meta.
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 ## Gear
 
 - Weapons: 

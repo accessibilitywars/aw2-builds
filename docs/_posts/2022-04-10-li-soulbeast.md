@@ -3,7 +3,7 @@ layout: build
 author: mukluk
 editor: berdandy
 title: LI Shortbow Soulbeast
-tags: condi ranger soulbeast pof groupcontent
+tags: condi ranger soulbeast pof groupcontent outdated
 tagline: "'I know animals more gallant than the African warthog, but none more courageous [...] His eyes are small and lightless and capable of but one expression - suspicion. What he does not understand, he suspects, and what he suspects, he fights.'<br/>-- Beryl Markham"
 spec: soulbeast
 ---

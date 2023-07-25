@@ -2,7 +2,7 @@
 layout: build
 author: muwum
 title: Power Bladesworn
-tags: power warrior bladesworn eod groupcontent
+tags: power warrior bladesworn eod groupcontent outdated
 tagline: "'It is my duty to keep the people of Cantha safe.'<br/>-- Minister Li"
 spec: bladesworn
 ---

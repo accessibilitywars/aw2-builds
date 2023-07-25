@@ -19,6 +19,14 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% assign highlight_flag = "" %}
+{% for tag in page.tags %}
+	{% if tag == "outdated" %}
+		{% assign highlight_flag = "<blockquote><strong><em>Several traits and skills have changed since this build was published. It has been flagged for review. Comments welcomed in the discord.</em></strong></blockquote>" %}
+	{% endif %}
+{% endfor%}
+
+
 <div id="main" role="main">
   {% include build-sidebar.html %}
 
@@ -49,6 +57,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+		{{ highlight_flag }}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

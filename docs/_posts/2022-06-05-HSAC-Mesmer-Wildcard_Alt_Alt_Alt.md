@@ -2,7 +2,7 @@
 credit: Kirby.7302
 editor: berdandy
 title: Mesmer - Wildcard
-tags: support condi mesmer mirage pof hsac groupcontent
+tags: support condi mesmer mirage pof hsac groupcontent outdated
 spec: mirage
 tagline: Hardstuck Accessibility Challenge
 ---

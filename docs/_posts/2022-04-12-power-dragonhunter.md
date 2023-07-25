@@ -10,8 +10,6 @@ spec: dragonhunter
 
 This moderate intensity Dragonhunter build stays in melee distance and uses the strong sustain of dragonhunter skills to good effect.
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 ## Tier Notes
 
 1. Use auto-attacks, <span data-aw2-key="F1" data-aw2-skill="29887"></span>, and <span data-aw2-key="2" data-aw2-skill="9097"></span>.

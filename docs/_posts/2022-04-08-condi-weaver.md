@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Fire Weaver
-tags: condi elementalist weaver pof
+tags: condi elementalist weaver pof outdated
 tagline: "'To know that this flame will spread this way across the door and up across the ceiling, not because of the physics of flammable liquids, but because it wants to.'"
 spec: weaver
 ---

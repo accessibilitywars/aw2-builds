@@ -9,8 +9,6 @@ tagline: Hardstuck Accessibility Challenge
 
 A low apm power soulbeast build providing minor group support with spirits, stance share and the versatility of ranger pets
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 ## Gear
 
 - Weapons: Berserker's Sword/Axe with Force/Impact Sigils

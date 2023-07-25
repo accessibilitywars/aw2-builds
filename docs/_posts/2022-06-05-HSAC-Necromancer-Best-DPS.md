@@ -2,7 +2,7 @@
 credit: Micro Hard.3601
 editor: berdandy
 title: Necromancer - DPS
-tags: condi necromancer harbinger eod hsac groupcontent
+tags: condi necromancer harbinger eod hsac groupcontent outdated
 spec: harbinger
 tagline: Hardstuck Accessibility Challenge
 ---

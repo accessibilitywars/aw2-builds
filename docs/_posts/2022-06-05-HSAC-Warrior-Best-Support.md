@@ -7,8 +7,6 @@ spec: warrior
 tagline: Hardstuck Accessibility Challenge
 ---
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 Low Intensity Banner Friend
 
 ## Gear

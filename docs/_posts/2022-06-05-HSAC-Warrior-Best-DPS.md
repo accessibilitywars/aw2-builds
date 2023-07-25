@@ -7,8 +7,6 @@ spec: bladesworn
 tagline: Hardstuck Accessibility Challenge
 ---
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 Standard dps role as a Blade Sworn pulling 31k dps. Uses Flow Stabilizer for QoL whenever Flow is needed, but can get away without taking it.
 
 ## Gear

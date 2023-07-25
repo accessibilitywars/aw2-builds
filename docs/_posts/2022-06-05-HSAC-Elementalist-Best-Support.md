@@ -2,7 +2,7 @@
 credit: Jzaku.9765
 editor: berdandy
 title: Elementalist - Support
-tags: healing elementalist tempest hot hsac groupcontent
+tags: healing elementalist tempest hot hsac groupcontent outdated
 spec: tempest
 tagline: Hardstuck Accessibility Challenge
 ---

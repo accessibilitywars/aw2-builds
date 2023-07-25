@@ -3,29 +3,44 @@ layout: build
 author: fenrir
 editor: berdandy
 title: DPS Chaos Virtuoso
-tags: condi virtuoso mesmer eod groupcontent
+tags: condi virtuoso mesmer eod groupcontent 
 tagline: "Keep your mind sharp and your blades sharper"
 spec: virtuoso
 ---
 
 Low Intensity DPS Condition Virtuoso
 
+> Update Warning: June 27, 2023
+>
+> A few changes to skills used in this build were in this update, particularly to Dagger 2 & 3. It is ultimately an AoE buff, dealing more damage in
+> situations where there are adds. The build has been adjusted.
+>
+> The videos below are pre-update. They will help for rotation, but numbers may be inaccurate.
+>
+> This message will self-descruct when I get around to it.
+
+# Description
+
 This build was shared with me from a member of a friend's static. It's a pretty nice 3-button virtuoso build that has some significant utility flexibility to accommodate handling of raid/strike mechanics.
+
 Take special attention with the gearing, it's less straightforward that most.
 
-#### Rotation
+# Rotation
 
 No need for weapon swap. You only spam Dagger <span data-aw2-key="2" data-aw2-skill="62560"/> and Dagger <span data-aw2-key="3" data-aw2-skill="62607"/>.
 
+> Note that Dagger <span data-aw2-key="3" data-aw2-skill="62607"/> is ground-targeted as of June 27
+
 Whenever you have 5 blades you cast <span data-aw2-key="F1" data-aw2-skill="62586"/> or <span data-aw2-key="F2" data-aw2-skill="62616"/>.
 
-If you want to increase DPS you can cast the elite: <span data-aw2-key="0" data-aw2-skill="24755"/>
+If you want to increase DPS you can cast the elite: <span data-aw2-key="0" data-aw2-skill="24755"/> or <span data-aw2-key="F5" data-aw2-skill="62597"/> if you are stocked with blades and both <span data-aw2-key="F1" data-aw2-skill="62586"/> and <span data-aw2-key="F2" data-aw2-skill="62616"/> are on cooldown.
+
+> Note that <span data-aw2-key="F5" data-aw2-skill="62597"/> is no longer a block as of June 27
 
 Don't bother casting phantasms since there are no traits improving them.
 
 - *Blocks:* You have 3 blocks always available since they are not part of the rotation, 
   <span data-aw2-key="F4" data-aw2-skill="68273"/>,
-  <span data-aw2-key="F5" data-aw2-skill="62597"/>,
   Sword <span data-aw2-key="4" data-aw2-skill="10280"/>,
 - *CC:*
   Sword <span data-aw2-key="4" data-aw2-skill="10280"/>,

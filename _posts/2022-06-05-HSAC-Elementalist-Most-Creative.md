@@ -2,7 +2,7 @@
 credit: Micro Hard.3601
 editor: berdandy
 title: Elementalist - Creative
-tags: support power elementalist catalyst eod hsac groupcontent outdated
+tags: support power elementalist catalyst eod hsac groupcontent review-needed
 spec: catalyst
 tagline: Hardstuck Accessibility Challenge
 ---

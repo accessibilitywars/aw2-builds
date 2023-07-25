@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Nature Magic Ranger
-tags: power core ranger outdated
+tags: power core ranger review-needed
 tagline: "You're a natural"
 spec: ranger
 ---

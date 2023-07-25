@@ -2,7 +2,7 @@
 credit: GoE
 editor: berdandy
 title: Ranger - Support
-tags: condi ranger soulbeast pof hsac groupcontent outdated
+tags: condi ranger soulbeast pof hsac groupcontent review-needed
 spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
 ---

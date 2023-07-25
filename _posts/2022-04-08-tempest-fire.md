@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Tempest Fire
-tags: condi elementalist tempest hot outdated
+tags: condi elementalist tempest hot review-needed
 tagline: "'Burn, baby, burn!'"
 spec: tempest
 ---

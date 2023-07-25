@@ -2,7 +2,7 @@
 credit: Spyritdragon.6048
 editor: berdandy
 title: Warrior - Creative
-tags: power warrior berserker hot hsac groupcontent outdated
+tags: power warrior berserker hot hsac groupcontent review-needed
 spec: berserker
 tagline: Hardstuck Accessibility Challenge
 ---

@@ -2,7 +2,7 @@
 credit: rekinetics.6183
 editor: berdandy
 title: Thief - Support
-tags: healing support thief specter eod hsac groupcontent outdated
+tags: healing support thief specter eod hsac groupcontent review-needed
 spec: specter
 tagline: Hardstuck Accessibility Challenge
 ---

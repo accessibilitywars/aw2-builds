@@ -21,8 +21,11 @@ layout: default
 
 {% assign highlight_flag = "" %}
 {% for tag in page.tags %}
+	{% if tag == "review-needed" %}
+		{% assign highlight_flag = highlight_flag | append: "<blockquote><strong><em>There has been an update patch since this build was published. It has been flagged for review. Comments welcomed in <a href='https://discord.gg/bKt2CdS8k3'>the discord</a>.</em></strong></blockquote>" %}
+	{% endif %}
 	{% if tag == "outdated" %}
-		{% assign highlight_flag = "<blockquote><strong><em>Several traits and skills have changed since this build was published. It has been flagged for review. Comments welcomed in the discord.</em></strong></blockquote>" %}
+		{% assign highlight_flag = highlight_flag | append: "<blockquote><strong><em>This build is known to be affected by changes to several traits and skills since this build was published. It is no longer recommended. Comments welcomed in <a href='https://discord.gg/bKt2CdS8k3'>the discord</a>.</em></strong></blockquote>" %}
 	{% endif %}
 {% endfor%}
 

@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Power Warrior
-tags: power warrior core outdated
+tags: power warrior core review-needed
 tagline: "'Careful, careful, careful with that axe, Eugene'<br/>-- Pink Floyd"
 spec: warrior
 ---

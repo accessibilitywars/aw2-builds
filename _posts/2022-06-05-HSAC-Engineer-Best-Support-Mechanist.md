@@ -2,7 +2,7 @@
 credit: Sutepun.9450
 editor: berdandy
 title: Engineer - Support Alacrity
-tags: support engineer mechanist eod hsac groupcontent outdated
+tags: support engineer mechanist eod hsac groupcontent review-needed
 spec: scrapper
 tagline: Hardstuck Accessibility Challenge
 ---

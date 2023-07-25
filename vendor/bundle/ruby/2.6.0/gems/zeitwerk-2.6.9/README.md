@@ -3,7 +3,8 @@
 
 
 [![Gem Version](https://img.shields.io/gem/v/zeitwerk.svg?style=for-the-badge)](https://rubygems.org/gems/zeitwerk)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/fxn/zeitwerk/ci.yml?branch=main&event=push&style=for-the-badge)](https://github.com/fxn/zeitwerk/actions/workflows/ci.yml?query=branch%3main)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/fxn/zeitwerk/ci.yml?branch=main&event=push&style=for-the-badge)](https://github.com/fxn/zeitwerk/actions/workflows/ci.yml?query=branch%3Amain)
+
 
 <!-- TOC -->
 
@@ -56,6 +57,8 @@
   - [Beware of circular dependencies](#beware-of-circular-dependencies)
   - [Reopening third-party namespaces](#reopening-third-party-namespaces)
   - [Introspection](#introspection)
+    - [`Zeitwerk::Loader#dirs`](#zeitwerkloaderdirs)
+    - [`Zeitwerk::Loader#cpath_expected_at`](#zeitwerkloadercpath_expected_at)
   - [Encodings](#encodings)
   - [Rules of thumb](#rules-of-thumb)
   - [Debuggers](#debuggers)
@@ -76,15 +79,15 @@
 
 Zeitwerk is an efficient and thread-safe code loader for Ruby.
 
-Given a [conventional file structure](#file-structure), Zeitwerk is able to load your project's classes and modules on demand (autoloading), or upfront (eager loading). You don't need to write `require` calls for your own files, rather, you can streamline your programming knowing that your classes and modules are available everywhere. This feature is efficient, thread-safe, and matches Ruby's semantics for constants.
+Given a [conventional file structure](#file-structure), Zeitwerk is capable of loading your project's classes and modules on demand (autoloading) or upfront (eager loading). You don't need to write `require` calls for your own files; instead, you can streamline your programming by knowing that your classes and modules are available everywhere. This feature is efficient, thread-safe, and aligns with Ruby's semantics for constants.
 
-Zeitwerk is also able to reload code, which may be handy while developing web applications. Coordination is needed to reload in a thread-safe manner. The documentation below explains how to do this.
+Zeitwerk also supports code reloading, which can be useful during web application development. However, coordination is required to reload in a thread-safe manner. The documentation below explains how to achieve this.
 
-The gem is designed so that any project, gem dependency, application, etc. can have their own independent loader, coexisting in the same process, managing their own project trees, and independent of each other. Each loader has its own configuration, inflector, and optional logger.
+The gem is designed to allow any project, gem dependency, or application to have its own independent loader. Multiple loaders can coexist in the same process, each managing its own project tree and operating independently of each other. Each loader has its own configuration, inflector, and optional logger.
 
-Internally, Zeitwerk issues `require` calls exclusively using absolute file names, so there are no costly file system lookups in `$LOAD_PATH`. Technically, the directories managed by Zeitwerk do not even need to be in `$LOAD_PATH`.
+Internally, Zeitwerk exclusively uses absolute file names when issuing `require` calls, eliminating the need for costly file system lookups in `$LOAD_PATH`. Technically, the directories managed by Zeitwerk don't even need to be in `$LOAD_PATH`.
 
-Furthermore, Zeitwerk does at most one single scan of the project tree, and it descends into subdirectories lazily, only if their namespaces are used.
+Furthermore, Zeitwerk performs a single scan of the project tree at most, lazily descending into subdirectories only when their namespaces are used.
 
 <a id="markdown-synopsis" name="synopsis"></a>
 ## Synopsis
@@ -144,7 +147,7 @@ Zeitwerk::Loader.eager_load_all
 <a id="markdown-the-idea-file-paths-match-constant-paths" name="the-idea-file-paths-match-constant-paths"></a>
 ### The idea: File paths match constant paths
 
-To have a file structure Zeitwerk can work with, just name files and directories after the name of the classes and modules they define:
+For Zeitwerk to work with your file structure, simply name files and directories after the classes and modules they define:
 
 ```
 lib/my_gem.rb         -> MyGem
@@ -153,7 +156,7 @@ lib/my_gem/bar_baz.rb -> MyGem::BarBaz
 lib/my_gem/woo/zoo.rb -> MyGem::Woo::Zoo
 ```
 
-You can tune that a bit by [collapsing directories](#collapsing-directories), or by [ignoring parts of the project](#ignoring-parts-of-the-project), but that is the main idea.
+You can fine-tune this behavior by [collapsing directories](#collapsing-directories) or [ignoring specific parts of the project](#ignoring-parts-of-the-project), but that is the main idea.
 
 <a id="markdown-inner-simple-constants" name="inner-simple-constants"></a>
 ### Inner simple constants
@@ -211,7 +214,7 @@ serializers/user_serializer.rb -> UserSerializer
 <a id="markdown-custom-root-namespaces" name="custom-root-namespaces"></a>
 #### Custom root namespaces
 
-While `Object` is by far the most common root namespace, you can associate a different one to a particular root directory. The method `push_dir` accepts a non-anonymous class or module object in the optional `namespace` keyword argument.
+Although `Object` is the most common root namespace, you have the flexibility to associate a different one with a specific root directory. The `push_dir` method accepts a non-anonymous class or module object as the optional `namespace` keyword argument.
 
 For example, given:
 
@@ -227,14 +230,14 @@ a file defining `ActiveJob::QueueAdapters::MyQueueAdapter` does not need the con
 adapters/my_queue_adapter.rb -> ActiveJob::QueueAdapters::MyQueueAdapter
 ```
 
-Please, note that the given root namespace must be non-reloadable, though autoloaded constants in that namespace can be. That is, if you associate `app/api` with an existing `Api` module, that module should not be reloadable. However, if the project defines and autoloads the class `Api::Deliveries`, that one can be reloaded.
+Please note that the provided root namespace must be non-reloadable, while allowing autoloaded constants within that namespace to be reloadable. This means that if you associate the `app/api` directory with an existing `Api` module, the module itself should not be reloadable. However, if the project defines and autoloads the `Api::Deliveries` class, that class can be reloaded.
 
 <a id="markdown-nested-root-directories" name="nested-root-directories"></a>
 #### Nested root directories
 
-Root directories should not be ideally nested, but Zeitwerk supports them because in Rails, for example, both `app/models` and `app/models/concerns` belong to the autoload paths.
+Root directories are recommended not to be nested; however, Zeitwerk provides support for nested root directories since in frameworks like Rails, both `app/models` and `app/models/concerns` belong to the autoload paths.
 
-Zeitwerk detects nested root directories, and treats them as roots only. In the example above, `concerns` is not considered to be a namespace below `app/models`. For example, the file:
+Zeitwerk identifies nested root directories and treats them as independent roots. In the given example, `concerns` is not considered a namespace within `app/models`. For instance, consider the following file:
 
 ```
 app/models/concerns/geolocatable.rb
@@ -245,9 +248,9 @@ should define `Geolocatable`, not `Concerns::Geolocatable`.
 <a id="markdown-implicit-namespaces" name="implicit-namespaces"></a>
 ### Implicit namespaces
 
-If a namespace is just a simple module with no code, you do not need to define it in a file: Directories without a matching Ruby file get modules created automatically on your behalf.
+If a namespace consists only of a simple module without any code, there is no need to explicitly define it in a separate file. Zeitwerk automatically creates modules on your behalf for directories without a corresponding Ruby file.
 
-For example, if a project has an `admin` directory:
+For instance, suppose a project includes an `admin` directory:
 
 ```
 app/controllers/admin/users_controller.rb -> Admin::UsersController
@@ -255,7 +258,7 @@ app/controllers/admin/users_controller.rb -> Admin::UsersController
 
 and does not have a file called `admin.rb`, Zeitwerk automatically creates an `Admin` module on your behalf the first time `Admin` is used.
 
-For this to happen, the directory has to contain non-ignored Ruby files with extension `.rb`, directly or recursively, otherwise it is ignored. This condition is evaluated again on reloads.
+To trigger this behavior, the directory must contain non-ignored Ruby files with the `.rb` extension, either directly or recursively. Otherwise, the directory is ignored. This condition is reevaluated during reloads.
 
 <a id="markdown-explicit-namespaces" name="explicit-namespaces"></a>
 ### Explicit namespaces
@@ -733,9 +736,34 @@ loader.inflector.inflect "html_parser" => "HTMLParser"
 loader.inflector.inflect "mysql_adapter" => "MySQLAdapter"
 ```
 
+Overrides have to match exactly directory or file (without extension) _basenames_. For example, if you configure
+
+```ruby
+loader.inflector.inflect("xml" => "XML")
+```
+
+then the following constants are expected:
+
+```
+xml.rb         -> XML
+foo/xml        -> Foo::XML
+foo/bar/xml.rb -> Foo::Bar::XML
+```
+
+As you see, any directory whose basename is exactly `xml`, and any file whose basename is exactly `xml.rb` are expected to define the constant `XML` in the corresponding namespace. On the other hand, partial matches are ignored. For example, `xml_parser.rb` would be inflected as `XmlParser` because `xml_parser` is not equal to `xml`. You'd need an additional override:
+
+```ruby
+loader.inflector.inflect(
+  "xml"        => "XML",
+  "xml_parser" => "XMLParser"
+)
+```
+
+If you need more flexibility, you can define a custom inflector, as explained down below.
+
 Overrides need to be configured before calling `setup`.
 
- The inflectors of different loaders are independent of each other. There are no global inflection rules or global configuration that can affect this inflector. It is deterministic.
+The inflectors of different loaders are independent of each other. There are no global inflection rules or global configuration that can affect this inflector. It is deterministic.
 
 <a id="markdown-zeitwerkgeminflector" name="zeitwerkgeminflector"></a>
 #### Zeitwerk::GemInflector
@@ -1214,6 +1242,9 @@ With that, when Zeitwerk scans the file system and reaches the gem directories `
 <a id="markdown-introspection" name="introspection"></a>
 ### Introspection
 
+<a id="markdown-zeitwerkloaderdirs" name="zeitwerkloaderdirs"></a>
+#### `Zeitwerk::Loader#dirs`
+
 The method `Zeitwerk::Loader#dirs` returns an array with the absolute paths of the root directories as strings:
 
 ```ruby
@@ -1234,6 +1265,44 @@ loader.dirs(namespaces: true) # => { "/foo" => Object, "/bar" => Bar }
 By default, ignored root directories are filtered out. If you want them included, please pass `ignored: true`.
 
 These collections are read-only. Please add to them with `Zeitwerk::Loader#push_dir`.
+
+<a id="markdown-zeitwerkloadercpath_expected_at" name="zeitwerkloadercpath_expected_at"></a>
+#### `Zeitwerk::Loader#cpath_expected_at`
+
+Given a path as a string or `Pathname` object, `Zeitwerk::Loader#cpath_expected_at` returns a string with the corresponding expected constant path.
+
+Some examples, assuming that `app/models` is a root directory:
+
+```ruby
+loader.cpath_expected_at("app/models")                  # => "Object"
+loader.cpath_expected_at("app/models/user.rb")          # => "User"
+loader.cpath_expected_at("app/models/hotel")            # => "Hotel"
+loader.cpath_expected_at("app/models/hotel/billing.rb") # => "Hotel::Billing"
+```
+
+If `collapsed` is a collapsed directory:
+
+```ruby
+loader.cpath_expected_at("a/b/collapsed/c") # => "A::B::C"
+loader.cpath_expected_at("a/b/collapsed")   # => "A::B", edge case
+loader.cpath_expected_at("a/b")             # => "A::B"
+```
+
+If the argument corresponds to an [ignored file or directory](#ignoring-parts-of-the-project), the method returns `nil`. Same if the argument is not managed by the loader.
+
+`Zeitwerk::Error` is raised if the given path does not exist:
+
+```ruby
+loader.cpath_expected_at("non_existing_file.rb") # => Zeitwerk::Error
+```
+
+`Zeitwer::NameError` is raised if a constant path cannot be derived from it:
+
+```ruby
+loader.cpath_expected_at("8.rb") # => Zeitwerk::NameError
+```
+
+This method does not parse file contents and does not guarantee files define the returned constant path. It just says which is the _expected_ one.
 
 <a id="markdown-encodings" name="encodings"></a>
 ### Encodings
@@ -1265,9 +1334,11 @@ The test suite passes on Windows with codepage `Windows-1252` if all the involve
 <a id="markdown-debuggers" name="debuggers"></a>
 ### Debuggers
 
-Zeitwerk works fine with [debug.rb](https://github.com/ruby/debug) and [Break](https://github.com/gsamokovarov/break).
+Zeitwerk and [debug.rb](https://github.com/ruby/debug) are fully compatible if CRuby is ≥ 3.1 (see [ruby/debug#558](https://github.com/ruby/debug/pull/558)).
 
-[Byebug](https://github.com/deivid-rodriguez/byebug) is compatible except for an edge case explained in [deivid-rodriguez/byebug#564](https://github.com/deivid-rodriguez/byebug/issues/564).
+[Byebug](https://github.com/deivid-rodriguez/byebug) is compatible except for an edge case explained in [deivid-rodriguez/byebug#564](https://github.com/deivid-rodriguez/byebug/issues/564). Prior to CRuby 3.1, `debug.rb` has a similar edge incompatibility.
+
+[Break](https://github.com/gsamokovarov/break) is fully compatible.
 
 <a id="markdown-pronunciation" name="pronunciation"></a>
 ## Pronunciation

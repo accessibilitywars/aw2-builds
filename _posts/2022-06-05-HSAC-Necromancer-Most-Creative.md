@@ -2,7 +2,7 @@
 credit: lcpdragonslayer.7895
 editor: berdandy
 title: Necromancer - Creative
-tags: condi necromancer harbinger eod hsac outdated
+tags: condi necromancer harbinger eod hsac review-needed
 spec: harbinger
 tagline: Hardstuck Accessibility Challenge
 ---

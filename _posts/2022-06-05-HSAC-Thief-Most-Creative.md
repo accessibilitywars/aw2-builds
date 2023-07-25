@@ -2,7 +2,7 @@
 credit: Bovan.9481
 editor: berdandy
 title: Thief - Creative
-tags: healing support thief specter eod hsac groupcontent outdated
+tags: healing support thief specter eod hsac groupcontent review-needed
 spec: specter
 tagline: Hardstuck Accessibility Challenge
 ---

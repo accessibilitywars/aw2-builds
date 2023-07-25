@@ -3,7 +3,7 @@ layout: build
 author: mukluk
 editor: berdandy
 title: Power Herald
-tags: power herald revenant hot outdated
+tags: power herald revenant hot review-needed
 tagline: "Shiny facets for fun and profit"
 spec: herald
 ---

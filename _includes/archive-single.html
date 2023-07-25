@@ -13,7 +13,10 @@
 {% assign highlight_flag = "" %}
 {% for tag in post.tags %}
 	{% if tag == "outdated" %}
-		{% assign highlight_flag = "<strong><em>OUTDATED: NEEDS REVIEW</em></strong>" %}
+		{% assign highlight_flag = highlight_flag | append: "<strong><em>OUTDATED</em></strong> " %}
+	{% endif %}
+	{% if tag == "review-needed" %}
+		{% assign highlight_flag = highlight_flag | append: "<em>REVIEW NEEDED</em> " %}
 	{% endif %}
 {% endfor%}
 

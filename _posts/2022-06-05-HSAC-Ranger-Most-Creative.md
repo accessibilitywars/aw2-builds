@@ -2,7 +2,7 @@
 credit: Sayrann.1356
 editor: berdandy
 title: Ranger - Creative
-tags: condi ranger soulbeast pof hsac groupcontent outdated
+tags: condi ranger soulbeast pof hsac groupcontent review-needed
 spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
 ---

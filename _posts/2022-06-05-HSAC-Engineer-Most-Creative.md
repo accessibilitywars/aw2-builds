@@ -2,7 +2,7 @@
 credit: Xyonon.3987
 editor: berdandy
 title: Engineer - Creative
-tags: power engineer mechanist eod hsac groupcontent outdated
+tags: power engineer mechanist eod hsac groupcontent review-needed
 spec: mechanist
 tagline: Hardstuck Accessibility Challenge
 ---

@@ -2,7 +2,7 @@
 credit: Douwe.1746
 editor: berdandy
 title: Revenant - Wildcard 
-tags: revenant herald hot hsac outdated
+tags: revenant herald hot hsac review-needed
 spec: herald
 tagline: Hardstuck Accessibility Challenge
 ---

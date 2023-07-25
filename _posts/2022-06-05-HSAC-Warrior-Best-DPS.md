@@ -2,7 +2,7 @@
 credit: Micro Hard.3601
 editor: berdandy
 title: Warrior - DPS
-tags: power warrior bladesworn eod hsac groupcontent outdated
+tags: power warrior bladesworn eod hsac groupcontent review-needed
 spec: bladesworn
 tagline: Hardstuck Accessibility Challenge
 ---

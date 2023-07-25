@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Herald Invoker
-tags: power revenant herald hot outdated
+tags: power revenant herald hot review-needed
 tagline: "Legen... wait for it... dary!"
 spec: herald
 ---

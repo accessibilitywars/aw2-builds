@@ -3,12 +3,12 @@ layout: build
 author: folstar
 editor: berdandy
 title: HAM (Heal Alacrity Mechanist)
-tags: hybrid mechanist engineer eod groupcontent
+tags: hybrid mechanist engineer eod groupcontent outdated
 tagline: "Spicy Cured HAM"
 spec: mechanist
 ---
 
-Low Intensity Heal Alac Mech
+Low Intensity Heal Alac Mech. *Needs Update*
 
 > Update Warning: June 27, 2023
 > 

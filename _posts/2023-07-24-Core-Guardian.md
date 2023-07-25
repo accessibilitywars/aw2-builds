@@ -6,6 +6,7 @@ title: Unbranded Core Guardian
 tags: condi guardian core
 tagline: "You can take the brand out of the firebrand, but you can't take out the fire"
 spec: guardian
+balance: 2023-06-27
 ---
 
 A player on the AW2 Discord who was looking for a Low Intensity Core Guardian build.

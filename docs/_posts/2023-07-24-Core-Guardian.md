@@ -3,7 +3,7 @@ layout: build
 author: riack
 editor: berdandy
 title: Unbranded Guardian
-tags: guardian
+tags: condi guardian core
 tagline: "You can take the brand out of the firebrand, but you can't take out the fire"
 spec: guardian
 ---

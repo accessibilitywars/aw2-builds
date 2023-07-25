@@ -10,7 +10,11 @@ spec: mechanist
 
 Low Intensity Heal Alac Mech
 
-#### Rotation
+> Update Warning: June 27, 2023
+> 
+> Barrier on mace autoattack (3rd hit) was removed. This was an undocumented change, and will affect healing via barrier. The build has not yet been adjusted. Mechanist player comments welcomed in discord
+
+# Rotation
 
 Autoattack. Don't forget to set auto-attack (right-click) on your mech abilities, 
 <span data-aw2-key="F1" data-aw2-skill="63365"/>,
@@ -19,7 +23,7 @@ Autoattack. Don't forget to set auto-attack (right-click) on your mech abilities
 
 Press <span data-aw2-key="2" data-aw2-skill="63169"/> off cooldown, and use your bubble <span data-aw2-key="7" data-aw2-skill="63262"/> particularly for projectile defense
 
-## Traits and Skills
+# Traits and Skills
 
 Template code:
 
@@ -41,7 +45,7 @@ Template code:
 >
 </div>
 
-## Gearing
+# Gearing
 
 - Full Celestial (Armor, Weapons, Trinkets)
 - Runes of the Water
@@ -50,6 +54,6 @@ Template code:
 - Food/Utility:
   - Birthday Cake
 
-## Links
+# Links
 
 - [Gw2Skills.net Build](http://gw2skills.net/editor/?PegAk6lxyaZuYx4JPdGVB-zxIY1ohvMqOBSvA0dZ6RAA-e)

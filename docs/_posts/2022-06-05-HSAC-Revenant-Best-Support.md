@@ -2,7 +2,7 @@
 credit: Hysvear.7386
 editor: berdandy
 title: Revenant - Support
-tags: healing revenant herald hot hsac groupcontent outdated
+tags: healing revenant herald hot hsac groupcontent review-needed
 spec: herald
 tagline: Hardstuck Accessibility Challenge
 ---

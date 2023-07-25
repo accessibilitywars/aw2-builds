@@ -2,7 +2,7 @@
 credit: gewoonreneee.2967
 editor: berdandy
 title: Mesmer - Support
-tags: support mesmer chronomancer hot hsac groupcontent outdated
+tags: support mesmer chronomancer hot hsac groupcontent review-needed
 spec: chronomancer
 tagline: Hardstuck Accessibility Challenge
 ---

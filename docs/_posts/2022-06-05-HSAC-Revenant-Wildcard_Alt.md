@@ -2,7 +2,7 @@
 credit: Ebax.1320
 editor: berdandy
 title: Revenant - Wildcard
-tags: healing revenant vindicator eod hsac groupcontent outdated
+tags: healing revenant vindicator eod hsac groupcontent review-needed
 spec: vindicator
 tagline: Hardstuck Accessibility Challenge
 ---

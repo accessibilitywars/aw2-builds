@@ -2,7 +2,7 @@
 credit: REMagic.8937
 editor: berdandy
 title: Mesmer - Creative
-tags: condi mesmer mirage pof hsac groupcontent outdated
+tags: condi mesmer mirage pof hsac groupcontent review-needed
 spec: mirage
 tagline: Hardstuck Accessibility Challenge
 ---

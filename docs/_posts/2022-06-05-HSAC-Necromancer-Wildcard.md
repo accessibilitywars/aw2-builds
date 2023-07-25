@@ -2,7 +2,7 @@
 credit: Dreggon.6598
 editor: berdandy
 title: Necromancer - Wildcard
-tags: power necromancer reaper hot hsac outdated
+tags: power necromancer reaper hot hsac review-needed
 spec: reaper
 tagline: Hardstuck Accessibility Challenge
 ---

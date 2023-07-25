@@ -2,7 +2,7 @@
 credit: Thor.3267
 editor: berdandy
 title: Engineer - DPS
-tags: condi engineer mechanist eod hsac groupcontent outdated
+tags: condi engineer mechanist eod hsac groupcontent review-needed
 spec: mechanist
 tagline: Hardstuck Accessibility Challenge
 ---

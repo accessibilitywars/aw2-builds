@@ -3,7 +3,7 @@ layout: build
 author: mrmystic
 editor: zrtassassin
 title: Burst God Holosmith
-tags: power engineer holosmith pof groupcontent outdated
+tags: power engineer holosmith pof groupcontent review-needed
 tagline: "Auto to victory!"
 spec: holosmith
 ---

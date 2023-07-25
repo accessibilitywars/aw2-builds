@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Condi Firebrand
-tags: condi guardian firebrand pof outdated
+tags: condi guardian firebrand pof review-needed
 tagline: "'When one burns one’s bridges, what a very nice fire it makes.'<br/>-- Dylan Thomas"
 spec: firebrand
 ---

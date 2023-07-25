@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Bloody Minions Scourge
-tags: condi necromancer scourge pof outdated
+tags: condi necromancer scourge pof review-needed
 tagline: "It's always a party when you throw around some shade."
 spec: scourge
 ---

@@ -2,7 +2,7 @@
 credit: Waldorn.5643
 editor: berdandy
 title: Revenant - Wildcard
-tags: power revenant herald hot hsac groupcontent outdated
+tags: power revenant herald hot hsac groupcontent review-needed
 spec: herald
 tagline: Hardstuck Accessibility Challenge
 ---

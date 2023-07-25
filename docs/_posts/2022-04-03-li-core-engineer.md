@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Condi Core Engineer
-tags: condi engineer core outdated
+tags: condi engineer core review-needed
 tagline: "Scarlet ain't got nothing on these clockwork turrets."
 spec: engineer
 ---

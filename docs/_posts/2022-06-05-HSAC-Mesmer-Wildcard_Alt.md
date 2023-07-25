@@ -2,7 +2,7 @@
 credit: Awesumness.1823
 editor: berdandy
 title: Mesmer - Wildcard
-tags: condi mesmer virtuoso eod hsac groupcontent outdated
+tags: condi mesmer virtuoso eod hsac groupcontent review-needed
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
 ---

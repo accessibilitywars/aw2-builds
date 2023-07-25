@@ -2,7 +2,7 @@
 credit: Narcin Roc.3018
 editor: berdandy
 title: Warrior - Support
-tags: power warrior core hsac groupcontent outdated
+tags: power warrior core hsac groupcontent review-needed
 spec: warrior
 tagline: Hardstuck Accessibility Challenge
 ---

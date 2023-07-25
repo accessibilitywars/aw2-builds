@@ -2,7 +2,7 @@
 credit: GoE
 editor: berdandy
 title: Thief - DPS
-tags: condi thief core hsac groupcontent outdated
+tags: condi thief core hsac groupcontent review-needed
 spec: thief
 tagline: Hardstuck Accessibility Challenge
 ---

@@ -2,7 +2,7 @@
 credit: GoE
 editor: berdandy
 title: Ranger - DPS
-tags: power ranger soulbeast pof hsac groupcontent outdated
+tags: power ranger soulbeast pof hsac groupcontent review-needed
 spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
 ---

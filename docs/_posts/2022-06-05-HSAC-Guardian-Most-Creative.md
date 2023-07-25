@@ -2,7 +2,7 @@
 credit: Sayrann.1356
 editor: berdandy
 title: Guardian - Creative
-tags: power guardian dragonhunter hot hsac groupcontent outdated
+tags: power guardian dragonhunter hot hsac groupcontent review-needed
 spec: dragonhunter
 tagline: Hardstuck Accessibility Challenge
 ---

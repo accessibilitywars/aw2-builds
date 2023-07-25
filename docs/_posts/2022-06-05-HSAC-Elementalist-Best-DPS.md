@@ -2,7 +2,7 @@
 credit: Locogeke.2537
 editor: berdandy
 title: Elementalist - DPS
-tags: condi elementalist tempest hot hsac groupcontent outdated
+tags: condi elementalist tempest hot hsac groupcontent review-needed
 spec: tempest
 tagline: Hardstuck Accessibility Challenge
 ---

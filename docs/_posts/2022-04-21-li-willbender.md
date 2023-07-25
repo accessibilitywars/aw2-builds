@@ -3,7 +3,7 @@ layout: build
 author: mukluk
 editor: berdandy
 title: LI Willbender
-tags: condi guardian willbender eod groupcontent outdated
+tags: condi guardian willbender eod groupcontent review-needed
 tagline: "Blue flames burn hotter"
 spec: willbender
 ---

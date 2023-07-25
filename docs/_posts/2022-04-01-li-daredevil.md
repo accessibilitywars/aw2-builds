@@ -3,7 +3,7 @@ layout: build
 author: mukluk
 editor: berdandy
 title: LI Daredevil
-tags: power thief daredevil hot groupcontent outdated
+tags: power thief daredevil hot groupcontent review-needed
 tagline: "This Daredevil build comes to you from Mukluk."
 excerpt: "This Daredevil build comes to you from Mukluk."
 spec: daredevil

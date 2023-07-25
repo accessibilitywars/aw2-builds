@@ -6,6 +6,7 @@ title: DPS Chaos Virtuoso
 tags: condi virtuoso mesmer eod groupcontent 
 tagline: "Keep your mind sharp and your blades sharper"
 spec: virtuoso
+balance: 2023-06-27
 ---
 
 Low Intensity DPS Condition Virtuoso
@@ -25,7 +26,7 @@ This build was shared with me from a member of a friend's static. It's a pretty 
 
 Take special attention with the gearing, it's less straightforward that most.
 
-# Rotation
+## Rotation
 
 No need for weapon swap. You only spam Dagger <span data-aw2-key="2" data-aw2-skill="62560"/> and Dagger <span data-aw2-key="3" data-aw2-skill="62607"/>.
 
@@ -50,21 +51,23 @@ Don't bother casting phantasms since there are no traits improving them.
 - *Stun Break:*
   Signet of Midnight <span data-aw2-key="8" data-aw2-skill="10234"/> is a stun break and it's always available since it's not part of the rotation
 
-#### Features
+## Features
 
 - Every time you press an F skill you gain Stability for 5s so you basically have perma stability.
 - If you want to increase damage by a small amount you can swap Blink to Rain of Swords and also use Torch4.
 - 3% of your condition damage is recovered as heal and every time you create a blade you gain 350 health (Signet of Ether).
 
-#### Alternative Off-Hand Weapons
+## Alternative Off-Hand Weapons
 
 Since you don't need to cast any skills from the off-hand weapon for the basic rotation, you can use any off-hand weapon, such as Focus for pulls or Sword for blocks.
 
-### Additional Notes
+## Additional Notes
 
 Food is important to get to 60% precision, with Fury you get to 100% crit chance.
 Your DPS is drastically affected if your Fury uptime is not 100%.
 Try not to press any other buttons if you are not sure how the build works because your dps might actually drop, it's literally just those 4 buttons (2, 3, F1, F2) and elite if you want to.
+
+# Build
 
 ## Traits and Skills
 
@@ -105,13 +108,13 @@ Template code:
   - Bowl of Fancy Potato & Leek Soup (+100 Precision/+70 Condition Damage)
   - Toxic Focusing Crystal (3% power + 3% precision -> condition damage)
 
-## Videos
+# Videos
 
-### Simple rotation (32.1k DPS):
+## Simple rotation (32.1k DPS):
 {% include video id="fHOrZAGd2J4" provider="youtube" %}
 
-### Full rotation (33.8k DPS):
+## Full rotation (33.8k DPS):
 {% include video id="XV6_BqGYZes" provider="youtube" %}
 
-### Kaineng Overlook CM Title:
+## Kaineng Overlook CM Title:
 {% include video id="NcEvMFGH6TY" provider="youtube" %}

@@ -2,12 +2,10 @@
 credit: Awesumness.1823
 editor: berdandy
 title: Mesmer - Wildcard
-tags: condi mesmer virtuoso eod hsac groupcontent
+tags: condi mesmer virtuoso eod hsac groupcontent outdated
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
 ---
-
-Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 This build focuses on ease of play and scalability with the APM of the player
 

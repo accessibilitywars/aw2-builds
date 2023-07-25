@@ -7,8 +7,6 @@ spec: vindicator
 tagline: Hardstuck Accessibility Challenge
 ---
 
-Several traits and skills have changed since this build was published, healing and utility may be different now.
-
 Vindicator has the potential for some absurd healing per second (like 2k per second per player) with just holding up the urn of saint viktor. The self-damaging effect from the urn can be completely negated with the salvation trait "Resilient Spirit" which gives barrier per boon on you every 3 seconds (to a cap of 5 boons). By keeping your vitality low, you minimize the amount of self-damage the urn does to the point that having 4 boons will make it so you can hold up the urn forever
 
 A problem with healing vindicators in PvE is that they don't offer boons people want in endgame PvE scenarios. That's why I decided to not even bother and try to lean into the other thing vindicator does well, which is hitting things really hard. This lead to a build where you're doing a ton of healing and a lot of damage for a healer with only three or four skills used total

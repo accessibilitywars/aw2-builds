@@ -2,7 +2,7 @@
 credit: Katastroff.1045 
 editor: berdandy
 title: Necromancer - Wildcard
-tags: power necromancer reaper hot hsac
+tags: power necromancer reaper hot hsac outdated
 spec: reaper
 tagline: Hardstuck Accessibility Challenge
 ---

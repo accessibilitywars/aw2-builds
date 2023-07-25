@@ -2,7 +2,7 @@
 credit: Bovan.9481
 editor: berdandy
 title: Guardian - Support
-tags: healing support guardian firebrand pof hsac groupcontent
+tags: healing support guardian firebrand pof hsac groupcontent outdated
 spec: firebrand
 tagline: Hardstuck Accessibility Challenge
 ---

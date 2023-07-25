@@ -9,8 +9,6 @@ tagline: Hardstuck Accessibility Challenge
 
 A low apm condi soulbeast build providing minor support and utility through spirits, stance share, a fast high cc skill and the versatility of ranger pets
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 ## Gear
 
 - Weapons: Viper's Shortbow with Bursting/Earth Sigils

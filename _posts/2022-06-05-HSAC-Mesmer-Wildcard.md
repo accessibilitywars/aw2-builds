@@ -2,7 +2,7 @@
 credit: rekinetics.6183
 editor: berdandy
 title: Mesmer - Wildcard
-tags: condi mesmer virtuoso eod hsac
+tags: condi mesmer virtuoso eod hsac outdated
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
 ---

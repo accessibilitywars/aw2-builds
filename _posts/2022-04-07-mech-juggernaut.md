@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Mech Juggernaut
-tags: condi mechanist engineer eod
+tags: condi mechanist engineer eod outdated
 tagline: "I'm the Juggernaut! Ain't nothin' -- ain't nobody -- can beat me!"
 spec: mechanist
 ---

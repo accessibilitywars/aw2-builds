@@ -7,8 +7,6 @@ spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
 ---
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 It's a condition dps support Soulbeast which deals good DPS, supports your allies via stances and spirits and has good utility for itself
 
 For damage you just use Sharpening Stone, Vulture Stance, One Wolf Pack, Crippling Shot, Primal Cry and Maul on CD. Since One Wolf Pack scales with allies your damage will be higher in actual encounters

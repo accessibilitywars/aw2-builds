@@ -2,12 +2,10 @@
 credit: Douwe.1746
 editor: berdandy
 title: Revenant - Wildcard 
-tags: revenant herald hot hsac
+tags: revenant herald hot hsac outdated
 spec: herald
 tagline: Hardstuck Accessibility Challenge
 ---
-
-Several traits and skills have changed since this build was published, damage and utility may be different now.
 
 Farming mobs from the Halloween Labyrinth and similair events are always a bit stressfull and intense for me, while it should be relaxing. So I figured out a way to maximize loot while minimizing stress
 By using Revenants unique aoe upkeep skills and with a few smart gear choices it is possible to have cheap, yet effective, mob farmer

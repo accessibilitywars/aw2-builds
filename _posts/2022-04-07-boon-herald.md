@@ -12,8 +12,6 @@ This Herald build uses glint's facets to keep boon uptime high without much stre
 
 See video below for more details. 
 
-Several traits and skills have changed since this build was published, damage and utility may be different now.
-
 ## Traits and Skills
 
 Template code:

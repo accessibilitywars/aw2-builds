@@ -2,7 +2,7 @@
 credit: asterius.3941
 editor: berdandy
 title: Engineer - Wildcard
-tags: condi engineer mechanist eod hsac groupcontent
+tags: condi engineer mechanist eod hsac groupcontent outdated
 spec: mechanist
 tagline: Hardstuck Accessibility Challenge
 ---

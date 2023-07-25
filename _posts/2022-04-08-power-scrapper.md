@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Turret Gyro Spam-a-lot
-tags: power scrapper engineer hot
+tags: power scrapper engineer hot outdated
 tagline: "Turrets and Gyros and Boons oh my"
 spec: scrapper
 ---

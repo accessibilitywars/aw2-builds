@@ -2,7 +2,7 @@
 credit: Sutepun.9450
 editor: berdandy
 title: Engineer - Support Quickness
-tags: support engineer scrapper hot hsac groupcontent
+tags: support engineer scrapper hot hsac groupcontent outdated
 spec: scrapper
 tagline: Hardstuck Accessibility Challenge
 ---

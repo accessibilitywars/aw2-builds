@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Power Deadeye
-tags: power thief deadeye pof
+tags: power thief deadeye pof outdated
 tagline: "Shooty Shooty McBangBang"
 spec: deadeye
 ---

@@ -7,8 +7,6 @@ spec: specter
 tagline: Hardstuck Accessibility Challenge
 ---
 
-Several traits and skills have changed since this build was published, healing and utility may be different now.
-
 There is a lot to talk about but I'll do my best to keep it short.
 
 This is a heal and alacrity Specter build. The main goal was to make a build that doesn't require that many button presses while still maintaining alacrity without any issues, and passively sustain the squad through several traits that interact with eachother. It ended up being so useful that we did our first Mai Trin CM kill with it right after the patch hit.

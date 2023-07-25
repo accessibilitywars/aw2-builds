@@ -3,7 +3,7 @@ layout: build
 author: jupiter
 editor: berdandy
 title: Power Berserker
-tags: power warrior berserker hot
+tags: power warrior berserker hot outdated
 tagline: ""
 spec: berserker
 ---

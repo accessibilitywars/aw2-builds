@@ -2,19 +2,19 @@
 layout: build
 author: riack
 editor: berdandy
-title: Unbranded Guardian
+title: Unbranded Core Guardian
 tags: condi guardian core
 tagline: "You can take the brand out of the firebrand, but you can't take out the fire"
 spec: guardian
 ---
 
-Low Intensity Core Guardian.
+A player on the AW2 Discord who was looking for a Low Intensity Core Guardian build.
 
-I was approached by a player on the AW2 Discord who was looking for a core guardian build.
+We didn't really have one, so he made one. Here it is!
 
-We didn't really have one, so he set out to make one. Here it is!
+It's been well tested in WvW and Open World. Instanced PvE testing welcomed!
 
-## Traits and Skills
+# Traits and Skills
 
 Template code:
 
@@ -38,7 +38,7 @@ Template code:
 </div>
 
 
-## Gearing
+# Gearing
 
 - Full Carrion
 - Runes of Balthazar
@@ -46,7 +46,7 @@ Template code:
   - Sword/Torch Smouldering/Rage
   - Scepter/X Smouldering/X (for ranged, not often needed)
 
-## Alternatives
+# Alternatives
 
 - Change `Purging Flames` to `Save Yourself!`
 - Change `Signet of Courage` to `Renewed Focus`

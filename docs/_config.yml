@@ -110,18 +110,21 @@ author:
   # location         : "Somewhere"
   # email            :
   links:
-    # - label: "Discord"
+    # - label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Discord"
       icon: "fas fa-fw fa-link"
       url: "https://discord.gg/bKt2CdS8k3"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AWarsToo"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/AWarsToo"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+    - label: "Submit LI Build"
+      icon: "fa fa-share"
+      url: https://forms.gle/d2cdHbx3P7JyK3GD9
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/accessibilitywars/"
@@ -132,24 +135,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/AWarsToo
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Submit LI Build"
+      icon: "fa fa-share"
+      url: https://forms.gle/d2cdHbx3P7JyK3GD9
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/accessibilitywars/
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 footer_scripts:
   - /assets/js/main.min.js

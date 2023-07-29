@@ -1,0 +1,19 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% for tag in site.tags %}
+{% if tag[0] == "review-needed" %}
+<section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
+  <div class="entries-{{ entries_layout }}">
+    {% for post in tag.last %}
+    {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+  </div>
+  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section>
+{% endif %}
+{% endfor %}

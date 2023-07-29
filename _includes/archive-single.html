@@ -16,7 +16,7 @@
 		{% assign highlight_flag = highlight_flag | append: "<strong><em>OUTDATED</em></strong> " %}
 	{% endif %}
 	{% if tag == "review-needed" %}
-		{% assign highlight_flag = highlight_flag | append: "<em>REVIEW NEEDED</em> " %}
+		{% assign highlight_flag = highlight_flag | append: "<em>REVIEW NEEDED</em> - <a href='https://forms.gle/LXpVxeciPdiUCMt76'>SUBMIT UPDATE<img src='/assets/icons/gold.png'/></a>" %}
 	{% endif %}
 {% endfor%}
 

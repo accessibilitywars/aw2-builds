@@ -1,13 +1,14 @@
 ---
 credit: lcpdragonslayer.7895
 editor: berdandy
-title: Necromancer - Creative
-tags: condi necromancer harbinger eod hsac review-needed
+title: Two Finger Harbinger
+tags: condi necromancer harbinger eod
 spec: harbinger
-tagline: Hardstuck Accessibility Challenge
+tagline: "The dose makes the poison" -- Paracelsus
+balance: June 26, 2023
 ---
 
-25k DPS on Harbinger using only 2 fingers :D
+22k DPS on Harbinger using only 2 fingers :D
 
 ## Gear
 

@@ -2,11 +2,18 @@
 main:
   - title: "About Us"
     url: /about/
-  - title: "Guides"
-    url: /guides/
   - title: "Builds by Date"
     url: /builds/
   - title: "Builds by Tag"
     url: /tags/
-  - title: "Alternatives"
+  - title: "Bounty Program"
+    url: /bounty/
+  - title: "Guides"
+    url: /guides/
+  - title: "Alternatives to Accessibility Wars"
     url: /alternatives/
+bounty-forms:
+  - title: "Submit Balance Bounty"
+    url: https://forms.gle/LXpVxeciPdiUCMt76
+  - title: "Submit Build Bounty"
+    url: https://forms.gle/d2cdHbx3P7JyK3GD9

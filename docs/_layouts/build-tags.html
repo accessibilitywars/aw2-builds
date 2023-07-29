@@ -4,13 +4,12 @@ layout: archive
 
 {{ content }}
 
-
 {% assign known_tags = "" | split: "," %}
 
-{% assign addon_tags = "core,hot,pof,eod" | split: "," %}
-<h2>Addon</h2>
+{% assign expansion_tags = "core,hot,pof,eod" | split: "," %}
+<h2>Expansion</h2>
 <ul class="taxonomy__index">
-{% for tag_name in addon_tags %}
+{% for tag_name in expansion_tags %}
 	{% for tag in site.tags %}
 		{% if tag[0] == tag_name %}
 			{% assign known_tags = known_tags | push: tag[0] %}
@@ -62,12 +61,15 @@ layout: archive
 <h2>Other Tags</h2>
 {% assign sorted_tags = site.tags | sort %}
 <ul class="taxonomy__index">
-  {% for tag in sorted_tags %}
+{% for tag in sorted_tags %}
+  {% if tag[0] == "review-needed" %}
+    {% continue %}
+  {% endif %}
   {% assign known = false %}
   {% for k_tag in known_tags %}
-  {% if tag[0] == k_tag %}
-  {% assign known = true %}
-  {% endif %}
+    {% if tag[0] == k_tag %}
+      {% assign known = true %}
+    {% endif %}
   {% endfor %}
   {% if known == false %}
   <li>
@@ -76,12 +78,15 @@ layout: archive
     </a>
   </li>
   {% endif %}
-  {% endfor %}
+{% endfor %}
 </ul>
 
 <h2>Tags</h2>
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for tag in sorted_tags %}
+{% if tag[0] == "review-needed" %}
+  {% continue %}
+{% endif %}
 <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
   <h2 class="archive__subtitle">{{ tag[0] }}</h2>
   <div class="entries-{{ entries_layout }}">

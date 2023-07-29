@@ -1,7 +1,7 @@
 berdandy:
   name        : "Berdandy"
   ign         : "berdandy.1968"
-  bio         : "Code slinger, MS-haver and general accessibility advocate"
+  bio         : "Code slinger, PwMS and general accessibility advocate"
   avatar      : "/assets/bio_photos/berdandy.jpg"
   links:
     - label: "Mastodon"
@@ -69,3 +69,9 @@ folstar:
 riack:
   name        : "Riack"
   ign         : "manannan.8291"
+xellink:
+  name        : "xellink"
+  links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@xellink"

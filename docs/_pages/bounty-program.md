@@ -37,4 +37,3 @@ All bounty rewards are subject to our discretion.
 
 ---
 
-The following builds have been flagged as outdated and qualify for the Balance Bounty.

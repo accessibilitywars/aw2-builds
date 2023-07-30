@@ -1,17 +1,18 @@
 ---
 credit: rekinetics.6183
 editor: berdandy
-title: Mesmer - Wildcard
-tags: condi mesmer virtuoso eod hsac review-needed
+title: Rabid Virtuoso
+tags: condi mesmer virtuoso eod hsac
 spec: virtuoso
-tagline: Hardstuck Accessibility Challenge
+tagline: Foaming at the mouth is the first sign
+balance: June 26, 2023
 ---
 
 Condi Virtuoso ft. rabid gear!
 
 ## Gear
 
-- Weapons: Rabid Dagger/Sword with Bursting/Earth Runes
+- Weapons: Rabid Dagger/Sword with Accuracy/Earth Sigil
 - Armor: Rabid with Krait Runes
 - Trinkets: Rabid Accessories and Backpiece, Viper's Rings and Amulet
 - Food & Utility: Bowl of Fancy Potato and Leek Soup, Toxic Focusing Crystal
@@ -38,9 +39,3 @@ Template Code:
 >
 </div>
 <script async src='https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js'></script>
-
-
-
-## References
-
-- [Gw2Skills](http://gw2skills.net/editor/?PigAgylVwSYKMEmLe8XtxfA-zRRYMRDHuZQHjR8EoTB4bWO1sC-e)

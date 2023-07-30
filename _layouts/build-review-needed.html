@@ -9,6 +9,7 @@ layout: archive
 {% if tag[0] == "review-needed" %}
 <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
   <div class="entries-{{ entries_layout }}">
+	<p><strong>Reviews Needed:</strong> {{ tag[1].size }}</p>
     {% for post in tag.last %}
     {% include archive-single.html type=entries_layout %}
     {% endfor %}

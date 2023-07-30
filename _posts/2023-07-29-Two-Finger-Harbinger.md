@@ -4,11 +4,11 @@ editor: berdandy
 title: Two Finger Harbinger
 tags: condi necromancer harbinger eod
 spec: harbinger
-tagline: "The dose makes the poison" -- Paracelsus
+tagline: "'The dose makes the poison' -- Paracelsus"
 balance: June 26, 2023
 ---
 
-22k DPS on Harbinger using only 2 fingers :D
+22k DPS on Harbinger using only 2 fingers
 
 ## Gear
 
@@ -44,5 +44,4 @@ Template Code:
 
 ## References
 
-- [Youtube](https://www.youtube.com/watch?v=cvffhAEi4qw)
-- [Imgur Screenshot](https://i.imgur.com/r36zHT1.png)
+{% include video id="cvffhAEi4qw" provider="youtube" %}

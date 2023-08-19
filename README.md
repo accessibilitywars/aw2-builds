@@ -1,9 +1,11 @@
 # aw2-builds
-Builds for the Accessibility Wars site
+
+The Accessibility Wars sites. Builds, guides, etc.
 
 ## Contributing
 
 Please see:
 
-* https://github.com/accessibilitywars/aw2-builds/wiki
-* https://github.com/accessibilitywars/aw2-builds/contribute
+* [The Wiki](https://github.com/accessibilitywars/aw2-builds/wiki)
+* [How to Contribute](https://github.com/accessibilitywars/aw2-builds/contribute)
+* [Join our Discord](https://discord.gg/bKt2CdS8k3)

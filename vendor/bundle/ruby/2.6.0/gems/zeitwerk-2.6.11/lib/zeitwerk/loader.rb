@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require "monitor"
 require "set"
 
 module Zeitwerk
@@ -91,9 +92,9 @@ module Zeitwerk
     attr_reader :mutex
     private :mutex
 
-    # @sig Mutex
-    attr_reader :mutex2
-    private :mutex2
+    # @sig Monitor
+    attr_reader :dirs_autoload_monitor
+    private :dirs_autoload_monitor
 
     def initialize
       super
@@ -103,10 +104,11 @@ module Zeitwerk
       @to_unload       = {}
       @namespace_dirs  = Hash.new { |h, cpath| h[cpath] = [] }
       @shadowed_files  = Set.new
-      @mutex           = Mutex.new
-      @mutex2          = Mutex.new
       @setup           = false
       @eager_loaded    = false
+
+      @mutex = Mutex.new
+      @dirs_autoload_monitor = Monitor.new
 
       Registry.register_loader(self)
     end
@@ -237,15 +239,13 @@ module Zeitwerk
     return unless dir?(abspath) || ruby?(abspath)
     return if ignored_path?(abspath)
 
-    cnames = []
-    abspaths = []
+    paths = []
 
     if ruby?(abspath)
       basename = File.basename(abspath, ".rb")
       return if hidden?(basename)
 
-      cnames << inflector.camelize(basename, abspath).to_sym
-      abspaths << abspath
+      paths << [basename, abspath]
       walk_up_from = File.dirname(abspath)
     else
       walk_up_from = abspath
@@ -260,28 +260,15 @@ module Zeitwerk
       basename = File.basename(dir)
       return if hidden?(basename)
 
-      unless collapse?(dir)
-        cnames << inflector.camelize(basename, dir).to_sym
-        abspaths << dir
-      end
+      paths << [basename, abspath] unless collapse?(dir)
     end
 
     return unless root_namespace
 
-    if cnames.empty?
+    if paths.empty?
       real_mod_name(root_namespace)
     else
-      # We reverse before validating the segments to report the leftmost
-      # problematic one, if any.
-      cnames.reverse!
-
-      cname_validator = Module.new
-      cnames.each_with_index do |cname, i|
-        cname_validator.const_defined?(cname, false)
-      rescue ::NameError
-        j = -(i + 1)
-        raise Zeitwerk::NameError.new("cannot derive a constant name from #{abspaths[j]}")
-      end
+      cnames = paths.reverse_each.map { |b, a| cname_for(b, a) }
 
       if root_namespace == Object
         cnames.join("::")
@@ -422,34 +409,15 @@ module Zeitwerk
     # @sig (String, Module) -> void
     private def set_autoloads_in_dir(dir, parent)
       ls(dir) do |basename, abspath|
-        begin
-          if ruby?(basename)
-            basename.delete_suffix!(".rb")
-            cname = inflector.camelize(basename, abspath).to_sym
-            autoload_file(parent, cname, abspath)
+        if ruby?(basename)
+          basename.delete_suffix!(".rb")
+          autoload_file(parent, cname_for(basename, abspath), abspath)
+        else
+          if collapse?(abspath)
+            set_autoloads_in_dir(abspath, parent)
           else
-            if collapse?(abspath)
-              set_autoloads_in_dir(abspath, parent)
-            else
-              cname = inflector.camelize(basename, abspath).to_sym
-              autoload_subdir(parent, cname, abspath)
-            end
+            autoload_subdir(parent, cname_for(basename, abspath), abspath)
           end
-        rescue ::NameError => error
-          path_type = ruby?(abspath) ? "file" : "directory"
-
-          raise NameError.new(<<~MESSAGE, error.name)
-            #{error.message} inferred by #{inflector.class} from #{path_type}
-
-              #{abspath}
-
-            Possible ways to address this:
-
-              * Tell Zeitwerk to ignore this particular #{path_type}.
-              * Tell Zeitwerk to ignore one of its parent directories.
-              * Rename the #{path_type} to comply with the naming conventions.
-              * Modify the inflector to handle this case.
-          MESSAGE
         end
       end
     end

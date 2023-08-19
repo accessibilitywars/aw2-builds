@@ -32,8 +32,9 @@ module Zeitwerk::Loader::Callbacks
   # @private
   # @sig (String) -> void
   def on_dir_autoloaded(dir)
-    # Module#autoload does not serialize concurrent requires, and we handle
-    # directories ourselves, so the callback needs to account for concurrency.
+    # Module#autoload does not serialize concurrent requires in CRuby < 3.2, and
+    # we handle directories ourselves without going through Kernel#require, so
+    # the callback needs to account for concurrency.
     #
     # Multi-threading would introduce a race condition here in which thread t1
     # autovivifies the module, and while autoloads for its children are being
@@ -43,7 +44,7 @@ module Zeitwerk::Loader::Callbacks
     # That not only would reassign the constant (undesirable per se) but, worse,
     # the module object created by t2 wouldn't have any of the autoloads for its
     # children, since t1 would have correctly deleted its namespace_dirs entry.
-    mutex2.synchronize do
+    dirs_autoload_monitor.synchronize do
       if cref = autoloads.delete(dir)
         autovivified_module = cref[0].const_set(cref[1], Module.new)
         cpath = autovivified_module.name

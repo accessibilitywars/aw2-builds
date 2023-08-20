@@ -9,11 +9,9 @@ spec: guardian
 balance: 2023-06-27
 ---
 
-A player on the AW2 Discord who was looking for a Low Intensity Core Guardian build.
+A player on the AW2 Discord was looking for a Low Intensity Core Guardian build. We didn't really have one, so he made one. Here it is!
 
-We didn't really have one, so he made one. Here it is!
-
-It's been well tested in WvW and Open World. Instanced PvE testing welcomed!
+It's been well tested in Open World, and provides alternatives for WvW. Instanced PvE testing feedback is very welcomed, [join the discord](https://discord.gg/bKt2CdS8k3) and let us know how it went.
 
 # Traits and Skills
 
@@ -47,7 +45,7 @@ Template code:
   - Sword/Torch Smouldering/Rage
   - Scepter/X Smouldering/X (for ranged, not often needed)
 
-# Alternatives
+# WvW Alternatives
 
 - Change `Purging Flames` to `Save Yourself!`
 - Change `Signet of Courage` to `Renewed Focus`

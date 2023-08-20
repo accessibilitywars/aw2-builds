@@ -9,7 +9,17 @@ permalink: /about/
 
 We are a community of Guild Wars 2 gamers with accessibility needs.  We aim to help accommodate a wide range of needs, from
 physical to cognitive. To this end, with the help of the community, we publish and archive low-intensity (LI)
-builds that can allow players to solo more difficult content, and comfortably contribute in group play.
+builds that can allow players to solo more difficult content, and comfortably contribute in group play across game modes.
+
+## Contributions
+
+To get involved, any of the following is very helpful:
+
+1. join the [Accessibility Wars Too discord](https://discord.gg/bKt2CdS8k3)
+2. check out [the GitHub](https://github.com/accessibilitywars/aw2-builds#contributing) to help with code
+3. share the [Accessibility Wars website](https://accessibilitywars.com/)
+4. test out builds and provide feedback (ideally on discord). Particularly builds with the [review-needed tag](https://accessibilitywars.com/tags/#review-needed)
+5. [submit new builds](https://forms.gle/d2cdHbx3P7JyK3GD9). This link can also be found on the website, in the sidebar on desktop, and at the bottom for desktop and mobile
 
 ## The Builds
 
@@ -44,6 +54,3 @@ Once comfortable with _that_, add in triggering the Signet of Fire utility for m
 
 Often, there are also further optimizations to be done, provided at the end of the tier notes as things to try.
 
-## Contributions
-
-To get involved, join the [Accessibility Wars Too discord](https://discord.gg/bKt2CdS8k3) and check out [the GitHub](https://github.com/accessibilitywars/aw2-builds#contributing).

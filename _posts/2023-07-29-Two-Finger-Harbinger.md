@@ -2,7 +2,7 @@
 credit: lcpdragonslayer.7895
 editor: berdandy
 title: Two Finger Harbinger
-tags: condi necromancer harbinger eod
+tags: condi necromancer harbinger eod review-needed
 spec: harbinger
 tagline: "'The dose makes the poison' -- Paracelsus"
 balance: June 26, 2023

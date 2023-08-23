@@ -3,7 +3,7 @@ layout: build
 author: fenrir
 editor: berdandy
 title: DPS Chaos Virtuoso
-tags: condi virtuoso mesmer eod groupcontent 
+tags: condi virtuoso mesmer eod groupcontent  review-needed
 tagline: "Keep your mind sharp and your blades sharper"
 spec: virtuoso
 balance: 2023-06-27

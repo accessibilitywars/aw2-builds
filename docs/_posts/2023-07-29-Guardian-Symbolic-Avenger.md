@@ -3,7 +3,7 @@ layout: build
 author: xellink
 editor: berdandy
 title: The Symbolic Avenger
-tags: power guardian core
+tags: power guardian core review-needed
 tagline: "Revenge is the act of passion; Vengeance of justice<br/>--Samuel Johnson"
 spec: guardian
 balance: 2023-06-27

@@ -3,10 +3,10 @@ layout: build
 author: xellink
 editor: berdandy
 title: The Symbolic Avenger
-tags: power guardian core review-needed
+tags: power guardian core
 tagline: "Revenge is the act of passion; Vengeance of justice<br/>--Samuel Johnson"
 spec: guardian
-balance: 2023-06-27
+balance: 2023-08-22
 ---
 
 This build uses stacks of Symbolic Avenger to maximise the effect of symbol of protection. While spamming auto attacks for DPS. This is a power dps build but applies burning which synergizes with the trait Fiery Wrath.
@@ -53,6 +53,7 @@ Template code:
 # Gearing
 
 - Full Berserker's Armor, with Runes of the Scholar
+- Relic of the Brawler
 - Trinkets: Dragon's Amulet, 5x Berserker's for the rest
 - Weapons:
   - Dragon's Hammer, Impact/Force Sigils

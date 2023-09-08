@@ -6,8 +6,10 @@ main:
     url: /builds/
   - title: "Builds by Tag"
     url: /tags/
-  - title: "Bounty Program"
+  - title: "Bounties"
     url: /bounty/
+  - title: "20k Challenge"
+    url: /20k-aac/
   - title: "Guides"
     url: /guides/
   - title: "Alternatives to Accessibility Wars"

@@ -1,11 +1,12 @@
-require "tmpdir"
 require "execjs/runtime"
+require "tmpdir"
+require "json"
 
 module ExecJS
   class ExternalRuntime < Runtime
     class Context < Runtime::Context
       def initialize(runtime, source = "", options = {})
-        source = encode(source)
+        source = source.encode(Encoding::UTF_8)
 
         @runtime = runtime
         @source  = source
@@ -15,7 +16,7 @@ module ExecJS
       end
 
       def eval(source, options = {})
-        source = encode(source)
+        source = source.encode(Encoding::UTF_8)
 
         if /\S/ =~ source
           exec("return eval(#{::JSON.generate("(#{source})", quirks_mode: true)})")
@@ -23,7 +24,7 @@ module ExecJS
       end
 
       def exec(source, options = {})
-        source = encode(source)
+        source = source.encode(Encoding::UTF_8)
         source = "#{@source}\n#{source}" if @source != ""
         source = @runtime.compile_source(source)
 
@@ -77,7 +78,7 @@ module ExecJS
                   .sub(filename, "(execjs)")
                   .strip
             end
-            stack.reject! { |line| ["eval code", "eval@[native code]"].include?(line) }
+            stack.reject! { |line| ["eval code", "eval code@", "eval@[native code]"].include?(line) }
             stack.shift unless stack[0].to_s.include?("(execjs)")
             error_class = value =~ /SyntaxError:/ ? RuntimeError : ProgramError
             error = error_class.new(value)
@@ -102,7 +103,13 @@ module ExecJS
       @popen_options[:internal_encoding] = ::Encoding.default_internal || 'UTF-8'
 
       if @runner_path
-        instance_eval generate_compile_method(@runner_path)
+        instance_eval <<~RUBY, __FILE__, __LINE__
+          def compile_source(source)
+            <<-RUNNER
+            #{IO.read(@runner_path)}
+            RUNNER
+          end
+        RUBY
       end
     end
 
@@ -142,15 +149,6 @@ module ExecJS
       end
 
     protected
-      def generate_compile_method(path)
-        <<-RUBY
-        def compile_source(source)
-          <<-RUNNER
-          #{IO.read(path)}
-          RUNNER
-        end
-        RUBY
-      end
 
       def json2_source
         @json2_source ||= IO.read(ExecJS.root + "/support/json2.js")

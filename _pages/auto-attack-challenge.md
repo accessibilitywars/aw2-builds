@@ -9,7 +9,7 @@ toc: true
 
 [xellink](https://www.youtube.com/@xellink) and [berdandy](https://www.youtube.com/@berdandy) had a thesis that every profession could hit 20k using just auto-attacks, given the right gear and build.
 
-This page sets out to demonstrate that for each profession. Builds are not provided nor optimized, these are just proofs of concept.
+This page sets out to prove this, for each profession, by way of demonstration. Builds are not provided nor optimized, these are just proofs of concept.
 
 --- 
 

@@ -31,9 +31,8 @@ This page sets out to demonstrate that for each profession. Builds are not provi
 ## Necromancer
 {% include video id="vsiJW8Um9uA" provider="youtube" %}
 
-## Elementalist (coming soon)
-
-Coming soon...
+## Elementalist
+{% include video id="cPs5kp9ndJI" provider="youtube" %}
 
 ## Mesmer (coming soon)
 

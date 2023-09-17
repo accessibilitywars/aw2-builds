@@ -1,4 +1,4 @@
-# [![Faraday](./docs/assets/img/repo-card-slim.png)][website]
+# [![Faraday](./docs/_media/home-logo.svg)][website]
 
 [![Gem Version](https://badge.fury.io/rb/faraday.svg)](https://rubygems.org/gems/faraday)
 [![GitHub Actions CI](https://github.com/lostisland/faraday/workflows/CI/badge.svg)](https://github.com/lostisland/faraday/actions?query=workflow%3ACI)
@@ -6,14 +6,29 @@
 
 Faraday is an HTTP client library abstraction layer that provides a common interface over many
 adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
-You probably don't want to use Faraday directly in your project, as it will lack an actual client library to perform
-requests. Instead, you probably want to have a look at [Awesome Faraday][awesome] for a list of available adapters.
+Take a look at [Awesome Faraday][awesome] for a list of available adapters and middleware.
+
+## Why use Faraday?
+
+Faraday gives you the power of Rack middleware for manipulating HTTP requests and responses,
+making it easier to build sophisticated API clients or web service libraries that abstract away
+the details of how HTTP requests are made.
+
+Faraday comes with a lot of features out of the box, such as:
+* Support for multiple adapters (Net::HTTP, Typhoeus, Patron, Excon, HTTPClient, and more)
+* Persistent connections (keep-alive)
+* Parallel requests
+* Automatic response parsing (JSON, XML, YAML)
+* Customization of the request/response cycle with middleware
+* Support for streaming responses
+* Support for uploading files
+* And much more!
 
 ## Getting Started
 
 The best starting point is the [Faraday Website][website], with its introduction and explanation.
 
-Need more details? See the [Faraday API Documentation][apidoc] to see how it works internally, or take a look at [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby) blog post from @mattbrictson 🚀
+Need more details? See the [Faraday API Documentation][apidoc] to see how it works internally, or take a look at [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby) blog post from [@mattbrictson](https://github.com/mattbrictson) 🚀
 
 ## Supported Ruby versions
 
@@ -43,14 +58,10 @@ But before you start coding, please read our [Contributing Guide][contributing]
 
 ## Copyright
 
-&copy; 2009 - 2023, the [Faraday Team][faraday_team]. Website and branding design by [Elena Lo Piccolo](https://elelopic.design).
+&copy; 2009 - 2023, the Faraday Team. Website and branding design by [Elena Lo Piccolo](https://elelopic.design).
 
 [awesome]: https://github.com/lostisland/awesome-faraday/#adapters
 [website]: https://lostisland.github.io/faraday
-[faraday_team]: https://lostisland.github.io/faraday/team
-[contributing]: https://github.com/lostisland/faraday/blob/master/.github/CONTRIBUTING.md
+[contributing]: https://github.com/lostisland/faraday/blob/main/.github/CONTRIBUTING.md
 [apidoc]: https://www.rubydoc.info/github/lostisland/faraday
 [actions]: https://github.com/lostisland/faraday/actions
-[jruby]: http://jruby.org/
-[rubinius]: http://rubini.us/
-[license]: LICENSE.md

@@ -36,7 +36,7 @@ This page sets out to prove this, for each profession, by way of demonstration. 
 
 ## Mesmer (coming soon)
 
-Coming soon...
+{% include video id="BHpTNG5fXBE" provider="youtube" %}
 
 ## Revenant (coming soon)
 

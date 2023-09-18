@@ -34,11 +34,11 @@ This page sets out to prove this, for each profession, by way of demonstration. 
 ## Elementalist
 {% include video id="cPs5kp9ndJI" provider="youtube" %}
 
-## Mesmer (coming soon)
+## Mesmer
 
 {% include video id="BHpTNG5fXBE" provider="youtube" %}
 
-## Revenant (coming soon)
+## Revenant
 
 {% include video id="Edym2KgB-hQ" provider="youtube" %}
 

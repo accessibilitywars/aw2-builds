@@ -3,36 +3,45 @@ layout: build
 author: mukluk
 editor: berdandy
 title: Power Herald
-tags: power herald revenant hot review-needed
+tags: power herald revenant hot
 tagline: "Shiny facets for fun and profit"
 spec: herald
+balance: September 26, 2023
+date: 2023-09-26
 ---
 
-This Herald build uses glint's facets to keep boon uptime high without much stress.
+Mukluk has updated his LI build from 2022 for the reality of living in a post-soto relic world.
 
-See video below for more details. 
+Make sure to take a look at the video at the bottom of the page, as it's broken down into greater detail, and some alternatives are provided. I've posted his quickness variation here.
+
+For a DPS-only variation, swap the Elevated Compassion (Quickness) trait for Forceful Persistance (Stacking Damage Buffs)
 
 ## Traits and Skills
 
 Template code:
 
-`[&DQkDOg8mNDfcEQAA1BEAACsSAAAGEgAAyhEAAAMBAADUESsSBhIAAAAAAAA=]`
+`[&DQkPKgM2NBbcEQAA1BEAACsSAAAGEgAAyhEAAAIDAADUESsSBhIAAAAAAAACMgBZAAA=]`
 
 ---
 
-Legendary Stances:
-- Dragon <span data-aw2-key="F1" data-aw2-skill="28085"></span> (99% of the time)
-- Dwarf <span data-aw2-key="F1" data-aw2-skill="28419"></span>
-
 <div
-  data-armory-embed='specializations'
-  data-armory-ids='3,15,52'
-  data-armory-3-traits='1761,1760,1719'
-  data-armory-15-traits='1767,1786,1800'
-  data-armory-52-traits='1716,1738,1803'
+  data-armory-embed='skills'
+  data-armory-ids='28134,28419'
 >
 </div>
-
+<div
+  data-armory-embed='skills'
+  data-armory-ids='62719,62878,62962,62832,62942'
+>
+</div>
+<div
+  data-armory-embed='specializations'
+  data-armory-ids='15,3,52'
+  data-armory-15-traits='1767,1765,1800'
+  data-armory-3-traits='1761,1774,1719'
+  data-armory-52-traits='1806,1738,1746'
+>
+</div>
 
 ## Gearing
 
@@ -40,6 +49,7 @@ Legendary Stances:
 - Runes of the Scholar
 - Sword/Axe Force/Impact
 - Staff Force/Impact
+- Relic of the Thief
 
 ## Video
-{% include video id="Zfyt_Cy6ajg" provider="youtube" %}
+{% include video id="iQW-RPxQc3k" provider="youtube" %}

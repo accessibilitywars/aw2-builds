@@ -6,6 +6,7 @@ title: Bloody Minions Scourge
 tags: condi necromancer scourge pof review-needed
 tagline: "It's always a party when you throw around some shade."
 spec: scourge
+hidden: true
 ---
 
 This is a LI Scourge build provided by jupiter. It has a lot of variation, and centers around supporting yourself and your minions with the scourge's shades.

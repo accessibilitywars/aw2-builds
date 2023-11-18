@@ -6,6 +6,7 @@ title: HAM (Heal Alacrity Mechanist)
 tags: hybrid mechanist engineer eod groupcontent review-needed
 tagline: "Spicy Cured HAM"
 spec: mechanist
+hidden: true
 ---
 
 Low Intensity Heal Alac Mech

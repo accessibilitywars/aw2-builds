@@ -6,6 +6,7 @@ title: Herald Invoker
 tags: power revenant herald hot review-needed
 tagline: "Legen... wait for it... dary!"
 spec: herald
+hidden: true
 ---
 
 This relatively low-intensity Herald build is melee-ranged, but brings a bunch of defensive options for those tough moments.

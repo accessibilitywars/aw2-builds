@@ -5,6 +5,7 @@ title: Revenant - Wildcard
 tags: revenant herald hot hsac review-needed
 spec: herald
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Farming mobs from the Halloween Labyrinth and similair events are always a bit stressfull and intense for me, while it should be relaxing. So I figured out a way to maximize loot while minimizing stress

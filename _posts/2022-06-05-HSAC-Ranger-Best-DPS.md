@@ -5,6 +5,7 @@ title: Ranger - DPS
 tags: power ranger soulbeast pof hsac groupcontent review-needed
 spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 A low apm power soulbeast build providing minor group support with spirits, stance share and the versatility of ranger pets

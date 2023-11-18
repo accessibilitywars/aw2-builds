@@ -5,6 +5,7 @@ title: Ranger - Support
 tags: condi ranger soulbeast pof hsac groupcontent review-needed
 spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 A low apm condi soulbeast build providing minor support and utility through spirits, stance share, a fast high cc skill and the versatility of ranger pets

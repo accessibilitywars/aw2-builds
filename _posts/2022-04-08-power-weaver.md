@@ -6,6 +6,7 @@ title: Storm Weaver
 tags: power elementalist weaver pof review-needed
 tagline: "'The elements marshal their infinite might at my beckoning! Power seethes in the roiling clouds! Now, at my command -- STRIKE!'"
 spec: weaver
+hidden: true
 ---
 
 This signet-heavy Weaver build sets up a single weave. There is no element swapping necessary, reducing the complexity of Weaver greatly. That said, this build is one of the more intense builds on the site.

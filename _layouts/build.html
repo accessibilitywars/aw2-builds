@@ -60,7 +60,8 @@ layout: default
             </nav>
 
 			{% if page.balance %}
-				<blockquote><em>Balance Patch: {{ page.balance | date_to_long_string: "ordinal", "US" }}</em></blockquote>
+				{% comment %}<blockquote><em>Balance Patch: {{ page.balance | date_to_long_string: "ordinal", "US" }}</em></blockquote>{% endcomment %}
+				<blockquote><em>Balance Patch: {{ page.balance }}</em></blockquote>
 			{% endif %}
           </aside>
         {% endif %}

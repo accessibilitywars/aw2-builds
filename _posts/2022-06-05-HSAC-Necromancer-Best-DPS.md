@@ -5,6 +5,7 @@ title: Necromancer - DPS
 tags: condi necromancer harbinger eod hsac groupcontent review-needed
 spec: harbinger
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 34 3k DPS Harbinger Pistol/Warhorn. This is a standard dps role. It has access to quite a bit of cc in the build. The rotation is more focused on simple concepts and priorities rather than a static follow X steps outlined in the comments section of the video. 

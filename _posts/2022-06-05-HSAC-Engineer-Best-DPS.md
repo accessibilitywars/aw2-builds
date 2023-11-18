@@ -5,6 +5,7 @@ title: Engineer - DPS
 tags: condi engineer mechanist eod hsac groupcontent review-needed
 spec: mechanist
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 This is my Condition Signet Mechanist build! It features all signets with passive self heal, 5 man barrier, 30 confusion and 17 apm!

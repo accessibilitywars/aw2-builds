@@ -5,6 +5,7 @@ title: Engineer - Support Quickness
 tags: support engineer scrapper hot hsac groupcontent review-needed
 spec: scrapper
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 An engineer loadout that compresses two DPS support builds with only one equipment template. This allows for a player to easily swap between the two without sacrificing their "main" engineer build. Quickness Version.

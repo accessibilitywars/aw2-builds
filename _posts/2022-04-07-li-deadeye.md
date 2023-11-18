@@ -6,6 +6,7 @@ title: Power Deadeye
 tags: power thief deadeye pof review-needed
 tagline: "Shooty Shooty McBangBang"
 spec: deadeye
+hidden: true
 ---
 
 This Deadeye build focuses on using pistols to deadly advantage.

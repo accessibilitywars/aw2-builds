@@ -5,6 +5,7 @@ title: Revenant - DPS
 tags: power revenant vindicator eod hsac groupcontent review-needed
 spec: vindicator
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 It's a simplistic Power Vindicator DPS build focused for players that are interested in learning about game concepts and getting into the endgame

@@ -6,6 +6,7 @@ title: Tempest Fire
 tags: condi elementalist tempest hot review-needed
 tagline: "'Burn, baby, burn!'"
 spec: tempest
+hidden: true
 ---
 
 This spicy Fire Tempest build uses the teamwork of elementals combined with a few signets to keep the complexity down. Great for barbeques.

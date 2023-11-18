@@ -5,6 +5,7 @@ title: Thief - Creative
 tags: healing support thief specter eod hsac groupcontent review-needed
 spec: specter
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 There is a lot to talk about but I'll do my best to keep it short.

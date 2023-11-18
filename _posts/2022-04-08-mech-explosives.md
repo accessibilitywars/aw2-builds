@@ -6,6 +6,7 @@ title: Mad Bomber Mech
 tags: power mechanist engineer eod review-needed
 tagline: "Badda bing, badda boom. Badda big boom."
 spec: mechanist
+hidden: true
 ---
 
 This signet- and explosives-heavy Mechanist build lets you blow stuff up and laugh maniacally.

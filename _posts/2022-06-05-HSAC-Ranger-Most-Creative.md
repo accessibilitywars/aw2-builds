@@ -5,6 +5,7 @@ title: Ranger - Creative
 tags: condi ranger soulbeast pof hsac groupcontent review-needed
 spec: soulbeast
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 It's a condition dps support Soulbeast which deals good DPS, supports your allies via stances and spirits and has good utility for itself

@@ -5,6 +5,7 @@ title: Mesmer - Wildcard
 tags: condi mesmer virtuoso eod hsac review-needed
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Condi Virtuoso ft. rabid gear!

@@ -5,6 +5,7 @@ title: Revenant - Creative
 tags: healing revenant herald hot hsac groupcontent review-needed
 spec: herald
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 The Heal Herald

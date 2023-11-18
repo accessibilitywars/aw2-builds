@@ -5,6 +5,7 @@ title: Thief - DPS
 tags: condi thief core hsac groupcontent review-needed
 spec: thief
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 A Low APM Core Condition DPS Thief that can also provide high amounts of CC

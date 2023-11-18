@@ -6,6 +6,7 @@ title: Condi Core Engineer
 tags: condi engineer core review-needed
 tagline: "Scarlet ain't got nothing on these clockwork turrets."
 spec: engineer
+hidden: true
 ---
 
 This is a core engineer LI build provided by jupiter. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PegAoqlZw6YMsEWJOULaJfA-zxIY1ohvMSIBCsAkfA-e).

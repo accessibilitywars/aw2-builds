@@ -3,26 +3,15 @@ layout: build
 author: fenrir
 editor: berdandy
 title: DPS Chaos Virtuoso
-tags: condi virtuoso mesmer eod groupcontent  review-needed
+tags: condi virtuoso mesmer eod groupcontent
 tagline: "Keep your mind sharp and your blades sharper"
 spec: virtuoso
-balance: 2023-06-27
+balance: September 2023
 ---
 
 Low Intensity DPS Condition Virtuoso
 
-> Update Warning: June 27, 2023
->
-> A few changes to skills used in this build were in this update, particularly to Dagger 2 & 3. It is ultimately an AoE buff, dealing more damage in
-> situations where there are adds. The build has been adjusted.
->
-> The videos below are pre-update. They will help for rotation, but numbers may be inaccurate.
->
-> This message will self-descruct when I get around to it.
-
 # Description
-
-This build was shared with me from a member of a friend's static. It's a pretty nice 3-button virtuoso build that has some significant utility flexibility to accommodate handling of raid/strike mechanics.
 
 Take special attention with the gearing, it's less straightforward that most.
 
@@ -107,8 +96,13 @@ Template code:
 - Food/Utility:
   - Bowl of Fancy Potato & Leek Soup (+100 Precision/+70 Condition Damage)
   - Toxic Focusing Crystal (3% power + 3% precision -> condition damage)
+- Relic:
+  - Relic of the Aristocracy
+  - (alternate) Relic of the Fractal
 
 # Videos
+
+_Note: videos are pre-balance patch, numbers will be different. The build still works well._
 
 ## Simple rotation (32.1k DPS):
 {% include video id="fHOrZAGd2J4" provider="youtube" %}

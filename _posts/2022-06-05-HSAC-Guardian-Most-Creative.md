@@ -5,6 +5,7 @@ title: Guardian - Creative
 tags: power guardian dragonhunter hot hsac groupcontent review-needed
 spec: dragonhunter
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 It's a DPS Dragonhunter

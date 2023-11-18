@@ -5,6 +5,7 @@ title: Guardian - Support
 tags: healing support guardian firebrand pof hsac groupcontent review-needed
 spec: firebrand
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 This is a very simple to execute quickness heal Firebrand build.

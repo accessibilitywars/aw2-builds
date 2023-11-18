@@ -5,6 +5,7 @@ title: Warrior - Support
 tags: power warrior core hsac groupcontent review-needed
 spec: warrior
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Low Intensity Banner Friend

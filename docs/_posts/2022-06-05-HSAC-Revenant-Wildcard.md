@@ -5,6 +5,7 @@ title: Revenant - Wildcard
 tags: power revenant herald hot hsac groupcontent review-needed
 spec: herald
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 The AFK Herald

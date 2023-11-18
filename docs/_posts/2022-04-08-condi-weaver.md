@@ -6,6 +6,7 @@ title: Fire Weaver
 tags: condi elementalist weaver pof review-needed
 tagline: "'To know that this flame will spread this way across the door and up across the ceiling, not because of the physics of flammable liquids, but because it wants to.'"
 spec: weaver
+hidden: true
 ---
 
 With the power of Balthazar, elementals, and a single unchanging weave (no element swapping), this Weaver build is an accessible way to light everyone and everything on fire.

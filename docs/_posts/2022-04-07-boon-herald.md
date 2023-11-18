@@ -6,7 +6,7 @@ title: Power Herald
 tags: power herald revenant hot
 tagline: "Shiny facets for fun and profit"
 spec: herald
-balance: September 26, 2023
+balance: September 2023
 date: 2023-09-26
 ---
 

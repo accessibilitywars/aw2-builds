@@ -6,6 +6,7 @@ title: Power Warrior
 tags: power warrior core review-needed
 tagline: "'Careful, careful, careful with that axe, Eugene'<br/>-- Pink Floyd"
 spec: warrior
+hidden: true
 ---
 
 This low-moderate intensity Core Warrior build uses signets for passive bonuses, as well as notable passive defense from traits. This is a melee-heavy build, making movement control a potential factor.

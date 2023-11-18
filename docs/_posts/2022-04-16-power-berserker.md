@@ -6,6 +6,7 @@ title: Power Berserker
 tags: power warrior berserker hot review-needed
 tagline: ""
 spec: berserker
+hidden: true
 ---
 
 This higher intensity melee-oriented Berserker build is more complex than most LI builds.

@@ -5,6 +5,7 @@ title: Engineer - Wildcard
 tags: condi engineer mechanist eod hsac groupcontent review-needed
 spec: mechanist
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Condi Mechanist, mace but without granade kit

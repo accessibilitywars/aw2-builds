@@ -5,6 +5,7 @@ title: Warrior - Creative
 tags: power warrior berserker hot hsac groupcontent review-needed
 spec: berserker
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 An APM-scaling variant of the standard power banner Berserker build that offers a solid and extremely simple baseline for people to follow, and then move on from there as fits their own comfort level.

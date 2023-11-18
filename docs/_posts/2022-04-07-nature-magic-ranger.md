@@ -6,6 +6,7 @@ title: Nature Magic Ranger
 tags: power core ranger review-needed
 tagline: "You're a natural"
 spec: ranger
+hidden: true
 ---
 
 This LI Core Ranger build has good variation, allowing for greatsword mobility, longbow range, or axe dps.

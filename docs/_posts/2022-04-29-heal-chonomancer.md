@@ -5,6 +5,7 @@ title: Heal Chronomancer
 tags: healing mesmer chronomancer hot groupcontent review-needed
 tagline: "'Laugh, my friend, for in your actions you have at last seen behind the mask.'<br/>-- Keeper of Illusion"
 spec: chronomancer
+hidden: true
 ---
 
 This Heal Chronomancer Mesmer build averages at about 12 APM. This is a build based on wells, making movement control a potential factor.

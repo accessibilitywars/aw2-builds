@@ -5,6 +5,7 @@ title: Necromancer - Wildcard
 tags: power necromancer reaper hot hsac review-needed
 spec: reaper
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 This is a power reaper minions master killer of all build. 

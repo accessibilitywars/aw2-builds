@@ -6,6 +6,7 @@ title: Power Daredevil
 tags: power thief daredevil hot review-needed
 tagline: "Walk even more softly, and carry an even bigger stick."
 spec: daredevil
+hidden: true
 ---
 
 This Daredevil build is a a little more on the moderate side of difficulty. Follow along the tier notes to find your spot.

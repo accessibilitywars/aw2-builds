@@ -5,6 +5,7 @@ title: Elementalist - DPS
 tags: condi elementalist tempest hot hsac groupcontent review-needed
 spec: tempest
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 This is a condi tempest build, it is based around fire attunement. It is aimed to proved 25 might to the subgroup, decent DPS un PUGS (20k) and is good for handling mechanics while your elementals do damage for you.

@@ -5,6 +5,7 @@ title: Warrior - DPS
 tags: power warrior bladesworn eod hsac groupcontent review-needed
 spec: bladesworn
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Standard dps role as a Blade Sworn pulling 31k dps. Uses Flow Stabilizer for QoL whenever Flow is needed, but can get away without taking it.

@@ -5,6 +5,7 @@ title: Mesmer - Support
 tags: support mesmer chronomancer hot hsac groupcontent review-needed
 spec: chronomancer
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Chrono tank build providing quickness and alacrity, and helping the druid's with a place in the meta.

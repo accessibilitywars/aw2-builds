@@ -5,6 +5,7 @@ title: Power Bladesworn
 tags: power warrior bladesworn eod groupcontent review-needed
 tagline: "'It is my duty to keep the people of Cantha safe.'<br/>-- Minister Li"
 spec: bladesworn
+hidden: true
 ---
 
 This Bladesworn Warrior build averages at about 13 APM (Tier 1). This is a melee-heavy build, making movement control a potential factor.

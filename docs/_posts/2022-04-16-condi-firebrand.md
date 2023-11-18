@@ -6,6 +6,7 @@ title: Condi Firebrand
 tags: condi guardian firebrand pof review-needed
 tagline: "'When one burns one’s bridges, what a very nice fire it makes.'<br/>-- Dylan Thomas"
 spec: firebrand
+hidden: true
 ---
 
 This low-moderate intensity Firebrand build has signifigant flexibility with utility choice.

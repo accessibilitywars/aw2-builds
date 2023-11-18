@@ -5,6 +5,7 @@ title: Thief - Support
 tags: healing support thief specter eod hsac groupcontent review-needed
 spec: specter
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Healing Alacrity Specter!

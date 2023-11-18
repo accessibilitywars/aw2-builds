@@ -5,6 +5,7 @@ title: Mesmer - Creative
 tags: condi mesmer mirage pof hsac groupcontent review-needed
 spec: mirage
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 It's a Axe/Pistol + Staff Mirage raid build, that can either greed for highest personal DPS, or dynamically swap to a Staff for ranged damage and great boon output, depending on the situation - since each rotation only uses one weapon set and they use identical traits, this swap can happen midfight!

@@ -6,6 +6,7 @@ title: Turret Gyro Spam-a-lot
 tags: power scrapper engineer hot review-needed
 tagline: "Turrets and Gyros and Boons oh my"
 spec: scrapper
+hidden: true
 ---
 
 Spam is on the menu today! This Scrapper build allows you to find your personal sweet spot between turret spam and gyro spam.

@@ -5,6 +5,7 @@ title: Mesmer - DPS
 tags: condi mesmer mirage pof hsac groupcontent review-needed
 spec: mirage
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Low intensity variation of the "staxe" mirage variant (Staff and axe plus pistol). It is a very competetive dps build with extremely strong defensive capabilities and strong boon coverage (~19might and ~40% alacrity for the subgroup). It has a extremely easy playstyle with only two buttons in the loop and about 3-4 for the opener. 

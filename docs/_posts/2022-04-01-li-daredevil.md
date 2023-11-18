@@ -7,6 +7,7 @@ tags: power thief daredevil hot groupcontent review-needed
 tagline: "This Daredevil build comes to you from Mukluk."
 excerpt: "This Daredevil build comes to you from Mukluk."
 spec: daredevil
+hidden: true
 ---
 
 This Daredevil build comes to you from Mukluk.

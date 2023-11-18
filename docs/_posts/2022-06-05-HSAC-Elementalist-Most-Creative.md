@@ -5,6 +5,7 @@ title: Elementalist - Creative
 tags: support power elementalist catalyst eod hsac groupcontent review-needed
 spec: catalyst
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 20k dps D/D Quickness Catalyst. Build provides 25might, fury, quickness, prot, and high resistance. Can trade prot and resistance for vigor and resolution by swapping to water instead of earth in the rotation.

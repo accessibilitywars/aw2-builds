@@ -6,6 +6,7 @@ title: Tempest Earth
 tags: condi elementalist tempest hot review-needed
 tagline: "'You can no more win a war than you can win an earthquake.'"
 spec: tempest
+hidden: true
 ---
 
 This elemental and signet-heavy Tempest build allows you to focus on just a few weapon skills.

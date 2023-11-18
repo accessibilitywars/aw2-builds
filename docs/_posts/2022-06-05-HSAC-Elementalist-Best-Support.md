@@ -5,6 +5,7 @@ title: Elementalist - Support
 tags: healing elementalist tempest hot hsac groupcontent review-needed
 spec: tempest
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 Thanks to the 10 man target nerf, now Tempest can integrate the overpowered healing and Rez power of Staff + Arcane traitline into your favourite Boon Tempest build. Burst heal your group with just a press of a button! (read: Wash the Pain Away)

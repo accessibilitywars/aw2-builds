@@ -11,13 +11,14 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin_dark: "neon"
 logo: "/assets/AW.png"
 logo_dark: "/assets/AWneon.png"
 
 # Site Settings
+latest_balance_patch     : "September 2023" # only latest balance patch shows on home page
 locale                   : "en-US"
 title                    : "Accessibility Wars Too"
 title_separator          : "-"

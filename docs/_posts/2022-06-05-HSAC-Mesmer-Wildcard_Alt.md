@@ -5,6 +5,7 @@ title: Mesmer - Wildcard
 tags: condi mesmer virtuoso eod hsac groupcontent review-needed
 spec: virtuoso
 tagline: Hardstuck Accessibility Challenge
+hidden: true
 ---
 
 This build focuses on ease of play and scalability with the APM of the player

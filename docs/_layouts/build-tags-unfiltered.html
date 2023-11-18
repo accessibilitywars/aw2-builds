@@ -13,16 +13,9 @@ layout: archive
 	{% for tag in site.tags %}
 		{% if tag[0] == tag_name %}
 			{% assign known_tags = known_tags | push: tag[0] %}
-			{% assign valid_count = 0 %}
-			{% for tag_post in tag[1] %}
-				{% if tag_post.hidden != true %}
-					{% assign valid_count = valid_count | plus: 1 %}
-				{% endif %}
-			{% endfor %}
 			<li>
 				<a href="#{{ tag[0] | slugify }}">
-				  {% comment %}<strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>{% endcomment %}
-				  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ valid_count }}</span>
+				  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
 				</a>
 			</li>
 		{% endif %}
@@ -37,37 +30,19 @@ layout: archive
 	{% for tag in profession_tags %}
 		{% if tag[0] == profession.id %}
 			{% assign known_tags = known_tags | push: tag[0] %}
-			{% assign valid_count = 0 %}
-			{% for tag_post in tag[1] %}
-				{% if tag_post.hidden != true %}
-					{% assign valid_count = valid_count | plus: 1 %}
-				{% endif %}
-			{% endfor %}
 			<li>
 			<a href="#{{ tag[0] | slugify }}">
-			  {% comment %}<img src="/assets/icons/{{profession.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ profession.name }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>{% endcomment %}
-			  <img src="/assets/icons/{{profession.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ profession.name }}</strong> <span class="taxonomy__count">{{ valid_count }}</span>
+			  <img src="/assets/icons/{{profession.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ profession.name }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
 			</a>
 			{% for spec in profession.specs %}
 				{% assign spec_found = false %}
 				{% for tag_spec in site.tags %}
 					{% if tag_spec[0] == spec.id %}
 						{% assign known_tags = known_tags | push: tag_spec[0] %}
-	  
-						{% assign valid_count = 0 %}
-						{% for tag_post in tag_spec[1] %}
-							{% if tag_post.hidden != true %}
-								{% assign valid_count = valid_count | plus: 1 %}
-							{% endif %}
-						{% endfor %}
-
-						{% if valid_count != 0 %}
 						{% assign spec_found = true %}
 						<a href="#{{ spec.id | slugify }}" style="padding-left:22px;">
-						  {% comment %}<img src="/assets/icons/{{spec.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ spec.name }}</strong> <span class="taxonomy__count">{{ tag_spec[1].size }}</span>{% endcomment %}
-						  <img src="/assets/icons/{{spec.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ spec.name }}</strong> <span class="taxonomy__count">{{ valid_count }}</span>
+						  <img src="/assets/icons/{{spec.id}}.png" style="width:22px;height: 22px;"/> <strong>{{ spec.name }}</strong> <span class="taxonomy__count">{{ tag_spec[1].size }}</span>
 						</a>
-						{% endif %}
 					{% endif %}
 				{% endfor %}
 				{% if spec_found == false %}
@@ -96,17 +71,9 @@ layout: archive
     {% endif %}
   {% endfor %}
   {% if known == false %}
-
-	{% assign valid_count = 0 %}
-	{% for tag_post in tag[1] %}
-		{% if tag_post.hidden != true %}
-			{% assign valid_count = valid_count | plus: 1 %}
-		{% endif %}
-	{% endfor %}
   <li>
     <a href="#{{ tag[0] | slugify }}">
-      {% comment %}<strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>{% endcomment %}
-      <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ valid_count }}</span>
+      <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
     </a>
   </li>
   {% endif %}
@@ -119,24 +86,13 @@ layout: archive
   {% if tag[0] == "review-needed" %}
     {% continue %}
   {% endif %}
-
-  {% assign valid_count = 0 %}
-  {% for tag_post in tag[1] %}
-	{% if tag_post.hidden != true %}
-		{% assign valid_count = valid_count | plus: 1 %}
-	{% endif %}
-  {% endfor %}
-  {% if valid_count != 0 %}
   <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ tag[0] }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% for post in tag.last %}
-	    {% if post.hidden != true %}
-          {% include archive-single.html type=entries_layout %}
-	    {% endif %}
+      {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
-  {% endif %}
 {% endfor %}

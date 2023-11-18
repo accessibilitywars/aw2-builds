@@ -6,6 +6,7 @@ title: LI Willbender
 tags: condi guardian willbender eod groupcontent review-needed
 tagline: "Blue flames burn hotter"
 spec: willbender
+hidden: true
 ---
 
 Mukluk released another LI build, this time for the new Guardian EoD specialization, the Willbender.

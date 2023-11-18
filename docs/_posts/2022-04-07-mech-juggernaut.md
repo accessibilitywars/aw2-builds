@@ -6,6 +6,7 @@ title: Mech Juggernaut
 tags: condi mechanist engineer eod review-needed
 tagline: "I'm the Juggernaut! Ain't nothin' -- ain't nobody -- can beat me!"
 spec: mechanist
+hidden: true
 ---
 
 This Mechanist build makes stuff blow up and light on fire. What could go wrong?

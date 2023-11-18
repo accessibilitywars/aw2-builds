@@ -6,6 +6,7 @@ title: Burst God Holosmith
 tags: power engineer holosmith pof groupcontent review-needed
 tagline: "Auto to victory!"
 spec: holosmith
+hidden: true
 ---
 
 This is a holosmith engineer LI build provided by MrMystic. This build may also be viewed at [gw2skills](http://gw2skills.net/editor/?PewAwqRlJw0YHsIGKO2LvvdA-zRIYR00XItlA1GIVUE2eQCjNzrhCnRA-e).

@@ -1,0 +1,1 @@
+{% assign valid_count = 0 %}{% for p in include.list %}{% if p.hidden != true %}{% assign valid_count = valid_count | plus: 1 %}{% endif %}{% endfor %}{{ valid_count }}

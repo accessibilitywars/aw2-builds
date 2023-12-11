@@ -26,14 +26,9 @@ Template code:
 
 <div
   data-armory-embed='skills'
-  data-armory-ids='28134,28419'
+  data-armory-ids='28134,28419' data-armory-nokey=true
 >
-</div>
-<div
-  data-armory-embed='skills'
-  data-armory-ids='62719,62878,62962,62832,62942'
->
-</div>
+</div><div data-armory-embed='skills' data-armory-ids='26937,29209,28231,27107,28406'></div><div data-armory-embed='skills' data-armory-ids='27372,28516,26679,26557,27975'></div>
 <div
   data-armory-embed='specializations'
   data-armory-ids='15,3,52'

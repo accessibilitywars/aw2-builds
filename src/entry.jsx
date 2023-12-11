@@ -97,16 +97,25 @@ import keyMappingSlots from "./key-mapping-slots.js";
     const loadouts = Array.from(document.querySelectorAll("[data-armory-embed=\"skills\"][data-armory-ids]"));
     loadouts.forEach((loadout) => {
       const skillLoadout = [];
-      let i = 0;
-      for (const line of (loadout.getAttribute("data-armory-ids") || "").split(",")) {
-        const id = parseInt(line, 10);
-        const slotId = `${(i + 6) % 10}`;
-        skillLoadout.push(<div key={`slot-${slotId}`} className="aw2-skill-loadout-slot" data-aw2-key={slotId}>
-          <Skill id={id} disableText={true} style={{fontSize: "64px"}}/>
-          <div className="aw2-show-key">{localKey(keyFromDefault(slotId))}</div>
-        </div>);
-        i++;
-      }
+    
+		const nokey = loadout.getAttribute("data-armory-nokey");
+		let i = 0;
+		for (const line of (loadout.getAttribute("data-armory-ids") || "").split(",")) {
+			const id = parseInt(line, 10);
+			const slotId = `${(i + 6) % 10}`;
+
+			if (nokey) {
+				skillLoadout.push(<div key={`slot-${slotId}`} className="aw2-skill-loadout-slot" data-aw2-key={slotId}>
+					<Skill id={id} disableText={true} style={{fontSize: "64px"}}/>
+				</div>);
+			} else {
+				skillLoadout.push(<div key={`slot-${slotId}`} className="aw2-skill-loadout-slot" data-aw2-key={slotId}>
+					<Skill id={id} disableText={true} style={{fontSize: "64px"}}/>
+					<div className="aw2-show-key">{localKey(keyFromDefault(slotId))}</div>
+				</div>);
+			}
+			i++;
+		}
 
       ReactDOM.render(<APILanguageProvider value="en"><div className="aw2-skill-loadout" >{skillLoadout}</div></APILanguageProvider>, loadout);
 

@@ -7,6 +7,7 @@ tags: power warrior spellbreaker pof review-needed
 tagline: "'Justice and power must be brought together, so that whatever is just may be powerful, and whatever is powerful may be just.'<br/> -- Blaise Pascal"
 spec: spellbreaker
 hidden: true
+published: false
 ---
 
 This moderate intensity Spellbreaker build uses signets for passive bonuses, and enjoys high fury and might uptime. This is a melee-heavy build, making movement control a potential factor.

@@ -18,7 +18,7 @@ logo: "/assets/AW.png"
 logo_dark: "/assets/AWneon.png"
 
 # Site Settings
-latest_balance_patch     : "September 2023" # only latest balance patch shows on home page
+latest_balance_patch     : "January 2024" # only latest balance patch shows on home page
 locale                   : "en-US"
 title                    : "Accessibility Wars Too"
 title_separator          : "-"

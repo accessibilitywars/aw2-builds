@@ -5,7 +5,7 @@ title: Two Finger Harbinger
 tags: condi necromancer harbinger eod
 spec: harbinger
 tagline: "'The dose makes the poison' -- Paracelsus"
-balance: September 2023
+balance: January 2024
 ---
 
 This condi-heavy harbinger build hits some solid numbers by pressing only a couple of buttons.

@@ -6,7 +6,7 @@ title: DPS Chaos Virtuoso
 tags: condi virtuoso mesmer eod groupcontent
 tagline: "Keep your mind sharp and your blades sharper"
 spec: virtuoso
-balance: September 2023
+balance: January 2024
 ---
 
 Low Intensity DPS Condition Virtuoso

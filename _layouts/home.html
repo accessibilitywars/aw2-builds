@@ -12,11 +12,11 @@ layout: archive
   {% assign posts = site.posts %}
 {% endif %}
 
-{% assign filtered_posts = site.posts | where_exp:"post", "post.balance == 'September 2023'" %}
+{% assign filtered_posts = site.posts | where_exp:"post", "post.balance == site.latest_balance_patch" %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  {% for post in filtered_posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>

@@ -19,7 +19,7 @@ These rotations and playstyles, as well as the PoV, is intentionally designed so
 
 - Armor: Viper's with Runes of the Trapper
 - Trinkets: Viper's
-- Pistol/Pistol with Sigils of Bursting/Earth
+- Weapons: Viper's Pistol/Pistol with Sigils of Bursting/Earth
 - Relic of the Fractal
 - Food & Utility: Cilantro Flatbread & Toxic Focusing Crystal
 

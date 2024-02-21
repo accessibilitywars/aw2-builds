@@ -7,6 +7,9 @@ berdandy:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mstdn.games/@berdandy"
+    - label: "Signal"
+      icon: "fab fa-fw fa-signal-messenger"
+      url: "https://signal.me/#eu/V/dT+m5C8P1UzowZcZ9ABOYUZLpP/1ZR8SE/WfRtOc4QEoauYMZIEoAVWUTfnqds"
 scooby:
    name: "Scooby, the Downstate Ele"
    avatar: "/assets/bio_photos/scooby.jpg"

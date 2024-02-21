@@ -24,7 +24,7 @@ These rotations and playstyles, as well as the PoV, is intentionally designed so
 	- Sinister Amulet
 	- Sinister Ring
 	- Viper's for remaining Ring and all other trinkets
-- Scepter/Focus with Bursting/Earth Sigils
+- Sinister Scepter/Focus with Bursting/Earth Sigils
 - Relic of the Fractal
 - Food & Utility: Fishy Rice Bowl & Toxic Focusing Crystal
 

@@ -16,7 +16,7 @@
   {% endif %}
 
   <div class="author__content">
-	{% if author.name %}
+	{% if author.name and author.name != site.author.name %}
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">Author: {{ author.name }}</a>
     </h3>
@@ -24,7 +24,7 @@
     {% endif %}
 
     {% if page.credit %}
-      <h3 class="author__name p-name" itemprop="name">Author:</h3>
+      <h3 class="author__name p-name" itemprop="name">Credit:</h3>
       <p>{{ page.credit }}</p>
 	{% endif %}
 

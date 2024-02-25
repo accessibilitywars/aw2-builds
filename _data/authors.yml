@@ -11,7 +11,7 @@ berdandy:
       icon: "fab fa-fw fa-signal-messenger"
       url: "https://signal.me/#eu/V/dT+m5C8P1UzowZcZ9ABOYUZLpP/1ZR8SE/WfRtOc4QEoauYMZIEoAVWUTfnqds"
 scooby:
-   name: "Scooby, the Downstate Ele"
+   name: "Scooby"
    avatar: "/assets/bio_photos/scooby.jpg"
    links:
      - label: "YouTube"

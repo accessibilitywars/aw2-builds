@@ -3,17 +3,13 @@ layout: build
 author: scooby
 editor: berdandy
 title: EZ Fire Tempest
-tags: condi elementalist tempest hot
+tags: condi elementalist tempest hot lowcog
 tagline: "'Burn, baby, burn!'"
 balance: January 2024
 spec: tempest
 ---
 
 A brand new spicy Fire Tempest build is great for roasted golems and friendly raid barbeques. Bring your friends, invite your neighbours.
-
-## Disclaimer
-
-These rotations and playstyles, as well as the PoV, is intentionally designed so that almost any player will be able to bring it to the golem and achieve the set benchmark, even at ~300 ping. The rotation is also designed around being very playable in an actual raid scenario, where you will be required to do mechanics or move around, instead of pushing the maximum DPS possible on the Golem for the class. Experienced players will easily beat this DPS benchmark playing the same build.
 
 ## Gearing
 

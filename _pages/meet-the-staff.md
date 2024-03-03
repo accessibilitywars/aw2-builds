@@ -3,6 +3,7 @@ layout: single
 title: Meet the Staff
 permalink: /staff/
 classes: wide
+hidden: true
 ---
 
 ## Berdandy
@@ -32,3 +33,4 @@ Waiting in the shadows are also a few special others that I'll keep nagging for 
 - Lyssa's Gaze
 - Bunny
 - Touka
+- Kuei

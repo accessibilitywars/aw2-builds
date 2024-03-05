@@ -25,26 +25,6 @@ layout: archive
   {% endfor %}
 </ul>
 
-{% assign expansion_tags = "core,hot,pof,eod" | split: "," %}
-<h2>Expansions</h2>
-<ul class="taxonomy__index">
-{% for tag_name in expansion_tags %}
-	{% for tag in site.tags %}
-		{% assign matches = tag[1] %}
-		{% capture num %}{% include count_valid.html list=matches %}{% endcapture %}
-		{% if tag[0] == tag_name and num != "0" %}
-			{% assign known_tags = known_tags | push: tag[0] %}
-			<li>
-				<a href="#{{ tag[0] | slugify }}">
-				  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ num }}</span>
-				</a>
-			</li>
-			
-		{% endif %}
-	{% endfor %}
-  {% endfor %}
-</ul>
-
 <h2>Professions</h2>
 <ul class="taxonomy__index">
 {% for profession in site.data.professions %}
@@ -85,6 +65,26 @@ layout: archive
 		{% endif %}
 	{% endfor %}
 {% endfor %}
+</ul>
+
+{% assign expansion_tags = "core,hot,pof,eod" | split: "," %}
+<h2>Expansions</h2>
+<ul class="taxonomy__index">
+{% for tag_name in expansion_tags %}
+	{% for tag in site.tags %}
+		{% assign matches = tag[1] %}
+		{% capture num %}{% include count_valid.html list=matches %}{% endcapture %}
+		{% if tag[0] == tag_name and num != "0" %}
+			{% assign known_tags = known_tags | push: tag[0] %}
+			<li>
+				<a href="#{{ tag[0] | slugify }}">
+				  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ num }}</span>
+				</a>
+			</li>
+			
+		{% endif %}
+	{% endfor %}
+  {% endfor %}
 </ul>
 
 <h2>Other Tags</h2>

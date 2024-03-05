@@ -6,16 +6,18 @@ layout: archive
 
 {% assign known_tags = "" | split: "," %}
 
-{% assign expansion_tags = "core,hot,pof,eod" | split: "," %}
-<h2>Expansion</h2>
+{% assign a11y_tags = "lowcog,lowphys,lowrep" | split: "," %}
+<h2>Accessibility Accommodations</h2>
 <ul class="taxonomy__index">
-{% for tag_name in expansion_tags %}
+{% for tag_name in a11y_tags %}
 	{% for tag in site.tags %}
-		{% if tag[0] == tag_name %}
+		{% assign matches = tag[1] %}
+		{% capture num %}{% include count_valid.html list=matches %}{% endcapture %}
+		{% if tag[0] == tag_name and num != "0" %}
 			{% assign known_tags = known_tags | push: tag[0] %}
 			<li>
 				<a href="#{{ tag[0] | slugify }}">
-				  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+				  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ num }}</span>
 				</a>
 			</li>
 		{% endif %}
@@ -55,6 +57,23 @@ layout: archive
 		{% endif %}
 	{% endfor %}
 {% endfor %}
+</ul>
+
+{% assign expansion_tags = "core,hot,pof,eod" | split: "," %}
+<h2>Expansion</h2>
+<ul class="taxonomy__index">
+{% for tag_name in expansion_tags %}
+	{% for tag in site.tags %}
+		{% if tag[0] == tag_name %}
+			{% assign known_tags = known_tags | push: tag[0] %}
+			<li>
+				<a href="#{{ tag[0] | slugify }}">
+				  <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ tag[1].size }}</span>
+				</a>
+			</li>
+		{% endif %}
+	{% endfor %}
+  {% endfor %}
 </ul>
 
 <h2>Other Tags</h2>

@@ -116,7 +116,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Discord"
       icon: "fas fa-fw fa-link"
-      url: "https://discord.gg/bKt2CdS8k3"
+      url: "/discord"
     # - label: "Twitter"
       # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/AWarsToo"

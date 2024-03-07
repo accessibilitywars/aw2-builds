@@ -27,7 +27,7 @@ Signet-heavy, with some chill hammer thumping. And a little turret on the side.
 
 ---
 
-<div data-armory-embed='skills' data-armory-ids='63049,5818,63253,63111,63095'></div><div data-armory-embed='specializations' data-armory-ids='6,38,70' data-armory-6-traits='1882,1892,1947' data-armory-38-traits='1914,1984,526' data-armory-70-traits='2279,2294,2292'></div>
+<div data-armory-embed='skills' data-armory-ids='63049,5818,63253,63111,63095'></div><div data-armory-embed='specializations' data-armory-ids='6,38,70' data-armory-6-traits='1882,1892,1947' data-armory-38-traits='1914,1923,526' data-armory-70-traits='2279,2294,2292'></div>
 
 ## Notes
 

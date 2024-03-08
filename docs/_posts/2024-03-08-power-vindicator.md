@@ -62,7 +62,7 @@ However, if you're in a position where not CCing will result in failure, just sw
 <span data-aw2-key="5" data-aw2-skill="28978"/> Staff 5 Surge of the Mists.
 Note that this will tank your DPS and the only thing you can do now is to auto attack (while still dodging and swapping legends).
 
-## Other References
+## Video
 
 {% include video id="0NdsSbwbdpQ" provider="youtube" %}
 

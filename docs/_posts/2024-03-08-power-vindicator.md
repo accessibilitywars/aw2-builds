@@ -17,7 +17,7 @@ This is a pretty foundational build for Revenant. Simple, solid and focused.
   - Alternates: Full Berserker's and/or Scholar runes
 - Sword/Sword with Force/Air Sigils
 - Staff with Force/Air Sigils
-- Relic of the Thief, or Fireworks.
+- Relic of the Thief
 - Consumables:
   - Cilantro Lime Sous-Vide Steak (Power/Ferocity)
   - Superior Sharpening Stone (Power)

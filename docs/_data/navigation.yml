@@ -8,6 +8,8 @@ main:
     url: /builds/
   - title: "Builds by Tag"
     url: /tags/
+  - title: "Contributor's Guide"
+    url: /contributor/
   - title: "Alternatives to Accessibility Wars"
     url: /alternatives/
 bounty-forms:

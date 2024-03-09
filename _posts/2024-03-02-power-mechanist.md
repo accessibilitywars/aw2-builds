@@ -31,13 +31,28 @@ Signet-heavy, with some chill hammer thumping. And a little turret on the side.
 
 ## Notes
 
-Very easy build to play that still does good damage.
+To play this build, you want to place
+<span data-aw2-key="7" data-aw2-skill="5818"/>Rifle Turret
+at the start of the fight, then press
+<span data-aw2-key="5" data-aw2-skill="30713"/>Hammer 5 Thunderclap, 
+<span data-aw2-key="2" data-aw2-skill="30088"/>Hammer 2 Electro-Whirl, and
+<span data-aw2-key="0" data-aw2-skill="63095"/>Overclock Signet
+off cooldown, and that is basically your rotation.
 
-You want to place Rifle Turret at the start of the fight, press Hammer 5 Thunderclap, Hammer 2 Electro-whirl, and Overclock Signet off cooldown, and that is basically your rotation.
+## Crowd Control
 
-You have decent CC. Hammer 3 Rocket Charge will make your Mech do Rocket Punch, which is a CC, but do take note that since the cooldown of Rocket Punch is longer than that of Hammer 3 Rocket Charge, it will not always be available. Other CC skills that you have are Force Signet and Overclock Signet. If you still need more CC, replace Rifle Turret with Throw Mine.
+You have decent CC. Primarily, <span data-aw2-key="3" data-aw2-skill="30665"/>Hammer 3 Rocket Charge
+will make your Mech do Rocket Punch, which is a CC, but do take note that since the cooldown of Rocket Punch is longer than that of
+<span data-aw2-key="3" data-aw2-skill="30665"/>Hammer 3 Rocket Charge
+it will not always be available.
 
-If you have any questions about the build or rotation, please join us in our discord @   / discord   and we will be happy to answer them!
+Other CC skills that you have are:
+- <span data-aw2-key="8" data-aw2-skill="63253"/>Force Signet
+- <span data-aw2-key="0" data-aw2-skill="63095"/>Overclock Signet
+
+If you still need more CC, replace 
+<span data-aw2-skill="5818"/>Rifle Turret with
+<span data-aw2-skill="6161"/>Throw Mine.
 
 ## Other References
 

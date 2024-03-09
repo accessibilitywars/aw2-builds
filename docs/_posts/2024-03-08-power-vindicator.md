@@ -4,7 +4,7 @@ author: scooby
 editor: berdandy
 title: EZ Power Vindicator
 tags: power revenant vindicator eod lowcog lowrep lowphys
-tagline: "Caught between a rock and a sharp place"
+tagline: "Death from above!"
 balance: January 2024
 spec: vindicator
 ---

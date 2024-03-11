@@ -9,11 +9,11 @@ spec: reaper
 hidden: true
 ---
 
-**WIP** need to doublecheck things **WIP**
-
 This signet and minion Reaper build prioritizes shroud damage and life force generation.
 It includes both Dagger/Warhorn and Greatsword choices, but no need to weapon swap. It's fine
 to pick one and stick with it.
+
+**WIP** need to doublecheck things **WIP**
 
 ## Gearing
 

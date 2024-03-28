@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - tempest</title>
+    <subtitle>Low-Intensity Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/tempest/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-18T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/tempest/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Fire Tempest</title>
+        <published>2024-02-18T00:00:00+00:00</published>
+        <updated>2024-02-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-tempest/"/>
+        <id>https://aw2.help/builds/condi-tempest/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-tempest/">&lt;p&gt;A brand new spicy Fire Tempest build is great for roasted golems and friendly raid barbeques. Bring your friends, invite your neighbours.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor
+&lt;ul&gt;
+&lt;li&gt;Viper&#x27;s Coat or Leggings, the rest Sinister&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of Balthazar&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Trinkets:
+&lt;ul&gt;
+&lt;li&gt;Sinister Amulet&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Ring&lt;&#x2F;li&gt;
+&lt;li&gt;Viper&#x27;s for remaining Ring and all other trinkets&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Scepter&#x2F;Focus with Bursting&#x2F;Earth Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Food &amp;amp; Utility: Fishy Rice Bowl &amp;amp; Toxic Focusing Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQYfFSU9MBfHEgAAvgEAAHIAAADLAAAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;29535,5734,5502,5542,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,37,48&#x27; data-armory-31-traits=&#x27;296,325,1510&#x27; data-armory-37-traits=&#x27;253,257,1511&#x27; data-armory-48-traits=&#x27;1886,1891,1839&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;No attunement swapping required for this build! Just camp fire and press all of your skills off CD. Remember to prioritize Overload Fire as successfully completing an Overload gives you a &lt;strong&gt;15%&lt;&#x2F;strong&gt; damage boost!&lt;&#x2F;p&gt;
+&lt;p&gt;Granting allies (or yourself) auras also gives you a large &lt;strong&gt;10%&lt;&#x2F;strong&gt; damage boost. You can do this with Overload Fire, and Focus 5 Fire Shield.&lt;&#x2F;p&gt;
+&lt;p&gt;Swap into Air or Water for &lt;strong&gt;HUGE&lt;&#x2F;strong&gt; amounts of CC whenever needed, and Overload Air&#x2F;Water&#x2F;camp Earth after while waiting to re-enter Fire attunement. This will drop your DPS to the floor but eh, mechanics are IMPORTANT.&lt;&#x2F;p&gt;
+&lt;p&gt;This build isn&#x27;t even at its peak potential yet. You can&#x27;t actually apply enough bleeding to proc your Relic of the Fractal, so that&#x27;s ~500+ more DPS that you could be doing in an actual fight when you can proc it!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;SzgBuiV-zHw&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

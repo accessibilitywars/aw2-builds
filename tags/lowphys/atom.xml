@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - lowphys</title>
+    <subtitle>Low-Intensity Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/lowphys/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-10T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/lowphys/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Condi Mechanist</title>
+        <published>2024-03-10T00:00:00+00:00</published>
+        <updated>2024-03-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-mechanist/"/>
+        <id>https://aw2.help/builds/condi-mechanist/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-mechanist/">&lt;p&gt;This mechanist build is all-signets, and no kit usage, for simple play&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor: Viper&#x27;s with Runes of the Trapper&lt;&#x2F;li&gt;
+&lt;li&gt;Trinkets: Viper&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Weapons: Viper&#x27;s Pistol&#x2F;Pistol with Sigils of Bursting&#x2F;Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Food &amp;amp; Utility: Cilantro Flatbread &amp;amp; Toxic Focusing Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGJyY5RjUNGwAAGhsAAA4bAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;63049,63253,63113,63111,63095&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,70&#x27; data-armory-6-traits=&#x27;1882,482,505&#x27; data-armory-38-traits=&#x27;1878,2006,433&#x27; data-armory-70-traits=&#x27;2282,2270,2298&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Use all skills off cooldown in the following priority order, which is shown on screen as well:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;5831&quot;&#x2F;&gt; Pistol 4 Blowtorch&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;3&quot; data-aw2-skill=&quot;5829&quot;&#x2F;&gt; Pistol 3 Static Shot&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;2&quot; data-aw2-skill=&quot;5828&quot;&#x2F;&gt; Pistol 2 Poison Dart Volley&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;8&quot; data-aw2-skill=&quot;63113&quot;&#x2F;&gt; Superconducting Signet &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;0&quot; data-aw2-skill=&quot;63095&quot;&#x2F;&gt; Overclock Signet&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Your CC skills are, in order of priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;7&quot; data-aw2-skill=&quot;63253&quot;&#x2F;&gt; Force Signet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;5&quot; data-aw2-skill=&quot;5830&quot;&#x2F;&gt; Pistol 5 Glue Shot&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;F4&quot; data-aw2-skill=&quot;63050&quot;&#x2F;&gt; Crash Down (by unsummoning and summoning Mech)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;3&quot; data-aw2-skill=&quot;5829&quot;&#x2F;&gt; Pistol 3 Static Shot (which makes your Mech do Rocket Punch, but since the cooldown for Rocket Punch is longer that the skill, it might not have CC)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;I actually forgot to put on my Sigil of Bursting, so this build does easily ~1k more DPS than the number in the log. You can expect 33.5k DPS.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;zBh_exTC6qs&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Power Vindicator</title>
+        <published>2024-03-08T00:00:00+00:00</published>
+        <updated>2024-03-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-vindicator/"/>
+        <id>https://aw2.help/builds/power-vindicator/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-vindicator/">&lt;p&gt;This is a pretty foundational build for Revenant. Simple, solid and focused.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dragon&#x27;s Helm, and full Berserker&#x27;s otherwise, with Dragonhunter&#x27;s runes
+&lt;ul&gt;
+&lt;li&gt;Alternates: Full Berserker&#x27;s and&#x2F;or Scholar runes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sword&#x2F;Sword with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Staff with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQkDNg8qRRXcEQAABhIAACsSAADUEQAAyhEAAAIDAAArEgYS1BEAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-nokey=true data-armory-ids=&#x27;28134,28419&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;26937,29209,28231,27107,28406&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;27372,28516,26679,26557,27975&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;3,15,69&#x27; data-armory-3-traits=&#x27;1761,1774,1719&#x27; data-armory-15-traits=&#x27;1767,1765,1800&#x27; data-armory-69-traits=&#x27;2258,2259,2257&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Power Vindicator can be very easy to play, yet deliver respectable results by following the steps below:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance Swap your legend when it is off cooldown or when you run out of energy, it doesn&#x27;t matter much, and use
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27107&quot;&gt;&lt;&#x2F;span&gt; Impossible Odds while in Shiro, and
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26557&quot;&gt;&lt;&#x2F;span&gt; Vengeful Hammers while in Jalis. You can bind both these skills to the same button to reduce mistakes.&lt;&#x2F;p&gt;
+&lt;p&gt;Use off cooldown in following priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27074&quot;&gt;&lt;&#x2F;span&gt; Deathstrike (Sword 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29233&quot;&gt;&lt;&#x2F;span&gt; Chilling Isolation (Sword 2)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Dodge to start the fight and dodge when your endurance is almost full. &lt;&#x2F;p&gt;
+&lt;p&gt;Auto attack to fill.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26679&quot;&gt;&lt;&#x2F;span&gt; Forced Engagement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28406&quot;&gt;&lt;&#x2F;span&gt; Jade Winds&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;However, if you&#x27;re in a position where not CCing will result in failure, just swap to staff and use
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28978&quot;&gt;&lt;&#x2F;span&gt; Surge of the Mists (Staff 5)&lt;&#x2F;p&gt;
+&lt;p&gt;Note that this will tank your DPS and the only thing you can do now is to auto attack (while still dodging and swapping legends).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;0NdsSbwbdpQ&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Power Holosmith</title>
+        <published>2024-03-03T00:00:00+00:00</published>
+        <updated>2024-03-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-holosmith/"/>
+        <id>https://aw2.help/builds/power-holosmith/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-holosmith/">&lt;p&gt;A hammer priority-based build, with two different priority sets (in&#x2F;out of forge), this build heats up fast.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Hammer, Sigils of Force &amp;amp; Impact&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGOyYvOTcqDwAA5RYAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;21659,43739,5818,42842,42009&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,57&#x27; data-armory-6-traits=&#x27;1882,1892,1947&#x27; data-armory-38-traits=&#x27;1914,1923,526&#x27; data-armory-57-traits=&#x27;2106,2103,2064&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Power Holosmith, played in this rotation, can be summed up by having a skill priority order and pressing skills off cooldown, with the exception of Laser Disc and Prime Light Beam. These 2 skills have the additional condition of needing to be pressed above 50% heat.&lt;&#x2F;p&gt;
+&lt;p&gt;The highest priority skills are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Particle Accelerator&lt;&#x2F;li&gt;
+&lt;li&gt;Surprise Shot&lt;&#x2F;li&gt;
+&lt;li&gt;Blade Burst&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;They are all the same priority as each other as none of these 3 skills have a cast time, and can be cast anytime without interrupting any of your skills or auto attack chain.&lt;&#x2F;p&gt;
+&lt;p&gt;In Photon Forge mode, your skill priorities are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44530&quot;&gt;&lt;&#x2F;span&gt; Corona Burst (Forge 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45783&quot;&gt;&lt;&#x2F;span&gt; Photon Blitz (Forge 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42842&quot;&gt;&lt;&#x2F;span&gt; Laser Disk (above 50% heat)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42009&quot;&gt;&lt;&#x2F;span&gt; Prime Light Beam (above 50% heat)&lt;&#x2F;li&gt;
+&lt;li&gt;Auto attack when you can&#x27;t press any buttons.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Outside of Photon Forge, your skill priorities are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30713&quot;&gt;&lt;&#x2F;span&gt; Thunderclap (Hammer 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30088&quot;&gt;&lt;&#x2F;span&gt; Electro-whirl (Hammer 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;43739&quot;&gt;&lt;&#x2F;span&gt; Photon Wall -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40533&quot;&gt;&lt;&#x2F;span&gt; Launch Wall (spam the button)&lt;&#x2F;li&gt;
+&lt;li&gt;Auto attack when you can&#x27;t press any buttons.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;Your CC skills are Static Shock, and Forge 5 Holographic Shockwave. That&#x27;s not a lot of CC, so if you need more CC, you can swap out Rifle Turret for Throw Mine, and if you need even more CC, swap out Photon Wall for Personal Battering Ram.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;IPqhB8YIiwo&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Power Mechanist</title>
+        <published>2024-03-02T00:00:00+00:00</published>
+        <updated>2024-03-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-mechanist/"/>
+        <id>https://aw2.help/builds/power-mechanist/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-mechanist/">&lt;p&gt;Signet-heavy, with some chill hammer thumping. And a little turret on the side.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Hammer, Sigils of Force &amp;amp; Impact&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGOyYnRh8NGwAAowAAABobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;63049,5818,63253,63111,63095&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,70&#x27; data-armory-6-traits=&#x27;1882,1892,1947&#x27; data-armory-38-traits=&#x27;1914,1984,526&#x27; data-armory-70-traits=&#x27;2279,2294,2292&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;To play this build, you want to place&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5818&quot;&gt;&lt;&#x2F;span&gt; Rifle Turret&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;at the start of the fight, then press&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30713&quot;&gt;&lt;&#x2F;span&gt; Thunderclap (Hammer 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30088&quot;&gt;&lt;&#x2F;span&gt; Electro-whirl (Hammer 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;63095&quot;&gt;&lt;&#x2F;span&gt; Overclock Signet&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;off cooldown, and that is basically your rotation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;You have decent CC. Primarily, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30665&quot;&gt;&lt;&#x2F;span&gt; Rocket Charge (Hammer 3) will make your Mech do Rocket Punch, which is a CC, but do take note that since the cooldown of Rocket Punch is longer than that of
+Rocket Charge it will not always be available.&lt;&#x2F;p&gt;
+&lt;p&gt;Other CC skills that you have are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;63253&quot;&gt;&lt;&#x2F;span&gt; Force Signet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;63095&quot;&gt;&lt;&#x2F;span&gt; Overclock Signet&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If you still need more CC, replace &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5818&quot;&gt;&lt;&#x2F;span&gt; Rifle Turret&lt;span title=&quot;WARNING: multiple matches for Rifle Turret. Use id param to differentiate!&quot; style=&#x27;color: red; font-weight: bold;&#x27;&gt; ERROR&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;with &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;6161&quot;&gt;&lt;&#x2F;span&gt; Throw Mine&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;ipzl3PqQvTY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Shortbow Soulbeast</title>
+        <published>2022-04-10T00:00:00+00:00</published>
+        <updated>2022-04-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-soulbeast/"/>
+        <id>https://aw2.help/builds/condi-soulbeast/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-soulbeast/">&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Viper armour&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Shortbow Earth&#x2F;Bursting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQQeLSE3Nz6hAAAAvwAAAOkWAACsAQAAwAAAAD0lAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;BE037F03F337204F7D9C99F1B94D7FA708AE00A7&#x2F;1769883.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Fanged Iboga&lt;&#x2F;div&gt;&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;DF96C29EFA4BDEC66C3149F280141490C20458D3&#x2F;52606.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Warthog&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,33,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-33-traits=&#x27;1099,1101,1701&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;ow-variant&quot;&gt;OW Variant&lt;&#x2F;h2&gt;
+&lt;p&gt;For Open World, this Beastmastery variant works well.&lt;&#x2F;p&gt;
+&lt;p&gt;Template code:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQQeLSA+Nz6hAAAAvwAAAOkWAACsAQAAwAAAAD0lAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;BE037F03F337204F7D9C99F1B94D7FA708AE00A7&#x2F;1769883.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Fanged Iboga&lt;&#x2F;div&gt;&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;DF96C29EFA4BDEC66C3149F280141490C20458D3&#x2F;52606.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Warthog&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,32,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-32-traits=&#x27;1072,970,1066&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;Pets: Juvenile Fanged Iboga &#x2F; Juvenile Warthog&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,32,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-32-traits=&#x27;1072,970,1066&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;If you have CC needs (blue breakbars), and can accommodate it, consider the following options.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Concussion Shot &lt;span data-aw2-key=&quot;5&quot; data-aw2-skill=&quot;12508&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Warthog &lt;span data-aw2-key=&quot;F2&quot; data-aw2-skill=&quot;46432&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Warthog Unmerge &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;43014&quot;&gt;&lt;&#x2F;span&gt;, wait for attack, Remerge &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;42944&quot;&gt;&lt;&#x2F;span&gt; when able&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Important: this build has significant flanking bonuses. This nearly doubles damage if you&#x27;re able to position to attack from the side or rear.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Merge with pet &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;42944&quot;&gt;&lt;&#x2F;span&gt;, Autoattack, prioritizing flanking position&lt;&#x2F;li&gt;
+&lt;li&gt;As in 1, + &lt;span data-aw2-key=&quot;2&quot; data-aw2-skill=&quot;12468&quot;&gt;&lt;&#x2F;span&gt;, &lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;12507&quot;&gt;&lt;&#x2F;span&gt;,  &lt;span data-aw2-key=&quot;F1&quot; data-aw2-skill=&quot;41406&quot;&gt;&lt;&#x2F;span&gt; off cooldown&lt;&#x2F;li&gt;
+&lt;li&gt;As in 2, + &lt;span data-aw2-key=&quot;7&quot; data-aw2-skill=&quot;12537&quot;&gt;&lt;&#x2F;span&gt;, &lt;span data-aw2-key=&quot;8&quot; data-aw2-skill=&quot;40498&quot;&gt;&lt;&#x2F;span&gt; off cooldown&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;em&gt;Note: these are animation-free utilities and share cooldown timings. Position them next to each other on the skill bar, and hit both keys at the same time&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Elite skills are flexible and not particularly effective in this build. Generally choose Strength of the Pack (useful if alone), or Entangle for a bit of extra dps.&lt;&#x2F;p&gt;
+&lt;p&gt;You can unmerge with your pet, and use it to tank for you. If your pet is about to die, merge and unmerge to refresh its health.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

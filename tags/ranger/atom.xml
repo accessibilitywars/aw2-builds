@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - ranger</title>
+    <subtitle>Low-Intensity Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/ranger/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-04-10T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/ranger/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Shortbow Soulbeast</title>
+        <published>2022-04-10T00:00:00+00:00</published>
+        <updated>2022-04-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-soulbeast/"/>
+        <id>https://aw2.help/builds/condi-soulbeast/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-soulbeast/">&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Viper armour&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Shortbow Earth&#x2F;Bursting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQQeLSE3Nz6hAAAAvwAAAOkWAACsAQAAwAAAAD0lAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;BE037F03F337204F7D9C99F1B94D7FA708AE00A7&#x2F;1769883.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Fanged Iboga&lt;&#x2F;div&gt;&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;DF96C29EFA4BDEC66C3149F280141490C20458D3&#x2F;52606.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Warthog&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,33,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-33-traits=&#x27;1099,1101,1701&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;ow-variant&quot;&gt;OW Variant&lt;&#x2F;h2&gt;
+&lt;p&gt;For Open World, this Beastmastery variant works well.&lt;&#x2F;p&gt;
+&lt;p&gt;Template code:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQQeLSA+Nz6hAAAAvwAAAOkWAACsAQAAwAAAAD0lAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;BE037F03F337204F7D9C99F1B94D7FA708AE00A7&#x2F;1769883.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Fanged Iboga&lt;&#x2F;div&gt;&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;DF96C29EFA4BDEC66C3149F280141490C20458D3&#x2F;52606.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Warthog&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,32,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-32-traits=&#x27;1072,970,1066&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;Pets: Juvenile Fanged Iboga &#x2F; Juvenile Warthog&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,32,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-32-traits=&#x27;1072,970,1066&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;If you have CC needs (blue breakbars), and can accommodate it, consider the following options.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Concussion Shot &lt;span data-aw2-key=&quot;5&quot; data-aw2-skill=&quot;12508&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Warthog &lt;span data-aw2-key=&quot;F2&quot; data-aw2-skill=&quot;46432&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Warthog Unmerge &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;43014&quot;&gt;&lt;&#x2F;span&gt;, wait for attack, Remerge &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;42944&quot;&gt;&lt;&#x2F;span&gt; when able&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Important: this build has significant flanking bonuses. This nearly doubles damage if you&#x27;re able to position to attack from the side or rear.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Merge with pet &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;42944&quot;&gt;&lt;&#x2F;span&gt;, Autoattack, prioritizing flanking position&lt;&#x2F;li&gt;
+&lt;li&gt;As in 1, + &lt;span data-aw2-key=&quot;2&quot; data-aw2-skill=&quot;12468&quot;&gt;&lt;&#x2F;span&gt;, &lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;12507&quot;&gt;&lt;&#x2F;span&gt;,  &lt;span data-aw2-key=&quot;F1&quot; data-aw2-skill=&quot;41406&quot;&gt;&lt;&#x2F;span&gt; off cooldown&lt;&#x2F;li&gt;
+&lt;li&gt;As in 2, + &lt;span data-aw2-key=&quot;7&quot; data-aw2-skill=&quot;12537&quot;&gt;&lt;&#x2F;span&gt;, &lt;span data-aw2-key=&quot;8&quot; data-aw2-skill=&quot;40498&quot;&gt;&lt;&#x2F;span&gt; off cooldown&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;em&gt;Note: these are animation-free utilities and share cooldown timings. Position them next to each other on the skill bar, and hit both keys at the same time&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Elite skills are flexible and not particularly effective in this build. Generally choose Strength of the Pack (useful if alone), or Entangle for a bit of extra dps.&lt;&#x2F;p&gt;
+&lt;p&gt;You can unmerge with your pet, and use it to tank for you. If your pet is about to die, merge and unmerge to refresh its health.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

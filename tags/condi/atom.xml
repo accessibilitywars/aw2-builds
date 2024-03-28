@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - condi</title>
+    <subtitle>Low-Intensity Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/condi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-10T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/condi/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Condi Mechanist</title>
+        <published>2024-03-10T00:00:00+00:00</published>
+        <updated>2024-03-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-mechanist/"/>
+        <id>https://aw2.help/builds/condi-mechanist/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-mechanist/">&lt;p&gt;This mechanist build is all-signets, and no kit usage, for simple play&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor: Viper&#x27;s with Runes of the Trapper&lt;&#x2F;li&gt;
+&lt;li&gt;Trinkets: Viper&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Weapons: Viper&#x27;s Pistol&#x2F;Pistol with Sigils of Bursting&#x2F;Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Food &amp;amp; Utility: Cilantro Flatbread &amp;amp; Toxic Focusing Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGJyY5RjUNGwAAGhsAAA4bAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;63049,63253,63113,63111,63095&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,70&#x27; data-armory-6-traits=&#x27;1882,482,505&#x27; data-armory-38-traits=&#x27;1878,2006,433&#x27; data-armory-70-traits=&#x27;2282,2270,2298&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Use all skills off cooldown in the following priority order, which is shown on screen as well:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;5831&quot;&#x2F;&gt; Pistol 4 Blowtorch&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;3&quot; data-aw2-skill=&quot;5829&quot;&#x2F;&gt; Pistol 3 Static Shot&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;2&quot; data-aw2-skill=&quot;5828&quot;&#x2F;&gt; Pistol 2 Poison Dart Volley&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;8&quot; data-aw2-skill=&quot;63113&quot;&#x2F;&gt; Superconducting Signet &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;0&quot; data-aw2-skill=&quot;63095&quot;&#x2F;&gt; Overclock Signet&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Your CC skills are, in order of priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;7&quot; data-aw2-skill=&quot;63253&quot;&#x2F;&gt; Force Signet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;5&quot; data-aw2-skill=&quot;5830&quot;&#x2F;&gt; Pistol 5 Glue Shot&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;F4&quot; data-aw2-skill=&quot;63050&quot;&#x2F;&gt; Crash Down (by unsummoning and summoning Mech)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;3&quot; data-aw2-skill=&quot;5829&quot;&#x2F;&gt; Pistol 3 Static Shot (which makes your Mech do Rocket Punch, but since the cooldown for Rocket Punch is longer that the skill, it might not have CC)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;I actually forgot to put on my Sigil of Bursting, so this build does easily ~1k more DPS than the number in the log. You can expect 33.5k DPS.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;zBh_exTC6qs&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Lava Weaver</title>
+        <published>2024-03-02T00:00:00+00:00</published>
+        <updated>2024-03-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-weaver/"/>
+        <id>https://aw2.help/builds/condi-weaver/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-weaver/">&lt;p&gt;Rotating between Fire and Earth Attunements, this hot weaver build gets things shaking.
+We include some Elementals for extra friends when you&#x27;re feeling lonely.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Viper&#x27;s, Runes of the Trapper&lt;&#x2F;li&gt;
+&lt;li&gt;Scepter&#x2F;Focus, Sigils of Torment&#x2F;Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Salsa-Topped Veggie Flatbread (Expertise&#x2F;Condi Damage)&lt;&#x2F;li&gt;
+&lt;li&gt;Toxic Focusing Crystal (Condi Damage)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQYfFRomOBV0AAAAywAAAHIAAAA1FwAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;5503,5542,5502,40183,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,26,56&#x27; data-armory-31-traits=&#x27;296,325,1510&#x27; data-armory-26-traits=&#x27;1507,275,287&#x27; data-armory-56-traits=&#x27;2177,2180,2131&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Precast Glyph of Lesser Elementals (3 if possible) and Glyph of Elementals in Fire attunement before the fight starts.&lt;&#x2F;p&gt;
+&lt;p&gt;Rotate between elements as such:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Fire&#x2F;Earth, press Fire&lt;&#x2F;li&gt;
+&lt;li&gt;Fire&#x2F;Fire, press Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Earth&#x2F;Fire, press Fire&lt;&#x2F;li&gt;
+&lt;li&gt;Fire&#x2F;Earth, repeat from top.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Use all your weapon skills off cooldown, skipping Earth Focus 5 Obsidian Flesh. Use Signet of Fire and Flame Barrage off cooldown, Glyph of Lesser Elementals off cooldown in Fire attunement, and Primordial Stance off cooldown before switching to Earth attunement.&lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s also helpful if you use Fire Focus 4 Flame Wall before Fire Scepter 2 Dragon&#x27;s Tooth and Fire Scepter 3 Phoenix as that will allow you to blast might for your squad. Fire Scepter 3 Phoenix is also a condition cleanse you want to use off CD so that helps your squad as well. Not much barrier generation though, since this build does not want to spam Dual Attacks.&lt;&#x2F;p&gt;
+&lt;p&gt;You can replace off hand Focus with Warhorn, although based on my testing the damage isn&#x27;t much better, you can choose to go with whichever weapon you prefer.&lt;&#x2F;p&gt;
+&lt;p&gt;I understand the RNG with using Glyph of Lesser Elementals in a demo, which is why I have decided not to precast it. This means that I am able to show off the full rotation and build without inflating the final damage number. I choose to leave it in because I have seen many players who don&#x27;t read and just use Glyph of Elemental Power during the actual fights.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;fmIY5GpklGA&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fire Tempest</title>
+        <published>2024-02-18T00:00:00+00:00</published>
+        <updated>2024-02-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-tempest/"/>
+        <id>https://aw2.help/builds/condi-tempest/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-tempest/">&lt;p&gt;A brand new spicy Fire Tempest build is great for roasted golems and friendly raid barbeques. Bring your friends, invite your neighbours.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor
+&lt;ul&gt;
+&lt;li&gt;Viper&#x27;s Coat or Leggings, the rest Sinister&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of Balthazar&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Trinkets:
+&lt;ul&gt;
+&lt;li&gt;Sinister Amulet&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Ring&lt;&#x2F;li&gt;
+&lt;li&gt;Viper&#x27;s for remaining Ring and all other trinkets&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Scepter&#x2F;Focus with Bursting&#x2F;Earth Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Food &amp;amp; Utility: Fishy Rice Bowl &amp;amp; Toxic Focusing Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQYfFSU9MBfHEgAAvgEAAHIAAADLAAAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;29535,5734,5502,5542,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,37,48&#x27; data-armory-31-traits=&#x27;296,325,1510&#x27; data-armory-37-traits=&#x27;253,257,1511&#x27; data-armory-48-traits=&#x27;1886,1891,1839&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;No attunement swapping required for this build! Just camp fire and press all of your skills off CD. Remember to prioritize Overload Fire as successfully completing an Overload gives you a &lt;strong&gt;15%&lt;&#x2F;strong&gt; damage boost!&lt;&#x2F;p&gt;
+&lt;p&gt;Granting allies (or yourself) auras also gives you a large &lt;strong&gt;10%&lt;&#x2F;strong&gt; damage boost. You can do this with Overload Fire, and Focus 5 Fire Shield.&lt;&#x2F;p&gt;
+&lt;p&gt;Swap into Air or Water for &lt;strong&gt;HUGE&lt;&#x2F;strong&gt; amounts of CC whenever needed, and Overload Air&#x2F;Water&#x2F;camp Earth after while waiting to re-enter Fire attunement. This will drop your DPS to the floor but eh, mechanics are IMPORTANT.&lt;&#x2F;p&gt;
+&lt;p&gt;This build isn&#x27;t even at its peak potential yet. You can&#x27;t actually apply enough bleeding to proc your Relic of the Fractal, so that&#x27;s ~500+ more DPS that you could be doing in an actual fight when you can proc it!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;SzgBuiV-zHw&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Shortbow Soulbeast</title>
+        <published>2022-04-10T00:00:00+00:00</published>
+        <updated>2022-04-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-soulbeast/"/>
+        <id>https://aw2.help/builds/condi-soulbeast/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-soulbeast/">&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Viper armour&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Shortbow Earth&#x2F;Bursting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQQeLSE3Nz6hAAAAvwAAAOkWAACsAQAAwAAAAD0lAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;BE037F03F337204F7D9C99F1B94D7FA708AE00A7&#x2F;1769883.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Fanged Iboga&lt;&#x2F;div&gt;&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;DF96C29EFA4BDEC66C3149F280141490C20458D3&#x2F;52606.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Warthog&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,33,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-33-traits=&#x27;1099,1101,1701&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;ow-variant&quot;&gt;OW Variant&lt;&#x2F;h2&gt;
+&lt;p&gt;For Open World, this Beastmastery variant works well.&lt;&#x2F;p&gt;
+&lt;p&gt;Template code:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQQeLSA+Nz6hAAAAvwAAAOkWAACsAQAAwAAAAD0lAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;BE037F03F337204F7D9C99F1B94D7FA708AE00A7&#x2F;1769883.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Fanged Iboga&lt;&#x2F;div&gt;&lt;div style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;DF96C29EFA4BDEC66C3149F280141490C20458D3&#x2F;52606.png&#x27;) 50% 50% no-repeat; width: 128px; height: 128px; vertical-align: bottom; display: table-cell; font-weight: bold;&quot;&gt;Juvenile Warthog&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,32,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-32-traits=&#x27;1072,970,1066&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;Pets: Juvenile Fanged Iboga &#x2F; Juvenile Warthog&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12537,40498,12491,12580&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,32,55&#x27; data-armory-30-traits=&#x27;1069,1846,1912&#x27; data-armory-32-traits=&#x27;1072,970,1066&#x27; data-armory-55-traits=&#x27;2071,2161,2143&#x27;&gt;&lt;&#x2F;div&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;If you have CC needs (blue breakbars), and can accommodate it, consider the following options.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Concussion Shot &lt;span data-aw2-key=&quot;5&quot; data-aw2-skill=&quot;12508&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Warthog &lt;span data-aw2-key=&quot;F2&quot; data-aw2-skill=&quot;46432&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Warthog Unmerge &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;43014&quot;&gt;&lt;&#x2F;span&gt;, wait for attack, Remerge &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;42944&quot;&gt;&lt;&#x2F;span&gt; when able&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Important: this build has significant flanking bonuses. This nearly doubles damage if you&#x27;re able to position to attack from the side or rear.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Merge with pet &lt;span data-aw2-key=&quot;F5&quot; data-aw2-skill=&quot;42944&quot;&gt;&lt;&#x2F;span&gt;, Autoattack, prioritizing flanking position&lt;&#x2F;li&gt;
+&lt;li&gt;As in 1, + &lt;span data-aw2-key=&quot;2&quot; data-aw2-skill=&quot;12468&quot;&gt;&lt;&#x2F;span&gt;, &lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;12507&quot;&gt;&lt;&#x2F;span&gt;,  &lt;span data-aw2-key=&quot;F1&quot; data-aw2-skill=&quot;41406&quot;&gt;&lt;&#x2F;span&gt; off cooldown&lt;&#x2F;li&gt;
+&lt;li&gt;As in 2, + &lt;span data-aw2-key=&quot;7&quot; data-aw2-skill=&quot;12537&quot;&gt;&lt;&#x2F;span&gt;, &lt;span data-aw2-key=&quot;8&quot; data-aw2-skill=&quot;40498&quot;&gt;&lt;&#x2F;span&gt; off cooldown&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;em&gt;Note: these are animation-free utilities and share cooldown timings. Position them next to each other on the skill bar, and hit both keys at the same time&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Elite skills are flexible and not particularly effective in this build. Generally choose Strength of the Pack (useful if alone), or Entangle for a bit of extra dps.&lt;&#x2F;p&gt;
+&lt;p&gt;You can unmerge with your pet, and use it to tank for you. If your pet is about to die, merge and unmerge to refresh its health.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

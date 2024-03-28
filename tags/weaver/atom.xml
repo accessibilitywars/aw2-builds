@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - weaver</title>
+    <subtitle>Low-Intensity Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/weaver/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-02T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/weaver/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Lava Weaver</title>
+        <published>2024-03-02T00:00:00+00:00</published>
+        <updated>2024-03-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-weaver/"/>
+        <id>https://aw2.help/builds/condi-weaver/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-weaver/">&lt;p&gt;Rotating between Fire and Earth Attunements, this hot weaver build gets things shaking.
+We include some Elementals for extra friends when you&#x27;re feeling lonely.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Viper&#x27;s, Runes of the Trapper&lt;&#x2F;li&gt;
+&lt;li&gt;Scepter&#x2F;Focus, Sigils of Torment&#x2F;Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Salsa-Topped Veggie Flatbread (Expertise&#x2F;Condi Damage)&lt;&#x2F;li&gt;
+&lt;li&gt;Toxic Focusing Crystal (Condi Damage)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQYfFRomOBV0AAAAywAAAHIAAAA1FwAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;5503,5542,5502,40183,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,26,56&#x27; data-armory-31-traits=&#x27;296,325,1510&#x27; data-armory-26-traits=&#x27;1507,275,287&#x27; data-armory-56-traits=&#x27;2177,2180,2131&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Precast Glyph of Lesser Elementals (3 if possible) and Glyph of Elementals in Fire attunement before the fight starts.&lt;&#x2F;p&gt;
+&lt;p&gt;Rotate between elements as such:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Fire&#x2F;Earth, press Fire&lt;&#x2F;li&gt;
+&lt;li&gt;Fire&#x2F;Fire, press Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Earth&#x2F;Fire, press Fire&lt;&#x2F;li&gt;
+&lt;li&gt;Fire&#x2F;Earth, repeat from top.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Use all your weapon skills off cooldown, skipping Earth Focus 5 Obsidian Flesh. Use Signet of Fire and Flame Barrage off cooldown, Glyph of Lesser Elementals off cooldown in Fire attunement, and Primordial Stance off cooldown before switching to Earth attunement.&lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s also helpful if you use Fire Focus 4 Flame Wall before Fire Scepter 2 Dragon&#x27;s Tooth and Fire Scepter 3 Phoenix as that will allow you to blast might for your squad. Fire Scepter 3 Phoenix is also a condition cleanse you want to use off CD so that helps your squad as well. Not much barrier generation though, since this build does not want to spam Dual Attacks.&lt;&#x2F;p&gt;
+&lt;p&gt;You can replace off hand Focus with Warhorn, although based on my testing the damage isn&#x27;t much better, you can choose to go with whichever weapon you prefer.&lt;&#x2F;p&gt;
+&lt;p&gt;I understand the RNG with using Glyph of Lesser Elementals in a demo, which is why I have decided not to precast it. This means that I am able to show off the full rotation and build without inflating the final damage number. I choose to leave it in because I have seen many players who don&#x27;t read and just use Glyph of Elemental Power during the actual fights.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;fmIY5GpklGA&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

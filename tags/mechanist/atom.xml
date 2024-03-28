@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - mechanist</title>
+    <subtitle>Low-Intensity Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/mechanist/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-10T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/mechanist/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Condi Mechanist</title>
+        <published>2024-03-10T00:00:00+00:00</published>
+        <updated>2024-03-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-mechanist/"/>
+        <id>https://aw2.help/builds/condi-mechanist/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-mechanist/">&lt;p&gt;This mechanist build is all-signets, and no kit usage, for simple play&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor: Viper&#x27;s with Runes of the Trapper&lt;&#x2F;li&gt;
+&lt;li&gt;Trinkets: Viper&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Weapons: Viper&#x27;s Pistol&#x2F;Pistol with Sigils of Bursting&#x2F;Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Food &amp;amp; Utility: Cilantro Flatbread &amp;amp; Toxic Focusing Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGJyY5RjUNGwAAGhsAAA4bAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;63049,63253,63113,63111,63095&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,70&#x27; data-armory-6-traits=&#x27;1882,482,505&#x27; data-armory-38-traits=&#x27;1878,2006,433&#x27; data-armory-70-traits=&#x27;2282,2270,2298&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Use all skills off cooldown in the following priority order, which is shown on screen as well:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;4&quot; data-aw2-skill=&quot;5831&quot;&#x2F;&gt; Pistol 4 Blowtorch&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;3&quot; data-aw2-skill=&quot;5829&quot;&#x2F;&gt; Pistol 3 Static Shot&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;2&quot; data-aw2-skill=&quot;5828&quot;&#x2F;&gt; Pistol 2 Poison Dart Volley&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;8&quot; data-aw2-skill=&quot;63113&quot;&#x2F;&gt; Superconducting Signet &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;0&quot; data-aw2-skill=&quot;63095&quot;&#x2F;&gt; Overclock Signet&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Your CC skills are, in order of priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;7&quot; data-aw2-skill=&quot;63253&quot;&#x2F;&gt; Force Signet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;5&quot; data-aw2-skill=&quot;5830&quot;&#x2F;&gt; Pistol 5 Glue Shot&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;F4&quot; data-aw2-skill=&quot;63050&quot;&#x2F;&gt; Crash Down (by unsummoning and summoning Mech)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span data-aw2-key=&quot;3&quot; data-aw2-skill=&quot;5829&quot;&#x2F;&gt; Pistol 3 Static Shot (which makes your Mech do Rocket Punch, but since the cooldown for Rocket Punch is longer that the skill, it might not have CC)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;I actually forgot to put on my Sigil of Bursting, so this build does easily ~1k more DPS than the number in the log. You can expect 33.5k DPS.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;zBh_exTC6qs&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Power Mechanist</title>
+        <published>2024-03-02T00:00:00+00:00</published>
+        <updated>2024-03-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-mechanist/"/>
+        <id>https://aw2.help/builds/power-mechanist/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-mechanist/">&lt;p&gt;Signet-heavy, with some chill hammer thumping. And a little turret on the side.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Hammer, Sigils of Force &amp;amp; Impact&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGOyYnRh8NGwAAowAAABobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;63049,5818,63253,63111,63095&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,70&#x27; data-armory-6-traits=&#x27;1882,1892,1947&#x27; data-armory-38-traits=&#x27;1914,1984,526&#x27; data-armory-70-traits=&#x27;2279,2294,2292&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;To play this build, you want to place&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5818&quot;&gt;&lt;&#x2F;span&gt; Rifle Turret&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;at the start of the fight, then press&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30713&quot;&gt;&lt;&#x2F;span&gt; Thunderclap (Hammer 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30088&quot;&gt;&lt;&#x2F;span&gt; Electro-whirl (Hammer 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;63095&quot;&gt;&lt;&#x2F;span&gt; Overclock Signet&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;off cooldown, and that is basically your rotation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;You have decent CC. Primarily, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30665&quot;&gt;&lt;&#x2F;span&gt; Rocket Charge (Hammer 3) will make your Mech do Rocket Punch, which is a CC, but do take note that since the cooldown of Rocket Punch is longer than that of
+Rocket Charge it will not always be available.&lt;&#x2F;p&gt;
+&lt;p&gt;Other CC skills that you have are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;63253&quot;&gt;&lt;&#x2F;span&gt; Force Signet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;63095&quot;&gt;&lt;&#x2F;span&gt; Overclock Signet&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If you still need more CC, replace &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5818&quot;&gt;&lt;&#x2F;span&gt; Rifle Turret&lt;span title=&quot;WARNING: multiple matches for Rifle Turret. Use id param to differentiate!&quot; style=&#x27;color: red; font-weight: bold;&#x27;&gt; ERROR&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;with &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;6161&quot;&gt;&lt;&#x2F;span&gt; Throw Mine&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;ipzl3PqQvTY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

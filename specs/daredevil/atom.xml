@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - daredevil</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/specs/daredevil/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-17T00:00:00+00:00</updated>
+    <id>https://aw2.help/specs/daredevil/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Power Daredevil [pDPS]</title>
+        <published>2024-04-17T00:00:00+00:00</published>
+        <updated>2024-04-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-daredevil/"/>
+        <id>https://aw2.help/builds/power-daredevil/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-daredevil/">&lt;p&gt;Very high damage for very little APM, but requires great positioning.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Berserker&#x27;s, with Runes of the Scholar or Dragonhunter&lt;&#x2F;li&gt;
+&lt;li&gt;Staff with Force&#x2F;Impact Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQUjGxw9BzmFAAwBWAFXAVcBMwEzAQAADgEoAAAAAAAAAAAAAAAAAAAAAAACNgBZAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;13050,13064,13062,13046,13132&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;35,28,7&#x27; data-armory-35-traits=&#x27;1268,1272,1904&#x27; data-armory-28-traits=&#x27;1245,1704,1269&#x27; data-armory-7-traits=&#x27;1933,1893,2047&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;There are 2 main resources you have to manage in this rotation, Initiative and Endurance, and 2 buffs to upkeep, Relic of the Thief and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2047&quot;&gt;&lt;&#x2F;span&gt; Bounding Dodger. &lt;&#x2F;p&gt;
+&lt;p&gt;Your skills cost initiative to cast but have no cooldown, and casting a skill refreshes Relic of the Thief uptime. Since &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29911&quot;&gt;&lt;&#x2F;span&gt; Weakening Charge is your most damage per initiative skill, you want to use it as much as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;Dodging activates &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2047&quot;&gt;&lt;&#x2F;span&gt; Bounding Dodger, but costs endurance.&lt;&#x2F;p&gt;
+&lt;p&gt;Thankfully there is an easy way to manage and maintain all of these resources and uptimes.&lt;&#x2F;p&gt;
+&lt;p&gt;Opener:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dodge to start the fight&lt;&#x2F;li&gt;
+&lt;li&gt;Use all your initiative on &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29911&quot;&gt;&lt;&#x2F;span&gt; Weakening Charge&lt;&#x2F;li&gt;
+&lt;li&gt;Dodge&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Loop:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use 2 full auto attack chains&lt;&#x2F;li&gt;
+&lt;li&gt;Dodge&lt;&#x2F;li&gt;
+&lt;li&gt;Use all your initiative on &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29911&quot;&gt;&lt;&#x2F;span&gt; Weakening Charge&lt;&#x2F;li&gt;
+&lt;li&gt;Repeat&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;If you run out of stamina and cannot dodge after using 2 full auto attack chains, do 1 more auto attack chain for a total of 3 auto attack chains, then continue with step 2.&lt;&#x2F;p&gt;
+&lt;p&gt;Your final attack in the auto attack chain is a huge twirl of the staff, and is easier to see if you use a flashier staff skin. It also plays a very different sound from the first 2 attacks, and can be used as a point of reference.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;You only realistically have 1 CC skill, that is &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;13132&quot;&gt;&lt;&#x2F;span&gt; Basilisk Venom. However, it is also 1 of the most effective CC skills in the game, doing up to 750 defiance bar damage each time you use it.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;-KKWiwc4pIE&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;build-demo-in-high-level-play&quot;&gt;Build demo in &amp;quot;high&amp;quot; level play&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;aBkjhsxvLBE&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

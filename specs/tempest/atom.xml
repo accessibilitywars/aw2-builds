@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - tempest</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/specs/tempest/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-30T00:00:00+00:00</updated>
+    <id>https://aw2.help/specs/tempest/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Power Tempest</title>
+        <published>2024-06-30T00:00:00+00:00</published>
+        <updated>2024-06-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-tempest/"/>
+        <id>https://aw2.help/builds/power-tempest/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-tempest/">&lt;p&gt;Simple, step based rotation with most of your damage in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29719&quot;&gt;&lt;&#x2F;span&gt; Overload Air.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Coat: Berserker, Superior Rune of Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Boots: Berserker, Superior Rune of Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Gloves: Berserker, Superior Rune of Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Helm: Berserker, Superior Rune of Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Leggings: Berserker, Superior Rune of Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Shoulders: Berserker, Superior Rune of Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Backpack: Berserker&lt;&#x2F;li&gt;
+&lt;li&gt;Accessory 1: Assassin&lt;&#x2F;li&gt;
+&lt;li&gt;Accessory 2: Assassin&lt;&#x2F;li&gt;
+&lt;li&gt;Ring 1: Berserker&lt;&#x2F;li&gt;
+&lt;li&gt;Ring 2: Berserker&lt;&#x2F;li&gt;
+&lt;li&gt;Amulet: Berserker&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon 1: Scepter, Berserker, Superior Sigil of Force&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon 2: Warhorn, Sinister, Superior Sigil of Accuracy&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of Fireworks&lt;&#x2F;li&gt;
+&lt;li&gt;Food: Bowl of Sweet and Spicy Butternut Squash Soup or Cilantro Lime Sous-Vide Steak&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: Potent Superior Sharpening Stone&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQYlPSkvMBd0AHQAwxLLAMsAcwC+AVABJgAAAAAAAAAAAAAAAAAAAAAAAAAEVgAxADYAZwAA]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;5503,30662,5542,5734,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;37,41,48&#x27; data-armory-37-traits=&#x27;253,257,1511&#x27; data-armory-41-traits=&#x27;232,1502,1503&#x27; data-armory-48-traits=&#x27;1886,1891,1839&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;The concept of this build relies on the trait Fresh Air resetting the cooldown of Air Attunement whenever you hit a critical hit. The build will crit cap with Fury, and it is pretty much guaranteed that you will reset it as soon as you exit Air Attunement.&lt;&#x2F;p&gt;
+&lt;p&gt;You always want to precast Glyph of Elementals, as well as Overload Air, before the fight starts. As much as possible you want to hit your precasted Overload Air, but that is not always possible on all bosses.&lt;&#x2F;p&gt;
+&lt;p&gt;The opener goes like this:&lt;&#x2F;p&gt;
+&lt;p&gt;Start in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement&lt;&#x2F;p&gt;
+&lt;p&gt;Precast:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5666&quot;&gt;&lt;&#x2F;span&gt; Glyph of Elementals&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29719&quot;&gt;&lt;&#x2F;span&gt; Overload Air&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;And the main loop:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29533&quot;&gt;&lt;&#x2F;span&gt; Wildfire (Warhorn Fire 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30795&quot;&gt;&lt;&#x2F;span&gt; Lightning Orb (Warhorn Air 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5737&quot;&gt;&lt;&#x2F;span&gt; Lightning Storm (&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5734&quot;&gt;&lt;&#x2F;span&gt; Glyph of Storms in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29719&quot;&gt;&lt;&#x2F;span&gt; Overload Air&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;and repeat from step 1 as soon as &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement is off cooldown. Skip &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29533&quot;&gt;&lt;&#x2F;span&gt; Wildfire (Warhorn Fire 5), &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30795&quot;&gt;&lt;&#x2F;span&gt; Lightning Orb (Warhorn Air 5), and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5737&quot;&gt;&lt;&#x2F;span&gt; Lightning Storm if they are on cooldown.&lt;&#x2F;p&gt;
+&lt;p&gt;Do note that &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29719&quot;&gt;&lt;&#x2F;span&gt; Overload Air has a ~3.5s cast time, and dodging or swapping attunements during it&#x27;s cast will interrupt it and result in a large DPS loss. You can still move and use skills with no cast time, as well as queue a skill to cast after. However, this rotation is designed so that there is little to no risk of cancelling Overload Air with the rotation steps as &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement should still just be on cooldown when you complete &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29719&quot;&gt;&lt;&#x2F;span&gt; Overload Air.&lt;&#x2F;p&gt;
+&lt;p&gt;On top of the main loop, you want to cast:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5561&quot;&gt;&lt;&#x2F;span&gt; Lightning Strike (Scepter Air 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30662&quot;&gt;&lt;&#x2F;span&gt; &amp;quot;Feel the Burn!&amp;quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;25499&quot;&gt;&lt;&#x2F;span&gt; Flame Barrage&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;off cooldown. All of these skills have no cast time and can be cast anytime, even during Overload Air.&lt;&#x2F;p&gt;
+&lt;p&gt;It may seem a little complicated when shown in text form, but the gist of the rotation is just:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement 2 3 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement 2 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29719&quot;&gt;&lt;&#x2F;span&gt; Overload Air&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;and repeat. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29719&quot;&gt;&lt;&#x2F;span&gt; Overload Air takes ~3.5s to cast, and you can use the downtime to cast your &#x27;off cooldown&#x27; skills.&lt;&#x2F;p&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5694&quot;&gt;&lt;&#x2F;span&gt; Blinding Flash (Scepter Air 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30008&quot;&gt;&lt;&#x2F;span&gt; Cyclone (Warhorn Air 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30864&quot;&gt;&lt;&#x2F;span&gt; Tidal Surge (Warhorn Water 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5696&quot;&gt;&lt;&#x2F;span&gt; Dust Devil (Scepter Earth 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30336&quot;&gt;&lt;&#x2F;span&gt; Dust Storm (Warhorn Earth 5)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Scepter Air 3 Blinding Flash and Warhorn Air 4 Cyclone should be on your skill bar most of the time, and if you require more CC, you can replace the step of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement 2 3 5 with either:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement 2 3 4&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5495&quot;&gt;&lt;&#x2F;span&gt; Earth Attunement 3 5&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;with a preference of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement 2 3 4, before continuing your rotation back in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;Ke5GV0NI6Mw&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fire Tempest [cDPS]</title>
+        <published>2024-02-18T00:00:00+00:00</published>
+        <updated>2024-02-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-tempest/"/>
+        <id>https://aw2.help/builds/condi-tempest/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-tempest/">&lt;p&gt;A brand new spicy Fire Tempest build is great for roasted golems and friendly raid barbeques. Bring your friends, invite your neighbours.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor
+&lt;ul&gt;
+&lt;li&gt;Viper&#x27;s Coat or Leggings, the rest Sinister&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of Balthazar&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Trinkets:
+&lt;ul&gt;
+&lt;li&gt;Sinister Amulet&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Ring&lt;&#x2F;li&gt;
+&lt;li&gt;Viper&#x27;s for remaining Ring and all other trinkets&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Scepter&#x2F;Focus with Bursting&#x2F;Earth Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Fractal&lt;&#x2F;li&gt;
+&lt;li&gt;Food &amp;amp; Utility: Fishy Rice Bowl &amp;amp; Toxic Focusing Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQYfFSU9MBfHEgAAvgEAAHIAAADLAAAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;29535,5734,5502,5542,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,37,48&#x27; data-armory-31-traits=&#x27;296,325,1510&#x27; data-armory-37-traits=&#x27;253,257,1511&#x27; data-armory-48-traits=&#x27;1886,1891,1839&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;No attunement swapping required for this build! Just camp fire and press all of your skills off CD. Remember to prioritize Overload Fire as successfully completing an Overload gives you a &lt;strong&gt;15%&lt;&#x2F;strong&gt; damage boost!&lt;&#x2F;p&gt;
+&lt;p&gt;Granting allies (or yourself) auras also gives you a large &lt;strong&gt;10%&lt;&#x2F;strong&gt; damage boost. You can do this with Overload Fire, and Focus 5 Fire Shield.&lt;&#x2F;p&gt;
+&lt;p&gt;Swap into Air or Water for &lt;strong&gt;HUGE&lt;&#x2F;strong&gt; amounts of CC whenever needed, and Overload Air&#x2F;Water&#x2F;camp Earth after while waiting to re-enter Fire attunement. This will drop your DPS to the floor but eh, mechanics are IMPORTANT.&lt;&#x2F;p&gt;
+&lt;p&gt;This build isn&#x27;t even at its peak potential yet. You can&#x27;t actually apply enough bleeding to proc your Relic of the Fractal, so that&#x27;s ~500+ more DPS that you could be doing in an actual fight when you can proc it!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;SzgBuiV-zHw&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;build-demo-in-high-level-play&quot;&gt;Build demo in &amp;quot;high&amp;quot; level play&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;Fa0yf0lHUTI&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

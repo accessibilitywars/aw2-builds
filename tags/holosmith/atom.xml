@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - holosmith</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/holosmith/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-05T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/holosmith/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Power Holosmith ECSU [pDPS]</title>
+        <published>2024-05-05T00:00:00+00:00</published>
+        <updated>2024-05-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-holosmith-ecsu/"/>
+        <id>https://aw2.help/builds/power-holosmith-ecsu/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-holosmith-ecsu/">&lt;h3 id=&quot;special-note&quot;&gt;SPECIAL NOTE&lt;&#x2F;h3&gt;
+&lt;p&gt;This is one of our more challenging builds. It&#x27;s relatively simple, but unforgiving. It is also a &#x27;Flavour of the Month&#x27; class, and might get nerfed in the future. Right now it is massively overperforming so even if it is nerfed, it should still perform reasonably well.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Sword, Sigil of Force&lt;&#x2F;li&gt;
+&lt;li&gt;Shield, Sigil of Air&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGNyYvOSsqDwAA5RaGAKMAAABXFgAA8BWJAQAAAAAAAAAAAAAAAAAAAAADWgBXADMAAA==]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;21659,43739,5818,42842,42009&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,57&#x27; data-armory-6-traits=&#x27;1882,482,1947&#x27; data-armory-38-traits=&#x27;1914,1923,526&#x27; data-armory-57-traits=&#x27;2106,2152,2137&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;There are a few priority levels to follow, that are layered on top of a simple rotation structure.&lt;&#x2F;p&gt;
+&lt;p&gt;Start by preheating to ~100 Heat. You can maintain your heat level by equipping a musical instrument after preheating. The recommended instrument to use is the Unbreakable Choir Bell, which costs less than 1 silver on the TP, but you can use any instrument you like.&lt;&#x2F;p&gt;
+&lt;p&gt;Your rotation consists of 2 main parts,&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;In Forge&lt;&#x2F;li&gt;
+&lt;li&gt;Out Forge&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;and is looped repeatedly.&lt;&#x2F;p&gt;
+&lt;p&gt;In Forge rotation:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44530&quot;&gt;&lt;&#x2F;span&gt; Corona Burst (Forge 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45783&quot;&gt;&lt;&#x2F;span&gt; Photon Blitz (Forge 4) + &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42163&quot;&gt;&lt;&#x2F;span&gt; Blade Burst&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44530&quot;&gt;&lt;&#x2F;span&gt; Corona Burst (Forge 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41123&quot;&gt;&lt;&#x2F;span&gt; Deactivate Photon Forge&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Out Forge rotation:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44110&quot;&gt;&lt;&#x2F;span&gt; Refraction Cutter (Sword 2) off cooldown&lt;&#x2F;li&gt;
+&lt;li&gt;Auto attack&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42938&quot;&gt;&lt;&#x2F;span&gt; Engage Photon Forge @ ~80 Heat&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;On top of this rotation, there are 2 layers of cooldown based priority button pressing.&lt;&#x2F;p&gt;
+&lt;p&gt;Layer 1:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45732&quot;&gt;&lt;&#x2F;span&gt; Particle Accelerator&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;6178&quot;&gt;&lt;&#x2F;span&gt; Surprise Shot&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Both of these skills have no cast time and will not interrupt any skill casts and should therefore be pressed whenever they are off cooldown.&lt;&#x2F;p&gt;
+&lt;p&gt;Layer 2:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;43739&quot;&gt;&lt;&#x2F;span&gt; Photon Wall (press twice)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42842&quot;&gt;&lt;&#x2F;span&gt; Laser Disk&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42009&quot;&gt;&lt;&#x2F;span&gt; Prime Light Beam&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;There are 2 parts of the rotation where you should check if these skills are off cooldown, after step 2 during In Forge rotation, and after using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44110&quot;&gt;&lt;&#x2F;span&gt; Refraction Cutter (Sword 2) once in Out Forge rotation. If the skills are off cooldown during the check, use them.&lt;&#x2F;p&gt;
+&lt;p&gt;You have very nice utilities with the Shield. You can bring a Pistol instead for about 1k+ more DPS, but I will always recommend the Shield over Pistol. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;6053&quot;&gt;&lt;&#x2F;span&gt; Magnetic Shield (Shield 4) is a 3s long projectile reflect, and can be pressed twice in quick succession for CC. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;6054&quot;&gt;&lt;&#x2F;span&gt; Static Shield (Shield 5) is a 2.5s long block, and is basically your panic button. It can also be pressed twice in quick succession for CC.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;21659&quot;&gt;&lt;&#x2F;span&gt; A.E.D. is also a good panic button, as it heals you and prevents you from downing to lethal damage for 5 seconds. This is usually used in more advanced group to skip mechanics.&lt;&#x2F;p&gt;
+&lt;p&gt;Finally, you have 1 more CC skill, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;21661&quot;&gt;&lt;&#x2F;span&gt; Static Shock. It should be your first option when it comes to CC, followed by &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;6053&quot;&gt;&lt;&#x2F;span&gt; Magnetic Shield (Shield 4) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;6054&quot;&gt;&lt;&#x2F;span&gt; Static Shield (Shield 5).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;HIGTdU60IU8&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Power Holosmith PBM [pDPS]</title>
+        <published>2024-03-03T00:00:00+00:00</published>
+        <updated>2024-03-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-holosmith-pbm/"/>
+        <id>https://aw2.help/builds/power-holosmith-pbm/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-holosmith-pbm/">&lt;p&gt;A hammer priority-based build, with two different priority sets (in&#x2F;out of forge), this build heats up fast.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Runes of the Scholar&lt;&#x2F;li&gt;
+&lt;li&gt;Hammer, Sigils of Force &amp;amp; Impact&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQMGOyYvOTcqDwAA5RYAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;21659,43739,5818,42842,42009&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;6,38,57&#x27; data-armory-6-traits=&#x27;1882,1892,1947&#x27; data-armory-38-traits=&#x27;1914,1923,526&#x27; data-armory-57-traits=&#x27;2106,2103,2064&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Power Holosmith, played in this rotation, can be summed up by having a skill priority order and pressing skills off cooldown, with the exception of Laser Disc and Prime Light Beam. These 2 skills have the additional condition of needing to be pressed above 50% heat.&lt;&#x2F;p&gt;
+&lt;p&gt;The highest priority skills are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Particle Accelerator&lt;&#x2F;li&gt;
+&lt;li&gt;Surprise Shot&lt;&#x2F;li&gt;
+&lt;li&gt;Blade Burst&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;They are all the same priority as each other as none of these 3 skills have a cast time, and can be cast anytime without interrupting any of your skills or auto attack chain.&lt;&#x2F;p&gt;
+&lt;p&gt;In Photon Forge mode, your skill priorities are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44530&quot;&gt;&lt;&#x2F;span&gt; Corona Burst (Forge 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45783&quot;&gt;&lt;&#x2F;span&gt; Photon Blitz (Forge 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42842&quot;&gt;&lt;&#x2F;span&gt; Laser Disk (above 50% heat)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42009&quot;&gt;&lt;&#x2F;span&gt; Prime Light Beam (above 50% heat)&lt;&#x2F;li&gt;
+&lt;li&gt;Auto attack when you can&#x27;t press any buttons.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Outside of Photon Forge, your skill priorities are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30713&quot;&gt;&lt;&#x2F;span&gt; Thunderclap (Hammer 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30088&quot;&gt;&lt;&#x2F;span&gt; Electro-whirl (Hammer 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;43739&quot;&gt;&lt;&#x2F;span&gt; Photon Wall -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40533&quot;&gt;&lt;&#x2F;span&gt; Launch Wall (spam the button)&lt;&#x2F;li&gt;
+&lt;li&gt;Auto attack when you can&#x27;t press any buttons.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;Your CC skills are Static Shock, and Forge 5 Holographic Shockwave. That&#x27;s not a lot of CC, so if you need more CC, you can swap out Rifle Turret for Throw Mine, and if you need even more CC, swap out Photon Wall for Personal Battering Ram.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;IPqhB8YIiwo&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

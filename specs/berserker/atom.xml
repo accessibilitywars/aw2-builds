@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - berserker</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/specs/berserker/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-26T00:00:00+00:00</updated>
+    <id>https://aw2.help/specs/berserker/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Meat Carver [pDPS]</title>
+        <published>2024-03-25T00:00:00+00:00</published>
+        <updated>2024-03-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-berserker/"/>
+        <id>https://aw2.help/builds/power-berserker/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-berserker/">&lt;p&gt;Absolutely everything this build uses extends berserk. Your goal is to get into berserk as fast as possible and stay there, as long as you&#x27;re hitting
+targets. The main difficulty is going to be to re-engage with the next target once you kill something.&lt;&#x2F;p&gt;
+&lt;p&gt;This build is tested with no weapon swapping. A hammer second weapon set is provided only as CC support. Dual maces can work well too.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;special-note&quot;&gt;SPECIAL NOTE&lt;&#x2F;h3&gt;
+&lt;p&gt;This is one of our more challenging builds. It&#x27;s relatively simple, but unforgiving. We&#x27;ll keep looking for a more
+accessible warrior option.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Berserker&#x27;s Coat, Superior Rune of the Dragonhunter&lt;&#x2F;li&gt;
+&lt;li&gt;Berserker&#x27;s Boots, Superior Rune of the Dragonhunter&lt;&#x2F;li&gt;
+&lt;li&gt;Berserker&#x27;s Gloves, Superior Rune of the Dragonhunter&lt;&#x2F;li&gt;
+&lt;li&gt;Berserker&#x27;s Helm, Superior Rune of the Dragonhunter&lt;&#x2F;li&gt;
+&lt;li&gt;Berserker&#x27;s Leggings, Superior Rune of the Dragonhunter&lt;&#x2F;li&gt;
+&lt;li&gt;Berserker&#x27;s Shoulders, Superior Rune of the Dragonhunter&lt;&#x2F;li&gt;
+&lt;li&gt;Backpack: Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Accessory 1: Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Accessory 2: Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Ring 1: Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Ring 2: Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Amulet: Berserker&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon A1: Dagger, Berserker&#x27;s, Superior Sigil of Air&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon A2: Axe, Berserker&#x27;s, Superior Sigil of Force&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon B1: Hammer, Berserker&#x27;s, Superior Sigil of Paralyzation, Superior Sigil of Energy&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;build&quot;&gt;Build&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQIEHzMaEhXyEgAAoRIAAKkAAADXEgAAwhIAAAAAAAAAAAAAAAAAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;30189,29613,14404,30258,30343&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;4,51,18&#x27; data-armory-4-traits=&#x27;1444,1449,1437&#x27;  data-armory-51-traits=&#x27;1413,1489,1369&#x27;  data-armory-18-traits=&#x27;2049,2011,1928&#x27; &gt;&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;engage&quot;&gt;Engage&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Headbutt followed by Outrage&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;priority&quot;&gt;Priority&lt;&#x2F;h3&gt;
+&lt;p&gt;Mostly you want to use other skills to build adrenaline for F1. All skills (except signet) will extend your berserk.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;F1&lt;&#x2F;li&gt;
+&lt;li&gt;Blood Reckoning&lt;&#x2F;li&gt;
+&lt;li&gt;Sundering Leap&lt;&#x2F;li&gt;
+&lt;li&gt;Headbutt&#x2F;Outrage combo&lt;&#x2F;li&gt;
+&lt;li&gt;Axe 5&lt;&#x2F;li&gt;
+&lt;li&gt;Axe 4&lt;&#x2F;li&gt;
+&lt;li&gt;Axe 2&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;mobility&quot;&gt;Mobility&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Headbutt&lt;&#x2F;li&gt;
+&lt;li&gt;Sundering Leap&lt;&#x2F;li&gt;
+&lt;li&gt;Earthshaker&#x2F;Rupturing Smash&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Headbutt&lt;&#x2F;li&gt;
+&lt;li&gt;Sundering Leap&lt;&#x2F;li&gt;
+&lt;li&gt;Swap to Hammer, Hammer 2, 5, 2, F1, Swap back
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;note that Hammer 5 refreshes Hammer 2 instantly if it hits&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

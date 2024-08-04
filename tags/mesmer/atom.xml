@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - mesmer</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/mesmer/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-26T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/mesmer/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Flying Blades [cDPS]</title>
+        <published>2024-04-02T00:00:00+00:00</published>
+        <updated>2024-05-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-virtuoso/"/>
+        <id>https://aw2.help/builds/condi-virtuoso/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-virtuoso/">&lt;p&gt;Who knew that flying swords and throwing daggers would cause bleeding?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;p&gt;There are multiple gear combinations that will arrive at the same total value of stats. However, we will be copying the gear that Snow Crows uses as that is most widely used.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sinister Coat, Superior Rune of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Boots, Superior Rune of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Rampager&#x27;s Gloves, Superior Rune of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Rampager&#x27;s Helm, Superior Rune of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Sinister Leggings, Superior Rune of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Rampager&#x27;s Shoulders, Superior Rune of the Krait&lt;&#x2F;li&gt;
+&lt;li&gt;Backpack: Rampager&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Accessory 1: Sinister&lt;&#x2F;li&gt;
+&lt;li&gt;Accessory 2: Sinister&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Ring 1: Rampager&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Ring 2: Rampager&#x27;s&lt;&#x2F;li&gt;
+&lt;li&gt;Amulet: Sinister&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon 1: Dagger, Viper&#x27;s, Superior Sigil of Agony&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon 2: Sword, Viper&#x27;s, Superior Sigil of Earth&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Aristocracy&lt;&#x2F;li&gt;
+&lt;li&gt;Food: Spherified Cilantro Oyster Soup or Dragon&#x27;s Revelry Starcake&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: Toxic Focusing Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQcBHRgdQjsjD24BggEAAIEBAACDAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADMgAvAFoAAA==]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;21750,10247,10232,10234,29519&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;1,24,66&#x27; data-armory-1-traits=&#x27;701,708,692&#x27; data-armory-24-traits=&#x27;721,1690,733&#x27; data-armory-66-traits=&#x27;2202,2205,2223&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Condi Virtuoso is very simple in execution, you want to use your 3 button opener:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62607&quot;&gt;&lt;&#x2F;span&gt; Unstable Bladestorm (Dagger 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62597&quot;&gt;&lt;&#x2F;span&gt; Bladeturn Requiem&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10174&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Swordsman (Sword 5)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Then use the rest of your weapon skills off cooldown.&lt;&#x2F;p&gt;
+&lt;p&gt;You want to space out the use of your Bladesong Skills in order to upkeep &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2204&quot;&gt;&lt;&#x2F;span&gt; Deadly Blades, as this provides you with a +5% all damage buff. You can do this by tracking the cooldown of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62560&quot;&gt;&lt;&#x2F;span&gt; Bladecall (Dagger 2), and press a Bladesong Skill every time before or after using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62560&quot;&gt;&lt;&#x2F;span&gt; Bladecall (Dagger 2). Bladesong Skills should be used in the following priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62597&quot;&gt;&lt;&#x2F;span&gt; Bladeturn Requiem&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62616&quot;&gt;&lt;&#x2F;span&gt; Bladesong Sorrow&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62617&quot;&gt;&lt;&#x2F;span&gt; Bladesong Harmony&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;And you should never run out of charges if you space them out well.&lt;&#x2F;p&gt;
+&lt;p&gt;Your CC skills are, in order of priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29519&quot;&gt;&lt;&#x2F;span&gt; Signet of Humility (BIG CC)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62602&quot;&gt;&lt;&#x2F;span&gt; Bladesong Dissonance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10232&quot;&gt;&lt;&#x2F;span&gt; Signet of Domination (big DPS loss, not recommended)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10234&quot;&gt;&lt;&#x2F;span&gt; Signet of Midnight (very not recommended)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;68273&quot;&gt;&lt;&#x2F;span&gt; Bladesong Distortion is also a very long immune skill, up to 3.75 seconds if you use it with maximum stacks of blades, and should be your panic button. It can also be used to dodge mechanics on various raids to increase your damage uptime.&lt;&#x2F;p&gt;
+&lt;p&gt;You can also block an attack with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10280&quot;&gt;&lt;&#x2F;span&gt; Illusionary Riposte (Sword 4), but it is not recommended unless you are very confident of the mechanic. An example of using this to increase DPS would be on Deimos, where it&#x27;s cooldown is short enough to block every knockback &amp;quot;pizza&amp;quot; mechanic.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;nAhl520Y8dA&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;build-demo-in-high-level-play&quot;&gt;Build demo in &amp;quot;high&amp;quot; level play&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;qeSC05yR5uw&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

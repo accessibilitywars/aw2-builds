@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - revenant</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/revenant/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-05-16T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/revenant/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Heart of the Dragon [qDPS]</title>
+        <published>2024-05-16T00:00:00+00:00</published>
+        <updated>2024-05-16T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/quickness-power-herald/"/>
+        <id>https://aw2.help/builds/quickness-power-herald/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/quickness-power-herald/">&lt;p&gt;The easiest raid build, now with quickness!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dragon&#x27;s Helm, and full Berserker&#x27;s otherwise, with Dragonhunter&#x27;s runes
+&lt;ul&gt;
+&lt;li&gt;Alternates: Full Berserker&#x27;s and&#x2F;or Scholar runes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sword&#x2F;Sword with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Staff with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQkPKgM2NBfcEdwRBhIGEisSKxLUEdQRyhHKEQIBAgAGEtQRKxIAAAAAAAADawA1AAUAAA==]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-nokey=true data-armory-ids=&#x27;28085,28134&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;27220,28379,27014,26644,27760&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;26937,29209,28231,27107,28406&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;15,3,52&#x27; data-armory-15-traits=&#x27;1767,1765,1800&#x27; data-armory-3-traits=&#x27;1761,1774,1719&#x27; data-armory-52-traits=&#x27;1716,1738,1746&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Use:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27107&quot;&gt;&lt;&#x2F;span&gt; Impossible Odds while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28379&quot;&gt;&lt;&#x2F;span&gt; Facet of Darkness, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27760&quot;&gt;&lt;&#x2F;span&gt; Facet of Chaos, and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26644&quot;&gt;&lt;&#x2F;span&gt; Facet of Strength in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28085&quot;&gt;&lt;&#x2F;span&gt; Legendary Dragon Stance. Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26644&quot;&gt;&lt;&#x2F;span&gt; Facet of Strength again (it should now be &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28113&quot;&gt;&lt;&#x2F;span&gt; Burst of Strength) to consume it.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Swap legends off cooldown in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance, and swap legends once you have use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28113&quot;&gt;&lt;&#x2F;span&gt; Burst of Strength twice in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28085&quot;&gt;&lt;&#x2F;span&gt; Legendary Dragon Stance&lt;&#x2F;p&gt;
+&lt;p&gt;Use off cooldown:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27074&quot;&gt;&lt;&#x2F;span&gt; Deathstrike (Sword 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29233&quot;&gt;&lt;&#x2F;span&gt; Chilling Isolation (Sword 2)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Following the above, you should never run out of energy, unless you have to CC.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;You should always swap to your Staff for CC. Part of your job as a boon DPS is to do everything possible to get the most damage out of your DPS players, and this includes giving them boons and CCing so they don&#x27;t have to.&lt;&#x2F;p&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28978&quot;&gt;&lt;&#x2F;span&gt; Surge of the Mists (Staff 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28075&quot;&gt;&lt;&#x2F;span&gt; Chaotic Release (&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27760&quot;&gt;&lt;&#x2F;span&gt; Facet of Chaos flipped skill) in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28085&quot;&gt;&lt;&#x2F;span&gt; Legendary Dragon Stance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28406&quot;&gt;&lt;&#x2F;span&gt; Jade Winds (in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;MuG18oCVUQQ&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Dragontooth [pDPS]</title>
+        <published>2024-05-14T00:00:00+00:00</published>
+        <updated>2024-05-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-herald/"/>
+        <id>https://aw2.help/builds/power-herald/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-herald/">&lt;p&gt;Probably the easiest raid build available in GW2.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dragon&#x27;s Helm, and full Berserker&#x27;s otherwise, with Dragonhunter&#x27;s runes
+&lt;ul&gt;
+&lt;li&gt;Alternates: Full Berserker&#x27;s and&#x2F;or Scholar runes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sword&#x2F;Sword with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Staff with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQkPKgM2NDfcEdwRBhIGEisSKxLUEdQRyhHKEQIDAgAGEisS1BEAAAAAAAADawA1AAUAAA==]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-nokey=true data-armory-ids=&#x27;28134,28419&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;26937,29209,28231,27107,28406&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;27372,28516,26679,26557,27975&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;15,3,52&#x27; data-armory-15-traits=&#x27;1767,1765,1800&#x27; data-armory-3-traits=&#x27;1761,1774,1719&#x27; data-armory-52-traits=&#x27;1716,1738,1803&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Use:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27107&quot;&gt;&lt;&#x2F;span&gt; Impossible Odds while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26557&quot;&gt;&lt;&#x2F;span&gt; Vengeful Hammers while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28419&quot;&gt;&lt;&#x2F;span&gt; Legendary Dwarf Stance&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;and swap legends off cooldown. You can bind both these skills to the same button to reduce mistakes.&lt;&#x2F;p&gt;
+&lt;p&gt;Use off cooldown:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27074&quot;&gt;&lt;&#x2F;span&gt; Deathstrike (Sword 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29233&quot;&gt;&lt;&#x2F;span&gt; Chilling Isolation (Sword 2)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Following the above, you should never run out of energy, unless you have to CC.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;You need to weapon swap to your Staff for your biggest CC skill, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28978&quot;&gt;&lt;&#x2F;span&gt; Surge of the Mists (Staff 5). This is a big DPS loss, but is also one of the highest CC skills in the game. If you do swap to staff, just keep either &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27107&quot;&gt;&lt;&#x2F;span&gt; Impossible Odds or &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26557&quot;&gt;&lt;&#x2F;span&gt; Vengeful Hammers active and auto attack until you can swap back to Swords. You should still swap legends off cooldown.&lt;&#x2F;p&gt;
+&lt;p&gt;If you do not want to weapon swap, your CC skills are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29233&quot;&gt;&lt;&#x2F;span&gt; Chilling Isolation (Sword 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28406&quot;&gt;&lt;&#x2F;span&gt; Jade Winds (in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26679&quot;&gt;&lt;&#x2F;span&gt; Forced Engagement (in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28419&quot;&gt;&lt;&#x2F;span&gt; Legendary Dwarf Stance)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;m5aNd6PqeYQ&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Lord of the Stomp [pDPS]</title>
+        <published>2024-03-08T00:00:00+00:00</published>
+        <updated>2024-03-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-vindicator/"/>
+        <id>https://aw2.help/builds/power-vindicator/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-vindicator/">&lt;p&gt;This is a pretty foundational build for Revenant. Simple, solid and focused.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dragon&#x27;s Helm, and full Berserker&#x27;s otherwise, with Dragonhunter&#x27;s runes
+&lt;ul&gt;
+&lt;li&gt;Alternates: Full Berserker&#x27;s and&#x2F;or Scholar runes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sword&#x2F;Sword with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Staff with Force&#x2F;Air Sigils&lt;&#x2F;li&gt;
+&lt;li&gt;Relic of the Thief&lt;&#x2F;li&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;code&gt;[&amp;amp;DQkDNg8qRRXcEQAABhIAACsSAADUEQAAyhEAAAIDAAArEgYS1BEAAAAAAAA=]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-nokey=true data-armory-ids=&#x27;28134,28419&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;26937,29209,28231,27107,28406&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;27372,28516,26679,26557,27975&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;3,15,69&#x27; data-armory-3-traits=&#x27;1761,1774,1719&#x27; data-armory-15-traits=&#x27;1767,1765,1800&#x27; data-armory-69-traits=&#x27;2258,2259,2257&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Power Vindicator can be very easy to play, yet deliver respectable results by following the steps below:&lt;&#x2F;p&gt;
+&lt;p&gt;Swap your legend when it is off cooldown or when you run out of energy, it doesn&#x27;t matter much, and use:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27107&quot;&gt;&lt;&#x2F;span&gt; Impossible Odds while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26557&quot;&gt;&lt;&#x2F;span&gt; Vengeful Hammers while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28419&quot;&gt;&lt;&#x2F;span&gt; Legendary Dwarf Stance&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;You can bind both these skills to the same button to reduce mistakes.&lt;&#x2F;p&gt;
+&lt;p&gt;Use off cooldown in following priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27074&quot;&gt;&lt;&#x2F;span&gt; Deathstrike (Sword 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29233&quot;&gt;&lt;&#x2F;span&gt; Chilling Isolation (Sword 2)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Dodge to start the fight and dodge when your endurance is almost full. &lt;&#x2F;p&gt;
+&lt;p&gt;Auto attack to fill.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26679&quot;&gt;&lt;&#x2F;span&gt; Forced Engagement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28406&quot;&gt;&lt;&#x2F;span&gt; Jade Winds&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;However, if you&#x27;re in a position where not CCing will result in failure, just swap to staff and use
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28978&quot;&gt;&lt;&#x2F;span&gt; Surge of the Mists (Staff 5)&lt;&#x2F;p&gt;
+&lt;p&gt;Note that this will tank your DPS and the only thing you can do now is to auto attack (while still dodging and swapping legends).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;0NdsSbwbdpQ&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

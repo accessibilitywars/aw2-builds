@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - vindicator</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/specs/vindicator/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-08T00:00:00+00:00</updated>
+    <id>https://aw2.help/specs/vindicator/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Lord of the Stomp [pDPS]</title>
+        <published>2024-03-08T00:00:00+00:00</published>
+        <updated>2024-03-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-vindicator/"/>
+        <id>https://aw2.help/builds/power-vindicator/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-vindicator/">&lt;p&gt;This is a pretty foundational build for Revenant. Simple, solid and focused.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80384&quot; data-armory-80384-upgrades=&quot;74978&quot; data-armory-80384-stat=&quot;1697&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Dragon&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74978&quot;&gt;&lt;&#x2F;span&gt; Dragonhunter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80435&quot; data-armory-80435-upgrades=&quot;74978&quot; data-armory-80435-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74978&quot;&gt;&lt;&#x2F;span&gt; Dragonhunter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80254&quot; data-armory-80254-upgrades=&quot;74978&quot; data-armory-80254-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74978&quot;&gt;&lt;&#x2F;span&gt; Dragonhunter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80205&quot; data-armory-80205-upgrades=&quot;74978&quot; data-armory-80205-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74978&quot;&gt;&lt;&#x2F;span&gt; Dragonhunter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80277&quot; data-armory-80277-upgrades=&quot;74978&quot; data-armory-80277-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74978&quot;&gt;&lt;&#x2F;span&gt; Dragonhunter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80557&quot; data-armory-80557-upgrades=&quot;74978&quot; data-armory-80557-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74978&quot;&gt;&lt;&#x2F;span&gt; Dragonhunter&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;95675&quot; 
+		data-armory-95675-upgrades=&quot;24615&quot;
+		data-armory-95675-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Sword&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24615&quot;&gt;&lt;&#x2F;span&gt; Force&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;95675&quot; 
+		data-armory-95675-upgrades=&quot;24554&quot;
+		data-armory-95675-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Sword&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24554&quot;&gt;&lt;&#x2F;span&gt; Air&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot;
+		data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;96652&quot;
+		data-armory-96652-upgrades=&quot;24615,24554&quot;
+		data-armory-96652-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Staff&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;24615&quot;&gt;&lt;&#x2F;span&gt; Force&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;24554&quot;&gt;&lt;&#x2F;span&gt; Air&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;74155&quot; 
+	data-armory-74155-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;95380&quot; 
+	data-armory-95380-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;81908&quot; 
+	data-armory-81908-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91048&quot; 
+	data-armory-91048-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;93105&quot; 
+	data-armory-93105-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91234&quot; 
+	data-armory-91234-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;100916&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Thief &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Alternatives: Full Berserker&#x27;s and&#x2F;or Scholar runes&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;consumables&quot;&gt;Consumables&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91805&quot;&gt;&lt;&#x2F;span&gt; Cilantro Lime Sous-Vide Steak&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;78305&quot;&gt;&lt;&#x2F;span&gt; Superior Sharpening Stone&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQkDNg8qRRXcEQAABhIAACsSAADUEQAAyhEAAAIDAAArEgYS1BEAAAAAAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-nokey=true data-armory-ids=&#x27;28134,28419&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;26937,29209,28231,27107,28406&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;27372,28516,26679,26557,27975&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;3,15,69&#x27; data-armory-3-traits=&#x27;1761,1774,1719&#x27; data-armory-15-traits=&#x27;1767,1765,1800&#x27; data-armory-69-traits=&#x27;2258,2259,2257&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;Power Vindicator can be very easy to play, yet deliver respectable results by following the steps below:&lt;&#x2F;p&gt;
+&lt;p&gt;Swap your legend when it is off cooldown or when you run out of energy, it doesn&#x27;t matter much, and use:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27107&quot;&gt;&lt;&#x2F;span&gt; Impossible Odds while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28134&quot;&gt;&lt;&#x2F;span&gt; Legendary Assassin Stance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26557&quot;&gt;&lt;&#x2F;span&gt; Vengeful Hammers while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28419&quot;&gt;&lt;&#x2F;span&gt; Legendary Dwarf Stance&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;You can bind both these skills to the same button to reduce mistakes.&lt;&#x2F;p&gt;
+&lt;p&gt;Use off cooldown in following priority:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27074&quot;&gt;&lt;&#x2F;span&gt; Deathstrike (Sword 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29233&quot;&gt;&lt;&#x2F;span&gt; Chilling Isolation (Sword 2)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Dodge to start the fight and dodge when your endurance is almost full.&lt;&#x2F;p&gt;
+&lt;p&gt;Auto attack to fill.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;26679&quot;&gt;&lt;&#x2F;span&gt; Forced Engagement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28406&quot;&gt;&lt;&#x2F;span&gt; Jade Winds&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28472&quot;&gt;&lt;&#x2F;span&gt; Shackling Wave (Sword 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;However, if you&#x27;re in a position where not CCing will result in failure, just swap to staff and use
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28978&quot;&gt;&lt;&#x2F;span&gt; Surge of the Mists (Staff 5)&lt;&#x2F;p&gt;
+&lt;p&gt;Note that this will tank your DPS and the only thing you can do now is to auto attack (while still dodging and swapping legends).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;0NdsSbwbdpQ&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - rifle</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/rifle/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-06T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/rifle/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Chrono Tank [aHeal&#x2F;qHeal&#x2F;Tank]</title>
+        <published>2024-10-06T00:00:00+00:00</published>
+        <updated>2024-10-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/heal-alac-chronomancer/"/>
+        <id>https://aw2.help/builds/heal-alac-chronomancer/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/heal-alac-chronomancer/">&lt;p&gt;Assuming your party is experienced and only require a tank with multiple reliable blocks to ensure minimal risk of failure, majority of your actions will be based on the scepter auto-attack. The end of the auto-attack chain &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10291&quot;&gt;&lt;&#x2F;span&gt; Ether Clone procs &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1915&quot;&gt;&lt;&#x2F;span&gt; Illusionary Inspiration to provide heals and empower your shatter skills. Aegis and Stability are available on demand.&lt;&#x2F;p&gt;
+&lt;p&gt;This build is has low physical complexity, has very few repetitions and is functional in instanced content, especially for new players wanting to volunteer for learning tank roles. You may find that the tanking ability is superior to other classes but relying on scepter alone without proper planning may result in mediocre healing. While this guide assumes no weapon swap is needed, to maximise its heal utility, you may consider swapping to rifle.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h1&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80248&quot; data-armory-80248-upgrades=&quot;84171&quot; data-armory-80248-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;84171&quot;&gt;&lt;&#x2F;span&gt; Rebirth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80131&quot; data-armory-80131-upgrades=&quot;84171&quot; data-armory-80131-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;84171&quot;&gt;&lt;&#x2F;span&gt; Rebirth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80190&quot; data-armory-80190-upgrades=&quot;84171&quot; data-armory-80190-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;84171&quot;&gt;&lt;&#x2F;span&gt; Rebirth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80111&quot; data-armory-80111-upgrades=&quot;84171&quot; data-armory-80111-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;84171&quot;&gt;&lt;&#x2F;span&gt; Rebirth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80356&quot; data-armory-80356-upgrades=&quot;84171&quot; data-armory-80356-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;84171&quot;&gt;&lt;&#x2F;span&gt; Rebirth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80399&quot; data-armory-80399-upgrades=&quot;84171&quot; data-armory-80399-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;84171&quot;&gt;&lt;&#x2F;span&gt; Rebirth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;96221&quot; 
+		data-armory-96221-upgrades=&quot;72339&quot;
+		data-armory-96221-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Scepter&lt;&#x2F;td&gt;
+	&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;72339&quot;&gt;&lt;&#x2F;span&gt; Concentration&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;96028&quot; 
+		data-armory-96028-upgrades=&quot;74326&quot;
+		data-armory-96028-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Shield&lt;&#x2F;td&gt;
+	&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;74326&quot;&gt;&lt;&#x2F;span&gt; Transference&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;74155&quot; 
+	data-armory-74155-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;95380&quot; 
+	data-armory-95380-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;81908&quot; 
+	data-armory-81908-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91048&quot; 
+	data-armory-91048-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;93105&quot; 
+	data-armory-93105-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91234&quot; 
+	data-armory-91234-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Minstrel&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;100633&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Flock &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;h3 id=&quot;alternative&quot;&gt;Alternative&lt;&#x2F;h3&gt;
+&lt;p&gt;Consider rifle for additional healing and focus for additional CC&#x2F;pulls.&lt;&#x2F;p&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot;
+		data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;97377&quot;
+		data-armory-97377-upgrades=&quot;72339,74326&quot;
+		data-armory-97377-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Rifle&lt;&#x2F;td&gt;
+	&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;72339&quot;&gt;&lt;&#x2F;span&gt; Concentration&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;74326&quot;&gt;&lt;&#x2F;span&gt; Transference&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;97165&quot; 
+		data-armory-97165-upgrades=&quot;74326&quot;
+		data-armory-97165-stat=&quot;1265&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Focus&lt;&#x2F;td&gt;
+	&lt;td&gt;Minstrel&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;74326&quot;&gt;&lt;&#x2F;span&gt; Transference&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Note: Weapon swap to rifle is optional, but shield is better used for tanking. Alternate weapon sets should be prioritised based on utility requirements.&lt;&#x2F;em&gt;&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;div style=&quot;clear:both;&quot;&gt;&amp;nbsp;&lt;&#x2F;div&gt;
+&lt;h4 id=&quot;budget-options&quot;&gt;Budget Options&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Replace &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74326&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Transference with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24551&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Water&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;consumables&quot;&gt;Consumables&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91690&quot;&gt;&lt;&#x2F;span&gt; Bowl of Fruit Salad with Mint Garnish OR &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;68634&quot;&gt;&lt;&#x2F;span&gt; Delicious Rice Ball &lt;em&gt;(budget alternative)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;81157&quot;&gt;&lt;&#x2F;span&gt; Magnanimous Maintenance Oil&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;build&quot;&gt;Build&lt;&#x2F;h1&gt;
+&lt;p&gt;Heal Quickness Build&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQctOhcqKC9tAQ8BkxKGAc8SgQGPAWsBsxK8AQAAAAAAAAAAAAAAAAAAAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;10213,29526,30814,10267,30359&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;45,23,40&#x27; data-armory-45-traits=&#x27;675,668,1687&#x27; data-armory-23-traits=&#x27;738,740,1866&#x27; data-armory-40-traits=&#x27;1987,1978,2022&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;small&gt;Swap to stretched time for Alacrity instead of Quickness&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;rotation-and-utilities&quot;&gt;Rotation and Utilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Firstly, do not panic. Chronomancer is an easy but brainy class to play. A lot of mechanics are invisible and running in the backend.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;opener&quot;&gt;Opener&lt;&#x2F;h4&gt;
+&lt;p&gt;You may wish to adapt an opener into your rotation for initial quickness. Time warp is also useful for initial quickness.&lt;&#x2F;p&gt;
+&lt;p&gt;The methods of executing your opener is non-exhaustive and you will find new ways that will suit your own playstyle. Many opener variations may include utilities but generally fulfil the following purpose&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Generate Alacrity&#x2F;Quickness with minimal downtime.&lt;&#x2F;li&gt;
+&lt;li&gt;Stack might right at the start of the fight&lt;&#x2F;li&gt;
+&lt;li&gt;Provide essential boons required for the particular encounter.&lt;&#x2F;li&gt;
+&lt;li&gt;Provide boons that are missing from the subgroup.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;An example opener would be&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split F5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30643&quot;&gt;&lt;&#x2F;span&gt; Tides of Time (Shield 5)&lt;&#x2F;li&gt;
+&lt;li&gt;F1-F4 All your shatter skills&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30643&quot;&gt;&lt;&#x2F;span&gt; Tides of Time (Shield 5)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The above is used due to easy execution, instant alacrity&#x2F;quickness and early might, fury, protection, resistance, stability, regeneration and vigor.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;principles-of-generating-alacrity-quickness&quot;&gt;Principles of generating Alacrity&#x2F;Quickness&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Generate Clones using autos - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10291&quot;&gt;&lt;&#x2F;span&gt; Ether Clone.&lt;&#x2F;li&gt;
+&lt;li&gt;Use shatter skills when clones are full to heal allies and grant alacrity&#x2F;quickness.&lt;&#x2F;li&gt;
+&lt;li&gt;Using Phantasm skills from your weapon skills and utilties also generate a significant amount of alacrity&#x2F;quickness.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;small&gt;These three steps are the core foundation of your build.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Your last attack on the auto chain generates clones so you won&#x27;t have enough quickness if you don&#x27;t finish the auto chains.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;The rotation for quickness and alacrity is the same.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;You need to reserve backup when you can&#x27;t generate clones or give boons. That&#x27;s what the utilities are for.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Phantasms generate more alacrity than clones, it will be good to bring at least 1-2 from weapon skills or utilities.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;maintenance-heals&quot;&gt;Maintenance Heals&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Clone generation provides a small but steady heal.&lt;&#x2F;li&gt;
+&lt;li&gt;Shattering clones provides a more sizeable heal.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;burst-heals&quot;&gt;Burst Heals&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Reserve the use of your wells if you can anticipate a large attack (eg. VG greens)&lt;&#x2F;li&gt;
+&lt;li&gt;Use your &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10213&quot;&gt;&lt;&#x2F;span&gt; Mantra of Recovery as your emergency heal.&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Your shatter skills provide significant heals even without clones.&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Additional Mantras can be used in place of wells for very mobile fights.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;You have decent CC by just using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30643&quot;&gt;&lt;&#x2F;span&gt; Tides of Time (Shield 5).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10287&quot;&gt;&lt;&#x2F;span&gt; Diversion (Shatter F3) provides a small CC.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29519&quot;&gt;&lt;&#x2F;span&gt; Signet of Humility (Elite) for a mega CC.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30359&quot;&gt;&lt;&#x2F;span&gt; Gravity Well (Elite) for a sizeable CC with other beneficial effects.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split can double cast some of your CC skills.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;tanking-rotation&quot;&gt;Tanking Rotation&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Cycle between your blocks when receiving heavy attacks
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10276&quot;&gt;&lt;&#x2F;span&gt; Illusionary Counter&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30769&quot;&gt;&lt;&#x2F;span&gt; Echo of Memory -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29649&quot;&gt;&lt;&#x2F;span&gt; Deja Vu&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29526&quot;&gt;&lt;&#x2F;span&gt; Well of Precognition&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Other sources of group aegis can also be used but reserve it when it is absolutely required.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Other utilities and trait combos&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10267&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Disenchanter &#x2F; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10185&quot;&gt;&lt;&#x2F;span&gt; Arcane Thievery for boon strips.&lt;&#x2F;li&gt;
+&lt;li&gt;You may take &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;677&quot;&gt;&lt;&#x2F;span&gt; Master of Manipulation for more&#x2F;backup group aegis.&lt;&#x2F;li&gt;
+&lt;li&gt;Advanced strategies can be used with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29578&quot;&gt;&lt;&#x2F;span&gt; Mimic to duplicate skills for example:
+&lt;ul&gt;
+&lt;li&gt;Multi-feedback&lt;&#x2F;li&gt;
+&lt;li&gt;Multi-blink&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Advanced strategies can be used with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split to duplicate skills for example:
+&lt;ul&gt;
+&lt;li&gt;Double &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;52370&quot;&gt;&lt;&#x2F;span&gt; Conjured Slash&lt;&#x2F;li&gt;
+&lt;li&gt;Double Moa CC&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;More advanced strategies can be used by combining &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29578&quot;&gt;&lt;&#x2F;span&gt; Mimic and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;optimisation&quot;&gt;Optimisation&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;raid-ready&quot;&gt;Raid Ready&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;W1 Vale Guardian - Use wells just before greens. This allows heals to come in right after green triggers. You can also use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29526&quot;&gt;&lt;&#x2F;span&gt; Well of Precognition to shield allies against teleport circles. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10267&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Disenchanter and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10185&quot;&gt;&lt;&#x2F;span&gt; Arcane Thievery can strip boons off the Blue Guardian.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Gorseval - Start with initial stability which protects against the initial swipe. Subsequently, face the boss away from your group. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10237&quot;&gt;&lt;&#x2F;span&gt; Mantra of Concentration is also useful here.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Sabetha - You can teleport through flame wall with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10200&quot;&gt;&lt;&#x2F;span&gt; Blink. You have lots of CC options for Knuckles.&lt;&#x2F;li&gt;
+&lt;li&gt;W2 Slothasor - You need steady condition cleanses so spread the use of your shatters. Swapping to rifle is useful to heal players dropping poisons who are out of reach, bonus points if you can port them back to the group (coordination is difficult). &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10363&quot;&gt;&lt;&#x2F;span&gt; Into the Void is often used to deal with slublings.&lt;&#x2F;li&gt;
+&lt;li&gt;W2 Matthias - Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10302&quot;&gt;&lt;&#x2F;span&gt; Feedback for reflects but if you are short of them, you can use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29578&quot;&gt;&lt;&#x2F;span&gt; Mimic to reset them. You have lots of CC options, but you may want to preserve &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29519&quot;&gt;&lt;&#x2F;span&gt; Signet of Humility (Elite) when sacrifice mechanic is about to fail. The focus reflect options are too clunky to be reliable on this fight.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Escort - Most Chrono Tanks can swap to become a Tower Chrono. This is a niche build and not covered in this guide.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Twisted Castle - You may wish to attempt the button with the statues (left split). In this case after the double doors, use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30769&quot;&gt;&lt;&#x2F;span&gt; Echo of Memory immediately after entering and face them as they will throw hammers, then &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10200&quot;&gt;&lt;&#x2F;span&gt; Blink to the next button. More skips can be done with an elementalist pair combo using Fiery Greatsword and clever use of portals and blink.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Xera - You are likely to tank this fight. This fight is mostly based on positioning. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10363&quot;&gt;&lt;&#x2F;span&gt; Into the Void (Focus Pull 4) is useful when tanking as it allows your team to cleave them more easily.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Cairn - Stability is required for skipping greens. Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29526&quot;&gt;&lt;&#x2F;span&gt; Well of Precognition and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10237&quot;&gt;&lt;&#x2F;span&gt; Mantra of Concentration.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Mursaat Overseer - Improved alacrity will allow you to claim tiles faster than other class. Using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split to duplicate Claim will allow you to claim tiles even faster.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Samarog - Try to bait as tank as much as possible. You can pre-cast your CC such as &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30643&quot;&gt;&lt;&#x2F;span&gt; Tides of Time (Shield 5) before he pins you down (health bar indicator).&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Deimos - Group Aegis is useful on CM. I prefer to Group Aegis before casting a Channeled block. You can also use manipulations for group aegis.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Soulless Horror - You will be tanking this fight and would definitely appreciate the added toughness. Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29519&quot;&gt;&lt;&#x2F;span&gt; Signet of Humility for this fight for the additional CC. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split has killed many Chrono Tanks in this fight so spatial awareness is important.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Dhuum - You will be tanking this fight and may need to do greens. If you do greens, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10200&quot;&gt;&lt;&#x2F;span&gt; Blink will be useful.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Conjured Amalgamate - You can CC multiple shields with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30643&quot;&gt;&lt;&#x2F;span&gt; Tides of Time (Shield 5) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30359&quot;&gt;&lt;&#x2F;span&gt; Gravity Well. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;52370&quot;&gt;&lt;&#x2F;span&gt; Conjured Slash can be duplicated with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split but you must click fast.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Twin Largos - This is a very mobile and difficult fight and you can mis-time your wells. However, Chronomancer is one of the best classes to take on either lanes.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Qadim - You have lots of CC options, some of which can be pre-casted for the mini bosses. You will need to tank one of the wyverns. Most of the time you will be bringing &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10197&quot;&gt;&lt;&#x2F;span&gt; Portal Entre for the split phase and jumping puzzle.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Sabir - With clever use of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split, you can generate enough CC to break the bar during the &#x27;coordinated&#x27; phase.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Adina - Tank on the grass. Just alternating your three blocks is enough. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10302&quot;&gt;&lt;&#x2F;span&gt; Feedback can be duplicated with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29830&quot;&gt;&lt;&#x2F;span&gt; Continuum Split and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29578&quot;&gt;&lt;&#x2F;span&gt; Mimic. For most groups, a 4th projectile block is not required but in case your options are exhausted, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10282&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Warden. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10186&quot;&gt;&lt;&#x2F;span&gt; Temporal Curtain (Focus 4) may fail to block projectiles due to height limitations and you will need to sacrifice a trait.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 QtP - You will be tanking this fight. Your timely channelled blocks are extrely useful to bypass attacks.&lt;&#x2F;li&gt;
+&lt;li&gt;W8 Greer - A reflection variant of this build makes this fight much easier.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;&lt;small&gt; You can overheal using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100633&quot;&gt;&lt;&#x2F;span&gt; Relic of the Flock. This generates barrier but has an ICD so you want to spread your casts.&lt;&#x2F;small&gt; &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;&lt;small&gt; Using all your shatters in panic without clones will destroy your boon uptime.&lt;&#x2F;small&gt; &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+</feed>

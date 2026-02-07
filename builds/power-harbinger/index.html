@@ -1,0 +1,357 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=361e707899e0e8ebd479" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Violent Emetic [pDPS] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="Alternative power build for Necro enjoyers who are sick of playing Reaper" />
+  <link rel="canonical" href="https://aw2.help/builds/power-harbinger/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, Necromancer, Harbinger, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/power-harbinger/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/power-harbinger/" />
+  <meta property="og:description" content="Alternative power build for Necro enjoyers who are sick of playing Reaper" />
+  <meta name="twitter:description" content="Alternative power build for Necro enjoyers who are sick of playing Reaper" />
+  <meta property="og:title" content="Violent Emetic [pDPS] | Accessibility Wars" />
+  <meta name="twitter:title" content="Violent Emetic [pDPS] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/harbinger.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/harbinger.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2025-08-12" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/harbinger.jpg');"><div class="boxed"><span style="float: right;"><h3>36.0k DPS</br>
+		40&nbsp;APM</h3></span><h1><a href="https://aw2.help/builds/power-harbinger/">Violent Emetic [pDPS]</a></h1>
+	<p><i>You've heard of spinning to win, now try shotgunning to win!</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/scooby/">scooby</a> <span class="rpad"></span> April 10, 2024 <span class="rpad"></span>Updated: August 12, 2025 <span class="rpad"></span> [ <a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/greatsword/">greatsword</a>  #<a href="https://aw2.help/tags/power/">power</a>  #<a href="https://aw2.help/tags/necromancer/">necromancer</a>  #<a href="https://aw2.help/tags/harbinger/">harbinger</a>  #<a href="https://aw2.help/tags/eod/">eod</a>  #<a href="https://aw2.help/tags/lowcog/">lowcog</a>  #<a href="https://aw2.help/tags/lowrep/">lowrep</a> </span><div>
+                This build requires: END OF DRAGONS
+              </div>
+
+	</div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/necromancer/">necromancer (Series)</a>
+        <ol>
+					<li><a href="https://aw2.help/builds/power-reaper/">The Bell Ringer [pDPS]</a></li>
+					<li><a class="scur" href="https://aw2.help/builds/power-harbinger/">Violent Emetic [pDPS](36.0k DPS)[40&nbsp;APM]</a></li> 
+				  
+					<li><a href="https://aw2.help/builds/quickness-power-harbinger/">Dread Apothecary [qDPS](27.9k DPS)[39&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/alac-hybrid-scourge/">Seraph of the Sand [aHeal](18.8k DPS)</a></li>
+					<li><a href="https://aw2.help/builds/condi-reaper-mm/">Putrid Petmaster [DPS]</a></li>
+        </ol>
+      </div>
+    </div>
+	</div>
+<div><h3 style="color: Gold;">
+Note: this build was created for the previous 2025-12 balance patch.
+</h3></div>
+
+<p>Alternative power build for Necro enjoyers who are sick of playing Reaper<sup class="footnote-reference" id="fr-1-1"><a href="#fn-1">[1]</a></sup></p>
+<h2 id="notes">Notes</h2>
+<hr />
+<p>Harbinger gets most of its damage from having high stacks of Blight, which can be stacked through <span class="armory-inline" data-armory-embed="traits" data-armory-ids="2183"></span> Dark Disciple and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62567"></span> Harbinger Shroud, as well as your utility skills. However, in the interest of reducing complexity and increasing utility, we will not be bringing any skills that stacks Blight, instead relying solely on <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62567"></span> Harbinger Shroud.</p>
+<p>This causes some issues where our Power Harbinger build may not perform as well on fights with many long phases inbetween where you are not able to perform your rotation.</p>
+<p>For fights with short interruptions between phases, such as having to CC the boss, there is no expected loss in performance of this build.</p>
+<p>Power Harbinger is still able to burst extremely well if you are able to line up your <strong>Burst</strong> rotation with the burst phases of the boss, easily hitting 50-60k burst DPS.</p>
+<h2 id="gearing">Gearing</h2>
+<hr/>
+<table>
+<thead><tr><th>Armor</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80248" data-armory-80248-upgrades="74978" data-armory-80248-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="74978"></span> Dragonhunter</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80131" data-armory-80131-upgrades="74978" data-armory-80131-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="74978"></span> Dragonhunter</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80190" data-armory-80190-upgrades="74978" data-armory-80190-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="74978"></span> Dragonhunter</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80111" data-armory-80111-upgrades="74978" data-armory-80111-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="74978"></span> Dragonhunter</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80356" data-armory-80356-upgrades="74978" data-armory-80356-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="74978"></span> Dragonhunter</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80399" data-armory-80399-upgrades="74978" data-armory-80399-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="74978"></span> Dragonhunter</td></tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline"
+		data-armory-embed="items"
+		data-armory-ids="96356"
+		data-armory-96356-upgrades="24618,24615"
+		data-armory-96356-stat="1077"></span></td>
+	<td>Greatsword</td>
+	<td>Berserker's</td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="24618"></span> Accuracy</td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="24615"></span> Force</td>
+</tr>
+</tbody></table>
+<hr/>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="74155" 
+	data-armory-74155-stat="1077"></span></td><td>Back item</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="95380" 
+	data-armory-95380-stat="1128"></span></td><td>Amulet</td><td> Assassin's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="81908" 
+	data-armory-81908-stat="1077"></span></td><td>Accessory</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91048" 
+	data-armory-91048-stat="1077"></span></td><td>Accessory</td><td> Berserker's</td></tr>
+</tbody></table>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="93105" 
+	data-armory-93105-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91234" 
+	data-armory-91234-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="100262"></span></td><td>Relic</td><td> Fireworks </td></tr></tbody></table>
+<hr/>
+<ul>
+<li>Food: <span class="armory-inline" data-armory-embed="items" data-armory-ids="91805"></span> Cilantro Lime Sous-Vide Steak or <span class="armory-inline" data-armory-embed="items" data-armory-ids="41569"></span> Bowl of Sweet and Spicy Butternut Squash Soup</li>
+<li>Enhancement: <span class="armory-inline" data-armory-embed="items" data-armory-ids="78305"></span> Superior Sharpening Stone</li>
+</ul>
+<h2 id="build">Build</h2>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQg1KTIlQBWbAJsAQAHkAIEAdgB1AXABlQCVAAAAAAAAAAAAAAAAAAAAAAACMgBaAAA=<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div data-armory-embed='skills' data-armory-ids='10547,10607,10546,10622,10646'></div><div data-armory-embed='specializations' data-armory-ids='53,50,64' data-armory-53-traits='914,829,853' data-armory-50-traits='875,894,893' data-armory-64-traits='2188,2192,2218'></div>
+<h1 id="rotation">Rotation</h1>
+<hr />
+<p>The rotation consists of 3 main combos:</p>
+<blockquote>
+<ol>
+<li>Burst</li>
+<li>Shroud</li>
+<li>Normal</li>
+</ol>
+</blockquote>
+<p>And should be looped in this order indefinitely.</p>
+<p>Listed below are the combos:</p>
+<p><strong>Burst:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29855"></span> Nightfall (Greatsword 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="10607"></span> Well of Darkness</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="10546"></span> Well of Suffering</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62567"></span> Harbinger Shroud</li>
+</ol>
+</blockquote>
+<p><strong>Shroud:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62621"></span> Dark Barrage (Shroud 2) x 2</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Shroud 5) when <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62621"></span> Dark Barrage (Shroud 2) is almost ready</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62621"></span> Dark Barrage (Shroud 2)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62540"></span> Exit Harbinger Shroud</li>
+</ol>
+</blockquote>
+<p><strong>Normal:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30163"></span> Gravedigger (Greatsword 2)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30860"></span> Death Spiral (Greatsword 3)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29740"></span> Grasping Darkness (Greatsword 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29705"></span> Dusk Strike --&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30799"></span> Fading Twilight --&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29867"></span> Chilling Scythe (Greatsword 1 Chain)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30163"></span> Gravedigger (Greatsword 2)</li>
+</ol>
+</blockquote>
+<p>You will know when your auto attack chain is completed when the cooldown of <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30163"></span> Gravedigger (Greatsword 2) resets, in which case you should use it again immediately.</p>
+<p>Below 50% boss HP, you will notice that <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30163"></span> Gravedigger (Greatsword 2) has no cooldown. Replace Greatsword 1 Chain with <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30163"></span> Gravedigger. Your <strong>Normal</strong> combo will now look like this:</p>
+<p><strong>Normal:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30163"></span> Gravedigger (Greatsword 2)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30860"></span> Death Spiral (Greatsword 3)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29740"></span> Grasping Darkness (Greatsword 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30163"></span> Gravedigger (Greatsword 2) x 2</li>
+</ol>
+</blockquote>
+<p>If you find yourself being forced out of Shroud early, just carry on and do your <strong>Normal</strong> combo repeatedly until <span class="armory-inline" data-armory-embed="skills" data-armory-ids="10607"></span> Well of Darkness is off cooldown, then recover and continue the rotation.</p>
+<p>Becareful when using <span class="armory-inline" data-armory-embed="skills" data-armory-ids="10546"></span> Well of Suffering --&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62567"></span> Harbinger Shroud and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62621"></span> Dark Barrage (Shroud 2) --&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62540"></span> Exit Harbinger Shroud, as casting either of <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62567"></span> Harbinger Shroud or <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62540"></span> Exit Harbinger Shroud too early will cancel the skill before it.</p>
+<p>This rotation will upkeep basically perfect <span class="armory-inline" data-armory-embed="items" data-armory-ids="100947"></span> Relic of Fireworks uptime when performed correctly and up to speed. The skills that upkeep <span class="armory-inline" data-armory-embed="items" data-armory-ids="100947"></span> Relic of Fireworks are <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29855"></span> Nightfall (Greatsword 4), <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29740"></span> Grasping Darkness (Greatsword 5), and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Shroud 5). You will notice that they are spaced out well throughout the rotation. Not having Alacrity will cause you to lose uptime on <span class="armory-inline" data-armory-embed="items" data-armory-ids="100947"></span> Relic of Fireworks, but will not affect the order of the rotation.</p>
+<h2 id="crowd-control">Crowd Control</h2>
+<hr />
+<p>Your CC skills are:</p>
+<p><strong>Shroud:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62540"></span> Exit Harbinger Shroud (Shroud 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Shroud 5)</li>
+</ol>
+</blockquote>
+<p><strong>Normal:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="10647"></span> Charge</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Greatsword 5)</li>
+</ol>
+</blockquote>
+<p>Both <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62540"></span> Exit Harbinger Shroud (Shroud 4) and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="10647"></span> Charge are available during their respective stages for CC on demand. You can press them as soon as you see a breakbar appear with near 0 interruption to your rotation.</p>
+<p>On the other hand, <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Shroud 5) and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Greatsword 5) are both used as part of your DPS rotation. They provide great CC when the breakbar coincides with your rotation phases, but you should not delay or save them for CC.</p>
+<h2 id="advanced-tips">Advanced Tips</h2>
+<hr />
+<p>Experienced players or players with lower ping might sometimes find that the <strong>Normal</strong> rotation does not line up perfectly with the rest of the rotation, with some skills still being on cooldown when you reach that part of the rotation. To prevent this from happening, delay casting <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Shroud 5) --&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62621"></span> Dark Barrage (Shroud 2) slightly longer, and your cooldowns should now line up. This problem can also happen if you delay <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62563"></span> Vital Draw (Shroud 5) --&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="62621"></span> Dark Barrage (Shroud 2) by too much in one rotation, then too little in the next rotation.</p>
+<h2 id="video">Video</h2>
+<hr />
+<div class="yv">
+    <iframe src="https://www.youtube-nocookie.com/embed/YRSIVMu7mxc" title="Youtube" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+<hr><ol class="footnotes-list">
+<li id="fn-1">
+<p>Shoutout to Zargholl for his comments, without which this build would have been much worse. You can find him helping out players with any questions they have about Necromancer over at the Snow Crows discord, where he also enjoys theorycrafting <del>and shitposting</del>. <a href="#fr-1-1">↩</a></p>
+</li>
+</ol>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/necromancer/">Series</a>
+        <ol>
+			
+      <li><a href="https://aw2.help/builds/power-reaper/" title=""
+	>The Bell Ringer [pDPS]</a></li>
+			
+      <li><a class="scur" href="https://aw2.help/builds/power-harbinger/" title=" Benchmark: 36.0k DPS 40&nbsp;APM"
+>Violent Emetic [pDPS]</a></li>
+    
+			
+      <li><a href="https://aw2.help/builds/quickness-power-harbinger/" title=" Benchmark: 27.9k DPS 39&nbsp;APM"
+	>Dread Apothecary [qDPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/alac-hybrid-scourge/" title=" Benchmark: 18.8k DPS"
+	>Seraph of the Sand [aHeal]</a></li>
+			
+      <li><a href="https://aw2.help/builds/condi-reaper-mm/" title=""
+	>Putrid Petmaster [DPS]</a></li>
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#notes">Notes</a>
+		  </div><div>
+			<a href="#gearing">Gearing</a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div>
+			<a href="#rotation">Rotation</a>
+		  </div><div class="hpad">
+			<a href="#crowd-control"><small>- Crowd Control</small></a>
+		  </div><div class="hpad">
+			<a href="#advanced-tips"><small>- Advanced Tips</small></a>
+		  </div><div class="hpad">
+			<a href="#video"><small>- Video</small></a>
+		  </div>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">Balance</h2>
+			<p style="color: Gold;">2025-12</p>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">DPS Log</h2>
+			<p><a href="https:&#x2F;&#x2F;dps.report&#x2F;sozo-20250812-001820_golem">DPS Log</a></p>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer><span class="topout">
+<span class="topleft"> </span><a href="#" class="top" title="Back to Top"><i class="svgs svgh angu"></i></a>
+</span>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

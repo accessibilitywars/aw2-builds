@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - scourge</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/scourge/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-09-04T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/scourge/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Seraph of the Sand [aHeal]</title>
+        <published>2024-05-20T00:00:00+00:00</published>
+        <updated>2025-09-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/alac-hybrid-scourge/"/>
+        <id>https://aw2.help/builds/alac-hybrid-scourge/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/alac-hybrid-scourge/">&lt;p&gt;This guide explains how hybrid scourge works and how it assists with training runs, low experience practice runs and in statics. This build does rely on a relatively high APM but the order of presses is irrelevant to performance so long as you don&#x27;t greed DPS and remember to prioritise group alacrity. The forgiving nature of the build allows you to vent your frustrations on the keyboard after a stressful day. Scourge also allows barrier to be pulsed even when disabled.
+This build is functional in both open world and instanced content. There is an optional amount of gear swaps that can be done to slide it towards being a stronger healer. While this build has a low skill floor, it does have a high toughness and users should be expected to tank. Tanking isn&#x27;t terribly difficult on this build however.
+For older raids, the build is less optimal than other celestial variants after the recent change to transfusion. The lack of responsive burst heals is the greatest weakness of the class. However this class is still favored in end game content for its two-way teleport ability via &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing-and-consumables&quot;&gt;Gearing and Consumables&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gw2skills.net&#x2F;editor&#x2F;?PSAFsEm6XZGMQmEDiRiF70&#x2F;zH-DSRYVRP1kHaI5CPkEECdpCyVCo0jBBIc9wrJAzW8KA-e&quot;&gt;Optimised loadout with infusions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor&#x2F;Trinkets: Seraph Set but fill other pieces with other stats up to condi duration cap and the desired amount of healing&#x2F;toughness.&lt;&#x2F;li&gt;
+&lt;li&gt;Alt Stats: Celestial&#x27;s (recommended)&#x2F;Ritualist&#x27;s&#x2F;Viper&#x27;s&#x2F;Plaguedoctor&#x27;s&#x2F;Minstrels (For tanking)&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Weapons (set 1): Pistol&#x2F;Torch (Offensive)&lt;&#x2F;li&gt;
+&lt;li&gt;Weapons (alt): Sceptre&#x2F;Warhorn (Defensive)&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;weapon-alternatives&quot;&gt;Weapon Alternatives&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Weapons (alt): Dagger&#x2F;Torch (Healing&#x2F;Boonstrip)&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-3-1&quot;&gt;&lt;a href=&quot;#fn-3&quot;&gt;[3]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;runes&quot;&gt;Runes&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;76166&quot;&gt;&lt;&#x2F;span&gt; Superior Rune of the Tempest&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;sigils&quot;&gt;Sigils&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48911&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Torment
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24583&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Demons
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Smoldering (Torch)&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;relic&quot;&gt;Relic&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt; Relic of the Fractal&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;food&quot;&gt;Food&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91748&quot;&gt;&lt;&#x2F;span&gt; Spherified Oyster Soup with Mint Garnish OR
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;95241&quot;&gt;&lt;&#x2F;span&gt; Feast of Delectable Birthday Cake (Budget&#x2F;Free)&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;utility&quot;&gt;Utility&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67185&quot;&gt;&lt;&#x2F;span&gt; Krait Tuning Crystal&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;hybrid-dps-alac&quot;&gt;Hybrid DPS Alac&lt;&#x2F;h4&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQgnNhM&#x2F;PD4SAAAAgAAAACEXAAAkFwAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;10527,10544,41615,42935,10549&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;39,19,60&#x27; data-armory-39-traits=&#x27;2013,816,801&#x27; data-armory-19-traits=&#x27;1876,1844,778&#x27; data-armory-60-traits=&#x27;2074,2123,2080&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;alternatives&quot;&gt;Alternatives&lt;&#x2F;h2&gt;
+&lt;p&gt;You have many options to play around with other traits and utilities. Necromancer just has so many useful skills that you may not seem obvious at first glance.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;traits&quot;&gt;Traits&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Take &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2167&quot;&gt;&lt;&#x2F;span&gt; Abrasive Grit where condi cleanses and extra might are needed.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;789&quot;&gt;&lt;&#x2F;span&gt; Life from Death and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1844&quot;&gt;&lt;&#x2F;span&gt; Vampiric Presence are competing traits. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1844&quot;&gt;&lt;&#x2F;span&gt; Vampiric Presence provides more DPS, weaker heals but has less active interaction required.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;utilities&quot;&gt;Utilities&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10589&quot;&gt;&lt;&#x2F;span&gt; Summon Shadow Fiend may not be suitable on certain bosses that remove minions.
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41615&quot;&gt;&lt;&#x2F;span&gt; Serpent Siphon is a good group Aegis and Barrier skill.
+Swap for &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10611&quot;&gt;&lt;&#x2F;span&gt; Signet of Undeath and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10589&quot;&gt;&lt;&#x2F;span&gt; Summon Shadow Fiend if the APM is too high.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;general-house-rules&quot;&gt;General House Rules:&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Swapping traits and skills is a science and you must be knowledgeable on what you can afford to remove.&lt;&#x2F;li&gt;
+&lt;li&gt;Might and Alacrity are your primary responsiblities, so use your might generation and barrier skills first.&lt;&#x2F;li&gt;
+&lt;li&gt;Be prepared to tank as you have a relatively high toughness.&lt;&#x2F;li&gt;
+&lt;li&gt;Both your offensive and defensive sets offer CC, but you can bring more skills for CC.&lt;&#x2F;li&gt;
+&lt;li&gt;Hybrid builds have a lot of give and take and toe the line to bring &#x27;just enough&#x27;, so you need to adjust the build to the strengths of your team composition.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;rotation-and-utilities&quot;&gt;Rotation and Utilities&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Cast &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44946&quot;&gt;&lt;&#x2F;span&gt; Manifest Sand Shade and pulse barrier through &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;43448&quot;&gt;&lt;&#x2F;span&gt; Sand Cascade and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44663&quot;&gt;&lt;&#x2F;span&gt; Desert Shroud.&lt;&#x2F;li&gt;
+&lt;li&gt;Use all your skills on cooldown except &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar (F3) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10611&quot;&gt;&lt;&#x2F;span&gt; Signet of Undeath&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar with a dodge roll to trigger &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;778&quot;&gt;&lt;&#x2F;span&gt; Transfusion&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Always be on top of a sand shade. Your skills hit like wet noodles without it. Being on shroud keeps your condition duration at 100%.&lt;&#x2F;em&gt;&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;crowd-control-rotation&quot;&gt;Crowd Control rotation&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Both sets of weapons have CC via &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44296&quot;&gt;&lt;&#x2F;span&gt; Oppressive Collapse(Torch 5) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10556&quot;&gt;&lt;&#x2F;span&gt; Wail of Doom(Warhorn 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar (F3) can be also used for CC but you may need to reserve this for revive for certain fights.&lt;&#x2F;li&gt;
+&lt;li&gt;You may bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10646&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Golem if you need more CC.&lt;&#x2F;li&gt;
+&lt;li&gt;You may bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10620&quot;&gt;&lt;&#x2F;span&gt; Spectral Grasp if you need to pull adds and have extra CC.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;optimisation&quot;&gt;Optimisation&lt;&#x2F;h2&gt;
+&lt;p&gt;Check with your team regarding the boons that you need to cover. If there is already might overcap, you may drop certain skills for more utilities. You can also make an educated guess by looking at the classes the other players are playing, the weapons equipped etc. By default, your build provides Might, Fury, Alacrity, Protection, Regeneration and Aegis but some may not hit 100% uptime. Although Scourge can provide 10-man stability, this area of effect is really small and groups must be really organised to make full use of it. You may also opt to rearrange the subgroup to put tankier classes with the hybrid healer.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;strike-ready&quot;&gt;Strike Ready&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Boneskinner - While it sounds like it is a huge responsibility to play as a carry scourge, you don&#x27;t die as easily because you have more vitality and higher toughness. Take &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;780&quot;&gt;&lt;&#x2F;span&gt; Ritual of Life and use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar sparingly.&lt;&#x2F;li&gt;
+&lt;li&gt;Whisper of Jormag - Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10543&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Wurm in the middle during the ball phase.&lt;&#x2F;li&gt;
+&lt;li&gt;Harvest Temple - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell is really useful to reposition players behind the ball. Swapping to pistol grants more hits against the ball.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;raid-ready&quot;&gt;Raid Ready&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;W1 Vale Guardian - Be prepared to tank the fight. If you are not the tank, you may opt to go to the red guardian during splits, which gives the condi team added survivability. Barrier trivialises the green mechanic. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;51647&quot;&gt;&lt;&#x2F;span&gt; Devouring Darkness removes boons from the blue guardian.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Gorseval - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10532&quot;&gt;&lt;&#x2F;span&gt; Grasping Dead is a long reliable cripple during the split phase.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Sabetha - If you bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell, you may be able to serve as a cannon backup. You can &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell through the flame wall.&lt;&#x2F;li&gt;
+&lt;li&gt;W2 Slothasor - This build excels on this fight. Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2167&quot;&gt;&lt;&#x2F;span&gt; Abrasive Grit for a very strong condi cleanse. Projectile blocks from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10689&quot;&gt;&lt;&#x2F;span&gt; Corrosive Poison Cloud are sometimes useful. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10620&quot;&gt;&lt;&#x2F;span&gt; Spectral Grasp is useful against slublings.&lt;&#x2F;li&gt;
+&lt;li&gt;W2 Matthias - Do not use any projectile blocks unless you know when to use them.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Stronghold of the Faithful - This build can solo towers but it is a little slow, remember to bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40274&quot;&gt;&lt;&#x2F;span&gt; Trail of Anguish for stability&#x2F;break stun.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Keep Construct - Be prepared to tank this fight. This build doesn&#x27;t excel in this fight, relying mostly on condis. However, you will still outdps other healers due to the power coefficients on some weapons that feed off your celestial gear.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Cairn - This build excels on this fight in every way.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Samarog - Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10646&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Golem for added CC. You can also use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10647&quot;&gt;&lt;&#x2F;span&gt; Charge to push Rigom towards the boss. Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10532&quot;&gt;&lt;&#x2F;span&gt; Grasping Dead for a prolonged cripple and fear from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10556&quot;&gt;&lt;&#x2F;span&gt; Wail of Doom to steer him back towards the boss if he gets too close.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Deimos CM - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41615&quot;&gt;&lt;&#x2F;span&gt; Serpent Siphon is a good aoe Aegis.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Soulless Horror - Your team can &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell through walls.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Dhuum - This build functions as a decent Tank&#x2F;G3 in an experienced group but you can&#x27;t carry too many mistakes as your healing output is lower.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Conjured Amalgamate - This build is not very good for damage on this fight. However, it is not an absolute contraindication to bring this build. If your team only has 1 rebound elementalist&#x2F;nature&#x27;s renewal druid, be sure to be on the same group as them so your revive can save the other subgroup after the clap mechanic.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Twin Largos - This build excels on this fight. The right lane (Kenut) favors condition builds. Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10646&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Golem for added CC.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Qadim - This build can Kite Qadim, Tank Wyverns or even solo Lamp.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Sabir - Projectile blocks from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10689&quot;&gt;&lt;&#x2F;span&gt; Corrosive Poison Cloud is useful. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar is very helpful for players who can&#x27;t do tornado jumps.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Adina - Projectile blocks from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10689&quot;&gt;&lt;&#x2F;span&gt; Corrosive Poison Cloud is useful although not as good as a Ventari Bubble. You can no longer pull allies who identify themselves as sandsharks.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Qadim the Peerless - Consider taking North pylon as you be tanky enough to handle misplaced boss attacks. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell does not have the teleport range of other kiters so you need to start moving early.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;&#x2F;h2&gt;
+&lt;p&gt;I have benched the build with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;95241&quot;&gt;&lt;&#x2F;span&gt; Feast of Delectable Birthday Cake and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67185&quot;&gt;&lt;&#x2F;span&gt; Krait Tuning Crystal, with infusions and no weapon swaps.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;dps-benchmark-18-8k&quot;&gt;DPS benchmark (18.8k)&lt;&#x2F;h4&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;8lBgmakjHAk&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;Being cost-effective: Celestial stat is a good pick because it is a core stat and can be obtained from the Wizard&#x27;s Vault. Your armor requirements will vary depending on your infusions and you may need additional expertise to hit 100% condition duration. Adding more Celestial stats is an option &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;Weapon swap to warhorn for extra heals. Use torch as default for extra DPS. &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-3&quot;&gt;
+&lt;p&gt;Dagger allows more heals through the trait &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;788&quot;&gt;&lt;&#x2F;span&gt; Overflowing Thirst &lt;a href=&quot;#fr-3-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+</feed>

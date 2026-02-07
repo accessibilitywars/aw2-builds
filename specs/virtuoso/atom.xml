@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - virtuoso</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/specs/virtuoso/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-29T00:00:00+00:00</updated>
+    <id>https://aw2.help/specs/virtuoso/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Flying Blades [cDPS]</title>
+        <published>2024-04-02T00:00:00+00:00</published>
+        <updated>2025-07-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-virtuoso/"/>
+        <id>https://aw2.help/builds/condi-virtuoso/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-virtuoso/">&lt;p&gt;A primarily bleed based build that applies bleed through critical hits.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Condition  Virtuoso is a build that is simple to play and provides very consistent damage with high range. That allows you to freely position yourself and maintain your damage output, even when mechanics force you into range.&lt;&#x2F;p&gt;
+&lt;p&gt;This build is also capable of doing large amounts of CC, and has multiple skills that can be swapped around for more utility, making it an excellent build for almost all bosses and situations.&lt;&#x2F;p&gt;
+&lt;p&gt;It is also relatively sturdy for a DPS build, and has good HP self sustain.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;small&gt; &lt;em&gt;There are multiple gear combinations that will arrive at the same total value of stats.&lt;&#x2F;em&gt; &lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80248&quot; data-armory-80248-upgrades=&quot;24762&quot; data-armory-80248-stat=&quot;1067&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Sinister&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24762&quot;&gt;&lt;&#x2F;span&gt; Krait&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80131&quot; data-armory-80131-upgrades=&quot;24762&quot; data-armory-80131-stat=&quot;1067&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Sinister&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24762&quot;&gt;&lt;&#x2F;span&gt; Krait&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80190&quot; data-armory-80190-upgrades=&quot;24762&quot; data-armory-80190-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Rampager&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24762&quot;&gt;&lt;&#x2F;span&gt; Krait&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80111&quot; data-armory-80111-upgrades=&quot;24762&quot; data-armory-80111-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Rampager&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24762&quot;&gt;&lt;&#x2F;span&gt; Krait&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80356&quot; data-armory-80356-upgrades=&quot;24762&quot; data-armory-80356-stat=&quot;1067&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Sinister&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24762&quot;&gt;&lt;&#x2F;span&gt; Krait&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80399&quot; data-armory-80399-upgrades=&quot;24762&quot; data-armory-80399-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Rampager&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24762&quot;&gt;&lt;&#x2F;span&gt; Krait&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;96203&quot; 
+		data-armory-96203-upgrades=&quot;44944&quot;
+		data-armory-96203-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Dagger&lt;&#x2F;td&gt;
+	&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;44944&quot;&gt;&lt;&#x2F;span&gt; Bursting&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;97099&quot; 
+		data-armory-97099-upgrades=&quot;24560&quot;
+		data-armory-97099-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Torch&lt;&#x2F;td&gt;
+	&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24560&quot;&gt;&lt;&#x2F;span&gt; Earth&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;74155&quot; 
+	data-armory-74155-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Rampager&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;95380&quot; 
+	data-armory-95380-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Rampager&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;81908&quot; 
+	data-armory-81908-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Rampager&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91048&quot; 
+	data-armory-91048-stat=&quot;1067&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Sinister&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;93105&quot; 
+	data-armory-93105-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Rampager&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91234&quot; 
+	data-armory-91234-stat=&quot;1078&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Rampager&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Fractal &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91878&quot;&gt;&lt;&#x2F;span&gt; Cilantro and Cured Meat Flatbread or &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;86997&quot;&gt;&lt;&#x2F;span&gt; Plate of Beef Rendang&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48917&quot;&gt;&lt;&#x2F;span&gt; Toxic Tuning Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQctPRg9Qj9tAW4BggEAAIMBAACBAQAA5RoAAAAAAAAAAAAAAAAAAAAAAAADLwAxAFoAAA==&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;10213,10247,10234,10232,24755&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;45,24,66&#x27; data-armory-45-traits=&#x27;670,669,1687&#x27; data-armory-24-traits=&#x27;721,1690,753&#x27; data-armory-66-traits=&#x27;2202,2207,2223&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;To maximise damage on Condition Virtuoso, you should space out your Bladesong Skills in order to upkeep &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2204&quot;&gt;&lt;&#x2F;span&gt; Deadly Blades, as this provides you with a +5% all damage buff. However, as you only want to use Bladesong Skills when you have 5 stacks of Blades, this naturally spaces out your Bladesong Skills, allowing you to maintain full uptime of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2204&quot;&gt;&lt;&#x2F;span&gt; Deadly Blades.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Opener:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62616&quot;&gt;&lt;&#x2F;span&gt; Bladesong Sorrow&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10189&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Mage (Torch 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62560&quot;&gt;&lt;&#x2F;span&gt; Bladecall (Dagger 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62607&quot;&gt;&lt;&#x2F;span&gt; Unstable Bladestorm (Dagger 3)&lt;&#x2F;li&gt;
+&lt;li&gt;Wait for 5 stacks of Blades&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62597&quot;&gt;&lt;&#x2F;span&gt; Bladeturn Requiem&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10247&quot;&gt;&lt;&#x2F;span&gt; Signet of Illusions&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;The rest of your rotation follows a priority list of skills you should use off cooldown.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Use Off Cooldown:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62616&quot;&gt;&lt;&#x2F;span&gt; Bladesong Sorrow &lt;em&gt;(only use with 5 blades)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62617&quot;&gt;&lt;&#x2F;span&gt; Bladesong Harmony &lt;em&gt;(only use with 5 blades)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62597&quot;&gt;&lt;&#x2F;span&gt; Bladeturn Requiem  &lt;em&gt;(only use with 5 blades)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10189&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Mage (Torch 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62607&quot;&gt;&lt;&#x2F;span&gt; Unstable Bladestorm (Dagger 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62560&quot;&gt;&lt;&#x2F;span&gt; Bladecall (Dagger 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10285&quot;&gt;&lt;&#x2F;span&gt; The Prestige (Torch 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Outside of this priority, you should also cast &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;24755&quot;&gt;&lt;&#x2F;span&gt; Thousand Cuts as soon as it is off cooldown, as it has no cast time and will not interrupt your current action.&lt;&#x2F;p&gt;
+&lt;p&gt;After every cast of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62597&quot;&gt;&lt;&#x2F;span&gt; Bladeturn Requiem, if &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10247&quot;&gt;&lt;&#x2F;span&gt; Signet of Illusions is off cooldown, you should use it immediately, as in the opener, pairing these 2 skills together whenever possible.&lt;&#x2F;p&gt;
+&lt;p&gt;You should also pair &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10213&quot;&gt;&lt;&#x2F;span&gt; Mantra of Recovery with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10285&quot;&gt;&lt;&#x2F;span&gt; The Prestige (Torch 4), casting it whenever you have used &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10285&quot;&gt;&lt;&#x2F;span&gt; The Prestige (Torch 4). &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10213&quot;&gt;&lt;&#x2F;span&gt; Mantra of Recovery places an Ethereal Field every other cast due to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;670&quot;&gt;&lt;&#x2F;span&gt; Method of Madness and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10285&quot;&gt;&lt;&#x2F;span&gt; The Prestige (Torch 4) is a Blast finisher with a 3 second delay. The two skills share the same cooldown, so you can always pair them.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Your CC skills are, in order of priority&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;CC Skills:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10189&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Mage (Torch 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62602&quot;&gt;&lt;&#x2F;span&gt; Bladesong Dissonance &lt;em&gt;(use with as many blades as possible)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10232&quot;&gt;&lt;&#x2F;span&gt; Signet of Domination (big DPS loss, not recommended)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;As &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10189&quot;&gt;&lt;&#x2F;span&gt; Phantasmal Mage (Torch 5) is used in your damage rotation, it might not always be off cooldown. You should delay it if you know a CC bar is about to come up.&lt;&#x2F;p&gt;
+&lt;p&gt;If more CC is required, replace &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;24755&quot;&gt;&lt;&#x2F;span&gt; Thousand Cuts with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29519&quot;&gt;&lt;&#x2F;span&gt; Signet of Humility. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29519&quot;&gt;&lt;&#x2F;span&gt; Signet of Humility is one of the largest CC skills in the game, doing 600 breakbar damage, and should be prioritised above all other CC skills if you have brought it. Skip the rest of your CC skills if you have used &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29519&quot;&gt;&lt;&#x2F;span&gt; Signet of Humility, as using those CC skills is a DPS loss.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blades-and-related-traits&quot;&gt;Blades and Related Traits&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Blade skills deserve their own section, as it is one of the unique aspects of Virtuoso.&lt;&#x2F;li&gt;
+&lt;li&gt;They replace Clones and related traits 1-to-1, with the exception that they are not linked to the target they are used against. Every Blade stocked remains above you as a floating dagger, empowering your Shatter skills.&lt;&#x2F;li&gt;
+&lt;li&gt;You stock one Blade every 10 seconds when out of combat.&lt;&#x2F;li&gt;
+&lt;li&gt;Through &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2223&quot;&gt;&lt;&#x2F;span&gt; Bloodsong, you will stock a blade on every fifth stack of Bleeding you apply.&lt;&#x2F;li&gt;
+&lt;li&gt;Paired with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2202&quot;&gt;&lt;&#x2F;span&gt; Jagged Mind (and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;710&quot;&gt;&lt;&#x2F;span&gt; Sharper Images on  Dueling), you will stock up Blades very fast. This relies on Critical hits, making Precision and other sources of Critical chance an important stat on Virtuoso.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;advanced-tips&quot;&gt;Advanced Tips&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;68273&quot;&gt;&lt;&#x2F;span&gt; Bladesong Distortion is also a very long immune skill, up to 3.75 seconds if you use it with maximum stacks of blades, and should be your panic button. It can also be used to dodge mechanics on various raids to increase your damage uptime.&lt;&#x2F;p&gt;
+&lt;div style=‘clear:both;’&gt;&amp;nbsp;&lt;&#x2F;div&gt;
+&lt;p&gt;If you are fighting a boss that requires Reflect (i.e Matthias, Greer),&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Replace:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10234&quot;&gt;&lt;&#x2F;span&gt; Signet of Midnight&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;With:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10302&quot;&gt;&lt;&#x2F;span&gt; Feedback&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;And use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10302&quot;&gt;&lt;&#x2F;span&gt; Feedback whenever you need to reflect.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;AJh4Ao2W_PI&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

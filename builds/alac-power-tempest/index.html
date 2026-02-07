@@ -1,0 +1,404 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=361e707899e0e8ebd479" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Power Alacrity Tempest [aDPS] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="Step based Alacrity DPS build" />
+  <link rel="canonical" href="https://aw2.help/builds/alac-power-tempest/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, Elementalist, Tempest, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/alac-power-tempest/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/alac-power-tempest/" />
+  <meta property="og:description" content="Step based Alacrity DPS build" />
+  <meta name="twitter:description" content="Step based Alacrity DPS build" />
+  <meta property="og:title" content="Power Alacrity Tempest [aDPS] | Accessibility Wars" />
+  <meta name="twitter:title" content="Power Alacrity Tempest [aDPS] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/tempest.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/tempest.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2024-10-14" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/tempest.jpg');"><div class="boxed"><span style="float: right;"><h3>30.0k DPS</br>
+		59&nbsp;APM</h3></span><h1><a href="https://aw2.help/builds/alac-power-tempest/">Power Alacrity Tempest [aDPS]</a></h1>
+	<p><i>That was a blast!</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/scooby/">scooby</a> <span class="rpad"></span> October 14, 2024 <span class="rpad"></span>Updated: October 14, 2024 <span class="rpad"></span> [ <a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/power/">power</a>  #<a href="https://aw2.help/tags/elementalist/">elementalist</a>  #<a href="https://aw2.help/tags/tempest/">tempest</a>  #<a href="https://aw2.help/tags/alacrity/">alacrity</a>  #<a href="https://aw2.help/tags/hot/">hot</a>  #<a href="https://aw2.help/tags/lowcog/">lowcog</a>  #<a href="https://aw2.help/tags/lowrep/">lowrep</a> </span><div>
+                This build requires: HEART OF THORNS
+              </div>
+
+	</div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/elementalist/">elementalist (Series)</a>
+        <ol>
+					<li><a href="https://aw2.help/builds/condi-tempest/">Fire Whirl [cDPS](37.1k DPS)[46&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/condi-weaver/">Lava Weaver [cDPS](37.3k DPS)[79&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-catalyst/">Catalytic Converter [pDPS](35.3k DPS)[54&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/condi-core-elementalist/">Core Elementalist [cDPS](33.4k DPS)[44&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-tempest/">Power Tempest [pDPS](37.6k DPS)[59&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/alac-hybrid-tempest/">Celestial Elements [aHeal](18.8k DPS)</a></li>
+					<li><a class="scur" href="https://aw2.help/builds/alac-power-tempest/">Power Alacrity Tempest [aDPS](30.0k DPS)[59&nbsp;APM]</a></li> 
+				  
+					<li><a href="https://aw2.help/builds/hybrid-tempest/">Into the Inferno [DPS](41.8k DPS)[50&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/heal-alac-tempest/">The Auramancer [aHeal](11.5k DPS)[68&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-catalyst/">Exothermic Stimulus[DPS](38.6k DPS)[52&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-memeaver/">Fever (Fire-only Meme Weaver) [DPS](39.2k DPS)[48&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-evoker/">Galvanic Enchantment [DPS](44.4k DPS)[54&nbsp;APM]</a></li>
+        </ol>
+      </div>
+    </div>
+	</div>
+<div><h3 style="color: Crimson;">
+Note: this build was created for the older 2024-10 balance patch.
+</h3></div>
+
+<h2 id="notes">Notes</h2>
+<hr />
+<p>Simple, step based rotation with most of your damage in <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air.</p>
+<p>The concept of this build relies on <span class="armory-inline" data-armory-embed="traits" data-armory-ids="1503"></span> Fresh Air resetting the cooldown of Air Attunement whenever you crit. The build will crit cap with Fury, and it is pretty much guaranteed that you will reset it as soon as you exit <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement.</p>
+<p>You also give alacrity while you are casting <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air, and the rotation is designed around casting <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air as much as possible.</p>
+<h2 id="gearing">Gearing</h2>
+<hr/>
+<table>
+<thead><tr><th>Armor</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80248" data-armory-80248-upgrades="24836" data-armory-80248-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80131" data-armory-80131-upgrades="24836" data-armory-80131-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80190" data-armory-80190-upgrades="24836" data-armory-80190-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80111" data-armory-80111-upgrades="24836" data-armory-80111-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80356" data-armory-80356-upgrades="24836" data-armory-80356-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80399" data-armory-80399-upgrades="24836" data-armory-80399-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="96221" 
+		data-armory-96221-upgrades="24615"
+		data-armory-96221-stat="1077"></span></td>
+	<td>Scepter</td>
+	<td>Berserker's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="24615"></span> Force</td>
+</tr>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" s
+		data-armory-ids="97783" 
+		data-armory-97783-upgrades="24618"
+		data-armory-97783-stat="1077"></span></td>
+	<td>Warhorn</td>
+	<td>Berserker's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="24618"></span> Accuracy</td>
+</tr>
+</tbody></table>
+<hr/>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="74155" 
+	data-armory-74155-stat="1077"></span></td><td>Back item</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="95380" 
+	data-armory-95380-stat="1077"></span></td><td>Amulet</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="81908" 
+	data-armory-81908-stat="1128"></span></td><td>Accessory</td><td> Assassin's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91048" 
+	data-armory-91048-stat="1128"></span></td><td>Accessory</td><td> Assassin's</td></tr>
+</tbody></table>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="93105" 
+	data-armory-93105-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91234" 
+	data-armory-91234-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="100262"></span></td><td>Relic</td><td> Fireworks </td></tr></tbody></table>
+<hr/>
+<hr />
+<ul>
+<li><h4 id="food-concentration-power">Food (Concentration/Power):</h4>
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="91862"></span> Plate of Beef Carpaccio with Salsa Garnish</li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="89002"></span> Soul Pastry (Budget Alternative)</li>
+</ul>
+</li>
+<li><h4 id="consumable-power">Consumable (Power):</h4>
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="43451"></span> Potent Superior Sharpening Stone</li>
+</ul>
+</li>
+</ul>
+<h2 id="build">Build</h2>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQYlPSkvMCfHEnQAwxLLAMsAcwC+AVABJgAAAAAAAAAAAAAAAAAAAAAAAAADVgBnAAkBAA==<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div data-armory-embed='skills' data-armory-ids='29535,30662,5542,5734,5666'></div><div data-armory-embed='specializations' data-armory-ids='37,41,48' data-armory-37-traits='253,257,1511' data-armory-41-traits='232,1502,1503' data-armory-48-traits='1886,1891,2033'></div>
+<h2 id="rotation">Rotation</h2>
+<hr />
+<p>You always want to precast <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5666"></span> Glyph of Elementals, as well as <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air, before the fight starts. As much as possible you want to hit your precast <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air, but that is not always possible on all bosses.</p>
+<p><strong>Start in:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement</li>
+</ol>
+</blockquote>
+<p><strong>Precast:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5666"></span> Glyph of Elementals</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air</li>
+</ol>
+</blockquote>
+<p>And immediately enter</p>
+<p><strong>Main Loop:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5692"></span> Dragon's Tooth (Scepter Fire 2)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5675"></span> Phoenix (Scepter Fire 3)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29533"></span> Wildfire (Warhorn Fire 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30795"></span> Lightning Orb (Warhorn Air 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5737"></span> Lightning Storm (<span class="armory-inline" data-armory-embed="skills" data-armory-ids="5734"></span> Glyph of Storms in <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air</li>
+</ol>
+</blockquote>
+<p>Repeat from step 1 as soon as <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement is off cooldown.</p>
+<p><strong>Skip:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29533"></span> Wildfire (Warhorn Fire 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30795"></span> Lightning Orb (Warhorn Air 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5737"></span> Lightning Storm</li>
+</ol>
+</blockquote>
+<p>if they are on cooldown.</p>
+<p>Do note that <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air has a ~3.5s cast time, and dodging or swapping attunements during it's cast will interrupt it and result in a large DPS loss. You can still move and use skills with no cast time, as well as queue a skill to cast after. This is exceptionally important as you will be trying to swap to <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement as quickly as possible after completing <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air.</p>
+<p><strong>Cast Off Cooldown:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5561"></span> Lightning Strike (Scepter Air 2)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30662"></span> "Feel the Burn!"</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="25499"></span> Flame Barrage</li>
+</ol>
+</blockquote>
+<p>All of these skills have no cast time and can be cast anytime, even during <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air.</p>
+<p>In summary, the rotation can be simplified as</p>
+<p><strong>Simplified Rotation:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement 2 3 5</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement 2 5</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air</li>
+<li>Repeat</li>
+</ol>
+</blockquote>
+<p><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29719"></span> Overload Air takes ~4s to cast, and you can use the downtime to cast your 'off cooldown' skills.</p>
+<h2 id="crowd-control">Crowd Control</h2>
+<hr />
+<p>Your CC skills are:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5694"></span> Blinding Flash (Scepter Air 3)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30008"></span> Cyclone (Warhorn Air 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30864"></span> Tidal Surge (Warhorn Water 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5696"></span> Dust Devil (Scepter Earth 3)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30336"></span> Dust Storm (Warhorn Earth 5)</li>
+</ol>
+</blockquote>
+<p><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5694"></span> Blinding Flash (Scepter Air 3) and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30008"></span> Cyclone (Warhorn Air 4) should be on your skill bar most of the time, and if you require more CC, you can replace the step of <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement 2 3 5 with either:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5493"></span> Water Attunement 2 3 4</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5495"></span> Earth Attunement 3 5</li>
+</ol>
+</blockquote>
+<p>with a preference of <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5493"></span> Water Attunement 2 3 4, before continuing your rotation back in <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement.</p>
+<h2 id="advanced-tips">Advanced Tips</h2>
+<hr />
+<p>You will notice that the Alacrity timing is a little tight for the first loop, and you might find yourself slightly dropping Alacrity at some moments, especially if you do not have quickness at the start of the fight.</p>
+<p>To counteract this, use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5495"></span> Earth Attunement 3 4 5 for your first loop instead of <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement 2 3 5, and you can continue to slot in <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5495"></span> Earth Attunement 3 4 5 instead of <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement 2 3 5 anytime you feel your Alacrity is running low (can look at boon bar for confirmation).</p>
+<div style=‘clear:both;’>&nbsp;</div>
+<p>You can replace <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5666"></span> Glyph of Elementals with <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29968"></span> "Rebound!" for a minor DPS loss as a subgroup wide panic button, or to skip certain mechanics to improve group DPS. Such mechanics include, but are not limited to, Deimos' Mind Crush, Dhuum's bomb mechanic, and Sabir's shockwave (Unbridled Tempest).</p>
+<h2 id="video">Video</h2>
+<hr />
+<div class="yv">
+    <iframe src="https://www.youtube-nocookie.com/embed/nk7B0cN4DLU" title="Youtube" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/elementalist/">Series</a>
+        <ol>
+
+          
+          
+      <li><a href="https://aw2.help/builds/condi-tempest/" title=" Benchmark: 37.1k DPS 46&nbsp;APM"
+	>Fire Whirl [cDPS]</a></li>
+
+          
+            <details>
+              <summary>More...</summary>
+            </details>
+            <div class="hidden_li">
+                <li><a href="https://aw2.help/builds/condi-weaver/">Lava Weaver [cDPS]</a></li>
+                <li><a href="https://aw2.help/builds/power-catalyst/">Catalytic Converter [pDPS]</a></li>
+                <li><a href="https://aw2.help/builds/condi-core-elementalist/">Core Elementalist [cDPS]</a></li>
+            </div>
+
+          
+
+          
+            <li><a href="https://aw2.help/builds/power-tempest/">Power Tempest [pDPS]</a></li>
+            <li><a href="https://aw2.help/builds/alac-hybrid-tempest/">Celestial Elements [aHeal]</a></li>
+
+          
+            
+      <li><a class="scur" href="https://aw2.help/builds/alac-power-tempest/" title=" Benchmark: 30.0k DPS 59&nbsp;APM"
+>Power Alacrity Tempest [aDPS]</a></li>
+    
+
+          
+            <li><a href="https://aw2.help/builds/hybrid-tempest/">Into the Inferno [DPS]</a></li>
+            <li><a href="https://aw2.help/builds/heal-alac-tempest/">The Auramancer [aHeal]</a></li>
+            <details>
+              <summary>More...</summary>
+            </details>
+            <div class="hidden_li">
+                <li><a href="https://aw2.help/builds/hybrid-catalyst/">Exothermic Stimulus[DPS]</a></li>
+                <li><a href="https://aw2.help/builds/hybrid-memeaver/">Fever (Fire-only Meme Weaver) [DPS]</a></li>
+            </div>
+        
+      <li><a href="https://aw2.help/builds/hybrid-evoker/" title=" Benchmark: 44.4k DPS 54&nbsp;APM"
+	>Galvanic Enchantment [DPS]</a></li>
+
+        
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#notes">Notes</a>
+		  </div><div>
+			<a href="#gearing">Gearing</a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div>
+			<a href="#rotation">Rotation</a>
+		  </div><div>
+			<a href="#crowd-control">Crowd Control</a>
+		  </div><div>
+			<a href="#advanced-tips">Advanced Tips</a>
+		  </div><div>
+			<a href="#video">Video</a>
+		  </div>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">Balance</h2>
+			<p style="color: Crimson;">2024-10</p>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer><span class="topout">
+<span class="topleft"> </span><a href="#" class="top" title="Back to Top"><i class="svgs svgh angu"></i></a>
+</span>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

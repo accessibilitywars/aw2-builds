@@ -1,0 +1,359 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=361e707899e0e8ebd479" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Rifle Mechanist [pDPS] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="Simple and effective build for dealing ranged damage." />
+  <link rel="canonical" href="https://aw2.help/builds/rifle-mech/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, Mechanist, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/rifle-mech/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/rifle-mech/" />
+  <meta property="og:description" content="Simple and effective build for dealing ranged damage." />
+  <meta name="twitter:description" content="Simple and effective build for dealing ranged damage." />
+  <meta property="og:title" content="Rifle Mechanist [pDPS] | Accessibility Wars" />
+  <meta name="twitter:title" content="Rifle Mechanist [pDPS] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/mechanist.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/mechanist.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2025-06-25" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/mechanist.jpg');"><div class="boxed"><span style="float: right;"><h3>36.7k DPS</br>
+		31&nbsp;APM</h3></span><h1><a href="https://aw2.help/builds/rifle-mech/">Rifle Mechanist [pDPS]</a></h1>
+	<p><i>Guild Wars 2: End of Rotations</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/scooby/">scooby</a> <span class="rpad"></span> August 27, 2024 <span class="rpad"></span>Updated: June 25, 2025 <span class="rpad"></span> [ <a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/power/">power</a>  #<a href="https://aw2.help/tags/engineer/">engineer</a>  #<a href="https://aw2.help/tags/mechanist/">mechanist</a>  #<a href="https://aw2.help/tags/eod/">eod</a>  #<a href="https://aw2.help/tags/lowcog/">lowcog</a>  #<a href="https://aw2.help/tags/lowphys/">lowphys</a>  #<a href="https://aw2.help/tags/lowrep/">lowrep</a> </span><div>
+                This build requires: END OF DRAGONS
+              </div>
+
+	</div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/engineer/">engineer (Series)</a>
+        <ol>
+					<li><a href="https://aw2.help/builds/power-holosmith-pbm/">Blastmaster [pDPS](34.6k DPS)[40&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/condi-mechanist/">Gunmech [cDPS](34.9k DPS)[25&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-mechanist-hammer/">Big Bang Mech [pDPS](32.5k DPS)[22&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-holosmith-ecsu/">Thermal Runaway [pDPS](36.5k DPS)[53&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-mechanist-sword/">Mechknight [pDPS](35.2k DPS)[26&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-scrapper/">Gyroscopic Hammer [pDPS](34.4k DPS)[38&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/alac-condi-mechanist/">Chronomechanic [aDPS](25.7k DPS)[24&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/alac-power-mechanist/">Hyperclocked Mech [aDPS](27.1k DPS)[24&nbsp;APM]</a></li>
+					<li><a class="scur" href="https://aw2.help/builds/rifle-mech/">Rifle Mechanist [pDPS](36.7k DPS)[31&nbsp;APM]</a></li> 
+				  
+					<li><a href="https://aw2.help/builds/hk-mechanist/">Put Your Hands Together for... [HK]</a></li>
+        </ol>
+      </div>
+    </div>
+	</div>
+<div><h3 style="color: Gold;">
+Note: this build was created for the previous 2025-12 balance patch.
+</h3></div>
+
+<h2 id="notes">Notes</h2>
+<hr />
+<p>Extremely simple build that does almost all of its damage from range.</p>
+<p>Highly recommended, beginner friendly build that can be played in all scenarios, whether it be instanced content such as fractals, raids, or strikes, or if you just need a safe, comfortable build for open world.</p>
+<h2 id="gearing">Gearing</h2>
+<hr/>
+<table>
+<thead><tr><th>Armor</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80296" data-armory-80296-upgrades="24836" data-armory-80296-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80145" data-armory-80145-upgrades="24836" data-armory-80145-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80578" data-armory-80578-upgrades="24836" data-armory-80578-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80161" data-armory-80161-upgrades="24836" data-armory-80161-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80252" data-armory-80252-upgrades="24836" data-armory-80252-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80281" data-armory-80281-upgrades="24836" data-armory-80281-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline"
+		data-armory-embed="items"
+		data-armory-ids="97377"
+		data-armory-97377-upgrades="24615,24554"
+		data-armory-97377-stat="1077"></span></td>
+	<td>Rifle</td>
+	<td>Berserker's</td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="24615"></span> Force</td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="24554"></span> Air</td>
+</tr>
+</tbody></table>
+<hr/>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="74155" 
+	data-armory-74155-stat="1077"></span></td><td>Back item</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="95380" 
+	data-armory-95380-stat="1077"></span></td><td>Amulet</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="81908" 
+	data-armory-81908-stat="1077"></span></td><td>Accessory</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91048" 
+	data-armory-91048-stat="1077"></span></td><td>Accessory</td><td> Berserker's</td></tr>
+</tbody></table>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="93105" 
+	data-armory-93105-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91234" 
+	data-armory-91234-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="104241"></span></td><td>Relic</td><td> Eagle </td></tr></tbody></table>
+<hr/>
+<ul>
+<li>Food: <span class="armory-inline" data-armory-embed="items" data-armory-ids="91805"></span> Cilantro Lime Sous-Vide Steak or <span class="armory-inline" data-armory-embed="items" data-armory-ids="41569"></span> Bowl of Sweet and Spicy Butternut Squash Soup</li>
+<li>Enhancement: <span class="armory-inline" data-armory-embed="items" data-armory-ids="78305"></span> Superior Sharpening Stone</li>
+</ul>
+<h2 id="build">Build</h2>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQMGNyYvRh8NGwAAJgGGABobAAAQGwAACRuJAQAAAAAAAAAAAAAAAAAAAAADVQBaADYAAA==<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div data-armory-embed='skills' data-armory-ids='63049,6161,63253,63111,63095'></div><div data-armory-embed='specializations' data-armory-ids='6,38,70' data-armory-6-traits='1882,482,1947' data-armory-38-traits='1914,1923,526' data-armory-70-traits='2279,2294,2292'></div>
+<h2 id="rotation">Rotation</h2>
+<hr />
+<p>Rifle Mechanist has an extremely simple rotation.</p>
+<p>Set all of your Mech skills to auto cast by right clicking them. Your Mech skills should be</p>
+<p><strong>Mech Skills:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63365"></span> Explosive Knuckle</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63345"></span> Core Reactor Shot</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63121"></span> Jade Mortar</li>
+</ol>
+</blockquote>
+<p>and your rotation is to simply</p>
+<p><strong>Press:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6153"></span> Blunderbuss (Rifle 2)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6004"></span> Net Shot (Rifle 3)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6154"></span> Overcharged Shot (Rifle 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63095"></span> Overclock Signet</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6161"></span> Throw Mine</li>
+</ol>
+</blockquote>
+<p>off cooldown.</p>
+<h2 id="crowd-control">Crowd Control</h2>
+<hr />
+<p>You have</p>
+<p><strong>CC Skills:</strong></p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6154"></span> Overcharged Shot (Rifle 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6161"></span> Throw Mine</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6004"></span> Net Shot (Rifle 3)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63095"></span> Overclock Signet</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63253"></span> Force Signet</li>
+</ol>
+</blockquote>
+<p>and they should be used in the listed order. You will notice that most of these skills are the same as skills you want to press in your main damage rotation.</p>
+<p>As far as possible, try not to press <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63253"></span> Force Signet for CC as this will result in a large damage drop.</p>
+<h2 id="advanced-tips">Advanced Tips</h2>
+<hr />
+<p>You can use</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6005"></span> Jump Shot (Rifle 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63111"></span> Shift Signet</li>
+</ol>
+</blockquote>
+<p>as movement skills to get to your objective or to escape from an enemy or mechanic. <span class="armory-inline" data-armory-embed="skills" data-armory-ids="6005"></span> Jump Shot (Rifle 5) is a leap type skill, while <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63111"></span> Shift Signet is a Shadowstep (instantaneous teleport), and will thus be the more reliable escape skill.</p>
+<p><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63111"></span> Shift Signet is also both a condition cleanse and a stun break, and can be used in the direst of situations as a get out of jail free card. However, using it could result in your Mech losing boons, and slightly decreasing your DPS output, hence user discretion is advised.</p>
+<p>You can also skill click <span class="armory-inline" data-armory-embed="skills" data-armory-ids="6005"></span> Jump Shot (Rifle 5) to use it as a damage skill, increasing your DPS output. Skill clicking <span class="armory-inline" data-armory-embed="skills" data-armory-ids="6005"></span> Jump Shot (Rifle 5) makes you leap in place, reducing it's total cast time, allowing you to increase your DPS as it saves time over using it normally.</p>
+<p>If you know when a CC bar is about to come up, it is recommended to save:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6154"></span> Overcharged Shot (Rifle 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6161"></span> Throw Mine</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="6004"></span> Net Shot (Rifle 3)</li>
+</ol>
+</blockquote>
+<p>and use them only when the CC bar is up.</p>
+<p>You can also recall your Mech using <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63089"></span> Recall Mech and resummoning it with <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63050"></span> Crash Down for even more breakbar damage if required. Do take note that if your Mech has been damaged, you will not be able to resummon it immediately, hence you only want to do this if you are very familiar with the fight, as not having your Mech is a large DPS loss.</p>
+<h2 id="video">Video</h2>
+<hr />
+<div class="yv">
+    <iframe src="https://www.youtube-nocookie.com/embed/fGwUEpknoEs" title="Youtube" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/engineer/">Series</a>
+        <ol>
+
+          
+          
+      <li><a href="https://aw2.help/builds/power-holosmith-pbm/" title=" Benchmark: 34.6k DPS 40&nbsp;APM"
+	>Blastmaster [pDPS]</a></li>
+
+          
+            <details>
+              <summary>More...</summary>
+            </details>
+            <div class="hidden_li">
+                <li><a href="https://aw2.help/builds/condi-mechanist/">Gunmech [cDPS]</a></li>
+                <li><a href="https://aw2.help/builds/power-mechanist-hammer/">Big Bang Mech [pDPS]</a></li>
+                <li><a href="https://aw2.help/builds/power-holosmith-ecsu/">Thermal Runaway [pDPS]</a></li>
+                <li><a href="https://aw2.help/builds/power-mechanist-sword/">Mechknight [pDPS]</a></li>
+                <li><a href="https://aw2.help/builds/power-scrapper/">Gyroscopic Hammer [pDPS]</a></li>
+            </div>
+
+          
+
+          
+            <li><a href="https://aw2.help/builds/alac-condi-mechanist/">Chronomechanic [aDPS]</a></li>
+            <li><a href="https://aw2.help/builds/alac-power-mechanist/">Hyperclocked Mech [aDPS]</a></li>
+
+          
+            
+      <li><a class="scur" href="https://aw2.help/builds/rifle-mech/" title=" Benchmark: 36.7k DPS 31&nbsp;APM"
+>Rifle Mechanist [pDPS]</a></li>
+    
+
+          
+        
+      <li><a href="https://aw2.help/builds/hk-mechanist/" title=""
+	>Put Your Hands Together for... [HK]</a></li>
+
+        
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#notes">Notes</a>
+		  </div><div>
+			<a href="#gearing">Gearing</a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div>
+			<a href="#rotation">Rotation</a>
+		  </div><div>
+			<a href="#crowd-control">Crowd Control</a>
+		  </div><div>
+			<a href="#advanced-tips">Advanced Tips</a>
+		  </div><div>
+			<a href="#video">Video</a>
+		  </div>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">Balance</h2>
+			<p style="color: Gold;">2025-12</p>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">DPS Log</h2>
+			<p><a href="https:&#x2F;&#x2F;dps.report&#x2F;4Lyb-20250514-205156_golem">DPS Log</a></p>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer><span class="topout">
+<span class="topleft"> </span><a href="#" class="top" title="Back to Top"><i class="svgs svgh angu"></i></a>
+</span>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

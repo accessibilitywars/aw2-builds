@@ -1,0 +1,519 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=361e707899e0e8ebd479" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Celestial Elements [aHeal] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="This is a build that relies on the hybrid nature of scepter and powerful heal traits on tempest to make the most out of Celestial gear." />
+  <link rel="canonical" href="https://aw2.help/builds/alac-hybrid-tempest/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, tempest, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/alac-hybrid-tempest/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/alac-hybrid-tempest/" />
+  <meta property="og:description" content="This is a build that relies on the hybrid nature of scepter and powerful heal traits on tempest to make the most out of Celestial gear." />
+  <meta name="twitter:description" content="This is a build that relies on the hybrid nature of scepter and powerful heal traits on tempest to make the most out of Celestial gear." />
+  <meta property="og:title" content="Celestial Elements [aHeal] | Accessibility Wars" />
+  <meta name="twitter:title" content="Celestial Elements [aHeal] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/tempest.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/tempest.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2025-09-04" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/tempest.jpg');"><div class="boxed"><span style="float: right;"><h3>18.8k DPS</h3></span><h1><a href="https://aw2.help/builds/alac-hybrid-tempest/">Celestial Elements [aHeal]</a></h1>
+	<p><i>I won't give up, no, I won't give in, 'Til I reach the end, and then I'll start again.</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/xellink/">xellink</a> <span class="rpad"></span> July 13, 2024 <span class="rpad"></span>Updated: September 04, 2025 <span class="rpad"></span> [ <a href="https://aw2.help/categories/solo/">solo </a><a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/scepter/">scepter</a>  #<a href="https://aw2.help/tags/warhorn/">warhorn</a>  #<a href="https://aw2.help/tags/condi/">condi</a>  #<a href="https://aw2.help/tags/hybrid/">hybrid</a>  #<a href="https://aw2.help/tags/heal/">heal</a>  #<a href="https://aw2.help/tags/alacrity/">alacrity</a>  #<a href="https://aw2.help/tags/elementalist/">elementalist</a>  #<a href="https://aw2.help/tags/tempest/">tempest</a>  #<a href="https://aw2.help/tags/hot/">hot</a>  #<a href="https://aw2.help/tags/soto/">soto</a>  #<a href="https://aw2.help/tags/lowrep/">lowrep</a>  #<a href="https://aw2.help/tags/lowphys/">lowphys</a> </span><div>
+                This build requires: HEART OF THORNS, SECRETS OF THE OBSCURE
+              </div>
+
+	</div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/elementalist/">elementalist (Series)</a>
+        <ol>
+					<li><a href="https://aw2.help/builds/condi-tempest/">Fire Whirl [cDPS](37.1k DPS)[46&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/condi-weaver/">Lava Weaver [cDPS](37.3k DPS)[79&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-catalyst/">Catalytic Converter [pDPS](35.3k DPS)[54&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/condi-core-elementalist/">Core Elementalist [cDPS](33.4k DPS)[44&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-tempest/">Power Tempest [pDPS](37.6k DPS)[59&nbsp;APM]</a></li>
+					<li><a class="scur" href="https://aw2.help/builds/alac-hybrid-tempest/">Celestial Elements [aHeal](18.8k DPS)</a></li> 
+				  
+					<li><a href="https://aw2.help/builds/alac-power-tempest/">Power Alacrity Tempest [aDPS](30.0k DPS)[59&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-tempest/">Into the Inferno [DPS](41.8k DPS)[50&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/heal-alac-tempest/">The Auramancer [aHeal](11.5k DPS)[68&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-catalyst/">Exothermic Stimulus[DPS](38.6k DPS)[52&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-memeaver/">Fever (Fire-only Meme Weaver) [DPS](39.2k DPS)[48&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-evoker/">Galvanic Enchantment [DPS](44.4k DPS)[54&nbsp;APM]</a></li>
+        </ol>
+      </div>
+    </div>
+	</div>
+
+<p>This build is an extension of the condition tempest build. With scepter benefiting from power damage increases, this condition build can scale with multiple stats, making it a great performer in doing multiple roles at once. While this build has a low skill floor, it does have a high toughness and players should be expected to tank. Swapping to water and air for CC is not detrimental compared to camping fire and is included as part of the rotation.</p>
+<p>The nature of overloads reduce the physical intensity of the build but this is not a low cognition build. Spending more time exploring the class and reading through the tooltips and guides will help improve your play. The rotation is not hard to perform but the options available are not obvious to a new player. This guide will hence be longer and more detailed than others, with the main focus on a general well-rounded build, and options to scale defensively or offensively. The available choices are not limited to the options presented in this guide.</p>
+<p>It is now possible to provide alacrity without using Overload via <span class="armory-inline" data-armory-embed="traits" data-armory-ids="1986"></span> Elemental Bastion, this provides a more forgiving alternative for gameplay.</p>
+<p>This build aims at achieving the following goals (in order of priority):</p>
+<blockquote>
+<ol>
+<li>Provide 100% Alacrity</li>
+<li>Provide necessary boons</li>
+<li>Provide adequate Heals</li>
+<li>Provide DPS that you can afford</li>
+</ol>
+</blockquote>
+<p><small>Do attempt to provide 10k or more DPS or you might want to consider playing a pure heal setup instead</small></p>
+<h2 id="gearing-and-consumables">Gearing and Consumables</h2>
+<h4 id="equipment">Equipment</h4>
+<p><a rel="noopener" target="_blank" href="https://gw2skills.net/editor/?PGgEsEWGBbhVxuYk4oK52+B-DyIY1ohvMSoASMB046ANBYzCA-e">Optimised loadout with infusions</a></p>
+<table><thead><tr><th>Equipment</th><th>Stat</th><th>Rune/Sigil</th></tr></thead><tbody>
+<tr><td>All Armor</td><td>Celestial</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24732"></span> Superior Rune of Divinity</td></tr>
+<tr><td>Scepter (MH)</td><td>Celestial</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24624"></span> Superior Sigil of Smoldering</td></tr>
+<tr><td>Warhorn (OH)</td><td>Celestial</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24551"></span> Superior Sigil of Water</td></tr>
+<tr><td>All Trinkets</td><td>Celestial</td><td>N/A</td></tr>
+<tr><td>Relic	(Heal)</td><td>N/A</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="101268"></span> Relic of Karakosa</td></tr>
+<tr><td>Relic (DPS)</td><td>N/A</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="100153"></span> Relic of the Fractal</td></tr>
+</tbody></table>
+<blockquote>
+<p><small><em>Being cost-effective: Celestial stat is a good pick because it is a core stat and can be obtained from the Wizard's Vault. You may also just use <span class="armory-inline" data-armory-embed="items" data-armory-ids="78122"></span> Level-80 Equipment Package gear. The default runes and sigils are low-cost.</em></small>
+<small><em>You may switch <span class="armory-inline" data-armory-embed="items" data-armory-ids="24624"></span> Superior Sigil of Smoldering to <span class="armory-inline" data-armory-embed="items" data-armory-ids="74326"></span> Superior Sigil of Transference if you need more heals.</em></small>
+<small><em><span class="armory-inline" data-armory-embed="items" data-armory-ids="99965"></span> Relic of the Flock is overrated and its purpose of converting extra heals into effective heals via barrier is negated by the fact <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29535"></span> "Wash the Pain Away!" already does so by triggering multiple heals</em></small></p>
+</blockquote>
+<h4 id="food">Food</h4>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="91748"></span> Spherified Oyster Soup with Mint Garnish OR</li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="95241"></span> Feast of Delectable Birthday Cake (Budget/Free)</li>
+</ol>
+</blockquote>
+<h4 id="utility">Utility</h4>
+<blockquote>
+<p><span class="armory-inline" data-armory-embed="items" data-armory-ids="67528"></span> Bountiful Maintenance Oil</p>
+</blockquote>
+<h2 id="build">Build</h2>
+<h4 id="hybrid-dps-alac">Hybrid DPS Alac</h4>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQYfFREuMD/HEgAAwxIAAHIAAADLAAAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div data-armory-embed='skills' data-armory-ids='29535,30662,5502,5542,5666'></div><div data-armory-embed='specializations' data-armory-ids='31,17,48' data-armory-31-traits='296,325,1510' data-armory-17-traits='363,349,361' data-armory-48-traits='1886,2015,1986'></div>
+<h4 id="general-house-rules">General House Rules</h4>
+<blockquote>
+<ol>
+<li>Swapping traits and skills is a science and you must be knowledgeable on what you can afford to remove.</li>
+<li>Alacrity is your number 1 responsiblity, so use your aura and overload skills first.</li>
+<li>Be prepared to tank as you have a relatively high toughness.</li>
+<li>Both water and air attunement offer CC, but you can bring more skills for CC.</li>
+<li>Hybrid builds have a lot of give and take and toe the line to bring 'just enough', so you need to adjust the build to the strengths of your team composition.</li>
+</ol>
+</blockquote>
+<h2 id="basics-of-healing">Basics of Healing</h2>
+<h4 id="alacrity-tempest">Alacrity Tempest</h4>
+<p>In order to provide alacrity, you will need share auras. The aura-sharing skills are:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29706"></span> Overload Fire</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29618"></span> Overload Earth</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29415"></span> Overload Water (only as an emergency heal)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30662"></span> "Feel the Burn!"</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29948"></span> "Flash-Freeze!"</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30432"></span> "Aftershock!"</li>
+</ol>
+</blockquote>
+<p><small><em>Overloads reduce the APM of the build greatly.</em></small></p>
+<h4 id="healing-over-time">Healing Over Time</h4>
+<p>Tempest has reliable heal over time mechanics, primarily due to long lasting regeneration and soothing mist. In order to maintain soothing mist, water attunement must always be included as a bridge to swapping elements. Each time you swap into water, you provide 10s of soothing mist.
+Therefore a simplified elemental cycle will be:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29706"></span> Overload Fire</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5493"></span> Water Attunement</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5495"></span> Earth Attunement</li>
+</ol>
+</blockquote>
+<h4 id="providing-boons">Providing Boons</h4>
+<p>Healers also need to provide boons but some healers are missing certain key boons eg. Scourge doesn’t have swiftness. There are two ways to provide swiftness,</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30008"></span> Cyclone (not 100% uptime)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30047"></span> "Eye of the Storm!" (not 100% uptime)</li>
+</ol>
+</blockquote>
+<p>Thus some players will squeeze air into the rotation.</p>
+<h4 id="burst-heals">Burst Heals</h4>
+<p>You have several options for burst heals:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="101268"></span> Relic of Karakosa is the ideal pick that does a solid heal:</li>
+</ol>
+<blockquote>
+<ul>
+<li>Part of your fire rotation as long as <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29533"></span> Wildfire (Fire WH5) is not on cooldown.</li>
+<li>Use with water fields for a more potent area heal (this can be tricky, see point 2.)</li>
+<li>Blasting fields provided by other allies</li>
+</ul>
+</blockquote>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>Blasting Water fields (water 5)</li>
+</ol>
+<blockquote>
+<ul>
+<li>Blasting Water fields gives an extremely strong triple heal effect. <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30446"></span> Water Globe is no longer fleeting and you can pair it with Earth or Fire blast skills.</li>
+<li>For other options you need to swap elements to access other blast abilities.</li>
+</ul>
+</blockquote>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29535"></span> "Wash the Pain Away!"</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29415"></span> Overload Water</li>
+</ol>
+</blockquote>
+<h4 id="condi-cleanses">Condi Cleanses</h4>
+<p>You need to bring 'enough' condi cleanses.</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="traits" data-armory-ids="358"></span> Cleansing Wave (minor DPS loss)</li>
+<li><span class="armory-inline" data-armory-embed="traits" data-armory-ids="362"></span> Cleansing Water (moderate healing loss)</li>
+<li><span class="armory-inline" data-armory-embed="traits" data-armory-ids="340"></span> Smothering Auras (moderate DPS loss)</li>
+<li>Combo: <span class="armory-inline" data-armory-embed="traits" data-armory-ids="361"></span> Powerful Aura + <span class="armory-inline" data-armory-embed="traits" data-armory-ids="1886"></span> Unstable Conduit + <span class="armory-inline" data-armory-embed="traits" data-armory-ids="340"></span> Smothering Auras</li>
+</ol>
+</blockquote>
+<p>If you need anything more than this, Cele Scourge may be a better option.</p>
+<h2 id="mastering-the-elements">Mastering the Elements</h2>
+<h4 id="elemental-cycle">Elemental Cycle</h4>
+<p>Full Elemental rotation: Our rotation is simply just F1 F2 F3 F4, then F4 F3 F2 F1</p>
+<p>F1-F4</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29706"></span> Overload Fire</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5493"></span> Water Attunement</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement (optional)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5495"></span> Earth Attunement</li>
+</ol>
+</blockquote>
+<p>F4-F1 (reverse)</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="29618"></span> Overload Earth</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement (optional)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5493"></span> Water Attunement</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement</li>
+</ol>
+</blockquote>
+<h2 id="rotation">Rotation</h2>
+<h4 id="dps-rotation">DPS Rotation</h4>
+<p><strong>(Start in Fire) F1-F4</strong></p>
+<blockquote>
+<ol>
+<li>F1 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29706"></span> Overload Fire</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>F2 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5493"></span> Water Attunement</li>
+</ol>
+<blockquote>
+<ul>
+<li>use Water 5/4/3 (1 skill if available)</li>
+</ul>
+</blockquote>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li>F3 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement (optional)</li>
+</ol>
+<blockquote>
+<ul>
+<li>use Air 5/4/3 (1 skill if available)</li>
+</ul>
+</blockquote>
+</blockquote>
+<blockquote>
+<ol start="4">
+<li>F4 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5495"></span> Earth Attunement</li>
+</ol>
+<blockquote>
+<ul>
+<li>use Earth 5 to 1 in descending order</li>
+</ul>
+</blockquote>
+</blockquote>
+<p><strong>F4-F1 (reverse)</strong></p>
+<blockquote>
+<ol>
+<li>F4 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29618"></span> Overload Earth</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>F3 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement (optional)</li>
+</ol>
+<blockquote>
+<ul>
+<li>use Air 5/4/3 (1 skill if available)</li>
+</ul>
+</blockquote>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li>F2 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5493"></span> Water Attunement</li>
+</ol>
+<blockquote>
+<ul>
+<li>use Water 5/4/3 (1 skill if available)</li>
+</ul>
+</blockquote>
+</blockquote>
+<blockquote>
+<ol start="4">
+<li>F1 <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5492"></span> Fire Attunement</li>
+</ol>
+<blockquote>
+<ul>
+<li>use Fire 5 to 1 in descending order</li>
+</ul>
+</blockquote>
+</blockquote>
+<h4 id="crowd-control-rotation">Crowd Control rotation</h4>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30864"></span> Tidal Surge (Wh4 while attuned to water)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="30008"></span> Cyclone (Wh4 while attuned to air)</li>
+<li>Other soft CC skills</li>
+<li>Additional Adaptions for CC</li>
+</ol>
+<blockquote>
+<ul>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5567"></span> Conjure Frost Bow -&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5721"></span> Deep Freeze</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="25491"></span> Glyph of Elementals -&gt; <span class="armory-inline" data-armory-embed="skills" data-armory-ids="25492"></span> Crashing Waves (Also works as a spike heal)</li>
+</ul>
+</blockquote>
+</blockquote>
+<h2 id="optimisation">Optimisation</h2>
+<h4 id="omitting-air">Omitting Air</h4>
+<p><span class="armory-inline" data-armory-embed="skills" data-armory-ids="5494"></span> Air Attunement is always optional in the rotation. This can be omitted in order to speed up the elemental cycle for various reasons:</p>
+<blockquote>
+<ol>
+<li>You need to get access to water faster.</li>
+<li>You already have sufficient swiftness.</li>
+<li>You need to blast your water field.</li>
+<li>You need to reapply certain boons.</li>
+</ol>
+</blockquote>
+<p>Check with your team regarding the boons that you need to cover.</p>
+<hr />
+<h2 id="raid-ready">Raid Ready</h2>
+<ul>
+<li>W1 Vale Guardian - You should be able to heal through greens pretty easily. Blast your healing fields before and after greens happen. Reserve <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29415"></span> Overload Water for emergencies.</li>
+<li>W1 Gorseval - You may want to bring stability and aegis for this fight. Immobilising with <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5571"></span> Signet of Earth is also useful during the split phase.</li>
+<li>W1 Sabetha - Probably not a good idea to flak kite due to the way alac is distributed, unless you want to stay really close to the party. You can however use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5536"></span> Lightning Flash to navigate past flame wall, which is pretty nifty.</li>
+<li>W2 Slothasor - You will need to bring more condition cleanses for this fight and in doing so, will sacrifice damage</li>
+<li>W3 Tower - This build can solo towers due to its moderate damage, high defenses, empowered protection and passive healing (even when you get knocked down). Bring <span class="armory-inline" data-armory-embed="items" data-armory-ids="100676"></span> Relic of Vampirism if you need survivability and <span class="armory-inline" data-armory-embed="traits" data-armory-ids="1902"></span> Harmonious Conduit for stability. You can use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30864"></span> Tidal Surge as a push.</li>
+<li>W3 Xera - This build can tank xera and clear crystals at the same time.</li>
+<li>W4 Cairn - This build is excellent on this fight. Be careful of <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5685"></span> Magnetic Aura as it can kill your allies.</li>
+<li>W4 Mursaat Overseer - Healing is not a priority and you can opt for more damage choices. You should however retain survival options for jade armors and the resultant death nova.</li>
+<li>W4 Samarog - Healing through this fight is extremely easy. CC however is quite a pain and you may consider bringing <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5567"></span> Conjure Frost Bow for CC. Otherwise try to bait as the tank if you can.</li>
+<li>W4 Deimos - Due to your high toughness, you are likely to tank and will function as a great tank. Group aegis through <span class="armory-inline" data-armory-embed="skills" data-armory-ids="30432"></span> "Aftershock!" is extremely effective in CM! Bring <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5641"></span> Arcane Shield as a non-interruptible backup.</li>
+<li>W5 Soulless Horror - You have enough toughness to tank this fight, enough damage to contribute. CC is going to be your biggest weakness. <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5536"></span> Lightning Flash can navigate through walls.</li>
+<li>W5 Dhuum - With your toughness, you will probably tank on this fight. You may opt to bring movement skills if you are doing the green mechanic (G3) as the tank.</li>
+<li>W6 Conjured Amalgamate - <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29968"></span> "Rebound!" is often used to bypass the clap mechanic on your subgroup.</li>
+<li>W6 Twin Largos - This build does well tanking on either lanes for this fight.</li>
+<li>W6 Qadim - Your CCs are not particularly super responsive so you need to know the fight well.</li>
+<li>W7 Adina - <span class="armory-inline" data-armory-embed="skills" data-armory-ids="5685"></span> Magnetic Aura is pretty cool on this fight.</li>
+<li>W7 QTP - You are probably not the best tank on the list, but not the worst either. Unlike other tanks you can't exactly sit comfortably on the roads mechanic with damage mitigation strategies and you probably will accidentally point your cones in the wrong direction if you aren't careful enough.</li>
+</ul>
+<h4 id="pitfalls-and-special-roles">Pitfalls and Special Roles</h4>
+<blockquote>
+<ol>
+<li>Just in case the other healer has 2k toughness and you are considering, Tempest in general does not perform as a better hand kite than other alternatives. You have to change a lot of things in the build which is outside the scope of this guide.</li>
+<li>You need to sacrifice a lot to be able do significant condi cleanses. It is viable but isn't a great performer on slothasor.</li>
+<li>The reflects on elementalist can be a little janky on Matthias. I recommend sticking to the tradition of using mesmers and guardians.</li>
+</ol>
+</blockquote>
+<h2 id="videos">Videos</h2>
+<h4 id="dps-benchmark-18k">DPS benchmark (18k)</h4>
+<p><div class="yv">
+    <iframe src="https://www.youtube-nocookie.com/embed/uydaDvc9xZI" title="Youtube" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+This bench is done with only birthday cake and <span class="armory-inline" data-armory-embed="items" data-armory-ids="101268"></span> Relic of Karakosa and no infusions/utilities and <span class="armory-inline" data-armory-embed="traits" data-armory-ids="2033"></span> Lucid Singularity. In our testing, the <span class="armory-inline" data-armory-embed="traits" data-armory-ids="1986"></span> Elemental Bastion does equal amounts of damage and maintains alacrity equally well. In low pressure fights, you may use <span class="armory-inline" data-armory-embed="items" data-armory-ids="100153"></span> Relic of the Fractal, utilities and infusions to easily punch above 20k DPS.</p>
+<h4 id="olc-demo-explanatory-video">OLC demo - Explanatory Video</h4>
+<div class="yv">
+    <iframe src="https://www.youtube-nocookie.com/embed/bCPk1Cz5AW8" title="Youtube" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/elementalist/">Series</a>
+        <ol>
+
+          
+          
+      <li><a href="https://aw2.help/builds/condi-tempest/" title=" Benchmark: 37.1k DPS 46&nbsp;APM"
+	>Fire Whirl [cDPS]</a></li>
+
+          
+            <details>
+              <summary>More...</summary>
+            </details>
+            <div class="hidden_li">
+                <li><a href="https://aw2.help/builds/condi-weaver/">Lava Weaver [cDPS]</a></li>
+                <li><a href="https://aw2.help/builds/power-catalyst/">Catalytic Converter [pDPS]</a></li>
+            </div>
+
+          
+
+          
+            <li><a href="https://aw2.help/builds/condi-core-elementalist/">Core Elementalist [cDPS]</a></li>
+            <li><a href="https://aw2.help/builds/power-tempest/">Power Tempest [pDPS]</a></li>
+
+          
+            
+      <li><a class="scur" href="https://aw2.help/builds/alac-hybrid-tempest/" title=" Benchmark: 18.8k DPS"
+>Celestial Elements [aHeal]</a></li>
+    
+
+          
+            <li><a href="https://aw2.help/builds/alac-power-tempest/">Power Alacrity Tempest [aDPS]</a></li>
+            <li><a href="https://aw2.help/builds/hybrid-tempest/">Into the Inferno [DPS]</a></li>
+            <details>
+              <summary>More...</summary>
+            </details>
+            <div class="hidden_li">
+                <li><a href="https://aw2.help/builds/heal-alac-tempest/">The Auramancer [aHeal]</a></li>
+                <li><a href="https://aw2.help/builds/hybrid-catalyst/">Exothermic Stimulus[DPS]</a></li>
+                <li><a href="https://aw2.help/builds/hybrid-memeaver/">Fever (Fire-only Meme Weaver) [DPS]</a></li>
+            </div>
+        
+      <li><a href="https://aw2.help/builds/hybrid-evoker/" title=" Benchmark: 44.4k DPS 54&nbsp;APM"
+	>Galvanic Enchantment [DPS]</a></li>
+
+        
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#gearing-and-consumables">Gearing and Consumables</a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div>
+			<a href="#basics-of-healing">Basics of Healing</a>
+		  </div><div>
+			<a href="#mastering-the-elements">Mastering the Elements</a>
+		  </div><div>
+			<a href="#rotation">Rotation</a>
+		  </div><div>
+			<a href="#optimisation">Optimisation</a>
+		  </div><div>
+			<a href="#raid-ready">Raid Ready</a>
+		  </div><div>
+			<a href="#videos">Videos</a>
+		  </div>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">Balance</h2>
+			<p style="color: LightGreen;">2026-01</p>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer><span class="topout">
+<span class="topleft"> </span><a href="#" class="top" title="Back to Top"><i class="svgs svgh angu"></i></a>
+</span>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

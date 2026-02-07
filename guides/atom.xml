@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/guides/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help/guides/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-13T00:00:00+00:00</updated>
+    <id>https://aw2.help/guides/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Official Build Best Practices</title>
+        <published>2024-10-13T00:00:00+00:00</published>
+        <updated>2024-10-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/guides/official-build-policies/"/>
+        <id>https://aw2.help/guides/official-build-policies/</id>
+        
+        <content type="html" xml:base="https://aw2.help/guides/official-build-policies/">&lt;h1 id=&quot;guidelines&quot;&gt;Guidelines&lt;&#x2F;h1&gt;
+&lt;p&gt;This is a living document and will be expanded as more functionality is implemented on the site&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;each-build-must-have&quot;&gt;Each Build must have...&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontmatter:
+&lt;ul&gt;
+&lt;li&gt;title&lt;&#x2F;li&gt;
+&lt;li&gt;date&lt;&#x2F;li&gt;
+&lt;li&gt;description&lt;&#x2F;li&gt;
+&lt;li&gt;title in the format of &quot;name [role]. For example, &quot;Power Chronomancer [pDPS]&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;categories (group, solo)&lt;&#x2F;li&gt;
+&lt;li&gt;tags (damage type, profession, specialization, expansion, lowcog&#x2F;lowphys&#x2F;lowrep tags, weapon)
+&lt;ul&gt;
+&lt;li&gt;note that all expansion tags should be present if an expansion is required to play any part of the build (sigils, runes, relics, specializations, weapons, etc)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;author name(s)&lt;&#x2F;li&gt;
+&lt;li&gt;specs&lt;&#x2F;li&gt;
+&lt;li&gt;balance string&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Gear&lt;&#x2F;li&gt;
+&lt;li&gt;Build template chat link&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;should-have&quot;&gt;Should Have&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;tagline for flavour&lt;&#x2F;li&gt;
+&lt;li&gt;keywords for seo&lt;&#x2F;li&gt;
+&lt;li&gt;benchmark dps&lt;&#x2F;li&gt;
+&lt;li&gt;apm calculation&lt;&#x2F;li&gt;
+&lt;li&gt;rotation notes&lt;&#x2F;li&gt;
+&lt;li&gt;updated date
+&lt;ul&gt;
+&lt;li&gt;note: updated date should only be changed when the build is notably changed. Changing the Balance String or updating DPS only does NOT qualify for this&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;may-have&quot;&gt;May Have&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Notes to optimize builds for specific raids&lt;&#x2F;li&gt;
+&lt;li&gt;Notes for alternate traits and weapons&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;tips&quot;&gt;Tips:&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;use the various &lt;code&gt;{{ }}&lt;&#x2F;code&gt; shortcodes for proper skill&#x2F;trait&#x2F;gear&#x2F;etc display&lt;&#x2F;li&gt;
+&lt;li&gt;use footnotes for &quot;aside&quot; style notes: &lt;code&gt;[^1]&lt;&#x2F;code&gt; &amp;amp; &lt;code&gt;[^1]: foot note text&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;use the following html snippet to force a linebreak:&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;&amp;lt;div style=‘clear:both;’&amp;gt;&amp;amp;nbsp;&amp;lt;&#x2F;div&amp;gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Visual Accessibility</title>
+        <published>2024-04-09T00:00:00+00:00</published>
+        <updated>2024-04-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/guides/visual/"/>
+        <id>https://aw2.help/guides/visual/</id>
+        
+        <content type="html" xml:base="https://aw2.help/guides/visual/">&lt;h1 id=&quot;visual-accessibility-in-gw2&quot;&gt;Visual Accessibility in GW2&lt;&#x2F;h1&gt;
+&lt;p&gt;GW2 has a ways to go here, but there are some options available for those with visual needs.&lt;&#x2F;p&gt;
+&lt;p&gt;To reduce visual complexity, you can change a few things in the graphics options to make the screen less busy:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Effect LOD: will limit effects when many players are in the same spot&lt;&#x2F;li&gt;
+&lt;li&gt;Postprocessing: allows shader adjustment. If custom is used, individual settings can be toggled. I personally find Bloom particularly challenging.&lt;&#x2F;li&gt;
+&lt;li&gt;Disable Camera Shake&lt;&#x2F;li&gt;
+&lt;li&gt;Hide Ally Visual Effects: disables infusions and&#x2F;or lengendary effects on other players&lt;&#x2F;li&gt;
+&lt;li&gt;Dynamic Hud: allows for disabling&#x2F;hiding UI elements based on combat state&lt;&#x2F;li&gt;
+&lt;li&gt;Motion Blur Power&lt;&#x2F;li&gt;
+&lt;li&gt;Environment Zone Intensity: this doesn&#x27;t affect much, but some maps (Dragon&#x27;s End, Gyala Delves, etc) have precipitation effects that can be reduced
+&lt;blockquote&gt;
+&lt;p&gt;note: Bjora Marches&#x27; snowfall has a bug, and reducing the intensity with this slider seems to increase it&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;colorblindness&quot;&gt;Colorblindness&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;hardstuck.gg&#x2F;colorblind-mode-commanding&#x2F;&quot;&gt;Hardstuck: Commanding for color blindness&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Guildwars2&#x2F;comments&#x2F;11vnzyk&#x2F;small_request_regarding_the_commander_tag&#x2F;jcvcnce&#x2F;&quot;&gt;Reddit: Color blindness suggestions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;possible-future&quot;&gt;Possible Future?&lt;&#x2F;h1&gt;
+&lt;p&gt;We have been in communication with &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;raidcore.gg&#x2F;Nexus&quot;&gt;a plugin framework creator&lt;&#x2F;a&gt; about adding screen reader functionality
+to gw2 chat. It&#x27;s not a reality yet, but it&#x27;s within the realm of possibility.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Contributor&#x27;s Guide</title>
+        <published>2024-03-13T00:00:00+00:00</published>
+        <updated>2024-03-13T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/guides/contributor/"/>
+        <id>https://aw2.help/guides/contributor/</id>
+        
+        <content type="html" xml:base="https://aw2.help/guides/contributor/">&lt;h1 id=&quot;how-to-contribute&quot;&gt;How to Contribute&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;time-effort&quot;&gt;Time &#x2F; Effort&lt;&#x2F;h2&gt;
+&lt;p&gt;Contributors of time and expertise are very welcomed. Most content on the site is written in markdown, a simple text file format.
+It&#x27;s pretty approachable, and works like discord. For example, using &lt;code&gt;**asterisks**&lt;&#x2F;code&gt; to &lt;strong&gt;bold&lt;&#x2F;strong&gt; text is markdown.&lt;&#x2F;p&gt;
+&lt;p&gt;We have some adaptations to add Guild Wars 2 specific functionality of course, but most of the complexity will be working with github, the site
+that &lt;em&gt;stores&lt;&#x2F;em&gt; the files.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;financial&quot;&gt;Financial&lt;&#x2F;h2&gt;
+&lt;p&gt;Of course, financial contributions are always welcome too, if that&#x27;s preferred. We have
+&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;opencollective.com&#x2F;accessibility-wars&quot;&gt;a page set up on OpenCollective&lt;&#x2F;a&gt;, which is an open community
+funding platform. All funds currently go towards development and hosting costs and all of that information is transparently visible on the collective site.&lt;&#x2F;p&gt;
+&lt;p&gt;Other options such as GitHub Sponsors or Patreon are being considered. Reach out &lt;a href=&quot;https:&#x2F;&#x2F;aw2.help&#x2F;discord&#x2F;&quot;&gt;on discord&lt;&#x2F;a&gt; if
+you prefer one of those options.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;content-how-to&quot;&gt;Content how to...&lt;&#x2F;h1&gt;
+&lt;p&gt;Accessibility Wars uses a static site generator. This means there is no database, no server-side scripts, and no way to edit directly on the site.&lt;&#x2F;p&gt;
+&lt;p&gt;However, it is built from source code and contributors can make edits and submissions using GitHub&#x27;s interface (or the git tool directly).&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;setup&quot;&gt;Setup&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sign up for an account on &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&quot;&gt;GitHub&lt;&#x2F;a&gt;. Feel free to use whatever name you wish. Be aware all your proposed changes will be associated with this name and it will be public.&lt;&#x2F;li&gt;
+&lt;li&gt;Familiarize yourself with &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.markdownguide.org&#x2F;basic-syntax&#x2F;&quot;&gt;basic markdown&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;how-to-edit&quot;&gt;How to... edit&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Find content (such as a build or guide) to edit on the source repository.
+&lt;ul&gt;
+&lt;li&gt;all content lives in &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&#x2F;tree&#x2F;master&#x2F;content&quot;&gt;this github folder&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;builds live in &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&#x2F;tree&#x2F;master&#x2F;content&#x2F;builds&quot;&gt;builds&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;guides live in &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&#x2F;tree&#x2F;master&#x2F;content&#x2F;guides&quot;&gt;guides&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;miscellaneous pages live in &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&#x2F;tree&#x2F;master&#x2F;content&#x2F;pages&quot;&gt;pages&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Click the markdown (.md) file to view it in the github editor&lt;&#x2F;li&gt;
+&lt;li&gt;Click the pencil icon to switch to edit mode, and make your changes&lt;&#x2F;li&gt;
+&lt;li&gt;Click the &lt;strong&gt;[Commit Changes...]&lt;&#x2F;strong&gt; button&lt;&#x2F;li&gt;
+&lt;li&gt;Give it a reasonable 1-line commit message and description of what was changed (Berdandy will be reading these so please make sense).
+&lt;blockquote&gt;
+&lt;p&gt;Commit message: updated mad bomber mechanist to latest balance&lt;br&#x2F;&gt;
+Extended description: old mad bomber mechanist was missing relics and needed a full trait rework&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Ensure your email is correct&lt;&#x2F;li&gt;
+&lt;li&gt;Ensure &lt;strong&gt;[Create a new branch for this commit and start a pull request]&lt;&#x2F;strong&gt; is selected.
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;the default name is very software oriented (username-patch-N), change it to make sense&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Good example: mad-bomber-balance-update-jan-2024&lt;&#x2F;li&gt;
+&lt;li&gt;Bad example: changed stuff&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Click &lt;strong&gt;[Propose changes]&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;This opens a pull request (git&#x27;s terminology for a &quot;request for the maintainer to pull your changes in&quot;)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Again, title and description. Title should be same as above. Add description if you wish&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Click &lt;strong&gt;[Create pull request]&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;From here, the maintainers (Berdandy) will get notified about the submitted changes and can merge them once reviewed. Keep an eye on your
+inbox and&#x2F;or discord for possible modifications. After changes are accepted, the website builds and deploys. Usually less than 2 mins.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;how-to-preview&quot;&gt;How to... preview&lt;&#x2F;h2&gt;
+&lt;p&gt;In short:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;berdandy&#x2F;azola&#x2F;releases&#x2F;latest&#x2F;&quot;&gt;install the custom site buider azola&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;clone &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&quot;&gt;the source repository&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;run &lt;code&gt;azola serve&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;go to &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;127.0.0.1:1111&quot;&gt;http:&#x2F;&#x2F;127.0.0.1:1111&lt;&#x2F;a&gt; in your browser&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;That&#x27;s basically it. It will automatically refresh whenever it detects changes.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;how-to-create&quot;&gt;How to... create&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;method-1-copy-edit-files&quot;&gt;Method 1: copy&#x2F;edit files&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;clone &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&quot;&gt;the source repository&lt;&#x2F;a&gt; with GitHub Desktop, gh, or just git. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;docs.github.com&#x2F;en&#x2F;desktop&#x2F;working-with-your-remote-repository-on-github-or-github-enterprise&#x2F;viewing-a-pull-request-in-github-desktop&quot;&gt;The following guide on pull requests&lt;&#x2F;a&gt; is helpful if you’re new to pull requests or GitHub Desktop.&lt;&#x2F;li&gt;
+&lt;li&gt;find an existing build in &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&#x2F;tree&#x2F;master&#x2F;content&#x2F;builds&quot;&gt;builds&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;duplicate the md file, changing name&lt;&#x2F;li&gt;
+&lt;li&gt;make all your edits, and &lt;a href=&quot;https:&#x2F;&#x2F;aw2.help&#x2F;guides&#x2F;contributor&#x2F;#how-to-preview&quot;&gt;preview changes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;add&lt;&#x2F;strong&gt; the file on github&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;submit pull request&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;turn on github notifications and wait for comments. If anything needs to be fixed, berdandy will message you using github&lt;&#x2F;li&gt;
+&lt;li&gt;if needed, fix issues, and &lt;strong&gt;push&lt;&#x2F;strong&gt; new changes to github, updating the pull request&lt;&#x2F;li&gt;
+&lt;li&gt;if all is good, it will be merged&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;method-2-create-on-github-web&quot;&gt;Method 2: create on github web&lt;&#x2F;h3&gt;
+&lt;p&gt;This method doesn&#x27;t require software installation, but the price is that you don&#x27;t get to preview it, and it&#x27;s much easier
+to upload broken content if you can&#x27;t see it.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;create a (free) github account as per &lt;a href=&quot;https:&#x2F;&#x2F;aw2.help&#x2F;guides&#x2F;contributor&#x2F;#setup&quot;&gt;Setup&lt;&#x2F;a&gt; above&lt;&#x2F;li&gt;
+&lt;li&gt;download &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&#x2F;tree&#x2F;master&#x2F;content&#x2F;builds&quot;&gt;a build .md file&lt;&#x2F;a&gt; from the repository&lt;&#x2F;li&gt;
+&lt;li&gt;edit it to contain your new build with your favourite text editor&lt;&#x2F;li&gt;
+&lt;li&gt;in the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;accessibilitywars&#x2F;zaw2&#x2F;tree&#x2F;master&#x2F;content&#x2F;builds&quot;&gt;builds directory&lt;&#x2F;a&gt;, click &lt;strong&gt;Add File &amp;gt; Create New File&lt;&#x2F;strong&gt;, NOT Upload Files.&lt;br&#x2F;&gt;&lt;strong&gt;Important!&lt;&#x2F;strong&gt; &lt;em&gt;This may give you a warning about a need to make a Fork (which is a copy of the site). You want that.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;name the file. For example &quot;my-awesome-warrior.md&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;paste the content of the new build file&lt;&#x2F;li&gt;
+&lt;li&gt;Click &lt;strong&gt;Commit Changes...&lt;&#x2F;strong&gt; and give it a commit message and description. This is for your own benefit of change history.&lt;&#x2F;li&gt;
+&lt;li&gt;Once you&#x27;re satisfied with the preview, click &lt;strong&gt;Create pull request&lt;&#x2F;strong&gt;. The description here is for the reviewers (ie, berdandy).&lt;br&#x2F;&gt;
+&lt;strong&gt;Important!&lt;&#x2F;strong&gt; &lt;em&gt;ensure &lt;strong&gt;Allow edits by maintainers&lt;&#x2F;strong&gt; is checked&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;turn on github notifications and wait for comments. If anything needs to be fixed, berdandy will message you using github&lt;&#x2F;li&gt;
+&lt;li&gt;if needed, fix issues, updating the pull request&lt;&#x2F;li&gt;
+&lt;li&gt;if all is good, it will be merged&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;method-3-export-a-template-and-add-notes&quot;&gt;Method 3: export a template and add notes&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;NOTE: buildwars hasn&#x27;t been updated in a while. Consider it very early alpha&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Follow the above steps, but instead of finding an existing build file and editing it,
+use &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;berdandy&#x2F;buildwars&quot;&gt;the buildwars commandline tool&lt;&#x2F;a&gt; in combination with an ArenaNet API
+Key (&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;account.arena.net&#x2F;applications&quot;&gt;make one here&lt;&#x2F;a&gt;), to export a character to our .md file format.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For example:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;&amp;gt; buildwars API-KEY-GOES-HERE &quot;Character Name&quot; 1 1&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Then edit the output for rotation&#x2F;notes and save it in content&#x2F;builds&#x2F;*.md&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;additional-tools&quot;&gt;Additional tools&lt;&#x2F;h1&gt;
+&lt;p&gt;These additional tools are useful. They may eventually be integrated, but for now, they&#x27;re useful standalone utils.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;berdandy&#x2F;gw2search&quot;&gt;gw2search&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;berdandy&#x2F;chatr&quot;&gt;chatr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;berdandy&#x2F;buildwars&quot;&gt;buildwars&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

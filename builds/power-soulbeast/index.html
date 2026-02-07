@@ -1,0 +1,283 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=361e707899e0e8ebd479" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Beastblade [pDPS] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="A power-based soulbeast build. This build relies on a single combo, but otherwise boils down to just hitting buttons when they&#x27;re off cooldown." />
+  <link rel="canonical" href="https://aw2.help/builds/power-soulbeast/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, Soulbeast, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/power-soulbeast/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/power-soulbeast/" />
+  <meta property="og:description" content="A power-based soulbeast build. This build relies on a single combo, but otherwise boils down to just hitting buttons when they&#x27;re off cooldown." />
+  <meta name="twitter:description" content="A power-based soulbeast build. This build relies on a single combo, but otherwise boils down to just hitting buttons when they&#x27;re off cooldown." />
+  <meta property="og:title" content="Beastblade [pDPS] | Accessibility Wars" />
+  <meta name="twitter:title" content="Beastblade [pDPS] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/soulbeast.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/soulbeast.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2024-03-27" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/soulbeast.jpg');"><div class="boxed"><span style="float: right;"><h3>34.7k DPS</h3></span><h1><a href="https://aw2.help/builds/power-soulbeast/">Beastblade [pDPS]</a></h1>
+	<p><i>Combo #3 with fries and a large root beer</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/scooby/">scooby</a> <span class="rpad"></span> March 27, 2024 <span class="rpad"></span> [ <a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/power/">power</a>  #<a href="https://aw2.help/tags/ranger/">ranger</a>  #<a href="https://aw2.help/tags/soulbeast/">soulbeast</a>  #<a href="https://aw2.help/tags/pof/">pof</a>  #<a href="https://aw2.help/tags/lowcog/">lowcog</a>  #<a href="https://aw2.help/tags/lowrep/">lowrep</a> </span><div>
+                This build requires: PATH OF FIRE
+              </div>
+
+	</div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/ranger/">ranger (Series)</a>
+        <ol>
+					<li><a class="scur" href="https://aw2.help/builds/power-soulbeast/">Beastblade [pDPS](34.7k DPS)</a></li> 
+				  
+					<li><a href="https://aw2.help/builds/condi-soulbeast/">Barbed Arrows [cDPS](27.7k DPS solo, 30k DPS w. allies)</a></li>
+					<li><a href="https://aw2.help/builds/quickness-power-untamed/">Bunny Thumper [qDPS](28k DPS)</a></li>
+        </ol>
+      </div>
+    </div>
+	</div>
+<div><h3 style="color: Gold;">
+Note: this build was created for the previous 2025-12 balance patch.
+</h3></div>
+
+<p>A power-based soulbeast build. This build relies on a single combo, but otherwise boils down to just hitting buttons when they're off cooldown.</p>
+<h2 id="gearing">Gearing</h2>
+<hr/>
+<table>
+<thead><tr><th>Armor</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80296" data-armory-80296-upgrades="24836" data-armory-80296-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80145" data-armory-80145-upgrades="24836" data-armory-80145-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80578" data-armory-80578-upgrades="24836" data-armory-80578-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80161" data-armory-80161-upgrades="24836" data-armory-80161-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80252" data-armory-80252-upgrades="24836" data-armory-80252-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80281" data-armory-80281-upgrades="24836" data-armory-80281-stat="1077"></span></td><td>Berserker's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24836"></span> Scholar</td></tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="95675" 
+		data-armory-95675-upgrades="24615"
+		data-armory-95675-stat="1077"></span></td>
+	<td>Sword</td>
+	<td>Berserker's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="24615"></span> Force</td>
+</tr>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" s
+		data-armory-ids="96937" 
+		data-armory-96937-upgrades="24868"
+		data-armory-96937-stat="1077"></span></td>
+	<td>Axe</td>
+	<td>Berserker's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="24868"></span> Impact</td>
+</tr>
+</tbody></table>
+<hr/>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="74155" 
+	data-armory-74155-stat="1077"></span></td><td>Back item</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="95380" 
+	data-armory-95380-stat="1077"></span></td><td>Amulet</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="81908" 
+	data-armory-81908-stat="1077"></span></td><td>Accessory</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91048" 
+	data-armory-91048-stat="1077"></span></td><td>Accessory</td><td> Berserker's</td></tr>
+</tbody></table>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="93105" 
+	data-armory-93105-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91234" 
+	data-armory-91234-stat="1077"></span></td><td>Ring</td><td> Berserker's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="100916"></span></td><td>Relic</td><td> Thief </td></tr></tbody></table>
+<hr/>
+<ul>
+<li>Consumables:
+<ul>
+<li>Cilantro Lime Sous-Vide Steak (Power/Ferocity)</li>
+<li>Superior Sharpening Stone (Power)</li>
+</ul>
+</li>
+</ul>
+<h2 id="build">Build</h2>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQQeOSA6NzqhAAAApQEAALUAAACsAQAALhYAACcAAAAAAAAAAAAAAAAAAAADMwBaAAUABGf3AADd9gAAm/YAAOj2AAA=<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div class="peticon" style="background: url('https://render.guildwars2.com/file/CE671613E510096E1E0FA1ABCA6AD668900F03E1/52610.png') 50% 50% no-repeat;">Juvenile Pig</div><div data-armory-embed='skills' data-armory-ids='12489,12633,12492,12491,45717'></div><div data-armory-embed='specializations' data-armory-ids='30,32,55' data-armory-30-traits='1069,1700,1888' data-armory-32-traits='1072,1047,1066' data-armory-55-traits='2071,2085,2143'></div>
+<h2 id="notes">Notes</h2>
+<p>You have ONE combo to perform in this build, the rest of your skills are pressed off cooldown.</p>
+<p>Here's the combo, which you should perform whenever <span class="armory-inline" data-armory-embed="skills" data-armory-ids="12492"></span> Frost Trap is off cooldown:</p>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="12492"></span> Frost Trap</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="12633"></span> "Sic 'Em!"</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="45717"></span> One Wolf Pack</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="12639"></span> Whirling Defense</li>
+</ol>
+<p>It is very easy to cancel <span class="armory-inline" data-armory-embed="skills" data-armory-ids="12639"></span> Whirling Defense and you should take utmost care not to cancel it.</p>
+<p>The rest of your skills that you should press off cooldown, preferably in the order stated below, but really in no particular order, are:</p>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="41406"></span> Maul</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="12638"></span> Path of Scars</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="69203"></span> Pounce</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="40729"></span> Worldly Impact</li>
+</ol>
+<p>Auto attack to fill any gaps.</p>
+<p>Technically using <span class="armory-inline" data-armory-embed="skills" data-armory-ids="12482"></span> Serpent's Strike is a DPS increase, but it has a long aftercast and cancelling aftercast is hard so we shall not press it.</p>
+<p>The stated DPS of this build is 34.7k, but in reality this build performs MUCH better in raids. It has the highest burst damage in the game, and with many fights having multiple phases, in which your skills can cooldown between burst windows, Power Soulbeast will really start to shine.</p>
+<h2 id="crowd-control">Crowd Control</h2>
+<p>Your CC skills are, in order of how you should use them:</p>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="46432"></span> Brutal Charge</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="12482"></span> Serpent's Strike</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="12491"></span> Signet of the Wild</li>
+</ol>
+<h2 id="video">Video</h2>
+<div class="yv">
+    <iframe src="https://www.youtube-nocookie.com/embed/6fUUBTDFNQI" title="Youtube" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/ranger/">Series</a>
+        <ol>
+			
+      <li><a class="scur" href="https://aw2.help/builds/power-soulbeast/" title=" Benchmark: 34.7k DPS"
+>Beastblade [pDPS]</a></li>
+    
+			
+      <li><a href="https://aw2.help/builds/condi-soulbeast/" title=" Benchmark: 27.7k DPS solo, 30k DPS w. allies"
+	>Barbed Arrows [cDPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/quickness-power-untamed/" title=" Benchmark: 28k DPS"
+	>Bunny Thumper [qDPS]</a></li>
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#gearing">Gearing</a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div>
+			<a href="#notes">Notes</a>
+		  </div><div>
+			<a href="#crowd-control">Crowd Control</a>
+		  </div><div>
+			<a href="#video">Video</a>
+		  </div>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">Balance</h2>
+			<p style="color: Gold;">2025-12</p>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

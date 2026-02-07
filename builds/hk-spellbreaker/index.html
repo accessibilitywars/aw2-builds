@@ -1,0 +1,421 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=361e707899e0e8ebd479" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Hand Break [HK] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="You can&#x27;t touch this... Break it down!" />
+  <link rel="canonical" href="https://aw2.help/builds/hk-spellbreaker/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, Spellbreaker, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/hk-spellbreaker/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/hk-spellbreaker/" />
+  <meta property="og:description" content="You can&#x27;t touch this... Break it down!" />
+  <meta name="twitter:description" content="You can&#x27;t touch this... Break it down!" />
+  <meta property="og:title" content="Hand Break [HK] | Accessibility Wars" />
+  <meta name="twitter:title" content="Hand Break [HK] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/spellbreaker.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/spellbreaker.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2026-01-15" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/spellbreaker.jpg');"><div class="boxed"><h1><a href="https://aw2.help/builds/hk-spellbreaker/">Hand Break [HK]</a></h1>
+	<p><i>Go with the flow... if you can't groove to this, then you probably are dead!</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/xellink/">xellink</a> <span class="rpad"></span> December 16, 2025 <span class="rpad"></span>Updated: January 15, 2026 <span class="rpad"></span> [ <a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/handkite/">handkite</a>  #<a href="https://aw2.help/tags/warrior/">warrior</a>  #<a href="https://aw2.help/tags/spellbreaker/">spellbreaker</a>  #<a href="https://aw2.help/tags/pof/">pof</a> </span><div>
+                This build requires: PATH OF FIRE
+              </div>
+
+	</div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/warrior/">warrior (Series)</a>
+        <ol>
+					<li><a href="https://aw2.help/builds/hidden/power-berserker/">Meat Carver [pDPS]</a></li>
+					<li><a href="https://aw2.help/builds/power-spellbreaker-redux/">Power Spellbreaker [pDPS](36.5k DPS)[34&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/power-berserker/">Power Berserker [pDPS](36.6k DPS)[48&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/alacrity-power-bladesworn/">Signet Sworn Sword [aDPS](32k DPS)[65&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/hybrid-paragon/">Dual Blademaster [DPS](38.6k DPS)[26&nbsp;APM]</a></li>
+					<li><a href="https://aw2.help/builds/heal-alac-paragon/">Vocals of Eternity [aHeal]</a></li>
+					<li><a class="scur" href="https://aw2.help/builds/hk-spellbreaker/">Hand Break [HK]</a></li> 
+				  
+					<li><a href="https://aw2.help/builds/power-spellbreaker/">Magebane Daggerbreaker [pDPS](38.9k DPS (38.2k no-swap))[21-43&nbsp;APM]</a></li>
+        </ol>
+      </div>
+    </div>
+	</div>
+
+<p>This is a specialized build, intended for use in the final fight of Raid Wing 4 (Deimos). This build can be made comfortable and yet retains a high skill ceiling to allow the hand kiter to contribute to the team from far.</p>
+<h2 id="gearing">Gearing</h2>
+<hr/>
+<table>
+<thead><tr><th>Armor</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80384" data-armory-80384-upgrades="84171" data-armory-80384-stat="1265"></span></td><td>Minstrel's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="84171"></span> Rebirth</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80435" data-armory-80435-upgrades="84171" data-armory-80435-stat="1265"></span></td><td>Minstrel's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="84171"></span> Rebirth</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80254" data-armory-80254-upgrades="84171" data-armory-80254-stat="1265"></span></td><td>Minstrel's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="84171"></span> Rebirth</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80205" data-armory-80205-upgrades="84171" data-armory-80205-stat="1265"></span></td><td>Minstrel's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="84171"></span> Rebirth</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80277" data-armory-80277-upgrades="84171" data-armory-80277-stat="1265"></span></td><td>Minstrel's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="84171"></span> Rebirth</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80557" data-armory-80557-upgrades="84171" data-armory-80557-stat="1265"></span></td><td>Minstrel's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="84171"></span> Rebirth</td></tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="95612" 
+		data-armory-95612-upgrades="74326"
+		data-armory-95612-stat="1377"></span></td>
+	<td>Mace</td>
+	<td>Harrier's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="74326"></span> Transference</td>
+</tr>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" s
+		data-armory-ids="95675" 
+		data-armory-95675-upgrades="72339"
+		data-armory-95675-stat="1377"></span></td>
+	<td>Sword</td>
+	<td>Harrier's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="72339"></span> Concentration</td>
+</tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline"
+		data-armory-embed="items"
+		data-armory-ids="96652"
+		data-armory-96652-upgrades="74326,72339"
+		data-armory-96652-stat="1377"></span></td>
+	<td>Staff</td>
+	<td>Harrier's</td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="74326"></span> Transference</td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="72339"></span> Concentration</td>
+</tr>
+</tbody></table>
+<hr/>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="74155" 
+	data-armory-74155-stat="1377"></span></td><td>Back item</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="95380" 
+	data-armory-95380-stat="1377"></span></td><td>Amulet</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="81908" 
+	data-armory-81908-stat="1377"></span></td><td>Accessory</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91048" 
+	data-armory-91048-stat="1377"></span></td><td>Accessory</td><td> Harrier's</td></tr>
+</tbody></table>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="93105" 
+	data-armory-93105-stat="1377"></span></td><td>Ring</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91234" 
+	data-armory-91234-stat="1377"></span></td><td>Ring</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="100934"></span></td><td>Relic</td><td> Defender </td></tr></tbody></table>
+<hr/>
+<h4 id="gear-alternatives">Gear Alternatives</h4>
+<ul>
+<li>Any healer gear will work. The gear above is optimised for 1400 toughness.</li>
+<li>You may opt for any of the following stats
+<ol>
+<li>Harrier's</li>
+<li>Giver's</li>
+<li>Minstrel's</li>
+<li>Cleric's</li>
+<li>Magi's</li>
+</ol>
+</li>
+</ul>
+<p>Bring as much toughness as possible but keep it below the tank's. This is especially useful if you have legendary armor.</p>
+<h4 id="relic-alternatives">Relic Alternatives</h4>
+<ul>
+<li>You may use any of the follow relics:
+<ol>
+<li>Defender</li>
+<li>Dwayna</li>
+</ol>
+</li>
+</ul>
+<hr />
+<h2 id="consumables">Consumables</h2>
+<p>Using food/enhancements for handkiting is optional. If you decide to do so, choose any of the following.</p>
+<h4 id="food">Food<br/></h4>
+<blockquote>
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="91737"></span> Bowl of Spiced Fruit Salad<span title="WARNING: multiple exact matches for Bowl of Spiced Fruit Salad. Use id param to differentiate!" style='color: red; font-weight: bold;'> ERROR</span></li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="81621"></span> Oysters with Pesto Sauce</li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="68634"></span> Delicious Rice Ball</li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="43358"></span> Kralkachocolate Bar</li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="95241"></span> Feast of Delectable Birthday Cake</li>
+</ul>
+</blockquote>
+<h4 id="enhancement">Enhancement</h4>
+<blockquote>
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="67528"></span> Bountiful Maintenance Oil</li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="87329"></span> Holographic Super Drumstick</li>
+</ul>
+</blockquote>
+<hr />
+<h2 id="build">Build</h2>
+<p><a rel="noopener" target="_blank" href="https://gw2skills.net/editor/?PKwAkyZlNw8YIMLWJeqSuPVA-DSRYjhpGd4DJVFQ1yg0FC29QAL9vZBVA-e">GW2Skills Loadout</a> <br/><br/></p>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQIWFQsuPSopDwAArQEAAAoAAACzAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAA=<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div data-armory-embed='skills' data-armory-ids='21815,14528,14354,14413,14355'></div><div data-armory-embed='specializations' data-armory-ids='22,11,61' data-armory-22-traits='1376,1368,1375' data-armory-11-traits='1474,1482,1470' data-armory-61-traits='2153,2097,2168'></div>
+<br/>
+<p>Because of the Jan 2026 changes to Fast Hands, I have used the Defense/Tactics traitline. The build can also run on Discipline/Tactics or Discipline/Defense, with compromises.</p>
+<h2 id="handkiting-101">Handkiting 101</h2>
+<hr />
+<p>The goal for a handkite is to stay on the opposite site of the platform as the tank (and group), since the hands spawn at the furthest-away target. The tank will have to move Deimos to avoid oils, so the handkite will move to continue to be on the opposite side.</p>
+<p>In an ideal world, you will want to stack 5 hands in the same spot. But we will just do our best. It's better to have a messier cluster of hands than to get downed far from the group. If you're having a hard time with damage, move early.</p>
+<p>This guide assumes that basic encounter knowledge is present. If you don't you may refer to the video at the end of the guide.</p>
+<hr />
+<h2 id="pre-phase">Pre-Phase</h2>
+<h4 id="greens">Greens</h4>
+<hr />
+<p>In general, you want to avoid going into the greens because it is hard to contribute meaningful damage as the hand-kite.</p>
+<p>If you get unlucky and are targeted with green circle, you will need to head down with the group. In this phase you should switch to Staff for buffs and aegis, place might on players where statues have higher health.</p>
+<p>Killing all 4 statues at the same time is ideal but even if your group goes down 4 times, it is easy to keep Saul at high health as long as your team is able to take down enemies above.</p>
+<h4 id="prides">Prides</h4>
+<hr />
+<p>The difference between a usual hand-kiter and a spellbreaker hand-kiter is the ability to control mobs with immobilise, cripple, and fear. This is especially useful in challenge mode where immobilising the Prides can buy extra time. Prides take away 25% of Saul's health so it is essential to not let any through during the pre-phase. A good outcome in Challenge Mode is indicated by retention of at least 90% of Saul's health.</p>
+<p>The following skills can be used for pride control:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14354"></span> Throw Bolas (1200 Range)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14498"></span> Impale (900 Range)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14409"></span> "Fear Me!" (Melee)</li>
+</ol>
+</blockquote>
+<p>Use the early phase to seek out prides but be careful not to daze them as it can change the behavior of the mobs. <span class="armory-inline" data-armory-embed="traits" data-armory-ids="2140"></span> No Escape may seem enticing to bring, but it is not worth the risk.</p>
+<h2 id="main-fight">Main Fight</h2>
+<hr />
+<p>Once the prephase is over, Deimos will start spawning hands.</p>
+<p>The above mechanics will continue into the main fight. Greens specifically occur at 75%, 50% and 25% of Deimos's health. If the group goes down for greens, you may have to deal with oils depending on whether the group has assigned an oil-kiter. The main fight lasts till Deimos's health drops to 10%.</p>
+<p>Prides will also spawn in the later phases of the fight, of which ranged cripple/immobilise used during the pre-phase will increase the odds of success of the team.</p>
+<h4 id="hands">Hands</h4>
+<hr />
+<p>After a short cutscene, you will start to see the Hands appearing on the ground. They spawn on the furthest player, 5 in a row (every ~1 second), then there's a short break before it repeats. Warriors provide an innumerable amount of blocks and variation in handling hands.</p>
+<p>The general idea of the rotation is to do the following:</p>
+<blockquote>
+<ol>
+<li>Channeled Block(s)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="44165"></span> Full Counter</li>
+<li>Move/roll to the side and heal up</li>
+</ol>
+</blockquote>
+<p>Many of the blocks are not needed to survive but provide additional insurance. At the very minimum you should aim to have 1 channeled block, finished by a full-counter.</p>
+<h6 id="channeled-blocks">Channeled blocks</h6>
+<hr />
+<p>You may choose to use and of the following blocks, easiest executions with the most damage mitigations are placed on top. The pros and cons are listed in the table below:</p>
+<table><thead><tr><th>Channeled Block</th><th>Notes</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="skills" data-armory-ids="21815"></span> Defiant Stance</td><td>Reserve for <span class="armory-inline" data-armory-embed="skills" data-armory-ids="37613"></span> Mind Crush</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14392"></span> Endure Pain</td><td>No cast time</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="skills" data-armory-ids="21813"></span> Lesser Endure Pain</td><td>Trigger via <span class="armory-inline" data-armory-embed="skills" data-armory-ids="14355"></span> Signet of Rage</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14507"></span> Counterblow</td><td>Blocks only 1 attack, Main-hand</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14362"></span> Shield Stance</td><td>Long Cooldown, Off-hand</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14400"></span> Riposte</td><td>Blocks only 1 attack, Off-hand</td></tr>
+</tbody></table>
+<blockquote>
+<ul>
+<li><small>If you find yourself struggling with a rotation, Endure pain has no cast time and may be used either as a backup or for mind-crush.</small></li>
+<li><small>You can mix and match these skills to create your own combos if you are creative.</small></li>
+<li><small>Bullet catcher was removed in the latest update</small></li>
+</ul>
+</blockquote>
+<hr />
+<h4 id="precast-optimising-blocks">Precast/optimising blocks</h4>
+<p>You can precast Aegis as a block to reserve health:</p>
+<blockquote>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="14528"></span> Banner of Defense</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="71860"></span> Line Breaker</li>
+</ol>
+</blockquote>
+<p>You can also supplement one block with another, for example <span class="armory-inline" data-armory-embed="skills" data-armory-ids="14507"></span> Counterblow + <span class="armory-inline" data-armory-embed="skills" data-armory-ids="14400"></span> Riposte is used in the demo video to combine two short blocks.</p>
+<h4 id="mind-crush">Mind Crush</h4>
+<hr />
+<p>Starting very quickly (at 90% health), you will see the first <span class="armory-inline" data-armory-embed="skills" data-armory-ids="37613"></span> Mind Crush. Deimos will swing his weapons in a circular fashion for about 5 seconds before dealing arena wide damage which will kill you if you do not have a block in place. Damage is pulsed afterwards.</p>
+<p>The best single skill that should be reserved for <span class="armory-inline" data-armory-embed="skills" data-armory-ids="37613"></span> Mind Crush is <span class="armory-inline" data-armory-embed="skills" data-armory-ids="21815"></span> Defiant Stance. Your timing does not need to be precise and your health will be completely filled up. This one-button solution is the easiest way to handle <span class="armory-inline" data-armory-embed="skills" data-armory-ids="37613"></span> Mind Crush in the game.</p>
+<p>However, if you have used the stance in a panic, any channeled block will also work, coupled with panic healing.</p>
+<h4 id="tears">Tears</h4>
+<hr />
+<p>These are a relatively minor annoyance, but they do increase damage pressure. It is better to pick up tears than to leave them alone.</p>
+<h2 id="final-phase">Final Phase</h2>
+<hr />
+<p>You will need to do the hands mechanic as before. However this is a relatively short phase. Once Deimos starts attacking, use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="14413"></span> Dolyak Signet. This gives you a prolonged period of stability.</p>
+<p>Position yourself just slightly off-mid on the arena. This allows you to survive knockbacks in case your stability runs out. You can also provide additional sources of stability or dodge the knockback.</p>
+<h2 id="video">Video</h2>
+<hr />
+<div class="yv">
+    <iframe src="https://www.youtube-nocookie.com/embed/JVflCnj3-xs" title="Youtube" class="yvi" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+<p>This video used Bullet Catcher which has been removed from the game. there are alternative skills to mitigate hands which are described above.</p>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/warrior/">Series</a>
+        <ol>
+			
+      <li><a href="https://aw2.help/builds/power-spellbreaker-redux/" title=" Benchmark: 36.5k DPS 34&nbsp;APM"
+	>Power Spellbreaker [pDPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/power-berserker/" title=" Benchmark: 36.6k DPS 48&nbsp;APM"
+	>Power Berserker [pDPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/alacrity-power-bladesworn/" title=" Benchmark: 32k DPS 65&nbsp;APM"
+	>Signet Sworn Sword [aDPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/hybrid-paragon/" title=" Benchmark: 38.6k DPS 26&nbsp;APM"
+	>Dual Blademaster [DPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/heal-alac-paragon/" title=""
+	>Vocals of Eternity [aHeal]</a></li>
+			
+      <li><a class="scur" href="https://aw2.help/builds/hk-spellbreaker/" title=""
+>Hand Break [HK]</a></li>
+    
+			
+      <li><a href="https://aw2.help/builds/power-spellbreaker/" title=" Benchmark: 38.9k DPS (38.2k no-swap) 21-43&nbsp;APM"
+	>Magebane Daggerbreaker [pDPS]</a></li>
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#gearing">Gearing</a>
+		  </div><div>
+			<a href="#consumables">Consumables</a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div>
+			<a href="#handkiting-101">Handkiting 101</a>
+		  </div><div>
+			<a href="#pre-phase">Pre-Phase</a>
+		  </div><div>
+			<a href="#main-fight">Main Fight</a>
+		  </div><div>
+			<a href="#final-phase">Final Phase</a>
+		  </div><div>
+			<a href="#video">Video</a>
+		  </div>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">Balance</h2>
+			<p style="color: LightGreen;">2026-01</p>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer><span class="topout">
+<span class="topleft"> </span><a href="#" class="top" title="Back to Top"><i class="svgs svgh angu"></i></a>
+</span>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

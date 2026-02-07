@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - hybrid</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/hybrid/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-07T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/hybrid/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Galvanic Enchantment [DPS]</title>
+        <published>2025-11-07T00:00:00+00:00</published>
+        <updated>2025-11-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/hybrid-evoker/"/>
+        <id>https://aw2.help/builds/hybrid-evoker/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/hybrid-evoker/">&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;This is a build from the new expansion, Visions of Eternity, and is currently overperforming. Expect it to be balanced in the near future.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This build combines the concepts used in other Elementalist Inferno builds into the new Evoker elite specialization.&lt;&#x2F;p&gt;
+&lt;p&gt;Instead of taking &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2437&quot;&gt;&lt;&#x2F;span&gt; Specialized Elements like every other mono element Evoker build, this build uses &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2335&quot;&gt;&lt;&#x2F;span&gt; Galvanic Enchantment.&lt;&#x2F;p&gt;
+&lt;p&gt;Doing so allows us to reduce the APM of the build, and allowing for easy to access and fast CC, at the cost of some DPS.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80248&quot; data-armory-80248-upgrades=&quot;24797&quot; data-armory-80248-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80131&quot; data-armory-80131-upgrades=&quot;24797&quot; data-armory-80131-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80190&quot; data-armory-80190-upgrades=&quot;24797&quot; data-armory-80190-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80111&quot; data-armory-80111-upgrades=&quot;24797&quot; data-armory-80111-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80356&quot; data-armory-80356-upgrades=&quot;24797&quot; data-armory-80356-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80399&quot; data-armory-80399-upgrades=&quot;24797&quot; data-armory-80399-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;96221&quot; 
+		data-armory-96221-upgrades=&quot;24624&quot;
+		data-armory-96221-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Scepter&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Smoldering&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;97165&quot; 
+		data-armory-97165-upgrades=&quot;44944&quot;
+		data-armory-97165-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Focus&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;44944&quot;&gt;&lt;&#x2F;span&gt; Bursting&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;74155&quot; 
+	data-armory-74155-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;95380&quot; 
+	data-armory-95380-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;81908&quot; 
+	data-armory-81908-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91048&quot; 
+	data-armory-91048-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;93105&quot; 
+	data-armory-93105-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91234&quot; 
+	data-armory-91234-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;100262&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Fireworks &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91709&quot;&gt;&lt;&#x2F;span&gt; Plate of Coq Au Vin with Salsa or &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;12467&quot;&gt;&lt;&#x2F;span&gt; Plate of Truffle Steak&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;78305&quot;&gt;&lt;&#x2F;span&gt; Superior Sharpening Stone&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQYfPSkfUBViHXQAjgDLAMsAcwB3HVABJgAAAAAAAAAAAAAAAAAAAAAAAAADVgAvADEAAA==&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;76634,5535,5542,76711,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,41,80&#x27; data-armory-31-traits=&#x27;296,334,1675&#x27; data-armory-41-traits=&#x27;232,1502,226&#x27; data-armory-80-traits=&#x27;2391,2342,2335&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;The rotation for Evoker consists mainly of charging and casting both &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76585&quot;&gt;&lt;&#x2F;span&gt; Conflagration as quickly and as many times as possible. Using any weapon skill 3 times will charge &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite, and using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite 3 times will charge &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76585&quot;&gt;&lt;&#x2F;span&gt; Conflagration.&lt;&#x2F;p&gt;
+&lt;p&gt;Your rotation consists of a simple opener and a &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement priority.&lt;&#x2F;p&gt;
+&lt;p&gt;Try to always precast 2 stacks of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite before the fight begins. This can be done by swapping to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;77225&quot;&gt;&lt;&#x2F;span&gt; Splash and using it twice as &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;77225&quot;&gt;&lt;&#x2F;span&gt; Splash can be used without any target selected. Remember to swap back to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite once you have finished precasting.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Opener:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Always be in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76585&quot;&gt;&lt;&#x2F;span&gt; Conflagration&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5678&quot;&gt;&lt;&#x2F;span&gt; Fire Shield (Focus Fire 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76711&quot;&gt;&lt;&#x2F;span&gt; Fox&#x27;s Fury&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5542&quot;&gt;&lt;&#x2F;span&gt; Signet of Fire&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement Priority:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76585&quot;&gt;&lt;&#x2F;span&gt; Conflagration&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5678&quot;&gt;&lt;&#x2F;span&gt; Fire Shield (Focus Fire 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76711&quot;&gt;&lt;&#x2F;span&gt; Fox&#x27;s Fury&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5542&quot;&gt;&lt;&#x2F;span&gt; Signet of Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5666&quot;&gt;&lt;&#x2F;span&gt; Glyph of Elementals&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Basically putting your professional skill first, weapon skills next, then utilities.&lt;&#x2F;p&gt;
+&lt;p&gt;Take note that casting &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76643&quot;&gt;&lt;&#x2F;span&gt; Ignite too quickly after &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76585&quot;&gt;&lt;&#x2F;span&gt; Conflagration may result in you cancelling &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76585&quot;&gt;&lt;&#x2F;span&gt; Conflagration. However, this is a much more common problem with the fast pace of the &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2437&quot;&gt;&lt;&#x2F;span&gt; Specialized Elements build, and is usually not a problem here apart from the opener.&lt;&#x2F;p&gt;
+&lt;p&gt;This build relies heavily on landing &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4) to maintain &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100947&quot;&gt;&lt;&#x2F;span&gt; Relic of Fireworks uptime. Each tick of damage from the fire field generated by &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4) resets &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100947&quot;&gt;&lt;&#x2F;span&gt; Relic of Fireworks duration, allowing you to easily maintain 100% updtime with just 1 skill and no cooldown management.&lt;&#x2F;p&gt;
+&lt;p&gt;You should also:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Cast Off Cooldown:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5535&quot;&gt;&lt;&#x2F;span&gt; Cleansing Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;25499&quot;&gt;&lt;&#x2F;span&gt; Flame Barrage&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;All of these skills have no cast time and can be cast anytime.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;CC Skills:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5538&quot;&gt;&lt;&#x2F;span&gt; Shatterstone (Scepter Water 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5556&quot;&gt;&lt;&#x2F;span&gt; Freezing Gust (Focus Water 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5490&quot;&gt;&lt;&#x2F;span&gt; Comet (Focus Water 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5694&quot;&gt;&lt;&#x2F;span&gt; Blinding Flash (Scepter Air 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5562&quot;&gt;&lt;&#x2F;span&gt; Gale (Focus Air 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5696&quot;&gt;&lt;&#x2F;span&gt; Dust Devil (Scepter Earth 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5555&quot;&gt;&lt;&#x2F;span&gt; Magnetic Wave (Focus Earth 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;To CC, perform the following:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Simplified CC Rotation:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement 2 4 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement 3 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5495&quot;&gt;&lt;&#x2F;span&gt; Earth Attunement 3 4&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Then return to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement as soon as you are able to. You can cut short the rotation and return to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement as soon as the bar breaks instead of performing the full rotation.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;ncYcPJrVuMQ&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;build-demo&quot;&gt;Build Demo&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;-9tnRIo2PiI&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Dual Blademaster [DPS]</title>
+        <published>2025-11-02T00:00:00+00:00</published>
+        <updated>2025-11-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/hybrid-paragon/"/>
+        <id>https://aw2.help/builds/hybrid-paragon/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/hybrid-paragon/">&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;This is a build which uses mostly Vipers and Grieving gear to maximise the dual swords&#x27; physical prowress and bleeding capabilities.&lt;&#x2F;p&gt;
+&lt;p&gt;This build has a lot of auto attacks.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80384&quot; data-armory-80384-upgrades=&quot;67339&quot; data-armory-80384-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80435&quot; data-armory-80435-upgrades=&quot;67339&quot; data-armory-80435-stat=&quot;1379&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Grieving&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80254&quot; data-armory-80254-upgrades=&quot;67339&quot; data-armory-80254-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80205&quot; data-armory-80205-upgrades=&quot;67339&quot; data-armory-80205-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80277&quot; data-armory-80277-upgrades=&quot;67339&quot; data-armory-80277-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80557&quot; data-armory-80557-upgrades=&quot;67339&quot; data-armory-80557-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Equipment&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Rune&#x2F;Sigil&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Sword (MH)&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48911&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Torment&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sword (OH)&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24560&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Earth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;All Trinkets&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Relic (DPS)&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;td&gt;Relic of the Fractal&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Relic	(DPS)&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;td&gt;Relic of the Thorn&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Relic	(Sust)&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;td&gt;Relic of the Biomancer&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Relic	(Sust)&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;td&gt;Relic of the Mistfire&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;br&#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h4 id=&quot;optional-weapon-sets&quot;&gt;Optional weapon sets&lt;&#x2F;h4&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Equipment&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Sigil&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Mace (OH)&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24560&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Earth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dagger (OH)&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24560&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Earth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;br&#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h4 id=&quot;food-enhancement&quot;&gt;Food, Enhancement&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91804&quot;&gt;&lt;&#x2F;span&gt; Spherified Cilantro Oyster Soup&lt;&#x2F;li&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;43550&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Revelry Starcake (Budget)&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48917&quot;&gt;&lt;&#x2F;span&gt; Toxic Tuning Crystal&lt;&#x2F;li&gt;
+&lt;li&gt;Better (prohibitively expensive) enhancements are available
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Snow Diamond Ornament&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;72510&quot;&gt;&lt;&#x2F;span&gt; Writ of Masterful Malice&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;76833&quot;&gt;&lt;&#x2F;span&gt; Writ of Masterful Accuracy
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;infusions&quot;&gt;Infusions&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;43253&quot;&gt;&lt;&#x2F;span&gt; Malign WvW Infusion can be used for all empty slots (optional)
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;An alternate set (more Grieving pieces and Krait Runes) is also available and may provide a faster competitive ramp when using Relic of Thorns and other sustain relics.
+&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gw2skills.net&#x2F;editor&#x2F;?PKwAwynlFwsYUsJWJO+K+zSA-DSRYmRL1PbIBnRcKgclCK8YQACXL8amwZFsC-e&quot;&gt;Viper&#x27;s Variant&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
+&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gw2skills.net&#x2F;editor&#x2F;?PKwAwynlFwsYUsJWJO+K+zSA-DSRYmhAxGt03lRcFQupgPHDChgSGwpFu8XTKOrgVA-e&quot;&gt;Grieving Variant&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQIEHyQ+SiWmAAAAswAAAK8AAACpAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;14402,14413,14410,14404,14355&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;4,36,74&#x27; data-armory-4-traits=&#x27;1444,1449,1437&#x27; data-armory-36-traits=&#x27;1344,1333,1707&#x27; data-armory-74-traits=&#x27;2345,2385,2375&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;opener&quot;&gt;Opener&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Signets (Can be cast very early to maintain 5 stacks)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;77342&quot;&gt;&lt;&#x2F;span&gt; Chant of Action&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14402&quot;&gt;&lt;&#x2F;span&gt; &quot;To the Limit!&quot;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;None of these skills will trigger the boss fight, and you can perpetually keep refreshing signet until the fight begins.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14410&quot;&gt;&lt;&#x2F;span&gt; Signet of Fury and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14402&quot;&gt;&lt;&#x2F;span&gt; &quot;To the Limit!&quot; provide adrenaline so you may use them in between fight phases or as part of your opener&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;skill-priority&quot;&gt;Skill Priority&lt;&#x2F;h4&gt;
+&lt;p&gt;Use the following off-cooldown&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14428&quot;&gt;&lt;&#x2F;span&gt; Flurry (⚔ Burst)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14498&quot;&gt;&lt;&#x2F;span&gt; Impale (⚔ 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14497&quot;&gt;&lt;&#x2F;span&gt; Final Thrust (⚔ 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14413&quot;&gt;&lt;&#x2F;span&gt; Dolyak Signet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14404&quot;&gt;&lt;&#x2F;span&gt; Signet of Might (if required)&lt;&#x2F;li&gt;
+&lt;li&gt;Other Signets only if required&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Try to maintain 4-5 stacks of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1344&quot;&gt;&lt;&#x2F;span&gt; Signet Mastery.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14413&quot;&gt;&lt;&#x2F;span&gt; Dolyak Signet has no cast time.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14404&quot;&gt;&lt;&#x2F;span&gt; Signet of Might has no cast time.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h4&gt;
+&lt;p&gt;This build has very poor CC options and you may bring additional CC by sacrificing &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14413&quot;&gt;&lt;&#x2F;span&gt; Dolyak Signet and using other signets instead. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1344&quot;&gt;&lt;&#x2F;span&gt; Signet Mastery will be harder to maintain.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;77114&quot;&gt;&lt;&#x2F;span&gt; &quot;On Your Knees!&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14502&quot;&gt;&lt;&#x2F;span&gt; Kick&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14415&quot;&gt;&lt;&#x2F;span&gt; Tremor (swap to mace for CC)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;sustain-in-open-world&quot;&gt;Sustain in Open World&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Switch to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14389&quot;&gt;&lt;&#x2F;span&gt; Healing Signet for baseline healing and to maintain &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1344&quot;&gt;&lt;&#x2F;span&gt; Signet Mastery&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;strong&gt;Relic of the Biomancer&lt;&#x2F;strong&gt; for baseline healing&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;strong&gt;Relic of the Mistfire&lt;&#x2F;strong&gt; for life siphon and additional damage&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76562&quot;&gt;&lt;&#x2F;span&gt; &quot;We Will Never Yield!&quot; in emergencies&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14413&quot;&gt;&lt;&#x2F;span&gt; Dolyak Signet for stability&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;Zp68hj-ziBA&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;This bench was performed without infusions&lt;&#x2F;li&gt;
+&lt;li&gt;This bench is not grinded and you should easily be able to surpass 40k by optimising utilities, RNG procs and cancelling less autos.&lt;&#x2F;li&gt;
+&lt;li&gt;The complexity and damage ceiling of this build is low, so do not expect a much higher performance above 42k DPS.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fever (Fire-only Meme Weaver) [DPS]</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/hybrid-memeaver/"/>
+        <id>https://aw2.help/builds/hybrid-memeaver/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/hybrid-memeaver/">&lt;p&gt;This build was initially written as a meme build. Tempest is still the ideal build for DPS, but this build may see situational use where Tempest is disadvantaged. That being said, it still performs surprisingly well.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;This build is the Weaver alternative for Inferno Elementalist. With the addition of Major Grandmaster trait &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1675&quot;&gt;&lt;&#x2F;span&gt; Inferno, burning you do now scales off of your Power instead of Condition Damage. Although Tempest does more damage, this build offers a few small advantages against Tempest in niche conditions and decent DPS in the following conditions:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Being locked out of melee range (Pylon Kiting, Flak Kiting)&lt;&#x2F;li&gt;
+&lt;li&gt;You have only standard power food&lt;&#x2F;li&gt;
+&lt;li&gt;Multiple reset phases (e.g. All the EOD Strikes)&lt;&#x2F;li&gt;
+&lt;li&gt;During CC phases where you can&#x27;t deal damage&lt;&#x2F;li&gt;
+&lt;li&gt;When you are constantly forced to cancel your overloads&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;This build attempts to maximise this trait by staying in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement as much as possible while, while phase resets allow you to reset your opener, triggering &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2131&quot;&gt;&lt;&#x2F;span&gt; Elements of Rage. Although this is a power build, there is a ramp-up time.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80248&quot; data-armory-80248-upgrades=&quot;24797&quot; data-armory-80248-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80131&quot; data-armory-80131-upgrades=&quot;24797&quot; data-armory-80131-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80190&quot; data-armory-80190-upgrades=&quot;24797&quot; data-armory-80190-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80111&quot; data-armory-80111-upgrades=&quot;24797&quot; data-armory-80111-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80356&quot; data-armory-80356-upgrades=&quot;24797&quot; data-armory-80356-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80399&quot; data-armory-80399-upgrades=&quot;24797&quot; data-armory-80399-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;96221&quot; 
+		data-armory-96221-upgrades=&quot;24624&quot;
+		data-armory-96221-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Scepter&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Smoldering&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;97165&quot; 
+		data-armory-97165-upgrades=&quot;44944&quot;
+		data-armory-97165-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Focus&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;44944&quot;&gt;&lt;&#x2F;span&gt; Bursting&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;74155&quot; 
+	data-armory-74155-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;95380&quot; 
+	data-armory-95380-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;81908&quot; 
+	data-armory-81908-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91048&quot; 
+	data-armory-91048-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;93105&quot; 
+	data-armory-93105-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91234&quot; 
+	data-armory-91234-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;100262&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Fireworks &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91805&quot;&gt;&lt;&#x2F;span&gt; Cilantro Lime Sous-Vide Steak or &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;41569&quot;&gt;&lt;&#x2F;span&gt; Bowl of Sweet and Spicy Butternut Squash Soup&lt;&#x2F;li&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91709&quot;&gt;&lt;&#x2F;span&gt; Plate of Coq Au Vin with Salsa may have higher DPS if weakness uptime is not 100%&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;78305&quot;&gt;&lt;&#x2F;span&gt; Superior Sharpening Stone&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Alternative offhand weapons&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;96203&quot; 
+		data-armory-96203-upgrades=&quot;44944&quot;
+		data-armory-96203-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Dagger&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;44944&quot;&gt;&lt;&#x2F;span&gt; Bursting&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQYfPSkfOBl0AAAAywAAAL4BAAA1FwAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;5503,5542,5734,40183,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,41,56&#x27; data-armory-31-traits=&#x27;296,334,1675&#x27; data-armory-41-traits=&#x27;232,1502,226&#x27; data-armory-56-traits=&#x27;2177,2061,2131&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;p&gt;Opener:
+Start in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement&#x2F;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (🪄🔥2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5736&quot;&gt;&lt;&#x2F;span&gt; Firestorm (Optional)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement (🔥&#x2F;🔥)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Then press all of your skills off cooldown. It honestly doesn&#x27;t matter too much which order you push your buttons in, as long as you try your best to hit them off cooldown. I personally press most of my buttons from left to right on the keyboard for this build, as it is easier that way.&lt;&#x2F;p&gt;
+&lt;p&gt;Do take note that some skills have no cooldown and can be simultaneously cast with other skills. These are:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5678&quot;&gt;&lt;&#x2F;span&gt; Fire Shield&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40183&quot;&gt;&lt;&#x2F;span&gt; Primordial Stance&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;alternative-traits-skills&quot;&gt;Alternative traits&#x2F;skills&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5635&quot;&gt;&lt;&#x2F;span&gt; Arcane Echo (in ranged fights (Fire Wall x 2) or when more CC (Gale x 2) is needed)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44926&quot;&gt;&lt;&#x2F;span&gt; Stone Resonance (open world or for survivability)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5536&quot;&gt;&lt;&#x2F;span&gt; Lightning Flash (for kiting&#x2F;ball collection)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;You have to prepare your CC skills in advance. Staying in air is a DPS loss. You do play DPS catch-up after doing the necessary CC and resetting your opener which triggers &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2131&quot;&gt;&lt;&#x2F;span&gt; Elements of Rage.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;CC Rotation 400-800:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement 🌩️&#x2F;🔥&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement 🔥&#x2F;🌩️&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5635&quot;&gt;&lt;&#x2F;span&gt; Arcane Echo (Optional)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5562&quot;&gt;&lt;&#x2F;span&gt; Gale (🌩️5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5562&quot;&gt;&lt;&#x2F;span&gt; Gale (If Echoed)&lt;&#x2F;li&gt;
+&lt;li&gt;Opener&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Use Fire-only skills and utilities while you are attuned to 🌩️&#x2F;🔥 or 🔥&#x2F;🌩️. Due to the nature of how Weaver works, on certain fights where there is no damage during CC phase, this may result in a DPS increase. However repeatedly doing &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement will result in a DPS loss because of how Inferno works.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;It may not be worthwhile to echo &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5687&quot;&gt;&lt;&#x2F;span&gt; Updraft if you are taking dagger because it does a lot less CC.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Additional CC can be done, for example attuning to water and bringing arcane wave, but these will result in a massive drop in DPS.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;pP9vOoFX4vY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;Our benches are 39.2k DPS without infusions and 40.5k DPS with infusions.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;You can surpass 41k if you delay Primordial Stance charges till when the boss is below 50% health, this is a golem gimmick and serves at most minimal effectiveness on actual fights.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Exothermic Stimulus[DPS]</title>
+        <published>2025-08-22T00:00:00+00:00</published>
+        <updated>2025-08-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/hybrid-catalyst/"/>
+        <id>https://aw2.help/builds/hybrid-catalyst/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/hybrid-catalyst/">&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;With the addition of Major Grandmaster trait &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1675&quot;&gt;&lt;&#x2F;span&gt; Inferno, burning you do now scales off of your Power instead of Condition Damage. This build attempts to maximise this trait by staying in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement as much as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;This build does basically 50&#x2F;50 split of your total damage in Burning and Power, making it a Hybrid DPS build.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80248&quot; data-armory-80248-upgrades=&quot;24797&quot; data-armory-80248-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80131&quot; data-armory-80131-upgrades=&quot;24797&quot; data-armory-80131-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80190&quot; data-armory-80190-upgrades=&quot;24797&quot; data-armory-80190-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80111&quot; data-armory-80111-upgrades=&quot;24797&quot; data-armory-80111-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80356&quot; data-armory-80356-upgrades=&quot;24797&quot; data-armory-80356-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80399&quot; data-armory-80399-upgrades=&quot;24797&quot; data-armory-80399-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;96221&quot; 
+		data-armory-96221-upgrades=&quot;24624&quot;
+		data-armory-96221-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Scepter&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Smoldering&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;97165&quot; 
+		data-armory-97165-upgrades=&quot;24618&quot;
+		data-armory-97165-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Focus&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24618&quot;&gt;&lt;&#x2F;span&gt; Accuracy&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;74155&quot; 
+	data-armory-74155-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;95380&quot; 
+	data-armory-95380-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;81908&quot; 
+	data-armory-81908-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91048&quot; 
+	data-armory-91048-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;93105&quot; 
+	data-armory-93105-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91234&quot; 
+	data-armory-91234-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;100262&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Fireworks &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91709&quot;&gt;&lt;&#x2F;span&gt; Plate of Coq Au Vin with Salsa or &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;12467&quot;&gt;&lt;&#x2F;span&gt; Plate of Truffle Steak&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;78305&quot;&gt;&lt;&#x2F;span&gt; Superior Sharpening Stone&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQYfPSkfQyZ0AHQA+BrLAMsAcwC+AVABJgAAAAAAAAAAAAAAAAAAAAAAAAADVgAxAC8AAA==&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;5503,62965,5542,5734,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,41,67&#x27; data-armory-31-traits=&#x27;296,334,1675&#x27; data-armory-41-traits=&#x27;232,1502,226&#x27; data-armory-67-traits=&#x27;2252,2247,2241&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Your rotation consists solely of a priority list of buttons to press.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Priority:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62813&quot;&gt;&lt;&#x2F;span&gt; Deploy Jade Sphere --&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62965&quot;&gt;&lt;&#x2F;span&gt; Relentless Fire (skip if &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62965&quot;&gt;&lt;&#x2F;span&gt; Relentless Fire is on cooldown)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5678&quot;&gt;&lt;&#x2F;span&gt; Fire Shield (Focus Fire 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;51711&quot;&gt;&lt;&#x2F;span&gt; Transmute Fire (Focus Fire 5 Flip)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5734&quot;&gt;&lt;&#x2F;span&gt; Glyph of Storms&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5542&quot;&gt;&lt;&#x2F;span&gt; Signet of Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;25499&quot;&gt;&lt;&#x2F;span&gt; Flame Barrage&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;It is important to press &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2) as much as possible as they are both blast finishers. In an actual fight, there will be many fields placed by your allies that you will be continuously blasting, but on the golem the only fields you have are from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;62813&quot;&gt;&lt;&#x2F;span&gt; Deploy Jade Sphere and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4). Therefore you might find yourself doing more damage in a fight than on the golem, especially since this build is not designed to maximise self blast finishers.&lt;&#x2F;p&gt;
+&lt;p&gt;However, outside of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2), it honestly doesn&#x27;t matter too much which order you push your buttons in, as long as you try your best to hit them off cooldown. I personally press most of my buttons from left to right on the keyboard for this build, as it is easier that way.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5538&quot;&gt;&lt;&#x2F;span&gt; Shatterstone (Scepter Water 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5556&quot;&gt;&lt;&#x2F;span&gt; Freezing Gust (Focus Water 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5490&quot;&gt;&lt;&#x2F;span&gt; Comet (Focus Water 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5694&quot;&gt;&lt;&#x2F;span&gt; Blinding Flash (Scepter Air 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5562&quot;&gt;&lt;&#x2F;span&gt; Gale (Focus Air 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5696&quot;&gt;&lt;&#x2F;span&gt; Dust Devil (Scepter Earth 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5555&quot;&gt;&lt;&#x2F;span&gt; Magnetic Wave (Focus Earth 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;This may seem overwhelming at first, but you can simply follow the below simplified CC rotation.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Simplified CC Rotation:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5495&quot;&gt;&lt;&#x2F;span&gt; Earth Attunement 3 4&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement 3 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement 2 4 5&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Swap back to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement as soon as it is off cooldown, and continue your rotation from there. You can continue pressing every skill off cooldown while you are waiting in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;9MQt965gKwc&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Into the Inferno [DPS]</title>
+        <published>2025-07-02T00:00:00+00:00</published>
+        <updated>2025-09-16T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/hybrid-tempest/"/>
+        <id>https://aw2.help/builds/hybrid-tempest/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/hybrid-tempest/">&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Press everything off cooldown while in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement.&lt;&#x2F;p&gt;
+&lt;p&gt;With the addition of Major Grandmaster trait &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1675&quot;&gt;&lt;&#x2F;span&gt; Inferno, burning you do now scales off of your Power instead of Condition Damage. This build attempts to maximise this trait by staying in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement as much as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;This build does ~55% of your total damage in Burning, with the remaining ~45% in Power, easily making it a Hybrid DPS build.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80248&quot; data-armory-80248-upgrades=&quot;24797&quot; data-armory-80248-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80131&quot; data-armory-80131-upgrades=&quot;24797&quot; data-armory-80131-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80190&quot; data-armory-80190-upgrades=&quot;24797&quot; data-armory-80190-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80111&quot; data-armory-80111-upgrades=&quot;24797&quot; data-armory-80111-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80356&quot; data-armory-80356-upgrades=&quot;24797&quot; data-armory-80356-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80399&quot; data-armory-80399-upgrades=&quot;24797&quot; data-armory-80399-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24797&quot;&gt;&lt;&#x2F;span&gt; Flame Legion&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;96221&quot; 
+		data-armory-96221-upgrades=&quot;24624&quot;
+		data-armory-96221-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Scepter&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Smoldering&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;97165&quot; 
+		data-armory-97165-upgrades=&quot;44944&quot;
+		data-armory-97165-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Focus&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+		data-armory-ids=&quot;44944&quot;&gt;&lt;&#x2F;span&gt; Bursting&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;74155&quot; 
+	data-armory-74155-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;95380&quot; 
+	data-armory-95380-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;81908&quot; 
+	data-armory-81908-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91048&quot; 
+	data-armory-91048-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;93105&quot; 
+	data-armory-93105-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;91234&quot; 
+	data-armory-91234-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; 
+	data-armory-ids=&quot;100262&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Fireworks &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91709&quot;&gt;&lt;&#x2F;span&gt; Plate of Coq Au Vin with Salsa or &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;12467&quot;&gt;&lt;&#x2F;span&gt; Plate of Truffle Steak&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;78305&quot;&gt;&lt;&#x2F;span&gt; Superior Sharpening Stone&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQYfPSkfMBd0AHQAwxLLAMsAcwC+AVABJgAAAAAAAAAAAAAAAAAAAAAAAAADVgAvAAkBAA==&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;5503,30662,5542,5734,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,41,48&#x27; data-armory-31-traits=&#x27;296,334,1675&#x27; data-armory-41-traits=&#x27;232,1502,226&#x27; data-armory-48-traits=&#x27;1886,1891,1839&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Your rotation consists of a simple opener and a &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement priority.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Opener:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Always be in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5736&quot;&gt;&lt;&#x2F;span&gt; Firestorm&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5678&quot;&gt;&lt;&#x2F;span&gt; Fire Shield (Focus Fire 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29706&quot;&gt;&lt;&#x2F;span&gt; Overload Fire&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement Priority:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29706&quot;&gt;&lt;&#x2F;span&gt; Overload Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5675&quot;&gt;&lt;&#x2F;span&gt; Phoenix (Scepter Fire 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5692&quot;&gt;&lt;&#x2F;span&gt; Dragon&#x27;s Tooth (Scepter Fire 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5736&quot;&gt;&lt;&#x2F;span&gt; Firestorm (&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5734&quot;&gt;&lt;&#x2F;span&gt; Glyph of Storms in &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5542&quot;&gt;&lt;&#x2F;span&gt; Signet of Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5678&quot;&gt;&lt;&#x2F;span&gt; Fire Shield (Focus Fire 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5666&quot;&gt;&lt;&#x2F;span&gt; Glyph of Elementals&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;This build relies heavily on landing &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4) to maintain &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100947&quot;&gt;&lt;&#x2F;span&gt; Relic of Fireworks uptime. Each tick of damage from the fire field generated by &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5497&quot;&gt;&lt;&#x2F;span&gt; Flamewall (Focus Fire 4) resets &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100947&quot;&gt;&lt;&#x2F;span&gt; Relic of Fireworks duration, allowing you to easily maintain 100% updtime with just 1 skill and no cooldown management.&lt;&#x2F;p&gt;
+&lt;p&gt;You should also:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Cast Off Cooldown:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30662&quot;&gt;&lt;&#x2F;span&gt; &quot;Feel the Burn!&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;25499&quot;&gt;&lt;&#x2F;span&gt; Flame Barrage&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;All of these skills have no cast time and can be cast anytime, even during &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29706&quot;&gt;&lt;&#x2F;span&gt; Overload Fire.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Your CC skills are:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;CC Skills:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5538&quot;&gt;&lt;&#x2F;span&gt; Shatterstone (Scepter Water 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5556&quot;&gt;&lt;&#x2F;span&gt; Freezing Gust (Focus Water 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5490&quot;&gt;&lt;&#x2F;span&gt; Comet (Focus Water 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5694&quot;&gt;&lt;&#x2F;span&gt; Blinding Flash (Scepter Air 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5562&quot;&gt;&lt;&#x2F;span&gt; Gale (Focus Air 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5696&quot;&gt;&lt;&#x2F;span&gt; Dust Devil (Scepter Earth 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5555&quot;&gt;&lt;&#x2F;span&gt; Magnetic Wave (Focus Earth 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;To CC, perform the following:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Simplified CC Rotation:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement 2 4 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement 3 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5495&quot;&gt;&lt;&#x2F;span&gt; Earth Attunement 3 4&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Then return to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement as soon as you are able to.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;VDgnMjoZvdc&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Celestial Elements [aHeal]</title>
+        <published>2024-07-13T00:00:00+00:00</published>
+        <updated>2025-09-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/alac-hybrid-tempest/"/>
+        <id>https://aw2.help/builds/alac-hybrid-tempest/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/alac-hybrid-tempest/">&lt;p&gt;This build is an extension of the condition tempest build. With scepter benefiting from power damage increases, this condition build can scale with multiple stats, making it a great performer in doing multiple roles at once. While this build has a low skill floor, it does have a high toughness and players should be expected to tank. Swapping to water and air for CC is not detrimental compared to camping fire and is included as part of the rotation.&lt;&#x2F;p&gt;
+&lt;p&gt;The nature of overloads reduce the physical intensity of the build but this is not a low cognition build. Spending more time exploring the class and reading through the tooltips and guides will help improve your play. The rotation is not hard to perform but the options available are not obvious to a new player. This guide will hence be longer and more detailed than others, with the main focus on a general well-rounded build, and options to scale defensively or offensively. The available choices are not limited to the options presented in this guide.&lt;&#x2F;p&gt;
+&lt;p&gt;It is now possible to provide alacrity without using Overload via &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1986&quot;&gt;&lt;&#x2F;span&gt; Elemental Bastion, this provides a more forgiving alternative for gameplay.&lt;&#x2F;p&gt;
+&lt;p&gt;This build aims at achieving the following goals (in order of priority):&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Provide 100% Alacrity&lt;&#x2F;li&gt;
+&lt;li&gt;Provide necessary boons&lt;&#x2F;li&gt;
+&lt;li&gt;Provide adequate Heals&lt;&#x2F;li&gt;
+&lt;li&gt;Provide DPS that you can afford&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;small&gt;Do attempt to provide 10k or more DPS or you might want to consider playing a pure heal setup instead&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing-and-consumables&quot;&gt;Gearing and Consumables&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gw2skills.net&#x2F;editor&#x2F;?PGgEsEWGBbhVxuYk4oK52+B-DyIY1ohvMSoASMB046ANBYzCA-e&quot;&gt;Optimised loadout with infusions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Equipment&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Rune&#x2F;Sigil&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;All Armor&lt;&#x2F;td&gt;&lt;td&gt;Celestial&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24732&quot;&gt;&lt;&#x2F;span&gt; Superior Rune of Divinity&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Scepter (MH)&lt;&#x2F;td&gt;&lt;td&gt;Celestial&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Smoldering&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Warhorn (OH)&lt;&#x2F;td&gt;&lt;td&gt;Celestial&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24551&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Water&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;All Trinkets&lt;&#x2F;td&gt;&lt;td&gt;Celestial&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Relic	(Heal)&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;101268&quot;&gt;&lt;&#x2F;span&gt; Relic of Karakosa&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Relic (DPS)&lt;&#x2F;td&gt;&lt;td&gt;N&#x2F;A&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt; Relic of the Fractal&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Being cost-effective: Celestial stat is a good pick because it is a core stat and can be obtained from the Wizard&#x27;s Vault. You may also just use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;78122&quot;&gt;&lt;&#x2F;span&gt; Level-80 Equipment Package gear. The default runes and sigils are low-cost.&lt;&#x2F;em&gt;&lt;&#x2F;small&gt;
+&lt;small&gt;&lt;em&gt;You may switch &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Smoldering to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;74326&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Transference if you need more heals.&lt;&#x2F;em&gt;&lt;&#x2F;small&gt;
+&lt;small&gt;&lt;em&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;99965&quot;&gt;&lt;&#x2F;span&gt; Relic of the Flock is overrated and its purpose of converting extra heals into effective heals via barrier is negated by the fact &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29535&quot;&gt;&lt;&#x2F;span&gt; &quot;Wash the Pain Away!&quot; already does so by triggering multiple heals&lt;&#x2F;em&gt;&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;food&quot;&gt;Food&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91748&quot;&gt;&lt;&#x2F;span&gt; Spherified Oyster Soup with Mint Garnish OR&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;95241&quot;&gt;&lt;&#x2F;span&gt; Feast of Delectable Birthday Cake (Budget&#x2F;Free)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;utility&quot;&gt;Utility&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67528&quot;&gt;&lt;&#x2F;span&gt; Bountiful Maintenance Oil&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;hybrid-dps-alac&quot;&gt;Hybrid DPS Alac&lt;&#x2F;h4&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQYfFREuMD&#x2F;HEgAAwxIAAHIAAADLAAAAJgAAAAAAAAAAAAAAAAAAAAAAAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;29535,30662,5502,5542,5666&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;31,17,48&#x27; data-armory-31-traits=&#x27;296,325,1510&#x27; data-armory-17-traits=&#x27;363,349,361&#x27; data-armory-48-traits=&#x27;1886,2015,1986&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h4 id=&quot;general-house-rules&quot;&gt;General House Rules&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Swapping traits and skills is a science and you must be knowledgeable on what you can afford to remove.&lt;&#x2F;li&gt;
+&lt;li&gt;Alacrity is your number 1 responsiblity, so use your aura and overload skills first.&lt;&#x2F;li&gt;
+&lt;li&gt;Be prepared to tank as you have a relatively high toughness.&lt;&#x2F;li&gt;
+&lt;li&gt;Both water and air attunement offer CC, but you can bring more skills for CC.&lt;&#x2F;li&gt;
+&lt;li&gt;Hybrid builds have a lot of give and take and toe the line to bring &#x27;just enough&#x27;, so you need to adjust the build to the strengths of your team composition.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;basics-of-healing&quot;&gt;Basics of Healing&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;alacrity-tempest&quot;&gt;Alacrity Tempest&lt;&#x2F;h4&gt;
+&lt;p&gt;In order to provide alacrity, you will need share auras. The aura-sharing skills are:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29706&quot;&gt;&lt;&#x2F;span&gt; Overload Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29618&quot;&gt;&lt;&#x2F;span&gt; Overload Earth&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29415&quot;&gt;&lt;&#x2F;span&gt; Overload Water (only as an emergency heal)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30662&quot;&gt;&lt;&#x2F;span&gt; &quot;Feel the Burn!&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29948&quot;&gt;&lt;&#x2F;span&gt; &quot;Flash-Freeze!&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30432&quot;&gt;&lt;&#x2F;span&gt; &quot;Aftershock!&quot;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Overloads reduce the APM of the build greatly.&lt;&#x2F;em&gt;&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;healing-over-time&quot;&gt;Healing Over Time&lt;&#x2F;h4&gt;
+&lt;p&gt;Tempest has reliable heal over time mechanics, primarily due to long lasting regeneration and soothing mist. In order to maintain soothing mist, water attunement must always be included as a bridge to swapping elements. Each time you swap into water, you provide 10s of soothing mist.
+Therefore a simplified elemental cycle will be:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29706&quot;&gt;&lt;&#x2F;span&gt; Overload Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5495&quot;&gt;&lt;&#x2F;span&gt; Earth Attunement&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;providing-boons&quot;&gt;Providing Boons&lt;&#x2F;h4&gt;
+&lt;p&gt;Healers also need to provide boons but some healers are missing certain key boons eg. Scourge doesn’t have swiftness. There are two ways to provide swiftness,&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30008&quot;&gt;&lt;&#x2F;span&gt; Cyclone (not 100% uptime)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30047&quot;&gt;&lt;&#x2F;span&gt; &quot;Eye of the Storm!&quot; (not 100% uptime)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Thus some players will squeeze air into the rotation.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;burst-heals&quot;&gt;Burst Heals&lt;&#x2F;h4&gt;
+&lt;p&gt;You have several options for burst heals:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;101268&quot;&gt;&lt;&#x2F;span&gt; Relic of Karakosa is the ideal pick that does a solid heal:&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Part of your fire rotation as long as &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29533&quot;&gt;&lt;&#x2F;span&gt; Wildfire (Fire WH5) is not on cooldown.&lt;&#x2F;li&gt;
+&lt;li&gt;Use with water fields for a more potent area heal (this can be tricky, see point 2.)&lt;&#x2F;li&gt;
+&lt;li&gt;Blasting fields provided by other allies&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Blasting Water fields (water 5)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Blasting Water fields gives an extremely strong triple heal effect. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30446&quot;&gt;&lt;&#x2F;span&gt; Water Globe is no longer fleeting and you can pair it with Earth or Fire blast skills.&lt;&#x2F;li&gt;
+&lt;li&gt;For other options you need to swap elements to access other blast abilities.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29535&quot;&gt;&lt;&#x2F;span&gt; &quot;Wash the Pain Away!&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29415&quot;&gt;&lt;&#x2F;span&gt; Overload Water&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;condi-cleanses&quot;&gt;Condi Cleanses&lt;&#x2F;h4&gt;
+&lt;p&gt;You need to bring &#x27;enough&#x27; condi cleanses.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;358&quot;&gt;&lt;&#x2F;span&gt; Cleansing Wave (minor DPS loss)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;362&quot;&gt;&lt;&#x2F;span&gt; Cleansing Water (moderate healing loss)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;340&quot;&gt;&lt;&#x2F;span&gt; Smothering Auras (moderate DPS loss)&lt;&#x2F;li&gt;
+&lt;li&gt;Combo: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;361&quot;&gt;&lt;&#x2F;span&gt; Powerful Aura + &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1886&quot;&gt;&lt;&#x2F;span&gt; Unstable Conduit + &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;340&quot;&gt;&lt;&#x2F;span&gt; Smothering Auras&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;If you need anything more than this, Cele Scourge may be a better option.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mastering-the-elements&quot;&gt;Mastering the Elements&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;elemental-cycle&quot;&gt;Elemental Cycle&lt;&#x2F;h4&gt;
+&lt;p&gt;Full Elemental rotation: Our rotation is simply just F1 F2 F3 F4, then F4 F3 F2 F1&lt;&#x2F;p&gt;
+&lt;p&gt;F1-F4&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29706&quot;&gt;&lt;&#x2F;span&gt; Overload Fire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement (optional)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5495&quot;&gt;&lt;&#x2F;span&gt; Earth Attunement&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;F4-F1 (reverse)&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29618&quot;&gt;&lt;&#x2F;span&gt; Overload Earth&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement (optional)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;dps-rotation&quot;&gt;DPS Rotation&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;strong&gt;(Start in Fire) F1-F4&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;F1 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29706&quot;&gt;&lt;&#x2F;span&gt; Overload Fire&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;F2 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;use Water 5&#x2F;4&#x2F;3 (1 skill if available)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;F3 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement (optional)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;use Air 5&#x2F;4&#x2F;3 (1 skill if available)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;F4 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5495&quot;&gt;&lt;&#x2F;span&gt; Earth Attunement&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;use Earth 5 to 1 in descending order&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;F4-F1 (reverse)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;F4 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29618&quot;&gt;&lt;&#x2F;span&gt; Overload Earth&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;F3 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement (optional)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;use Air 5&#x2F;4&#x2F;3 (1 skill if available)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;F2 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5493&quot;&gt;&lt;&#x2F;span&gt; Water Attunement&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;use Water 5&#x2F;4&#x2F;3 (1 skill if available)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;F1 &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5492&quot;&gt;&lt;&#x2F;span&gt; Fire Attunement&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;use Fire 5 to 1 in descending order&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;crowd-control-rotation&quot;&gt;Crowd Control rotation&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30864&quot;&gt;&lt;&#x2F;span&gt; Tidal Surge (Wh4 while attuned to water)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30008&quot;&gt;&lt;&#x2F;span&gt; Cyclone (Wh4 while attuned to air)&lt;&#x2F;li&gt;
+&lt;li&gt;Other soft CC skills&lt;&#x2F;li&gt;
+&lt;li&gt;Additional Adaptions for CC&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5567&quot;&gt;&lt;&#x2F;span&gt; Conjure Frost Bow -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5721&quot;&gt;&lt;&#x2F;span&gt; Deep Freeze&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;25491&quot;&gt;&lt;&#x2F;span&gt; Glyph of Elementals -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;25492&quot;&gt;&lt;&#x2F;span&gt; Crashing Waves (Also works as a spike heal)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;optimisation&quot;&gt;Optimisation&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;omitting-air&quot;&gt;Omitting Air&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5494&quot;&gt;&lt;&#x2F;span&gt; Air Attunement is always optional in the rotation. This can be omitted in order to speed up the elemental cycle for various reasons:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;You need to get access to water faster.&lt;&#x2F;li&gt;
+&lt;li&gt;You already have sufficient swiftness.&lt;&#x2F;li&gt;
+&lt;li&gt;You need to blast your water field.&lt;&#x2F;li&gt;
+&lt;li&gt;You need to reapply certain boons.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Check with your team regarding the boons that you need to cover.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;raid-ready&quot;&gt;Raid Ready&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;W1 Vale Guardian - You should be able to heal through greens pretty easily. Blast your healing fields before and after greens happen. Reserve &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29415&quot;&gt;&lt;&#x2F;span&gt; Overload Water for emergencies.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Gorseval - You may want to bring stability and aegis for this fight. Immobilising with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5571&quot;&gt;&lt;&#x2F;span&gt; Signet of Earth is also useful during the split phase.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Sabetha - Probably not a good idea to flak kite due to the way alac is distributed, unless you want to stay really close to the party. You can however use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5536&quot;&gt;&lt;&#x2F;span&gt; Lightning Flash to navigate past flame wall, which is pretty nifty.&lt;&#x2F;li&gt;
+&lt;li&gt;W2 Slothasor - You will need to bring more condition cleanses for this fight and in doing so, will sacrifice damage&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Tower - This build can solo towers due to its moderate damage, high defenses, empowered protection and passive healing (even when you get knocked down). Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100676&quot;&gt;&lt;&#x2F;span&gt; Relic of Vampirism if you need survivability and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1902&quot;&gt;&lt;&#x2F;span&gt; Harmonious Conduit for stability. You can use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30864&quot;&gt;&lt;&#x2F;span&gt; Tidal Surge as a push.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Xera - This build can tank xera and clear crystals at the same time.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Cairn - This build is excellent on this fight. Be careful of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5685&quot;&gt;&lt;&#x2F;span&gt; Magnetic Aura as it can kill your allies.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Mursaat Overseer - Healing is not a priority and you can opt for more damage choices. You should however retain survival options for jade armors and the resultant death nova.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Samarog - Healing through this fight is extremely easy. CC however is quite a pain and you may consider bringing &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5567&quot;&gt;&lt;&#x2F;span&gt; Conjure Frost Bow for CC. Otherwise try to bait as the tank if you can.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Deimos - Due to your high toughness, you are likely to tank and will function as a great tank. Group aegis through &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30432&quot;&gt;&lt;&#x2F;span&gt; &quot;Aftershock!&quot; is extremely effective in CM! Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5641&quot;&gt;&lt;&#x2F;span&gt; Arcane Shield as a non-interruptible backup.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Soulless Horror - You have enough toughness to tank this fight, enough damage to contribute. CC is going to be your biggest weakness. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5536&quot;&gt;&lt;&#x2F;span&gt; Lightning Flash can navigate through walls.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Dhuum - With your toughness, you will probably tank on this fight. You may opt to bring movement skills if you are doing the green mechanic (G3) as the tank.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Conjured Amalgamate - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29968&quot;&gt;&lt;&#x2F;span&gt; &quot;Rebound!&quot; is often used to bypass the clap mechanic on your subgroup.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Twin Largos - This build does well tanking on either lanes for this fight.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Qadim - Your CCs are not particularly super responsive so you need to know the fight well.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Adina - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;5685&quot;&gt;&lt;&#x2F;span&gt; Magnetic Aura is pretty cool on this fight.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 QTP - You are probably not the best tank on the list, but not the worst either. Unlike other tanks you can&#x27;t exactly sit comfortably on the roads mechanic with damage mitigation strategies and you probably will accidentally point your cones in the wrong direction if you aren&#x27;t careful enough.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;pitfalls-and-special-roles&quot;&gt;Pitfalls and Special Roles&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Just in case the other healer has 2k toughness and you are considering, Tempest in general does not perform as a better hand kite than other alternatives. You have to change a lot of things in the build which is outside the scope of this guide.&lt;&#x2F;li&gt;
+&lt;li&gt;You need to sacrifice a lot to be able do significant condi cleanses. It is viable but isn&#x27;t a great performer on slothasor.&lt;&#x2F;li&gt;
+&lt;li&gt;The reflects on elementalist can be a little janky on Matthias. I recommend sticking to the tradition of using mesmers and guardians.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;dps-benchmark-18k&quot;&gt;DPS benchmark (18k)&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;uydaDvc9xZI&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+
+This bench is done with only birthday cake and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;101268&quot;&gt;&lt;&#x2F;span&gt; Relic of Karakosa and no infusions&#x2F;utilities and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2033&quot;&gt;&lt;&#x2F;span&gt; Lucid Singularity. In our testing, the &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1986&quot;&gt;&lt;&#x2F;span&gt; Elemental Bastion does equal amounts of damage and maintains alacrity equally well. In low pressure fights, you may use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt; Relic of the Fractal, utilities and infusions to easily punch above 20k DPS.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;olc-demo-explanatory-video&quot;&gt;OLC demo - Explanatory Video&lt;&#x2F;h4&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;bCPk1Cz5AW8&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Seraph of the Sand [aHeal]</title>
+        <published>2024-05-20T00:00:00+00:00</published>
+        <updated>2025-09-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/alac-hybrid-scourge/"/>
+        <id>https://aw2.help/builds/alac-hybrid-scourge/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/alac-hybrid-scourge/">&lt;p&gt;This guide explains how hybrid scourge works and how it assists with training runs, low experience practice runs and in statics. This build does rely on a relatively high APM but the order of presses is irrelevant to performance so long as you don&#x27;t greed DPS and remember to prioritise group alacrity. The forgiving nature of the build allows you to vent your frustrations on the keyboard after a stressful day. Scourge also allows barrier to be pulsed even when disabled.
+This build is functional in both open world and instanced content. There is an optional amount of gear swaps that can be done to slide it towards being a stronger healer. While this build has a low skill floor, it does have a high toughness and users should be expected to tank. Tanking isn&#x27;t terribly difficult on this build however.
+For older raids, the build is less optimal than other celestial variants after the recent change to transfusion. The lack of responsive burst heals is the greatest weakness of the class. However this class is still favored in end game content for its two-way teleport ability via &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing-and-consumables&quot;&gt;Gearing and Consumables&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gw2skills.net&#x2F;editor&#x2F;?PSAFsEm6XZGMQmEDiRiF70&#x2F;zH-DSRYVRP1kHaI5CPkEECdpCyVCo0jBBIc9wrJAzW8KA-e&quot;&gt;Optimised loadout with infusions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Armor&#x2F;Trinkets: Seraph Set but fill other pieces with other stats up to condi duration cap and the desired amount of healing&#x2F;toughness.&lt;&#x2F;li&gt;
+&lt;li&gt;Alt Stats: Celestial&#x27;s (recommended)&#x2F;Ritualist&#x27;s&#x2F;Viper&#x27;s&#x2F;Plaguedoctor&#x27;s&#x2F;Minstrels (For tanking)&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Weapons (set 1): Pistol&#x2F;Torch (Offensive)&lt;&#x2F;li&gt;
+&lt;li&gt;Weapons (alt): Sceptre&#x2F;Warhorn (Defensive)&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;weapon-alternatives&quot;&gt;Weapon Alternatives&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Weapons (alt): Dagger&#x2F;Torch (Healing&#x2F;Boonstrip)&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-3-1&quot;&gt;&lt;a href=&quot;#fn-3&quot;&gt;[3]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;runes&quot;&gt;Runes&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;76166&quot;&gt;&lt;&#x2F;span&gt; Superior Rune of the Tempest&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;sigils&quot;&gt;Sigils&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48911&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Torment
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24583&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Demons
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24624&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Smoldering (Torch)&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;relic&quot;&gt;Relic&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt; Relic of the Fractal&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;food&quot;&gt;Food&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91748&quot;&gt;&lt;&#x2F;span&gt; Spherified Oyster Soup with Mint Garnish OR
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;95241&quot;&gt;&lt;&#x2F;span&gt; Feast of Delectable Birthday Cake (Budget&#x2F;Free)&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;utility&quot;&gt;Utility&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67185&quot;&gt;&lt;&#x2F;span&gt; Krait Tuning Crystal&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;hybrid-dps-alac&quot;&gt;Hybrid DPS Alac&lt;&#x2F;h4&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQgnNhM&#x2F;PD4SAAAAgAAAACEXAAAkFwAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;10527,10544,41615,42935,10549&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;39,19,60&#x27; data-armory-39-traits=&#x27;2013,816,801&#x27; data-armory-19-traits=&#x27;1876,1844,778&#x27; data-armory-60-traits=&#x27;2074,2123,2080&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;alternatives&quot;&gt;Alternatives&lt;&#x2F;h2&gt;
+&lt;p&gt;You have many options to play around with other traits and utilities. Necromancer just has so many useful skills that you may not seem obvious at first glance.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;traits&quot;&gt;Traits&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Take &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2167&quot;&gt;&lt;&#x2F;span&gt; Abrasive Grit where condi cleanses and extra might are needed.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;789&quot;&gt;&lt;&#x2F;span&gt; Life from Death and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1844&quot;&gt;&lt;&#x2F;span&gt; Vampiric Presence are competing traits. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1844&quot;&gt;&lt;&#x2F;span&gt; Vampiric Presence provides more DPS, weaker heals but has less active interaction required.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;utilities&quot;&gt;Utilities&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10589&quot;&gt;&lt;&#x2F;span&gt; Summon Shadow Fiend may not be suitable on certain bosses that remove minions.
+&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41615&quot;&gt;&lt;&#x2F;span&gt; Serpent Siphon is a good group Aegis and Barrier skill.
+Swap for &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10611&quot;&gt;&lt;&#x2F;span&gt; Signet of Undeath and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10589&quot;&gt;&lt;&#x2F;span&gt; Summon Shadow Fiend if the APM is too high.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;general-house-rules&quot;&gt;General House Rules:&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Swapping traits and skills is a science and you must be knowledgeable on what you can afford to remove.&lt;&#x2F;li&gt;
+&lt;li&gt;Might and Alacrity are your primary responsiblities, so use your might generation and barrier skills first.&lt;&#x2F;li&gt;
+&lt;li&gt;Be prepared to tank as you have a relatively high toughness.&lt;&#x2F;li&gt;
+&lt;li&gt;Both your offensive and defensive sets offer CC, but you can bring more skills for CC.&lt;&#x2F;li&gt;
+&lt;li&gt;Hybrid builds have a lot of give and take and toe the line to bring &#x27;just enough&#x27;, so you need to adjust the build to the strengths of your team composition.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;rotation-and-utilities&quot;&gt;Rotation and Utilities&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Cast &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44946&quot;&gt;&lt;&#x2F;span&gt; Manifest Sand Shade and pulse barrier through &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;43448&quot;&gt;&lt;&#x2F;span&gt; Sand Cascade and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44663&quot;&gt;&lt;&#x2F;span&gt; Desert Shroud.&lt;&#x2F;li&gt;
+&lt;li&gt;Use all your skills on cooldown except &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar (F3) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10611&quot;&gt;&lt;&#x2F;span&gt; Signet of Undeath&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar with a dodge roll to trigger &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;778&quot;&gt;&lt;&#x2F;span&gt; Transfusion&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Always be on top of a sand shade. Your skills hit like wet noodles without it. Being on shroud keeps your condition duration at 100%.&lt;&#x2F;em&gt;&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;crowd-control-rotation&quot;&gt;Crowd Control rotation&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Both sets of weapons have CC via &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44296&quot;&gt;&lt;&#x2F;span&gt; Oppressive Collapse(Torch 5) and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10556&quot;&gt;&lt;&#x2F;span&gt; Wail of Doom(Warhorn 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar (F3) can be also used for CC but you may need to reserve this for revive for certain fights.&lt;&#x2F;li&gt;
+&lt;li&gt;You may bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10646&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Golem if you need more CC.&lt;&#x2F;li&gt;
+&lt;li&gt;You may bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10620&quot;&gt;&lt;&#x2F;span&gt; Spectral Grasp if you need to pull adds and have extra CC.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;optimisation&quot;&gt;Optimisation&lt;&#x2F;h2&gt;
+&lt;p&gt;Check with your team regarding the boons that you need to cover. If there is already might overcap, you may drop certain skills for more utilities. You can also make an educated guess by looking at the classes the other players are playing, the weapons equipped etc. By default, your build provides Might, Fury, Alacrity, Protection, Regeneration and Aegis but some may not hit 100% uptime. Although Scourge can provide 10-man stability, this area of effect is really small and groups must be really organised to make full use of it. You may also opt to rearrange the subgroup to put tankier classes with the hybrid healer.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;strike-ready&quot;&gt;Strike Ready&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Boneskinner - While it sounds like it is a huge responsibility to play as a carry scourge, you don&#x27;t die as easily because you have more vitality and higher toughness. Take &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;780&quot;&gt;&lt;&#x2F;span&gt; Ritual of Life and use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar sparingly.&lt;&#x2F;li&gt;
+&lt;li&gt;Whisper of Jormag - Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10543&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Wurm in the middle during the ball phase.&lt;&#x2F;li&gt;
+&lt;li&gt;Harvest Temple - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell is really useful to reposition players behind the ball. Swapping to pistol grants more hits against the ball.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;raid-ready&quot;&gt;Raid Ready&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;W1 Vale Guardian - Be prepared to tank the fight. If you are not the tank, you may opt to go to the red guardian during splits, which gives the condi team added survivability. Barrier trivialises the green mechanic. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;51647&quot;&gt;&lt;&#x2F;span&gt; Devouring Darkness removes boons from the blue guardian.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Gorseval - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10532&quot;&gt;&lt;&#x2F;span&gt; Grasping Dead is a long reliable cripple during the split phase.&lt;&#x2F;li&gt;
+&lt;li&gt;W1 Sabetha - If you bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell, you may be able to serve as a cannon backup. You can &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell through the flame wall.&lt;&#x2F;li&gt;
+&lt;li&gt;W2 Slothasor - This build excels on this fight. Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;2167&quot;&gt;&lt;&#x2F;span&gt; Abrasive Grit for a very strong condi cleanse. Projectile blocks from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10689&quot;&gt;&lt;&#x2F;span&gt; Corrosive Poison Cloud are sometimes useful. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10620&quot;&gt;&lt;&#x2F;span&gt; Spectral Grasp is useful against slublings.&lt;&#x2F;li&gt;
+&lt;li&gt;W2 Matthias - Do not use any projectile blocks unless you know when to use them.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Stronghold of the Faithful - This build can solo towers but it is a little slow, remember to bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40274&quot;&gt;&lt;&#x2F;span&gt; Trail of Anguish for stability&#x2F;break stun.&lt;&#x2F;li&gt;
+&lt;li&gt;W3 Keep Construct - Be prepared to tank this fight. This build doesn&#x27;t excel in this fight, relying mostly on condis. However, you will still outdps other healers due to the power coefficients on some weapons that feed off your celestial gear.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Cairn - This build excels on this fight in every way.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Samarog - Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10646&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Golem for added CC. You can also use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10647&quot;&gt;&lt;&#x2F;span&gt; Charge to push Rigom towards the boss. Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10532&quot;&gt;&lt;&#x2F;span&gt; Grasping Dead for a prolonged cripple and fear from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10556&quot;&gt;&lt;&#x2F;span&gt; Wail of Doom to steer him back towards the boss if he gets too close.&lt;&#x2F;li&gt;
+&lt;li&gt;W4 Deimos CM - &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41615&quot;&gt;&lt;&#x2F;span&gt; Serpent Siphon is a good aoe Aegis.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Soulless Horror - Your team can &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell through walls.&lt;&#x2F;li&gt;
+&lt;li&gt;W5 Dhuum - This build functions as a decent Tank&#x2F;G3 in an experienced group but you can&#x27;t carry too many mistakes as your healing output is lower.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Conjured Amalgamate - This build is not very good for damage on this fight. However, it is not an absolute contraindication to bring this build. If your team only has 1 rebound elementalist&#x2F;nature&#x27;s renewal druid, be sure to be on the same group as them so your revive can save the other subgroup after the clap mechanic.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Twin Largos - This build excels on this fight. The right lane (Kenut) favors condition builds. Bring &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10646&quot;&gt;&lt;&#x2F;span&gt; Summon Flesh Golem for added CC.&lt;&#x2F;li&gt;
+&lt;li&gt;W6 Qadim - This build can Kite Qadim, Tank Wyverns or even solo Lamp.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Sabir - Projectile blocks from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10689&quot;&gt;&lt;&#x2F;span&gt; Corrosive Poison Cloud is useful. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;44428&quot;&gt;&lt;&#x2F;span&gt; Garish Pillar is very helpful for players who can&#x27;t do tornado jumps.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Adina - Projectile blocks from &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;10689&quot;&gt;&lt;&#x2F;span&gt; Corrosive Poison Cloud is useful although not as good as a Ventari Bubble. You can no longer pull allies who identify themselves as sandsharks.&lt;&#x2F;li&gt;
+&lt;li&gt;W7 Qadim the Peerless - Consider taking North pylon as you be tanky enough to handle misplaced boss attacks. &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42917&quot;&gt;&lt;&#x2F;span&gt; Sand Swell does not have the teleport range of other kiters so you need to start moving early.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;&#x2F;h2&gt;
+&lt;p&gt;I have benched the build with &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;95241&quot;&gt;&lt;&#x2F;span&gt; Feast of Delectable Birthday Cake and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67185&quot;&gt;&lt;&#x2F;span&gt; Krait Tuning Crystal, with infusions and no weapon swaps.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;dps-benchmark-18-8k&quot;&gt;DPS benchmark (18.8k)&lt;&#x2F;h4&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;8lBgmakjHAk&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;Being cost-effective: Celestial stat is a good pick because it is a core stat and can be obtained from the Wizard&#x27;s Vault. Your armor requirements will vary depending on your infusions and you may need additional expertise to hit 100% condition duration. Adding more Celestial stats is an option &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;Weapon swap to warhorn for extra heals. Use torch as default for extra DPS. &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-3&quot;&gt;
+&lt;p&gt;Dagger allows more heals through the trait &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;788&quot;&gt;&lt;&#x2F;span&gt; Overflowing Thirst &lt;a href=&quot;#fr-3-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+</feed>

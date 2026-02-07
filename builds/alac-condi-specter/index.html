@@ -1,0 +1,404 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=361e707899e0e8ebd479" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Blade of Alacrity [aDPS] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="This build is designed around empowered poison&#x2F;bleeding and Dagger bursts." />
+  <link rel="canonical" href="https://aw2.help/builds/alac-condi-specter/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, specter, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/alac-condi-specter/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/alac-condi-specter/" />
+  <meta property="og:description" content="This build is designed around empowered poison&#x2F;bleeding and Dagger bursts." />
+  <meta name="twitter:description" content="This build is designed around empowered poison&#x2F;bleeding and Dagger bursts." />
+  <meta property="og:title" content="Blade of Alacrity [aDPS] | Accessibility Wars" />
+  <meta name="twitter:title" content="Blade of Alacrity [aDPS] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/specter.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/specter.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2025-09-03" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/specter.jpg');"><div class="boxed"><span style="float: right;"><h3>30k DPS</h3></span><h1><a href="https://aw2.help/builds/alac-condi-specter/">Blade of Alacrity [aDPS]</a></h1>
+	<p><i>Condition Alacrity Specter featuring empowered poison/bleeding and Dagger bursts</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/xellink/">xellink</a> <span class="rpad"></span> June 07, 2024 <span class="rpad"></span>Updated: September 03, 2025 <span class="rpad"></span> [ <a href="https://aw2.help/categories/solo/">solo </a><a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/scepter/">scepter</a>  #<a href="https://aw2.help/tags/dagger/">dagger</a>  #<a href="https://aw2.help/tags/condition/">condition</a>  #<a href="https://aw2.help/tags/alacrity/">alacrity</a>  #<a href="https://aw2.help/tags/thief/">thief</a>  #<a href="https://aw2.help/tags/specter/">specter</a>  #<a href="https://aw2.help/tags/pof/">pof</a>  #<a href="https://aw2.help/tags/lowcog/">lowcog</a>  #<a href="https://aw2.help/tags/lowphys/">lowphys</a>  #<a href="https://aw2.help/tags/lowrep/">lowrep</a> </span><div>
+                This build requires: PATH OF FIRE
+              </div>
+
+	</div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/thief/">thief (Series)</a>
+        <ol>
+					<li><a href="https://aw2.help/builds/power-deadeye/">Unload Deadeye [pDPS&#x2F;qDPS](32k DPS)</a></li>
+					<li><a href="https://aw2.help/builds/power-daredevil/">Bojutsu [pDPS](34.2k DPS)[19&nbsp;APM]</a></li>
+					<li><a class="scur" href="https://aw2.help/builds/alac-condi-specter/">Blade of Alacrity [aDPS](30k DPS)</a></li> 
+				  
+        </ol>
+      </div>
+    </div>
+	</div>
+
+<p>The purpose of writing this guide is to provide a competent DPS options with good alacrity uptime and decent DPS output in group PVE content. While weapon swaps are not included in the rotation, swapping to another dagger or a ranged option remains viable choices. This build is functional in both open world and instanced content. While this build has a a moderate skill floor, it has a higher achievable damage ceiling once the basics are secured. Because of the differences in condition types and trait interactions, this build is not efficient with torment unless special arrangements are made, thus three loadouts are explored here but this guide assumes you are following the optimised loadout.</p>
+<p>This build requires daggers and unfortunately has a small amount of forced movement. The issues and workarounds with the rotation will be discussed in the guide with a primary focus on accessibility and choosing fights. The featured build is selective for utilities that do not hinder the rotation and has preference for utilities that are multifunctional and smoothens the gameplay experience. Time sensitive skills that disrupt the rotation or involve more button presses may be played situationally and adopted as deemed necessary. This build has intermediate difficulty and although the APM is relatively low, high ping, slow execution and fumbling with your skills can lead to a massive drop in DPS.</p>
+<h2 id="gearing-and-consumables">Gearing and Consumables</h2>
+<h4 id="gw2skills-links">GW2Skills Links</h4>
+<ol>
+<li><a rel="noopener" target="_blank" href="https://gw2skills.net/editor/?PaABgihjlhyOYssJ2IO2W1xcA-DSJYyRP/hUgUISFQliAF+CgmZ8pBqA-e">Optimised Loadout</a></li>
+<li><a rel="noopener" target="_blank" href="https://gw2skills.net/editor/?PaABgitjlhyOYIMW2JO2W/xcA-DSJYyRP/hUgUoLRQkKAF+CgGZ8pBqA-e">Ranged/Mobile Loadout</a></li>
+<li><a rel="noopener" target="_blank" href="http://gw2skills.net/editor/?PaABgitjlhyOYIMW2JO2W3xfA-DSJYyRP/hUgUoLRQkKAFeMgGZ8pBqA-e">Support Loadout</a></li>
+</ol>
+<blockquote>
+<ul>
+<li><small>For the purpose of writing a concise guide, I will be focusing on the optimised dual/triple dagger loadout.</small></li>
+<li><small>The ranged loadout increases torment and scepter use and is aimed at fights where the use of close range dagger attacks become nullified due to boss positioning or mobility. This also assumes that weapon swaps may not be possible.</small></li>
+<li><small> The support loadout takes on barrier via consume shadows and also provides boons such as fury if supply from the healer is lacking.</small></li>
+</ul>
+</blockquote>
+<h4 id="equipment">Equipment</h4>
+<ul>
+<li>Full Ritualist's</li>
+</ul>
+<hr/>
+<table>
+<thead><tr><th>Armor</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80296" data-armory-80296-upgrades="67339" data-armory-80296-stat="1717"></span></td><td>Ritualist's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="67339"></span> Trapper</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80145" data-armory-80145-upgrades="67339" data-armory-80145-stat="1717"></span></td><td>Ritualist's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="67339"></span> Trapper</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80578" data-armory-80578-upgrades="67339" data-armory-80578-stat="1717"></span></td><td>Ritualist's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="67339"></span> Trapper</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80161" data-armory-80161-upgrades="67339" data-armory-80161-stat="1717"></span></td><td>Ritualist's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="67339"></span> Trapper</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80252" data-armory-80252-upgrades="67339" data-armory-80252-stat="1717"></span></td><td>Ritualist's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="67339"></span> Trapper</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80281" data-armory-80281-upgrades="67339" data-armory-80281-stat="1717"></span></td><td>Ritualist's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="67339"></span> Trapper</td></tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="96203" 
+		data-armory-96203-upgrades="24612"
+		data-armory-96203-stat="1717"></span></td>
+	<td>Dagger</td>
+	<td>Ritualist's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="24612"></span> Agony</td>
+</tr>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" s
+		data-armory-ids="96203" 
+		data-armory-96203-upgrades="24609"
+		data-armory-96203-stat="1717"></span></td>
+	<td>Dagger</td>
+	<td>Ritualist's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="24609"></span> Doom</td>
+</tr>
+</tbody></table>
+<hr/>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="74155" 
+	data-armory-74155-stat="1717"></span></td><td>Back item</td><td> Ritualist's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="95380" 
+	data-armory-95380-stat="1717"></span></td><td>Amulet</td><td> Ritualist's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="81908" 
+	data-armory-81908-stat="1717"></span></td><td>Accessory</td><td> Ritualist's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91048" 
+	data-armory-91048-stat="1717"></span></td><td>Accessory</td><td> Ritualist's</td></tr>
+</tbody></table>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="93105" 
+	data-armory-93105-stat="1717"></span></td><td>Ring</td><td> Ritualist's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="91234" 
+	data-armory-91234-stat="1717"></span></td><td>Ring</td><td> Ritualist's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" 
+	data-armory-ids="100153"></span></td><td>Relic</td><td> Fractal </td></tr></tbody></table>
+<hr/>
+- You may swap a few pieces for Viper's for a slight increase in DPS when you are comfortable with the uptime
+<blockquote>
+<p><small>This build is geared similar to <a rel="noopener" target="_blank" href="https://snowcrows.com/builds/raids/thief/condition-alacrity-spectre">SnowCrows</a>. You may find that it worthwhile to reference their build especially if there is minimal boss movement with flexible attack windows.</small></p>
+</blockquote>
+<h4 id="weapon-swap-options">Weapon Swap Options</h4>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" s
+		data-armory-ids="96203" 
+		data-armory-96203-upgrades="74326"
+		data-armory-96203-stat="1717"></span></td>
+	<td>Dagger</td>
+	<td>Ritualist's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="74326"></span> Transference</td>
+</tr>
+</tbody></table>
+ as a third dagger for a small DPS increase [^1]
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="96221" 
+		data-armory-96221-upgrades="72339"
+		data-armory-96221-stat="1717"></span></td>
+	<td>Scepter</td>
+	<td>Ritualist's</td>
+	<td><span class="armory-inline" data-armory-embed="items" 
+		data-armory-ids="72339"></span> Concentration</td>
+</tr>
+ as a ranged option
+<h4 id="food">Food</h4>
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="96578"></span> Plate of Kimchi Pancakes
+There is no need for a budget alternative as this is relatively cheap.
+Consider swapping this for alternatives if you are using budget runes.</li>
+</ul>
+<h4 id="utility">Utility</h4>
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="81079"></span> Magnanimous Tuning Crystal(Condi)</li>
+</ul>
+<h2 id="build">Build</h2>
+<h4 id="alac-dps-optimised">Alac DPS (Optimised)</h4>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQUcGyw1RzkVGwAALwEAAAYbAABUAQAAKAAAAAAAAAAAAAAAAAAAAAAAAAA=<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div data-armory-embed='skills' data-armory-ids='63292,13037,63276,13057,13082'></div><div data-armory-embed='specializations' data-armory-ids='28,44,71' data-armory-28-traits='1164,1292,1291' data-armory-44-traits='1159,1277,1706' data-armory-71-traits='2284,2288,2289'></div>
+<h4 id="trait-alternatives">Trait Alternatives</h4>
+<ol>
+<li><span class="armory-inline" data-armory-embed="traits" data-armory-ids="2275"></span> Consume Shadows is able to provide group barrier if that is missing from your group.<sup class="footnote-reference" id="fr-2-1"><a href="#fn-2">[1]</a></sup></li>
+<li><span class="armory-inline" data-armory-embed="traits" data-armory-ids="2285"></span> Traversing Dusk can refill your shroud meter if you bring wells.<sup class="footnote-reference" id="fr-3-1"><a href="#fn-3">[2]</a></sup></li>
+</ol>
+<h2 id="rotation-and-utilities">Rotation and Utilities</h2>
+<p>Ensure skill 1 on both shroud and daggers are set to autocast. You don't have to complete your auto-attack chain, the damage is negligible and prioritising the chain on top of other skills will lead to a DPS drop.</p>
+<h4 id="rotation">Rotation</h4>
+<p>Precasts - <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13082"></span> Thieves Guild (Elite) and Utilities (use these on cooldown)
+Opener - <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63067"></span> Siphon (F1) and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63155"></span> Enter Shadow Shroud (F2)</p>
+<ol>
+<li>Alacrity Rotation - Perform autos + <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63167"></span> Grasping Shadows (Sh2) + <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63160"></span> Eternal Night (Sh4) on cooldown.<sup class="footnote-reference" id="fr-4-1"><a href="#fn-4">[3]</a></sup></li>
+<li>DPS rotation - Spam <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom (D3)<sup class="footnote-reference" id="fr-5-1"><a href="#fn-5">[4]</a></sup></li>
+<li>Cast utilities and <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63067"></span> Siphon (F1) during/after step 2.<sup class="footnote-reference" id="fr-6-1"><a href="#fn-6">[5]</a></sup></li>
+<li>Reset the rotation using <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63155"></span> Enter Shadow Shroud (F2).<sup class="footnote-reference" id="fr-7-1"><a href="#fn-7">[6]</a></sup></li>
+</ol>
+<h4 id="utilties">Utilties</h4>
+<ol>
+<li>Utilities to cast on cooldown
+<ul>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13037"></span> Spider Venom</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13093"></span> Devourer Venom</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13028"></span> Caltrops</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="56898"></span> Thousand Needles</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13055"></span> Skale Venom (if taking Scepter)</li>
+</ul>
+</li>
+<li>Optional Situational Utilities
+<ul>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13132"></span> Basilisk Venom</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63323"></span> Well of Bounty</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63292"></span> Well of Gloom</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63276"></span> Well of Sorrow (if taking Scepter/<span class="armory-inline" data-armory-embed="traits" data-armory-ids="2285"></span> Traversing Dusk)</li>
+</ul>
+</li>
+<li>Other Strategic Options
+<ul>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13002"></span> Shadowstep</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13038"></span> Prepare Shadow Portal</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><small>Note: All the utilites are optional as your rotation is predetermined by your weapon and shroud skills.</small></p>
+</blockquote>
+<h4 id="cc-options">CC options</h4>
+<p><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13132"></span> Basilisk Venom is your best CC skill.
+In shroud, you can use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63220"></span> Dawn's Repose(Sh3)/<span class="armory-inline" data-armory-embed="skills" data-armory-ids="63249"></span> Mind Shock(Sh5) to CC</p>
+<h4 id="sustainability">Sustainability</h4>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom (D3) is an evade. You spend almost half the time in evade frames.</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="63155"></span> Enter Shadow Shroud is your second health bar. You spend almost half the time on your second health bar.</li>
+</ol>
+<blockquote>
+<p><small>Taking <span class="armory-inline" data-armory-embed="traits" data-armory-ids="2275"></span> Consume Shadows will obliterate your second health bar but can assist your healers with certain fights if timed well. Use it for group survivabiity.</small></p>
+</blockquote>
+<h2 id="optimisation">Optimisation</h2>
+<h4 id="raid-ready">Raid Ready</h4>
+<ol>
+<li>W1 Vale Guardian - <span class="armory-inline" data-armory-embed="traits" data-armory-ids="2275"></span> Consume Shadows before greens gives your healers a super easy time. <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63220"></span> Dawn's Repose also adds barrier that fears red orbs away. You can take on guardians of any colour and you have a boon strip through <span class="armory-inline" data-armory-embed="traits" data-armory-ids="1277"></span> Bountiful Theft.</li>
+<li>W1 Gorseval - <span class="armory-inline" data-armory-embed="skills" data-armory-ids="56898"></span> Thousand Needles is a prolonged immobilise that can stop spirits in their tracks. It is also a great damage skills which you can precast  before each main boss phase.</li>
+<li>W1 Sabetha - Be careful with <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom during the flamethrower phase. Bring <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13132"></span> Basilisk Venom for Knuckles.</li>
+<li>W2 Bandit Trio - Place thousand needles along saboteur routes.</li>
+<li>W2 Matthias - Bring <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13132"></span> Basilisk Venom to break allies free. Use your shroud CCs if it is not available.</li>
+<li>W3 Escort - The large amounts of HP, cleaves and evades make this a good build to fight on towers solo. You also have plenty of immobilise options for backwarg.</li>
+<li>W4 Cairn - This build is effective on this fight. Stay in shroud and stack alacrity when he is bouncing around/out of reach.</li>
+<li>W4 Mursaat Overseer - Its probably good to bring a thief so you can open the door to the next fight.</li>
+<li>W4 Samarog - Bring <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13132"></span> Basilisk Venom to break allies free but this is only available on alternate break bars. Use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="56898"></span> Thousand Needles or your shroud CCs if it is not available.</li>
+<li>W4 Deimos - <span class="armory-inline" data-armory-embed="skills" data-armory-ids="56898"></span> Thousand Needles can be used when prides are nearby. <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom can drop you in the oil so have bit of clearance.</li>
+<li>W5 Soulless Horror - You may use your wells/shadowsteps to get through walls. Bring <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13132"></span> Basilisk Venom as failing the breakbar is of dire consequence.</li>
+<li>W5 Dhuum - Shadowstep is good for this fight, especially CM! Using <span class="armory-inline" data-armory-embed="skills" data-armory-ids="63155"></span> Enter Shadow Shroud at 10% skips the ball collection phase.</li>
+<li>W6 Twin Largos - Right lane (Kenut) is favourable for condition damage. If timed well, you can use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom (🗡️3) to dodge the wave. If you need a wider window, evading drops <span class="armory-inline" data-armory-embed="skills" data-armory-ids="14136"></span> Lesser Caltrops too, which is still pretty nifty.</li>
+<li>W6 Qadim - You will probably be joining the main squad. <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom (🗡️3) can be used to dodge the main boss's wave. You may also precast CCs during sub-boss phases.</li>
+<li>W7 Adina - Shadowstep options help you move around the arena quickly and can be used in advanced tactics in statics, use your imagination.</li>
+<li>W7 Sabir - Try not to blindly <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom into the red tornado.</li>
+</ol>
+<h4 id="consider-an-alternative-build-for">Consider an alternative build for</h4>
+<ol>
+<li>W2 Slothasor - This build does not perform well on Slothasor as conditions reset when he sleeps. Bringing a power option is recommended but this is not a strict contraindication.</li>
+<li>W3 Keep Construct - Bringing a power option is recommended but this is not a strict contraindication.</li>
+<li>W3 Xera - Bringing a power option is recommended but this is not a strict contraindication.</li>
+<li>W6 Conjured Amalgamate - Bringing a power option is recommended.</li>
+<li>W7 Qadim the Peerless - If you need to pylon kite, just play a deadeye.</li>
+</ol>
+<hr><ol class="footnotes-list">
+<li id="fn-2">
+<p>Barriers scale according to your vitality so investment into healing power is not necessary. <a href="#fr-2-1">↩</a></p>
+</li>
+<li id="fn-3">
+<p>This scales to more than 5 players, and is very useful in open world nd Raids/Strikes, less so in fractals. <a href="#fr-3-1">↩</a></p>
+</li>
+<li id="fn-4">
+<p>You may need to stay in shroud for a longer period of time (due to range or to extend alacrity) <a href="#fr-4-1">↩</a></p>
+</li>
+<li id="fn-5">
+<p>Note: Your shroud skill may be non-responsive and doesn't queue well after <span class="armory-inline" data-armory-embed="skills" data-armory-ids="13006"></span> Death Blossom (D3)'s aftercast. Using a utility when you are out of initiative to smoothen that. <a href="#fr-5-1">↩</a></p>
+</li>
+<li id="fn-6">
+<p>Some of these have no cast time and can be done mid animation. <a href="#fr-6-1">↩</a></p>
+</li>
+<li id="fn-7">
+<p>This rotation is surprisingly short, you need to enter shroud as soon as you can and not muck about <a href="#fr-7-1">↩</a></p>
+</li>
+</ol>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/thief/">Series</a>
+        <ol>
+			
+      <li><a href="https://aw2.help/builds/power-deadeye/" title=" Benchmark: 32k DPS"
+	>Unload Deadeye [pDPS&#x2F;qDPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/power-daredevil/" title=" Benchmark: 34.2k DPS 19&nbsp;APM"
+	>Bojutsu [pDPS]</a></li>
+			
+      <li><a class="scur" href="https://aw2.help/builds/alac-condi-specter/" title=" Benchmark: 30k DPS"
+>Blade of Alacrity [aDPS]</a></li>
+    
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#gearing-and-consumables">Gearing and Consumables</a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div>
+			<a href="#rotation-and-utilities">Rotation and Utilities</a>
+		  </div><div>
+			<a href="#optimisation">Optimisation</a>
+		  </div>
+		</div>
+		<div class="blockdiv">
+		  <h2 class="b s150">Balance</h2>
+			<p style="color: LightGreen;">2026-01</p>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer><span class="topout">
+<span class="topleft"> </span><a href="#" class="top" title="Back to Top"><i class="svgs svgh angu"></i></a>
+</span>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

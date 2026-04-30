@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - soulbeast</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/specs/soulbeast/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-03-27T00:00:00+00:00</updated>
+    <id>https://aw2.help/specs/soulbeast/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Beastblade [pDPS]</title>
+        <published>2024-03-27T00:00:00+00:00</published>
+        <updated>2024-03-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/power-soulbeast/"/>
+        <id>https://aw2.help/builds/power-soulbeast/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/power-soulbeast/">&lt;p&gt;A power-based soulbeast build. This build relies on a single combo, but otherwise boils down to just hitting buttons when they&#x27;re off cooldown.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80296&quot; data-armory-80296-upgrades=&quot;24836&quot; data-armory-80296-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24836&quot;&gt;&lt;&#x2F;span&gt; Scholar&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80145&quot; data-armory-80145-upgrades=&quot;24836&quot; data-armory-80145-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24836&quot;&gt;&lt;&#x2F;span&gt; Scholar&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80578&quot; data-armory-80578-upgrades=&quot;24836&quot; data-armory-80578-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24836&quot;&gt;&lt;&#x2F;span&gt; Scholar&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80161&quot; data-armory-80161-upgrades=&quot;24836&quot; data-armory-80161-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24836&quot;&gt;&lt;&#x2F;span&gt; Scholar&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80252&quot; data-armory-80252-upgrades=&quot;24836&quot; data-armory-80252-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24836&quot;&gt;&lt;&#x2F;span&gt; Scholar&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80281&quot; data-armory-80281-upgrades=&quot;24836&quot; data-armory-80281-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24836&quot;&gt;&lt;&#x2F;span&gt; Scholar&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table class=&quot;weapontable&quot;&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Weapon&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;95675&quot;
+		data-armory-95675-upgrades=&quot;24615&quot;
+		data-armory-95675-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Sword&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;24615&quot;&gt;&lt;&#x2F;span&gt; Force&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; s
+		data-armory-ids=&quot;96937&quot;
+		data-armory-96937-upgrades=&quot;24868&quot;
+		data-armory-96937-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;
+	&lt;td&gt;Axe&lt;&#x2F;td&gt;
+	&lt;td&gt;Berserker&#x27;s&lt;&#x2F;td&gt;
+	&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+		data-armory-ids=&quot;24868&quot;&gt;&lt;&#x2F;span&gt; Impact&lt;&#x2F;td&gt;
+&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;74155&quot;
+	data-armory-74155-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;95380&quot;
+	data-armory-95380-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;81908&quot;
+	data-armory-81908-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;91048&quot;
+	data-armory-91048-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;93105&quot;
+	data-armory-93105-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;91234&quot;
+	data-armory-91234-stat=&quot;1077&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Berserker&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;100916&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Thief &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Consumables:
+&lt;ul&gt;
+&lt;li&gt;Cilantro Lime Sous-Vide Steak (Power&#x2F;Ferocity)&lt;&#x2F;li&gt;
+&lt;li&gt;Superior Sharpening Stone (Power)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQQeOSA6NzqhAAAApQEAALUAAACsAQAALhYAACcAAAAAAAAAAAAAAAAAAAADMwBaAAUABGf3AADd9gAAm&#x2F;YAAOj2AAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;peticon&quot; style=&quot;background: url(&#x27;https:&#x2F;&#x2F;render.guildwars2.com&#x2F;file&#x2F;CE671613E510096E1E0FA1ABCA6AD668900F03E1&#x2F;52610.png&#x27;) 50% 50% no-repeat;&quot;&gt;Juvenile Pig&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;12489,12633,12492,12491,45717&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;30,32,55&#x27; data-armory-30-traits=&#x27;1069,1700,1888&#x27; data-armory-32-traits=&#x27;1072,1047,1066&#x27; data-armory-55-traits=&#x27;2071,2085,2143&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;p&gt;You have ONE combo to perform in this build, the rest of your skills are pressed off cooldown.&lt;&#x2F;p&gt;
+&lt;p&gt;Here&#x27;s the combo, which you should perform whenever &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12492&quot;&gt;&lt;&#x2F;span&gt; Frost Trap is off cooldown:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12492&quot;&gt;&lt;&#x2F;span&gt; Frost Trap&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12633&quot;&gt;&lt;&#x2F;span&gt; &quot;Sic &#x27;Em!&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45717&quot;&gt;&lt;&#x2F;span&gt; One Wolf Pack&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12639&quot;&gt;&lt;&#x2F;span&gt; Whirling Defense&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;It is very easy to cancel &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12639&quot;&gt;&lt;&#x2F;span&gt; Whirling Defense and you should take utmost care not to cancel it.&lt;&#x2F;p&gt;
+&lt;p&gt;The rest of your skills that you should press off cooldown, preferably in the order stated below, but really in no particular order, are:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41406&quot;&gt;&lt;&#x2F;span&gt; Maul&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12638&quot;&gt;&lt;&#x2F;span&gt; Path of Scars&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;69203&quot;&gt;&lt;&#x2F;span&gt; Pounce&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40729&quot;&gt;&lt;&#x2F;span&gt; Worldly Impact&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Auto attack to fill any gaps.&lt;&#x2F;p&gt;
+&lt;p&gt;Technically using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12482&quot;&gt;&lt;&#x2F;span&gt; Serpent&#x27;s Strike is a DPS increase, but it has a long aftercast and cancelling aftercast is hard so we shall not press it.&lt;&#x2F;p&gt;
+&lt;p&gt;The stated DPS of this build is 34.7k, but in reality this build performs MUCH better in raids. It has the highest burst damage in the game, and with many fights having multiple phases, in which your skills can cooldown between burst windows, Power Soulbeast will really start to shine.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowd-control&quot;&gt;Crowd Control&lt;&#x2F;h2&gt;
+&lt;p&gt;Your CC skills are, in order of how you should use them:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;46432&quot;&gt;&lt;&#x2F;span&gt; Brutal Charge&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12482&quot;&gt;&lt;&#x2F;span&gt; Serpent&#x27;s Strike&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;12491&quot;&gt;&lt;&#x2F;span&gt; Signet of the Wild&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;6fUUBTDFNQI&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+</feed>

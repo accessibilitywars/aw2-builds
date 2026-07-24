@@ -1,0 +1,370 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://aw2.help/js/theme.min.js" integrity="sha384-pb++s6uBRKaQv+iAXpgA/H3IlpLZdO14tTwuCI7uXmz4aaZdByoCcM+6BhynMq/1"></script>
+  <link rel="stylesheet" href="https://aw2.help/abridge.css?h=299308b03b09062b0b0e" />
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="base" content="https://aw2.help" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="theme-color" content="#333333" />
+  <meta name="msapplication-TileColor" content="#333333" />
+  <link rel="manifest" href="https://aw2.help/manifest.min.json" />
+  <link rel="mask-icon" href="https://aw2.help/safari-pinned-tab.svg" color="#ff9900" />
+  <link rel="icon" type="image/svg+xml" href="https://aw2.help/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://aw2.help/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://aw2.help/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://aw2.help/favicon-16x16.png" />
+  <link rel="alternate" type="application/atom+xml" title="Accessibility Wars Atom/RSS Feed" href="https://aw2.help/atom.xml" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <title>Holy Nova [aHeal] | Accessibility Wars</title>
+  <meta name="author" content="AW2" />
+  <meta name="copyright" content="Accessibility Wars" />
+  <meta name="description" content="The hardest part of this build is enduring the glaring amount of light effects. 5, 4, 3, 2, HOLY NOVA!" />
+  <link rel="canonical" href="https://aw2.help/builds/heal-alac-luminary/" />
+  <meta name="keywords" content="Guild Wars 2, GW2, LI, Luminary, accessibility wars, accessibility, accessible, a11y, guild wars 2, gw2, game, fansite, builds, LI, low intensity" />
+  <meta property="og:url" content="https://aw2.help/builds/heal-alac-luminary/" />
+  <meta name="twitter:url" content="https://aw2.help/builds/heal-alac-luminary/" />
+  <meta property="og:description" content="The hardest part of this build is enduring the glaring amount of light effects. 5, 4, 3, 2, HOLY NOVA!" />
+  <meta name="twitter:description" content="The hardest part of this build is enduring the glaring amount of light effects. 5, 4, 3, 2, HOLY NOVA!" />
+  <meta property="og:title" content="Holy Nova [aHeal] | Accessibility Wars" />
+  <meta name="twitter:title" content="Holy Nova [aHeal] | Accessibility Wars" />
+  <meta property="og:image" content="https://aw2.help/images/specs/luminary.jpg" />
+  <meta property="og:image:width" content="647" />
+  <meta property="og:image:height" content="136" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://aw2.help/images/specs/luminary.jpg" />
+  <meta name="twitter:image:width" content="647" />
+  <meta name="twitter:image:height" content="136" />
+  <meta property="og:site_name" content="Accessibility Wars" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:updated_time" content="2026-07-16" />
+  <script defer src="https://aw2.help/js/abridge_nopwa.min.js?h=8442828faf62aeeb06cc" integrity="sha384-fe1/px0iuiAytN9SlS0F8uHXKk3P7UZwQWG+PDkhgP0ME96uFxSD2gOcTEG6xyrx"></script>
+  <noscript><link rel="stylesheet" href="https://aw2.help/nojs.css" /></noscript>
+</head>
+<body>
+  <header><nav>
+      <div><h1><a href="https://aw2.help" title="Accessibility Wars"><img class="logo" src="https://aw2.help/images/AW.png" alt="AW" width="64" height="64" /></a></h1></div>
+      <div>
+        <div>
+          <ul class="dropdown-menu">
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/about/"> Info 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/about/"> About / Mission </a><a class="s120" href="https://aw2.help/philosophy/"> Our Philosophy </a><a class="s120" href="https://aw2.help/guides/"> Guides </a></div>
+                	</div>
+					<li><div class="dropdown">
+					<a class="s150" href="https://aw2.help/tags/"> Builds 🔽
+					</a>
+					<div class="dropdown-content"><a class="s120" href="https://aw2.help/specs/"> ... by Profession </a><a class="s120" href="https://aw2.help/tags/"> ... by Tag </a><a class="s120" href="https://aw2.help/categories/"> ... by Mode </a><a class="s120" href="https://aw2.help/balance/"> ... by Balance </a></div>
+                	</div><li><i type="reset" id="mode" class="js svgs adjust"></i></ul>
+        </div>
+
+        <div>
+          <div>
+            <form autocomplete=off class="js" name="goSearch" id="searchbox">
+              <div class="searchd">
+                <input id="searchinput" type="text" placeholder="Search" title="Search" data-stork="stork"  />
+                <button type="submit" title="Search" class="svgs search"></button>
+              </div>
+              <div class="results"><div id="suggestions" data-stork="stork-output" ></div></div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://opencollective.com/accessibility-wars/contribute" target="_blank">
+          <img src="https://opencollective.com/accessibility-wars/contribute/button@2x.png?color=blue" width=250 />
+        </a>
+      </div>
+    </nav>
+  </header>
+  <main>
+
+    <article><div class="buildheader" style="background-image: url('https://aw2.help/images/specs/luminary.jpg');"><div class="boxed"><h1><a href="https://aw2.help/builds/heal-alac-luminary/">Holy Nova [aHeal]</a></h1>
+	<p><i>The hardest part of this build is enduring the glaring amount of light effects. 5, 4, 3, 2, HOLY NOVA!</i></p>
+
+      <span class="s95">
+          <a href="https://aw2.help/authors/xellink/">xellink</a> <span class="rpad"></span> May 17, 2026 <span class="rpad"></span>Updated: July 16, 2026 <span class="rpad"></span> [ <a href="https://aw2.help/categories/solo/">solo </a><a href="https://aw2.help/categories/group/">group </a>] #<a href="https://aw2.help/tags/spear/">spear</a>  #<a href="https://aw2.help/tags/heal/">heal</a>  #<a href="https://aw2.help/tags/alacrity/">alacrity</a>  #<a href="https://aw2.help/tags/guardian/">guardian</a>  #<a href="https://aw2.help/tags/luminary/">luminary</a>  #<a href="https://aw2.help/tags/voe/">voe</a>  #<a href="https://aw2.help/tags/jw/">jw</a>  #<a href="https://aw2.help/tags/lowcog/">lowcog</a>  #<a href="https://aw2.help/tags/lowphys/">lowphys</a>  #<a href="https://aw2.help/tags/lowrep/">lowrep</a> </span><div>
+                This build requires: JANTHIR WILDS, VISIONS OF ETERNITY
+              </div>
+
+	</div>
+    <div class="blockdiv">
+      Balance Patch:
+        <span style="color: LightGreen;">2026-07</span>
+    </div>
+
+    
+        <div class="block">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/guardian/">guardian (Series)</a>
+        <ol>
+					<li><a href="https://aw2.help/builds/power-dragonhunter/">Symbolic Dragonhammer [pDPS](31k DPS)</a></li>
+					<li><a href="https://aw2.help/builds/heal-alac-willbender/">Symbolic Healbender [aHeal]</a></li>
+					<li><a href="https://aw2.help/builds/condi-willbender/">Flamebender [cDPS](37.2k DPS)[53&nbsp;APM]</a></li>
+					<li><a class="scur" href="https://aw2.help/builds/heal-alac-luminary/">Holy Nova [aHeal]</a></li> 
+				  
+        </ol>
+      </div>
+    </div>
+	</div>
+
+<p>This is a very accessible build that relies on an excessive amount of healing, CC, condi cleanses and utilites, more than you will ever need. Ideally, the build should function as a low-toughness healer.</p>
+<p>This build is low cognition, has very few repetitions and is functional in instanced content. Although the maximum APM of the build is quite high, you probably can survive without mashing keys due to how much healing is baked into the core guardian and Luminary kit. This build requires only one weapon with no requirement of a weapon swap although you must interact with the Luminary's Forge ability.</p>
+<p>There is an excessive amount of light effects on this build and you may wish to adjust your graphics settings if the intensity is too high.</p>
+<h1 id="gearing">Gearing</h1>
+<h2 id="equipment">Equipment</h2>
+<hr/>
+<table>
+<thead><tr><th>Armor</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80384" data-armory-80384-upgrades="24842" data-armory-80384-stat="1377"></span></td><td>Harrier's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24842"></span> Monk</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80435" data-armory-80435-upgrades="24842" data-armory-80435-stat="1377"></span></td><td>Harrier's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24842"></span> Monk</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80254" data-armory-80254-upgrades="24842" data-armory-80254-stat="1377"></span></td><td>Harrier's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24842"></span> Monk</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80205" data-armory-80205-upgrades="24842" data-armory-80205-stat="1377"></span></td><td>Harrier's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24842"></span> Monk</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80277" data-armory-80277-upgrades="24842" data-armory-80277-stat="1377"></span></td><td>Harrier's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24842"></span> Monk</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="80557" data-armory-80557-upgrades="24842" data-armory-80557-stat="1377"></span></td><td>Harrier's</td><td><span class="armory-inline" data-armory-embed="items" data-armory-ids="24842"></span> Monk</td></tr>
+</tbody></table>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline"
+		data-armory-embed="items"
+		data-armory-ids="30691"
+		data-armory-30691-upgrades="74326,72339"
+		data-armory-30691-stat="1377"></span></td>
+	<td>Spear</td>
+	<td>Harrier's</td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="74326"></span> Transference</td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="72339"></span> Concentration</td>
+</tr>
+</tbody></table>
+<hr/>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items"
+	data-armory-ids="74155"
+	data-armory-74155-stat="1377"></span></td><td>Back item</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items"
+	data-armory-ids="95380"
+	data-armory-95380-stat="1377"></span></td><td>Amulet</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items"
+	data-armory-ids="81908"
+	data-armory-81908-stat="1377"></span></td><td>Accessory</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items"
+	data-armory-ids="91048"
+	data-armory-91048-stat="1377"></span></td><td>Accessory</td><td> Harrier's</td></tr>
+</tbody></table>
+<table><thead><tr><th>Trinkets</th><th>Type</th><th>Stat</th></tr></thead><tbody>
+<tr><td><span class="armory-inline" data-armory-embed="items"
+	data-armory-ids="93105"
+	data-armory-93105-stat="1377"></span></td><td>Ring</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items"
+	data-armory-ids="91234"
+	data-armory-91234-stat="1377"></span></td><td>Ring</td><td> Harrier's</td></tr>
+<tr><td><span class="armory-inline" data-armory-embed="items"
+	data-armory-ids="101268"></span></td><td>Relic</td><td> Karakosa </td></tr></tbody></table>
+<hr/>
+<h4 id="alternate-pieces">Alternate Pieces</h4>
+<table>
+<thead><tr><th>Weapon</th><th>Type</th><th>Stat</th><th>Upgrade</th></tr></thead><tbody>
+<tr>
+	<td><span class="armory-inline"
+		data-armory-embed="items"
+		data-armory-ids="96652"
+		data-armory-96652-upgrades="74326,72339"
+		data-armory-96652-stat="1377"></span></td>
+	<td>Staff</td>
+	<td>Harrier's</td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="74326"></span> Transference</td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td><span class="armory-inline" data-armory-embed="items"
+		data-armory-ids="72339"></span> Concentration</td>
+</tr>
+</tbody></table>
+<hr />
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="99965"></span> Relic of the Flock</li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="101116"></span> Relic of Febe</li>
+</ul>
+<blockquote>
+<p><small><em>Note: Weapon swap is optional. Alternate weapon sets should be prioritised based on utility requirements.</em></small>
+<small><em>Note: Febe gives patchy swiftness coverage but allows you to avoid swapping to staff for <span class="armory-inline" data-armory-embed="skills" data-armory-ids="9143"></span> Symbol of Swiftness.</em></small>
+<small><em>Note: If you do not use these sources of swifness, you will need to take <span class="armory-inline" data-armory-embed="skills" data-armory-ids="9084"></span> "Advance!".</em></small></p>
+</blockquote>
+<h4 id="budget-options">Budget Options</h4>
+<ul>
+<li>Replace <span class="armory-inline" data-armory-embed="items" data-armory-ids="24842"></span> Superior Rune of the Monk with <span class="armory-inline" data-armory-embed="items" data-armory-ids="84171"></span> Superior Rune of Rebirth</li>
+<li>Replace <span class="armory-inline" data-armory-embed="items" data-armory-ids="74326"></span> Superior Sigil of Transference with <span class="armory-inline" data-armory-embed="items" data-armory-ids="24551"></span> Superior Sigil of Water</li>
+</ul>
+<h2 id="consumables">Consumables</h2>
+<ul>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="91690"></span> Bowl of Fruit Salad with Mint Garnish OR <span class="armory-inline" data-armory-embed="items" data-armory-ids="68634"></span> Delicious Rice Ball <em>(budget alternative)</em></li>
+<li><span class="armory-inline" data-armory-embed="items" data-armory-ids="67528"></span> Bountiful Maintenance Oil</li>
+</ul>
+<h1 id="build">Build</h1>
+<p>Heal Alacrity Build</p>
+<pre data-lang="chatlink" class="language-chatlink z-code"><code class="language-chatlink" data-lang="chatlink"><span class="z-source z-chatlink"><span class="z-punctuation z-definition z-string z-begin">[&amp;</span>DQExLS45URVhHTgBVx0tAXgdSAFWHTIBiRIAAAAAAAAAAAAAAAAAAAAAAAACMwAJAQA=<span class="z-punctuation z-definition z-string z-end">]</span>
+</span></code></pre>
+<hr />
+<div data-armory-embed='skills' data-armory-ids='76621,77321,77300,76813,29965'></div><div data-armory-embed='specializations' data-armory-ids='49,46,81' data-armory-49-traits='1899,562,558' data-armory-46-traits='624,610,612' data-armory-81-traits='2410,2330,2368'></div>
+<h4 id="trait-alternatives">Trait Alternatives</h4>
+<ul>
+<li>Bring <span class="armory-inline" data-armory-embed="traits" data-armory-ids="617"></span> Master of Consecrations if you are taking consecrations.</li>
+</ul>
+<ul>
+<li><small><em>This build is a simplified version of the heal alacrity build on <a rel="noopener" target="_blank" href="https://snowcrows.com/builds/raids/guardian/heal-alacrity-luminary-spear-staff">snowcrows</a> with selective preferences for lower intensity. If you are able to adapt to the version on SC, feel free to follow their guide.</em></small></li>
+</ul>
+<h2 id="rotation-and-utilities">Rotation and Utilities</h2>
+<p>The excessive amount of healing provided by this build piles on top of the already flexible healing and support capabilties of the Core Guardian kit. Of note, <span class="armory-inline" data-armory-embed="traits" data-armory-ids="2394"></span> Light's Gift causes <strong>Luminary's Blessing</strong> to heal allies whenever it is refreshed or expires.</p>
+<p>You should not be adjusting the build to try to increase healing but focus on your utilities instead.</p>
+<h4 id="heal-and-alacrity-alac-rotation">Heal and Alacrity Alac Rotation</h4>
+<blockquote>
+<ol>
+<li>Use your virtues before <span class="armory-inline" data-armory-embed="skills" data-armory-ids="77073"></span> Enter Radiant Forge</li>
+<li>Use skills <strong>5-4-3-2</strong> in Forge
+<ul>
+<li>to grant alacrity</li>
+<li>for a strong CC</li>
+<li>To burst heal</li>
+</ul>
+</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="76616"></span> Exit Radiant Forge</li>
+<li>Using any of your utilities will overcap on protection, which can be used on cooldown or reserved
+<ul>
+<li>Reserve <span class="armory-inline" data-armory-embed="skills" data-armory-ids="76621"></span> Resolute Stance for Condi Cleanse and healing</li>
+<li>Reserve <span class="armory-inline" data-armory-embed="skills" data-armory-ids="77321"></span> Stalwart Stance for Aegis</li>
+<li>Reserve <span class="armory-inline" data-armory-embed="skills" data-armory-ids="77300"></span> Valorous Stance for Stability</li>
+<li>Reserve <span class="armory-inline" data-armory-embed="skills" data-armory-ids="76813"></span> Effulgent Stance for extra CC</li>
+<li>Use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="29965"></span> "Feel My Wrath!" on cooldown for extra Fury uptime</li>
+</ul>
+</li>
+<li>Use skills <strong>5-4-3-2</strong> with your spear
+<ul>
+<li>To grant Fury</li>
+<li>For a minor CC</li>
+<li>To burst heal</li>
+</ul>
+</li>
+<li>Repeat step 1 when refreshed.</li>
+</ol>
+</blockquote>
+<ul>
+<li><small>Note: If your might uptime is patchy, consider spamming <span class="armory-inline" data-armory-embed="skills" data-armory-ids="78837"></span> Radiant Justice (F1) during your Forge rotation.</small></li>
+</ul>
+<h4 id="crowd-control-rotation">Crowd Control rotation</h4>
+<ol>
+<li>You have decent CC using only <span class="armory-inline" data-armory-embed="skills" data-armory-ids="76978"></span> Brilliant Slam (Forge 5 Flip)</li>
+<li>You can extend your CC rotation by starting with <span class="armory-inline" data-armory-embed="skills" data-armory-ids="77339"></span> Dazzling Hammer (Forge 2) i.e. 2-5-4-3-2</li>
+<li>Use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="76813"></span> Effulgent Stance for extra CC</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="73132"></span> Symbol of Luminance (Spear 5)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="9128"></span> Sanctuary (Alt Utility Skill)</li>
+</ol>
+<ul>
+<li><small>Note: More options are available but not exhausted in this guide.</small></li>
+</ul>
+<h4 id="condi-cleanses">Condi Cleanses</h4>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="78604"></span> Radiant Resolve (F2)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="77136"></span> Restorative Glow (Forge 3 Flip)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="76621"></span> Resolute Stance (Heal)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="73094"></span> Solar Storm (Spear 4)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="9187"></span> Purging Flames (Alt Utility)</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="9245"></span> Smite Condition (Alt Utility)</li>
+</ol>
+<ul>
+<li><small>Note: It is very unlikely that you will require to use alternate utilities for extra condi cleanses.</small></li>
+</ul>
+<h4 id="situational-utilties-relics">Situational Utilties/Relics</h4>
+<ol>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="9251"></span> Wall of Reflection</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="9253"></span> Hallowed Ground</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="9153"></span> "Stand Your Ground!"</li>
+<li><span class="armory-inline" data-armory-embed="skills" data-armory-ids="9084"></span> "Advance!" (Swiftness)</li>
+</ol>
+<ul>
+<li><small>Note: If you do not use <span class="armory-inline" data-armory-embed="skills" data-armory-ids="9143"></span> Symbol of Swiftness (Staff 3) or <span class="armory-inline" data-armory-embed="items" data-armory-ids="101116"></span> Relic of Febe, you will need alternate sources of swiftness like <span class="armory-inline" data-armory-embed="skills" data-armory-ids="9084"></span> "Advance!".</small></li>
+<li><small>Note: <span class="armory-inline" data-armory-embed="skills" data-armory-ids="9084"></span> "Advance!" has to be used on cooldown for 100% swiftness coverage but you can rely on <span class="armory-inline" data-armory-embed="skills" data-armory-ids="78358"></span> Radiant Courage as an alternate source of Aegis.</small></li>
+<li><small>Note: <span class="armory-inline" data-armory-embed="skills" data-armory-ids="9143"></span> Symbol of Swiftness now grants superspeed on its first pulse.</small></li>
+</ul>
+
+
+<script async src="https://unpkg.com/armory-embeds@^0.x.x/armory-embeds.js"></script>
+    </article>
+
+    <div class="sblock">
+      <div class="blockdiv">
+        <a class="b s150" href="https://aw2.help/tags/guardian/">Series</a>
+        <ol>
+			
+      <li><a href="https://aw2.help/builds/power-dragonhunter/" title=" Benchmark: 31k DPS"
+	>Symbolic Dragonhammer [pDPS]</a></li>
+			
+      <li><a href="https://aw2.help/builds/heal-alac-willbender/" title=""
+	>Symbolic Healbender [aHeal]</a></li>
+			
+      <li><a href="https://aw2.help/builds/condi-willbender/" title=" Benchmark: 37.2k DPS 53&nbsp;APM"
+	>Flamebender [cDPS]</a></li>
+			
+      <li><a class="scur" href="https://aw2.help/builds/heal-alac-luminary/" title=""
+>Holy Nova [aHeal]</a></li>
+    
+        </ol>
+      </div>
+
+      <div class="sblock sticky">
+		<div class="blockdiv">
+		  <a class="b s150" href="#">Index</a><div>
+			<a href="#gearing">Gearing</a>
+		  </div><div class="hpad">
+			<a href="#equipment"><small>- Equipment</small></a>
+		  </div><div class="hpad">
+			<a href="#consumables"><small>- Consumables</small></a>
+		  </div><div>
+			<a href="#build">Build</a>
+		  </div><div class="hpad">
+			<a href="#rotation-and-utilities"><small>- Rotation and Utilities</small></a>
+		  </div>
+		</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="c">
+      <nav><div>
+          <a type="application/atom+xml" href="https://aw2.help/atom.xml" target="_blank" title="Accessibility Wars Atom/RSS Feed"><i type="Button" class="svg rss" title="Accessibility Wars Atom/RSS Feed"></i></a><a href="https://github.com/accessibilitywars/" target="_blank" title="Github"><i type="Button" class="svg github" title="Github"></i></a><a href="https://discord.gg/RaPVKYQPZh" target="_blank" title="Discord"><i type="Button" class="svg discord" title="Discord"></i></a></div></nav>
+          
+      <p class="s90"> © <span id="year">2026</span> Accessibility Wars • Website content is licensed <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+      <nav>
+        <a class="s100" href="https://aw2.help/alternatives/"> Alternatives </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/roadmap/"> Roadmap </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/privacy/"> Privacy </a>&nbsp;|&nbsp;
+        <a class="s100" href="https://aw2.help/sitemap.xml" target="_blank"> Sitemap </a>
+      </nav>
+      <p class="s80">Site built and maintained by: <a href="https://mstdn.games/@berdandy" rel="me">@berdandy</a></p><hr/><p class="s70">NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Guild Wars 2: End of Dragons, Guild Wars 2: Secrets of the Obscure, Guild Wars 2: Janthir Wilds, Guild Wars 2: Visions of Eternity and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation.</p>
+    </div>
+  </footer><span class="topout">
+<span class="topleft"> </span><a href="#" class="top" title="Back to Top"><i class="svgs svgh angu"></i></a>
+</span>
+<script async defer src="https://scripts.withcabin.com/hello.js"></script>
+</body>
+</html>

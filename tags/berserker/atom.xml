@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - berserker</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/berserker/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/berserker/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Bladezerker [qDPS]</title>
+        <published>2026-08-04T00:00:00+00:00</published>
+        <updated>2026-08-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/quickness-condi-berserker/"/>
+        <id>https://aw2.help/builds/quickness-condi-berserker/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/quickness-condi-berserker/">&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;This build relies on the &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1333&quot;&gt;&lt;&#x2F;span&gt; Blademaster and &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1707&quot;&gt;&lt;&#x2F;span&gt; Dual Wielding to commit to dual wielding swords with no weapon swap instead of the standard condition traits. Apart from being easier to play, the build has more regular access to the block skill has reduced cooldown to the block skill { skill(id=&quot;14400&quot;) }} (⚔5) which also contributes to some damage on actual fights.&lt;&#x2F;p&gt;
+&lt;p&gt;You will need to use various skills to upkeep &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30435&quot;&gt;&lt;&#x2F;span&gt; Berserk. If you drop out of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30435&quot;&gt;&lt;&#x2F;span&gt; Berserk, it can be very punishing. However, if perform the skills as required, the state can be sustained and the build becomes very fun and rewarding.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing&quot;&gt;Gearing&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;armor-relic-and-trinkets&quot;&gt;Armor, Relic and Trinkets&lt;&#x2F;h4&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Armor&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Upgrade&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80384&quot; data-armory-80384-upgrades=&quot;67339&quot; data-armory-80384-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80435&quot; data-armory-80435-upgrades=&quot;67339&quot; data-armory-80435-stat=&quot;1379&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Grieving&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80254&quot; data-armory-80254-upgrades=&quot;67339&quot; data-armory-80254-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80205&quot; data-armory-80205-upgrades=&quot;67339&quot; data-armory-80205-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80277&quot; data-armory-80277-upgrades=&quot;67339&quot; data-armory-80277-stat=&quot;1379&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Grieving&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;80557&quot; data-armory-80557-upgrades=&quot;67339&quot; data-armory-80557-stat=&quot;1379&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Grieving&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;74155&quot;
+	data-armory-74155-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Back item&lt;&#x2F;td&gt;&lt;td&gt; Viper&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;95380&quot;
+	data-armory-95380-stat=&quot;1379&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Amulet&lt;&#x2F;td&gt;&lt;td&gt; Grieving&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;81908&quot;
+	data-armory-81908-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Viper&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;91048&quot;
+	data-armory-91048-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Accessory&lt;&#x2F;td&gt;&lt;td&gt; Viper&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Trinkets&lt;&#x2F;th&gt;&lt;th&gt;Type&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;93105&quot;
+	data-armory-93105-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Viper&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;91234&quot;
+	data-armory-91234-stat=&quot;1268&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Ring&lt;&#x2F;td&gt;&lt;td&gt; Viper&#x27;s&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot;
+	data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt;&lt;&#x2F;td&gt;&lt;td&gt;Relic&lt;&#x2F;td&gt;&lt;td&gt; Fractal &lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr&#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;main-weapon-set&quot;&gt;Main Weapon set&lt;&#x2F;h4&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Equipment&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Rune&#x2F;Sigil&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Sword (MH)&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48911&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Torment&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sword (OH)&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24560&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Earth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;optional-equipment-sets&quot;&gt;Optional equipment sets&lt;&#x2F;h4&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Equipment&lt;&#x2F;th&gt;&lt;th&gt;Stat&lt;&#x2F;th&gt;&lt;th&gt;Sigil&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Longbow (2H)&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;44944&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Bursting&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;72339&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Concentration&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;Note: Sinister stats can be used in place of the Grieving pieces.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Note: Boon duration (Ritualist&#x27;s) can be considered in fights where intervals cause you to drop out of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30435&quot;&gt;&lt;&#x2F;span&gt; Berserk.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;food-enhancement&quot;&gt;Food, Enhancement&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91878&quot;&gt;&lt;&#x2F;span&gt; Cilantro and Cured Meat Flatbread&lt;&#x2F;li&gt;
+&lt;li&gt;Food: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;95241&quot;&gt;&lt;&#x2F;span&gt; Feast of Delectable Birthday Cake (Budget)&lt;&#x2F;li&gt;
+&lt;li&gt;Enhancement: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48917&quot;&gt;&lt;&#x2F;span&gt; Toxic Tuning Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;infusions&quot;&gt;Infusions&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;43253&quot;&gt;&lt;&#x2F;span&gt; Malign WvW Infusion (optional)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gw2skills.net&#x2F;editor&#x2F;?PKwAwyNlZwsYUsJWJO+K9NVA-DSRYmRH1kPbI5COl4UA5KBSXI0hIQhHDCQ4agXTKOrgVA-e&quot;&gt;qDPS GW2Skills Link&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQIEHyQ9EiryEqcA3BKtANcSrwCvAAAAwhLuAAAAAAAAAAAAAAAAAAAAAAACWgAjAAA=&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;30189,30074,30258,14410,30343&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;4,36,18&#x27; data-armory-4-traits=&#x27;1444,1449,1437&#x27; data-armory-36-traits=&#x27;1455,1333,1707&#x27; data-armory-18-traits=&#x27;2039,2042,2038&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;opener-optional&quot;&gt;Opener (optional)&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30343&quot;&gt;&lt;&#x2F;span&gt; Head Butt → &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30435&quot;&gt;&lt;&#x2F;span&gt; Berserk&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29923&quot;&gt;&lt;&#x2F;span&gt; Scorched Earth (🏹Burst)(x2 ↔ &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30189&quot;&gt;&lt;&#x2F;span&gt; Blood Reckoning)&lt;&#x2F;li&gt;
+&lt;li&gt;🔁Weapon Swap -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14366&quot;&gt;&lt;&#x2F;span&gt; Savage Leap (⚔2)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;Your opener gives a significant amount of &lt;strong&gt;Quickness&lt;&#x2F;strong&gt;.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30189&quot;&gt;&lt;&#x2F;span&gt; Blood Reckoning allows you to double cast &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;29923&quot;&gt;&lt;&#x2F;span&gt; Scorched Earth (🏹 Burst).&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14366&quot;&gt;&lt;&#x2F;span&gt; Savage Leap provides &lt;strong&gt;Fire Aura&lt;&#x2F;strong&gt; for extra DPS.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Performing&#x2F;Repeating the opener will result in small DPS increases.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;dps-rotation&quot;&gt;DPS Rotation&lt;&#x2F;h4&gt;
+&lt;p&gt;Use the following off-cooldown:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Utilities&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30682&quot;&gt;&lt;&#x2F;span&gt; Flaming Flurry (⚔Burst)(x2 ↔ &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30189&quot;&gt;&lt;&#x2F;span&gt; Blood Reckoning)&lt;&#x2F;li&gt;
+&lt;li&gt;Sword Skills
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14498&quot;&gt;&lt;&#x2F;span&gt; Impale (⚔4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;80247&quot;&gt;&lt;&#x2F;span&gt; Rend (⚔3)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;80203&quot;&gt;&lt;&#x2F;span&gt; Bloodthirster (⚔Burst)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30682&quot;&gt;&lt;&#x2F;span&gt; Flaming Flurry → &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30189&quot;&gt;&lt;&#x2F;span&gt; Blood Reckoning together to double cast your Primal Burst.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30074&quot;&gt;&lt;&#x2F;span&gt; Shattering Blow → &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30343&quot;&gt;&lt;&#x2F;span&gt; Head Butt together to mitigate the stun effect.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30343&quot;&gt;&lt;&#x2F;span&gt; Head Butt helps provide a buffer to upkeep &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30435&quot;&gt;&lt;&#x2F;span&gt; Berserk status.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30258&quot;&gt;&lt;&#x2F;span&gt; Outrage has no cast time and can be simultaneously casted together with other skills. DO NOT delay this skill.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;optimisations-and-cc&quot;&gt;Optimisations and CC.&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14505&quot;&gt;&lt;&#x2F;span&gt; Smoldering Arrow (🏹 4) provides a small CC.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;30343&quot;&gt;&lt;&#x2F;span&gt; Head Butt (Elite) is a strong CC skill.&lt;&#x2F;li&gt;
+&lt;li&gt;Use Bow Skills to upkeep adrenaline and DPS when locked out of range.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14410&quot;&gt;&lt;&#x2F;span&gt; Signet of Fury (when you need &lt;strong&gt;Adrenaline&lt;&#x2F;strong&gt; at range)&lt;&#x2F;li&gt;
+&lt;li&gt;A well timed &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;14400&quot;&gt;&lt;&#x2F;span&gt; Riposte (⚔5) increases damage significantly on actual fights.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;pKEQSvI3VI0&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;This bench is done with ascended gear, food, utilities and no infusions. The numbers are not grinded for and you should be able to easily surpass 30k DPS with optimisations.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

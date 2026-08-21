@@ -1,0 +1,57 @@
+Fiery Might: This trait no longer increases burning damage.
+Familiar's Prowess: Reduced the condition damage bonus from 7% to 5% in PvE only. Reduced the strike damage bonus from 7% to 5% in PvE only.
+Familiar's Focus: Reduced the condition damage bonus from 20% to 15% in PvE only. Reduced the strike damage bonus from 20% to 15% in PvE only.
+Ignite: Consecutive strikes from this skill now increase the burning duration instead of the number of stacks.
+Conflagration: Reduced the burning duration from 6 seconds to 4.5 seconds in PvE only.
+Sunspot: This trait now has a 5-second cooldown when specialized in fire attunement.
+Flame Expulsion: This trait now has a 5-second cooldown when specialized in fire attunement.
+Specialized Elements: Adjusted the basic skill recharge reduction from 2 seconds to 10% of the skill's recharge time. Adjusted the empowered skill recharge reduction from 6 seconds to 20% of the skill's recharge time.
+Electric Enchantment: Reduced the power coefficient from 0.55 to 0.4 in PvE only.
+Zap: Reduced the power coefficient from 0.3257 to 0.261 in PvE only. Reduced the bonus critical damage against marked enemies from 4% to 3% in PvE only.
+Lightning Blitz: Reduced the power coefficient from 0.152 to 0.122 in PvE only.
+Mercurial Tendencies: Increased the cooldown reduction from 2 seconds to 2.5 seconds in PvE only.
+Carbolic Composition: Reduced the poison duration from 6 seconds to 3 seconds in PvE only.
+Willing Host: Reduced the strike damage increase from 15% to 5% and removed the condition damage increase in PvE only.
+Symbiotic Synergy: Increased the morph damage increase from 10% to 33% in PvE only.
+New Genes: Increased the might stacks from 3 to 4 and the might duration from 6 seconds to 12 seconds in PvE only. Increased the Offensive Protocol: Obliterate might duration from 6 seconds to 12 seconds in PvE only.
+Double Helix: Increased the attribute bonus increase from 50% to 100% in PvE only.
+Offensive Protocol: Shred: Reduced the power coefficient per hit from 1.065 to 0.9585 in PvE only.
+Offensive Protocol: Obliterate: Reduced the power coefficient from 3.2 to 2.88 in PvE only.
+Offensive Protocol: Pierce: Reduced the power coefficient from 3.2 to 2.88 in PvE only.
+Offensive Protocol: Demolish: Reduced the spin power coefficient per hit from 1.0 to 0.9 and the smash power coefficient from 2.5 to 2.25 in PvE only.
+Defensive Protocol: Thorns: Reduced the initial power coefficient from 1.5 to 1.0 and the thorns' power coefficient from 1.0 to 0.5 in PvE only.
+Gaseous State: Fixed an issue that prevented this skill from properly removing movement-impairing conditions when applied by different sources.
+Radiant Justice: A warning area is now displayed to enemies only. Increased the explosion power coefficient from 0.91 to 1.05 in PvP and WvW.
+Dazzling Hammer: Reduced the power coefficient from 2.5 to 1.5 in PvE only. Reduced the power coefficient from 0.91 to 0.75 in PvP and WvW.
+Shining Spin: Reduced the power coefficient from 2.25 to 1.55 in PvE only. Reduced the power coefficient from 1.25 to 1.05 in PvP and WvW.
+Gleaming Blade: Reduced the power coefficient from 2.0 to 1.8 in PvE only.
+Radiant Armaments: Reduced the radiant hammer strike damage bonus from 10% to 7% in PvE only.
+Sovereign of Light: Reduced the power coefficient from 2.2 to 1.7 in PvE only.
+Resolute Stance: Reduced the initial ally healing from 6,550 to 3,350.
+Spirit's Strength: Fixed an issue that prevented this trait from affecting spirit skills other than their autoattacks.
+Essence Blast: Reduced the power coefficient from 1.05 to 0.75 in PvE only.
+Splinter Weapon: Reduced the power coefficient from 1.0 to 0.5 in PvE only. Reduced the power coefficient from 0.5 to 0.35 in WvW only.
+Innervate Anguish: Reduced the power coefficient from 1.8 to 1.3 in PvE only.
+Explosive Growth: This trait no longer grants a bonus to outgoing strike damage.
+Lingering Spirits: Reduced the strike damage bonus from 15% to 7% in PvE only.
+Bird of Prey: Reduced the damage increase from 10% to 5% in PvE only.
+Hawkeye: Reduced the power coefficient per hit from 1.6 to 1.36 in PvE only.
+Bluster: Reduced the power coefficient per hit from 0.8 to 0.64 in PvE only.
+Fleeting Zephyr: Reduced the power coefficient from 1.5 to 0.8 in PvE only.
+Quarry's Peril: Reduced the power coefficient from 2.0 to 2.5 in PvE only.
+Release Potential: Assassin: Increased the power coefficient from 1.1 to 1.3 in PvE only.
+Release Potential: Mesmer: Reduced the torment duration from 8 seconds to 6 seconds in PvE only. Reduced the torment count from 5 to 4 in PvE only. Decreased the torment duration increase per affinity from 15% to 10% in all modes.
+Hex-Eater Vortex: Reduced the torment duration from 8 seconds to 5 seconds in PvE only.
+Twin Moon Sweep: Increased the power coefficient from 2.0 to 2.5 in PvE only. Reduced the energy cost from 30 to 25.
+Mistfire: This trait now burns enemies instead of dazing them when Cosmic Wisdom is activated. Reduced the burning duration from 5 seconds to 4 seconds in WvW and PvP.
+Release Potential: Dervish: Increased the casting time by 0.3 seconds.
+Forged Surfer Dash: Increased the radius of the bombs from 80 to 120. Fixed an issue that caused the burning count and duration of the bombs dropped by this skill's beneficial effect to differ from those dropped when the skill is activated.
+Mistburn Mortar: Reduced the burning duration caused by the trait-enhanced version of this skill from 3 seconds to 2.5 seconds in all game modes. Reduced the burning duration from this skill's beneficial effect from 6 seconds to 3 seconds in PvE only.
+Stone Summit Cannon: Reduced the burning duration on regular strikes from 5 seconds to 4 seconds in PvE only. Reduced the burning duration on backfire strikes from 8 seconds to 6 seconds in PvE only.
+Combat High: Reduced the outgoing strike damage and condition damage bonus from 3% per stack to 2% per stack in PvE only.
+Possessive Hoarder: Defensive artifacts now grant alacrity instead of regeneration in PvE only.
+"On Your Knees!": Increased the power coefficient from 0.8 to 1.5 in PvE only.
+"Find Their Weakness!": Increased the power coefficient from 1.0 to 2.0 in PvE only.
+Brisk Pacing: The damage and condition damage increase has been changed from 7.5%/15%/25% to 10%/20%/30% in PvE only.
+Inspiring Implements: This trait now grants adrenaline as well as motivation while swapping weapons and grants additional adrenaline when no refrains are active.
+Pelt: Increased the power coefficient from 2.0 to 2.5 in PvE only.

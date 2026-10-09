@@ -1,0 +1,5 @@
+
+Sitemap: https://aw2.help/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://aw2.help

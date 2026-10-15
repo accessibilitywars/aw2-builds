@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Accessibility Wars - renegade</title>
+    <subtitle>Accessible Builds for the Guild Wars 2 Community</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://aw2.help/tags/renegade/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://aw2.help"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-10-15T00:00:00+00:00</updated>
+    <id>https://aw2.help/tags/renegade/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Serenade Renegade [DPS]</title>
+        <published>2026-10-15T00:00:00+00:00</published>
+        <updated>2026-10-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/condi-renegade/"/>
+        <id>https://aw2.help/builds/condi-renegade/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/condi-renegade/">&lt;p&gt;This is a build for condi renegade, without using charged mists to make it easier to learn and use in content. The goal of this build is
+to avoid charged mists, so that players will not have to actively pay attention to energy management, except when it demon stance as it continuously drains energy.
+This is a great build for those looking to get into content like raids, and does good DPS alongside its low easier rotation (but still higher APM than most AW builds).
+This build has both a melee weapon set and a ranged weapon set, which means that you can use ranged as necessary in content.
+This does not actively provide boons as it is a selfish DPS build.
+The benchmark for this build is 36k with normal food and utility, but with ascended food, a writ for utility, and infusions it can reach just over 37k.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing-and-consumables&quot;&gt;Gearing and Consumables&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Equipment&lt;&#x2F;th&gt;&lt;th&gt;Stats&lt;&#x2F;th&gt;&lt;th&gt;Rune&#x2F;Sigil&#x2F;Relic&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Armor&lt;&#x2F;td&gt;&lt;td&gt;Vipers&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Superior Rune of the Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Short Bow&lt;&#x2F;td&gt;&lt;td&gt;Vipers&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;21141&quot;&gt;&lt;&#x2F;span&gt; Sigil of Earth&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48911&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Torment&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Mace&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24605&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Geomancy&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Axe&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;24609&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Doom&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Trinkets&lt;&#x2F;td&gt;&lt;td&gt;Viper&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt; Relic of the Fractal&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt; . If you are using this in open world, you can take different stats like celestial for better survival.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;food&quot;&gt;Food&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91878&quot;&gt;&lt;&#x2F;span&gt; Cilantro and Cured Meat Flatbread (Best and most expensive food)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;43361&quot;&gt;&lt;&#x2F;span&gt; Koi Cake (Budget food)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;12464&quot;&gt;&lt;&#x2F;span&gt; Rare Veggie Pizza (Budget food)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;84550&quot;&gt;&lt;&#x2F;span&gt; Red-Lentil Saobosa (Budget food)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;41565&quot;&gt;&lt;&#x2F;span&gt; Bowl of Garlic Kale Sautee (Budget food)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt; The budget food options are perfectly fine if you are just getting started, albeit you will have lower DPS as a result.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;enhancement-utility&quot;&gt;Enhancement&#x2F;Utility&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;72510&quot;&gt;&lt;&#x2F;span&gt; Writ of Masterful Malice (Best option and most expensive utility&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48917&quot;&gt;&lt;&#x2F;span&gt; Toxic Tuning Crystal (Budget option for content like raiding)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67524&quot;&gt;&lt;&#x2F;span&gt; Furious Tuning Crystal (Budget option for content like raiding)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48915&quot;&gt;&lt;&#x2F;span&gt; Toxic Sharpening Stone (Budget option)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQkOHQMXPyrcEdwR1BErEgYSBhIrEtQRyhHKEQUEAgQrEgYS1BEAAAAAAAADNQAFAGsAAA==&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-nokey=true data-armory-ids=&#x27;28494,41858&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;28219,27322,27505,27917,28287&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;45686,42949,40485,41220,45773&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;14,3,63&#x27; data-armory-14-traits=&#x27;1793,1714,1795&#x27; data-armory-3-traits=&#x27;1784,1774,1749&#x27; data-armory-63-traits=&#x27;2079,2092,2100&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;opener&quot;&gt;Opener&lt;&#x2F;h4&gt;
+&lt;p&gt;You will start on Kalla&#x2F;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41858&quot;&gt;&lt;&#x2F;span&gt; Legendary Renegade Stance and with Short Bow.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40485&quot;&gt;&lt;&#x2F;span&gt; Icerazor&#x27;s Ire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42949&quot;&gt;&lt;&#x2F;span&gt; Razorclaw&#x27;s Rage&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41829&quot;&gt;&lt;&#x2F;span&gt; Sevenshot (Short Bow 3)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;dps-rotation-loop&quot;&gt;DPS Rotation Loop&lt;&#x2F;h4&gt;
+&lt;p&gt;After Opener and demon + Maxe (mace+axe) loop:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stance swap immediately following the Short Bow 3 from the opener to: Mallyx&#x2F;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28494&quot;&gt;&lt;&#x2F;span&gt; Legendary Demon Stance&lt;&#x2F;li&gt;
+&lt;li&gt;Activate &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28287&quot;&gt;&lt;&#x2F;span&gt; Embrace the Darkness&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon swap to Maxe (mace+axe)
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28357&quot;&gt;&lt;&#x2F;span&gt; Searing Fissure (Mace 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27964&quot;&gt;&lt;&#x2F;span&gt; Echoing Eruption (Mace 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28409&quot;&gt;&lt;&#x2F;span&gt; Temporal Rift (Axe 5)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Use the skills from steps 3 off cool down until you have run out of energy or just enough that you cannot cast another &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28357&quot;&gt;&lt;&#x2F;span&gt; Searing Fissure&lt;&#x2F;li&gt;
+&lt;li&gt;Stance swap to Kalla&#x2F;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41858&quot;&gt;&lt;&#x2F;span&gt; Legendary Renegade Stance
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28357&quot;&gt;&lt;&#x2F;span&gt; Searing Fissure (Mace 2)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Weapon swap to Short Bow.
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;43993&quot;&gt;&lt;&#x2F;span&gt; Spiritcrush (Short Bow 4)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41829&quot;&gt;&lt;&#x2F;span&gt; Sevenshot (Short Bow 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40175&quot;&gt;&lt;&#x2F;span&gt; Bloodbane Path (Short Bow 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40485&quot;&gt;&lt;&#x2F;span&gt; Icerazor&#x27;s Ire&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42949&quot;&gt;&lt;&#x2F;span&gt; Razorclaw&#x27;s Rage&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Use the skills from step 6 off cool down until you can stance swap to Mallyx&#x2F;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28494&quot;&gt;&lt;&#x2F;span&gt; Legendary Demon Stance (Cont. after step 1)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;optimisation&quot;&gt;Optimisation&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;dps-increase&quot;&gt;DPS increase&lt;&#x2F;h4&gt;
+&lt;p&gt;Gaining more DPS is done by performing the rotation faster, raising it from the initial 60 APM to 70 by manually pressing your
+autoattack skill after Short Bow2 and mace 2 as it will cancel the long animation (as long as your castbar has finished).
+The second method is related to gear, as you can equip infusions in ascended&#x2F;legendary items &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;39337&quot;&gt;&lt;&#x2F;span&gt; Malign Infusion, in addition to using the best food and utility.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;cc&quot;&gt;CC&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41820&quot;&gt;&lt;&#x2F;span&gt; Scorchrazor (Short Bow 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27917&quot;&gt;&lt;&#x2F;span&gt; Call to Anguish in Mallyx&#x2F;Demon stance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41220&quot;&gt;&lt;&#x2F;span&gt; Darkrazor&#x27;s Daring in Kalla&#x2F;Renegade stance&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28409&quot;&gt;&lt;&#x2F;span&gt; Temporal Rift (Axe 5)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;raid-ready&quot;&gt;Raid Ready&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Wing 1
+&lt;ul&gt;
+&lt;li&gt;For Vale Guardian, mace 2 may cause you to be teleported it used during the teleport mechanic. Thus, you will want to quickly step out of it to avoid the teleport.&lt;&#x2F;li&gt;
+&lt;li&gt;Sabetha&#x27;s flamewall is an instakill mechanic, however, mace 2 will not take you into her hitbox so you can safely use it during the flamewall if you are behind her or to her side.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Wing 2
+&lt;ul&gt;
+&lt;li&gt;For Sloth, be aware that you may mistakenly pull a friendly slubling with axe 5 so be aware of where it is pointed.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Wing 3
+&lt;ul&gt;
+&lt;li&gt;For Xera&#x27;s pre-event, you can easily take a button and use your Short Bow to destroy the crystal on the second platform.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Wing 4
+&lt;ul&gt;
+&lt;li&gt;For Deimos it is important to remember that your mace 2 may take you into an oil, so be very cautious of when you use it or to omit it entirely when oils spawn.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Wing 5
+&lt;ul&gt;
+&lt;li&gt;For Soulless Horror you must be warry of &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40485&quot;&gt;&lt;&#x2F;span&gt; Icerazor&#x27;s Ire as it can immobilize the tormented dead, and cause trouble for your pusher.&lt;&#x2F;li&gt;
+&lt;li&gt;For Dhuum, in the final 10% you must be outside of his hitbox but within the dome for several of your skills to hit the boss.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Wing 6
+&lt;ul&gt;
+&lt;li&gt;For Twin Largos, you can begin the fight and most platform transitions using the opener and if you have an excess amount of energy then using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42836&quot;&gt;&lt;&#x2F;span&gt; Citadel Bombardment and&#x2F;or &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41820&quot;&gt;&lt;&#x2F;span&gt; Scorchrazor.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Wing 7
+&lt;ul&gt;
+&lt;li&gt;For Adina CM, &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28029&quot;&gt;&lt;&#x2F;span&gt; Frigid Blitz will let you jump over the holes made by pillars.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Wing 8
+&lt;ul&gt;
+&lt;li&gt;For Ura CM&#x2F;LM when the healers are off group you can use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45686&quot;&gt;&lt;&#x2F;span&gt; Breakrazor&#x27;s Bastion as it has a low energy cost, so you can use it to help heal your allies (if needed). You will easily have a first phase of 32 to 33k, but DPS will fall off drastically if you must go off group for mechanics.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;video-demonstration&quot;&gt;Video Demonstration&lt;&#x2F;h2&gt;
+&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;bB41UrYg8yE&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Condi Alacrigade [aDPS]</title>
+        <published>2026-07-31T00:00:00+00:00</published>
+        <updated>2026-07-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://aw2.help/builds/alac-condi-renegade/"/>
+        <id>https://aw2.help/builds/alac-condi-renegade/</id>
+        
+        <content type="html" xml:base="https://aw2.help/builds/alac-condi-renegade/">&lt;p&gt;This is the condition variant of an old but popular build without weapon swaps. The ranged nature of the build allows higher damage uptime
+and a full set of Ritualist&#x27;s gear improves survivability. This build lacks self-boons for solo play.&lt;&#x2F;p&gt;
+&lt;p&gt;Although the rotation is easy to learn, energy management requires active participation and requires players to to swap legends during a narrow window.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gearing-and-consumables&quot;&gt;Gearing and Consumables&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Equipment&lt;&#x2F;th&gt;&lt;th&gt;Stats&lt;&#x2F;th&gt;&lt;th&gt;Rune&#x2F;Sigil&#x2F;Relic&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Armor&lt;&#x2F;td&gt;&lt;td&gt;Ritualist&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;67339&quot;&gt;&lt;&#x2F;span&gt; Superior Rune of the Trapper&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Short Bow&lt;&#x2F;td&gt;&lt;td&gt;Ritualist&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;44950&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Malice&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;48911&quot;&gt;&lt;&#x2F;span&gt; Superior Sigil of Torment&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Trinkets&lt;&#x2F;td&gt;&lt;td&gt;Ritualist&#x27;s&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;100153&quot;&gt;&lt;&#x2F;span&gt; Relic of the Fractal&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;food&quot;&gt;Food&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91878&quot;&gt;&lt;&#x2F;span&gt; Cilantro and Cured Meat Flatbread&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;91804&quot;&gt;&lt;&#x2F;span&gt; Spherified Cilantro Oyster Soup&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;95241&quot;&gt;&lt;&#x2F;span&gt; Feast of Delectable Birthday Cake(budget alternative)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;Using all-stats food can help with alacrity upkeep if you are still learning the rotation&#x2F;using exotics&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;utility&quot;&gt;Utility&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;items&quot; data-armory-ids=&quot;81079&quot;&gt;&lt;&#x2F;span&gt; Magnanimous Tuning Crystal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;chatlink&quot; class=&quot;language-chatlink z-code&quot;&gt;&lt;code class=&quot;language-chatlink&quot; data-lang=&quot;chatlink&quot;&gt;&lt;span class=&quot;z-source z-chatlink&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin&quot;&gt;[&amp;amp;&lt;&#x2F;span&gt;DQkOHQMmPzrcEdwRKxLUEdQRKxIGEgYSyhHKEQUEBAArEtQRBhIAAAAAAAABawAA&lt;span class=&quot;z-punctuation z-definition z-string z-end&quot;&gt;]&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;hr &#x2F;&gt;
+&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-nokey=true data-armory-ids=&#x27;28494,41858&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;28219,27322,27505,27917,28287&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;skills&#x27; data-armory-ids=&#x27;45686,42949,40485,41220,45773&#x27;&gt;&lt;&#x2F;div&gt;&lt;div data-armory-embed=&#x27;specializations&#x27; data-armory-ids=&#x27;14,3,63&#x27; data-armory-14-traits=&#x27;1793,1714,1795&#x27; data-armory-3-traits=&#x27;1761,1774,1791&#x27; data-armory-63-traits=&#x27;2079,2092,2182&#x27;&gt;&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;rotation&quot;&gt;Rotation&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;precast-opener&quot;&gt;Precast&#x2F;Opener&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41858&quot;&gt;&lt;&#x2F;span&gt; Legendary Renegade Stance
+&lt;ul&gt;
+&lt;li&gt;Precast &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45773&quot;&gt;&lt;&#x2F;span&gt; Soulcleave&#x27;s Summit&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;First opener
+&lt;ul&gt;
+&lt;li&gt;Kalla: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40485&quot;&gt;&lt;&#x2F;span&gt; Icerazor&#x27;s Ire -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42949&quot;&gt;&lt;&#x2F;span&gt; Razorclaw&#x27;s Rage&lt;&#x2F;li&gt;
+&lt;li&gt;Generate Alacrity -&amp;gt; DPS Rotation Loop&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;generating-alacrity&quot;&gt;Generating Alacrity&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45537&quot;&gt;&lt;&#x2F;span&gt; Orders from Above on CD&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;dps-rotation-loop&quot;&gt;DPS Rotation Loop&lt;&#x2F;h4&gt;
+&lt;p&gt;After Opener:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use Weapon Skills on cooldown +&#x2F;- Fillers
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40175&quot;&gt;&lt;&#x2F;span&gt; Bloodbane Path (S.Bow 2)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41829&quot;&gt;&lt;&#x2F;span&gt; Sevenshot (S.Bow 3)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;43993&quot;&gt;&lt;&#x2F;span&gt; Spiritcrush (S.Bow 4)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Where required, burn Remaining Energy&lt;&#x2F;li&gt;
+&lt;li&gt;Legend Swap @ Energy &amp;lt; 10%
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41858&quot;&gt;&lt;&#x2F;span&gt; Legendary Renegade Stance OR&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28494&quot;&gt;&lt;&#x2F;span&gt; Legendary Demon Stance&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Start with opener
+&lt;ul&gt;
+&lt;li&gt;Mallyx: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28287&quot;&gt;&lt;&#x2F;span&gt; Embrace the Darkness OR&lt;&#x2F;li&gt;
+&lt;li&gt;Kalla: &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;40485&quot;&gt;&lt;&#x2F;span&gt; Icerazor&#x27;s Ire -&amp;gt; &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42949&quot;&gt;&lt;&#x2F;span&gt; Razorclaw&#x27;s Rage&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Repeat Loop&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Mallyx Fillers&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28287&quot;&gt;&lt;&#x2F;span&gt; Embrace the Darkness has an ICD of 3s. Spread out your bow skills with Auto-Attack Fillers to maximise its effects.&lt;&#x2F;small&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;You will be energy starved during Mallyx.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;If you need energy for CC, use autos during the Fillers.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Kalla Energy Burn&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;It is better to burn your energy than to reserve it due to &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;traits&quot; data-armory-ids=&quot;1791&quot;&gt;&lt;&#x2F;span&gt; Charged Mists.&lt;&#x2F;small&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;You will have abundant energy during Kalla.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Try to time your CC phases during this stance&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;Burn excess energy using &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;42836&quot;&gt;&lt;&#x2F;span&gt; Citadel Bombardment&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;small&gt;As a last resort, use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;45773&quot;&gt;&lt;&#x2F;span&gt; Soulcleave&#x27;s Summit if you can&#x27;t Legend Swap fast enough.&lt;&#x2F;small&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;optimisation&quot;&gt;Optimisation&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;cc&quot;&gt;CC&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41820&quot;&gt;&lt;&#x2F;span&gt; Scorchrazor (Short Bow 5)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27917&quot;&gt;&lt;&#x2F;span&gt; Call to Anguish is available in Mallyx&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;41220&quot;&gt;&lt;&#x2F;span&gt; Darkrazor&#x27;s Daring is available in Kalla&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;72954&quot;&gt;&lt;&#x2F;span&gt; Abyssal Blot (Spear 4 w.swap)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;28409&quot;&gt;&lt;&#x2F;span&gt; Temporal Rift (Axe 5 w.swap)&lt;&#x2F;li&gt;
+&lt;li&gt;You may bring a staff if you really need a strong CC&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h4 id=&quot;others&quot;&gt;Others&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;27505&quot;&gt;&lt;&#x2F;span&gt; Banish Enchantment for boon strip&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;span class=&quot;armory-inline&quot; data-armory-embed=&quot;skills&quot; data-armory-ids=&quot;76503&quot;&gt;&lt;&#x2F;span&gt; Unyielding Impact (flip skill) after CC for damage and energy burn&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+</feed>

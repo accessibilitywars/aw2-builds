@@ -1,0 +1,182 @@
+Lesser Volcano: Fixed an issue that caused this skill to apply its power coefficient twice.
+Volcano: Fixed an issue that caused this skill to apply its power coefficient twice. Increased the power coefficient from 1.1 to 1.21 in PvE and reduced the power coefficient from 0.77 to 0.5 in WvW.     Advancing Strike: Increased the power coefficient per strike from 1.25 to 1.75 in PvE only. Reduced the cooldown from 20 seconds to 18 seconds in PvE only.
+Advancing Strike: Increased the power coefficient per strike from 1.25 to 1.75 in PvE only. Reduced the cooldown from 20 seconds to 18 seconds in PvE only.
+Life Siphon: This skill now inflicts bleeding on yourself on the initial cast and no longer has increased healing effectiveness while you are bleeding. Increased the base healing coefficient from 0.0684 to 0.082 in PvE only. Increased the base healing coefficient from 0.03 to 0.036 in PvP and WvW.
+Blood Bank: This trait will no longer trigger while in shrouds that replace health.
+Augury of Death: Fixed an issue that caused this trait to grant "You Are All Weaklings!" a cooldown reduction on hit.
+Go for the Throat: Increased the damage bonus of Lesser "Sic 'Em!" while in Beastmode from 10% to 15% in PvE only. Reduced the cooldown of Lesser "Sic 'Em!" from 15 seconds to 10 seconds in PvE only. Increased the duration from 5 seconds to 8 seconds when triggered by a pet.
+Light on Your Feet: Fixed an issue that prevented the bonus from being fully removed when the trait is unequipped.
+Smoke Screen: This skill no longer pulses blindness to enemies within its area of effect. Instead, inflict debilitating conditions on enemies passing through the smoke screen. Additionally, you gain stealth on exiting the smoke screen. Increased the duration from 4 seconds to 6 seconds in PvP only.
+Meld with Shadows: This trait no longer has reduced efficacy when used with Silent Scope in PvP.
+Shadow Refuge: This skill now additionally grants condition damage and strike damage reduction to allies inside the field. Reduced the duration of stealth per pulse from 2.5 seconds to 2 seconds in PvP and WvW.
+Distracting Daggers: Fixed an issue that prevented this skill from properly granting interrupt bonuses against defiant enemies.
+Stolen Skills: The threshold for malice granting stealth has been reduced from 5 to 3.
+Death's Judgment: This skill now deals full damage to the foe targeted by this attack instead of to the marked foe. Malice is not consumed and bonus damage is not dealt if the targeted foe is not marked.
+Silent Scope: This trait has been reworked. This trait now grants precision while equipped. Additionally, when you perform a dodge roll, gain access to your stealth attack if your malice is above the threshold.
+Overcharged Cartridges: This skill now causes explosion attacks to inflict burning. This now lasts for the entire duration instead of according to the number of attacks used. Its duration has been reduced from 10 seconds to 8 seconds, and supercharging the effect now resets the duration and increases burning duration in addition to its other effects.
+Fire Strike: Increased the power coefficient from 0.8 to 1.0 in PvE only.
+Fire Swipe: Increased the power coefficient from 0.9 to 1.1 in PvE only.
+Searing Slash: Increased the power coefficient from 1.6 to 1.8 in PvE only.
+Flame Uprising: Increased the power coefficient of the initial strike from 1.5 to 2.0 in PvE only.
+Cauterizing Strike: Increased the power coefficient against burning foes from 2.33 to 2.91 in PvE only.
+Earthen Spear: Increased the power coefficient from 2.6 to 3.0 in PvE only.
+Fissure: Increased the power coefficient from 2.1 to 2.7 in PvE only.
+Galvanize: Increased the power coefficient from 2.0 to 2.6 in PvE only.
+Triple Sear: Increased the power coefficient per strike from 0.871 to 1.0 in PvE only.
+Molten End: Increased the power coefficient from 2.3 to 2.8 in PvE only.
+Whirling Stones: Increased the power coefficient per strike from 0.748 to 0.84 in PvE only.
+Ground Pound: Increased the power coefficient from 2.3 to 2.8 in PvE only.
+Grand Finale: Increased the power coefficient per strike from 1.15 to 1.4 in PvE only.
+Dragon's Claw: Increased the power coefficient per strike from 0.375 to 0.45 in PvE only.
+Drake's Breath: Increased the power coefficient per strike from 0.8 to 1.05 in PvE only.
+Burning Speed: Increased the power coefficient from 2.0 to 3.0 in PvE only.
+Lightning Whip: Increased the power coefficient per strike from 0.63 to 0.75 in PvE only.
+Convergence: Increased the power coefficient from 1.8 to 2.4 in PvE only.
+Ring of Earth: Increased the secondary strike power coefficient from 1.5 to 1.9 in PvE only.
+Earthen Rush: Increased the power coefficient from 1.8 to 2.3 in PvE only.
+Inferno: Increased the power scaling from 7.5% to 8.25% in PvE only.
+Aquatic Stance: Reduced the ammunition from 2 to 1. Increased the base healing from 4,000 to 6,480. Increased the endurance gain from 25 to 50. Instead of healing nearby allies, this stance will now refund some endurance when you dodge.
+Twist of Fate: Reduced the ammunition from 2 to 1. This skill now also removes movement-impairing conditions and prevents their application for its duration.
+Stone Resonance: Reduced the ammunition from 2 to 1. This skill now grants protection and increases the effectiveness of protection for the duration. Increased the barrier pulse from 535 to 789 in PvP only.
+Unravel: This skill is no longer available as a utility skill and has been replaced with Fervent Stance. Reduced the ammunition from 2 to 1.
+Fervent Stance: Gain quickness, fury, and swiftness. Gain might when you use a Dual Attack skill.
+Pressure Blast: This skill no longer heals allies when it passes through them and instead heals allies when it lands. It now also heals you when you strike an enemy. Increased the power coefficient from 1 to 2 in PvE and from 1 to 1.33 in PvP and WvW. Increased the base healing from 645 to 1,285. Increased the heal scaling from 0.25 to 0.5. Reduced the casting time from 1.1 seconds to 0.8 seconds.
+Plasma Blast: Increased the projectile speed.
+Lahar: The first pulse of this skill will now immobilize enemies that it strikes.
+Monsoon: This skill no longer grants regeneration to allies. This skill now knocks back enemies that it strikes and inflicts vulnerability in addition to chill.
+Fiery Frost: Increased the evade distance from 250 to 510. This skill now removes inhibiting conditions.
+Glacial Drift: Increased the projectile speed. This skill now dazes enemies that it strikes.
+Earthen Synergy: Increased the stun duration from 1.5 seconds to 2 seconds.
+Stone Tide: The first pulse of this skill will now cripple enemies that it strikes.
+Steam Surge: Increased the water field duration from 2 seconds to 4 seconds. Increased the power coefficient from 1.5 to 1.75 in PvE and from 1.0 to 1.25 in PvP and WvW.
+Katabatic Wind: This skill will now perform a delayed second strike. The first strike will deal less damage and inflict a short daze while the second strike deals more damage and inflicts a longer daze.
+Grinding Stones: Reduced the cooldown from 18 seconds to 15 seconds.
+Ashen Blast: This skill now strikes enemies an additional time. The first strike will deal less damage and inflict blind, while the second strike deals more damage and inflicts burning.
+Elemental Pursuit: This trait has been reworked. Gain swiftness when you disable an enemy. Swiftness that affects you is improved.
+Elemental Refreshment: This trait now also grants vitality.
+Elemental Polyphony: This trait will now grant condition damage instead of vitality when attuned to earth.
+Superior Elements: Increased the critical strike chance from 15% to 20% in PvE only.
+Weaver's Prowess: This trait has been reworked and moved to the bottom adept trait slot. Gain resistance when you attune to a single element.
+Master's Fortitude: This trait has been reworked and moved to the top master trait slot. Gain barrier when you dodge.
+Swift Revenge: This trait has been reworked. Dual Attacks grant bonuses based on their elements. Fire: Gain might. Water: Remove one condition. Air: Gain swiftness. Earth: Gain endurance.
+Elements of Rage: This trait no longer grants bonus precision. This trait now grants access to Unravel as an additional profession skill. Increased the strike damage bonus from 7% to 15% in PvE only. Increased the condition damage bonus from 5% to 10% in PvE only.
+Woven Stride: This trait no longer has an internal cooldown and will only trigger when you grant swiftness or superspeed to yourself. This trait no longer improves the effects of swiftness, and it no longer grants swiftness when you are inflicted with an inhibiting condition.
+Invigorating Strikes: This trait has been reworked and renamed to Flow State.
+Flow State: Reduce the recharge time of your attunements and your Dual Attack skills.
+All Engineer Turret Skills: You can now overcharge turrets manually after the overcharge cooldown has elapsed. Turrets will still overcharge automatically when they are initially placed.
+Healing Mist: Reduced the cooldown from 25 seconds to 20 seconds.
+Cleansing Synergy: This trait will now also grant regeneration to affected allies.
+Reconstruction Enclosure: Increased the protection duration from 2.5 seconds to 3 seconds.
+Autodefense Bomb Dispenser: This trait has been reworked and renamed to Sapping Device.
+Sapping Device: Weaken enemies when you immobilize or disable them.
+Mecha Legs: This trait will now also grant increased movement speed.
+Bunker Down: The bandages created by this trait will now also grant regeneration. The mines created by this trait will now also inflict vulnerability.
+Symbol of Swiftness: This skill now grants superspeed on its first pulse. Increased the cooldown from 15 seconds to 18 seconds in PvP and WvW.
+Symbol of Vengeance: This skill now inflicts daze on its initial strike. Increased the cooldown from 8 seconds to 10 seconds in PvP and WvW.
+Symbol of Energy: Increased the power coefficient of the initial strike from 0.69 to 1.38 in PvE and from 0.43 to 0.86 in PvP and WvW. Reduced the power coefficient of the symbol from 0.69 to 0.5175 in PvE only.
+Hunter's Determination: This trait now also causes elite skills to grant you endurance.
+Hunter's Fortification: This trait will now also trigger when you evade an attack.
+Unrelenting Criticism: This trait no longer causes Symbol of Vengeance to daze on its initial strike. Increased the bleeding duration from 1 second to 3 seconds in PvP and WvW.
+Power for Power: Increased the Willbender Flames damage bonus from 100% to 200% in PvE only.
+Phase Retreat: Reduced the cooldown from 10 seconds to 8 seconds.
+Phantasmal Warlock: Reduced the cooldown from 15 seconds to 12 seconds in PvE and from 18 seconds to 15 seconds in PvP and WvW.
+Chaos Armor: Reduced the cooldown from 20 seconds to 16 seconds.
+Chaos Storm: Reduced the cooldown from 25 seconds to 20 seconds in PvE and from 28 seconds to 25 seconds in PvP and WvW.
+Phantasmal Duelist: Bullets from the phantasm now apply bleeding. Reduced the cooldown from 20 seconds to 16 seconds in PvE and from 18 seconds to 16 seconds in PvP and WvW.
+Magic Bullet: Reduced the cooldown from 25 seconds to 20 seconds in PvE only.
+Duelist's Discipline: This trait no longer causes pistol skills to apply bleeding.
+Bladecall: This skill now attempts to face the target when used.
+Signet of Domination: Reduced the cooldown from 45 seconds to 25 seconds. Reduced the stun duration from 3 seconds to 2 seconds in PvE. This skill now removes boons from the target.
+Vicious Expression: This trait now increases base strike damage and is further increased against boonless foes.
+Method of Madness: Lesser Chaos Storm no longer inflicts daze. Reduced the cooldown of Lesser Chaos Storm from 75 seconds to 35 seconds in PvP and WvW.
+Chaotic Interruption: This trait has moved to the master tier, replacing Chaotic Potency.
+Shaper of Chaos: This is a new grandmaster tier trait. When you would grant yourself chaos aura while you already have chaos aura, instead cause your chaos aura to detonate. Detonating chaos aura grants you boons and inflicts conditions on nearby enemies.
+Prismatic Understanding: This trait now causes your fourth Shatter skill to grant stealth. This trait no longer grants random boons while in stealth and instead grants regeneration upon entering stealth and protection and resolution upon leaving stealth.
+Psychic Force: This skill no longer knocks back enemies or breaks stun and will instead cause your next Bladesong skill to be unblockable. Increased the ammo count from 1 to 2. Increased the power coefficient from 0.7 to 1.5 in PvE and from 0.01 to 1.5 in PvP and WvW.
+Psychic Riposte: This trait no longer causes your next Bladesong skill to become unblockable.
+Life Siphon: This skill now inflicts bleeding on yourself on the initial cast. This skill no longer has increased healing effectiveness while you are bleeding. Increased the base healing coefficient from 0.0684 to 0.1 in PvE only. Increased the base healing coefficient from 0.03 to 0.05 in PvP and WvW.
+Ghastly Claws: Reduced the cooldown from 8 seconds to 6 seconds.
+Unholy Feast: Reduced the cooldown from 12 seconds to 10 seconds.
+Soul Grasp: Reduced the ammo recharge from 12 seconds to 10 seconds in PvE and from 15 seconds to 12 seconds in PvP and WvW.
+Spinal Shivers: Reduced the cooldown from 16 seconds to 12 seconds in PvE and from 20 seconds to 16 seconds in PvP and WvW.
+Oppressive Collapse: This skill now attempts to face the target when used.
+Taste of Death: Reduced the blood fiend health sacrifice from 100% to 50%.
+Epidemic: Increased the maximum stacks transferred from 5 to 8.
+Spiteful Talisman: This trait no longer reduces the cooldowns of axe and focus skills. This trait now increases base strike damage and is further increased against boonless foes.
+Dark Defiance: This trait has been reworked and renamed Dark Defense.
+Dark Defense: Gain protection and carapace when you use a healing skill. Protection reduces incoming condition damage.
+Corrupter's Fervor: This trait no longer grants protection and instead grants damage reduction while above the carapace threshold.
+Soul Eater: Increased the damage increase from 12% to 15% in PvE only.
+Manifest Sand Shade: Increased the cooldown from 8 seconds to 15 seconds and increased the shade duration from 8 seconds to 15 seconds in PvE only.
+Elixir of Risk: Reduced the cooldown from 25 seconds to 20 seconds and increased the power coefficient from 1.0 to 2.0 in PvE only. This skill now inflicts torment.
+Cascading Corruption: This trait has been reworked. Gain stacks of Cascading Corruption when you consume blight. When you reach the stack threshold, explode necrotic energy and increase your damage for a duration.
+Deathly Haste: This trait has been reworked. Grant boons to nearby allies when you enter Harbinger Shroud and when you use Dark Barrage.
+Doom Approaches: Blight reduces more of your health and accumulates faster while in shroud. Your shroud skills are improved.
+Astral Wisp: This skill has been reworked. Send out a wisp to a targeted location. Upon arrival, the wisp will attach to allies, healing them over time.
+Go for the Throat: Increased the damage bonus of Lesser "Sic 'Em!" while a soulbeast is merged from 10% to 15% in PvE only.
+Glyph of Rejuvenation: Increased the radius from 300 to 360.
+Glyph of Alignment: Increased the radius while in celestial avatar form from 300 to 360.
+Glyph of Equality: This skill now applies stability in PvP. Increased the stability stacks from 1 to 2.
+Glyph of the Tides: This skill now knocks enemies down instead of knocking enemies back in PvP only. Reduced the cooldown from 35 seconds to 25 seconds in PVP only.
+Glyph of Unity: This skill has been reworked and renamed Glyph of Burgeoning.
+Glyph of Burgeoning: Heal nearby allies and gain astral force. While in celestial avatar form, grant allies barrier and endurance instead.
+Rejuvenating Tides: This skill is no longer channeled. Increased the radius from 240 to 300.
+Druidic Clarity: Increased the radius from 300 to 360.
+Cultivated Synergy: This trait has moved to the grandmaster tier. When you use a healing skill, heal around your pet and create a water field attached to them. When you blast a water field, grow a seed of life at the location.
+Blood Moon: This trait no longer dazes when entering celestial avatar form.
+Celestial Shadow: Increased the radius from 300 to 360.
+Verdant Etching: This trait has been moved to the adept tier. This trait now causes glyphs to heal nearby allies. When in celestial avatar form, grant protection to nearby allies instead.
+Natural Balance: This trait no longer grants concentration.
+Grace of the Land: This trait has been moved to the master tier.
+Lingering Light: Reduced the maximum stacks from 10 to 5.
+Furious Strength: Increased the damage bonus from 10% to 15% in PvE only.
+Shrike: Increased the power coefficient per strike from 0.5 to 0.8 in PvE only.
+Coalescence of Ruin: Increased the power coefficient from 2.0 to 2.3 in PvE only.
+Drop the Hammer: Increased the power coefficient from 2.7 to 3.2 in PvE only.
+Rite of the Great Dwarf: This skill will now also grant condition damage reduction. Reduced the damage reduction from 50% to 33%.
+Versed in Stone: This trait now increases the damage reduction of Rite of the Great Dwarf from 33% to 50% instead of causing it to reduce condition damage.
+Ashen Demeanor: This trait has been reworked. Gain might, resistance, and Kalla's Fervor when you use a healing skill.
+Bold Reversal: This trait has been reworked. Citadel Order skills are improved.
+Heroic Command also grants swiftness.
+Citadel Bombardment also inflicts vulnerability.
+Orders from Above also grants protection.
+Heartpiercer: This trait now also grants increased strike damage against bleeding enemies.
+All for One: This trait has been reworked. When you trigger Band Together, gain energy and reduce the recharge time of the enhanced skill.
+Vindication: This trait no longer increases the number of missiles fired by Citadel Bombardment and instead causes it to daze enemies the first time it strikes them.
+Righteous Rebel: This trait now also causes Orders from Above to heal allies.
+Pistol Whip: This skill has been reworked and renamed to Flawless Execution.
+Flawless Execution: Shoot with your pistol as you spin and strike nearby enemies. Finish with a powerful forward slash.
+Death's Advance: Using Sniper's Cover now automatically swaps to this skill, regardless of whether you're standing within Sniper's Cover. While standing within Sniper's Cover, this move becomes ground targeted instead.
+Smoke Screen: This skill no longer pulses blindness to enemies within its range. Instead, inflict debilitating conditions on enemies passing through the smoke screen. Additionally, you gain stealth on exiting the smoke screen.
+Signet of Shadows: The active portion of this skill has been reworked. Using this skill now grants you stealth and swiftness while removing all movement-inhibiting conditions from yourself. Increased the cooldown of this skill from 16 seconds to 30 seconds in PvP and WvW.
+Shadow Refuge: This skill now additionally grants condition damage and strike damage reduction to allies inside the field.
+Even the Odds: This trait no longer applies might. Instead, apply cripple and blindness to enemies you strike with your stealth attack.
+Improvisation: Specters now gain additional shadow force from Siphon while equipping this trait.
+Lotus Poison: This trait additionally grants might when you poison an enemy.
+Panic Strike: This trait no longer immobilizes foes struck under the health threshold. This trait now immobilizes foes struck if they have more than a set number of conditions.
+Rending Shade: This trait no longer inflicts fear on nearby foes when you strike a boonless foe. It instead destroys the foe's barrier if your stealth attack hits a boonless foe.
+Deadeye's Mark: This skill is now instant. You will now shadowstep to your foe if you're wielding a dagger, sword, staff, or spear while using this skill.
+Silent Scope: This trait has been reworked. This trait now grants precision as long as the trait is equipped. You gain additional precision for a short time when you enter stealth.
+Savage Leap: This skill now inflicts bleeding.
+Final Thrust: This skill has been reworked and renamed Rend.
+Rend: Maim your target with an immobilizing strike, then deliver a devastating blow that inflicts heavy bleeding.
+Flurry: This skill has been reworked and renamed Bloodthirster.
+Bloodthirster: Sweep your blade around yourself, slicing nearby enemies. The effect increases with adrenaline level. Heal if you strike a target, healing more if they are bleeding.
+Bladestorm: This skill has been reworked and renamed Hushblade.
+Hushblade: Swipe out in a cone before you, dazing enemies struck.
+Earthshaker: Increased the power coefficient from 2.0 to 2.75 in PvE only.
+Staggering Blow: Increased the power coefficient from 1.0 to 1.5 in PvE only.
+Backbreaker: Increased the power coefficient from 1.5 to 2.25 in PvE only.
+Dragon Trigger: You can now move while channeling this skill. Your maximum movement speed is reduced while channeling.
+Dragon Slash—Force: You can now move during the casting of this skill.
+Dragon Slash—Boost: This skill is now ground targeted.
+Dragon Slash—Reach: You can now move during the casting of this skill.
+Dragonspike Mine: Reduced the power coefficient from 2.5 to 1.5 in PvE only. Reduced the power coefficient from 1.0 to 0.6 in PvP and WvW. This skill now additionally inflicts bleeding on struck foes.
+Swift as the Wind: This trait has been replaced with Sharp as the Wind.
+Sharp as the Wind: Modifies your gunsaber and Dragon Slash skills to focus on dealing condition damage. Additionally, with this trait equipped, you burn nearby foes and gain increased flow rate when swapping to the gunsaber in combat.
+River's Flow: This trait has been reworked. The trait now modifies gunsaber and Dragon Slash skills to focus on supporting allies and debilitating enemies. Additionally, with this trait equipped, you grant swiftness to nearby allies and gain increased flow rate when swapping to the gunsaber in combat.
+Unseen Sword: This trait now strikes nearby enemies and grants you increased flow rate when swapping to the gunsaber in combat.
+Unshakable Mountain: This trait now grants barrier to nearby allies every time you convert a certain amount of flow into charges.
+Fierce as Fire: This trait now increases both strike and condition damage for each round of ammunition spent.
+Immortal Dragon: This trait now grants protection to nearby allies as well as yourself.
+Daring Dragon: This trait now increases the effectiveness of Dragon Slash skills depending on which variation is being used.

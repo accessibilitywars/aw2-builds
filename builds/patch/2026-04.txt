@@ -1,0 +1,180 @@
+Abyssal Chill: Reduced the torment duration from 4 seconds to 3 seconds in PvE only.
+Abyssal Fire: Decreased the torment duration from 4 seconds to 3 seconds in PvE only.
+Abyssal Raze: Decreased the torment duration from 6 seconds to 5 seconds in PvE only.
+Abyssal Strike: Decreased the torment duration from 4 seconds to 3 seconds in PvE only.
+Ashen Assault: Reduced the power coefficient from 0.4 to 0.3 in PvE only. Reduced the bleeding duration from 5 seconds to 4 seconds in PvE only. Reduced the poison duration from 5 seconds to 4 seconds in PvE only. Damaging conditions are now applied across all hits instead of on the final strike. Vulnerability is now applied on the final strike instead of across all hits.
+Awakening: Reduced the energy cost from 35 to 30 in PvP only.
+Battle Dance: Reduced the cooldown from 10 seconds to 8 seconds in PvP only.
+Beastly Warden: Reduced the damage increase from 100% to 67% in PvE only.
+Berserker's Power: Reduced the damage increase per stack from 5.25% to 3.75% in PvE only.
+Bladecall: Reduced the power coefficient per hit from 0.35 to 0.25 in PvE only.
+Blazing Barrage: Increased the power coefficient from 2.2 to 2.6 in PvE only.
+Blinding Outburst: Reduced the ambush damage increase from 15% to 10% in WvW only.
+Blood Moon: Reduced the bleeding duration from 5 seconds to 4.5 seconds in PvE only.
+Blood Reaction: Reduced the power to condition damage conversion from 15% to 12% in PvE only.
+Bloody Roar: Reduced the damage increase from 15% to 10% in PvE only.
+Blowtorch: Reduced the maximum burning duration from 6 seconds to 4.5 seconds in PvE only.
+Brisk Pacing: Reduced the condition damage increase from 10/20/30% to 5/15/25% in PvE only.
+Brutality: Increased the damage increase from 10% to 15% in WvW only.
+Burst Mastery: Increased the burst damage increase from 7% to 15% in PvE only.
+Chaotic Persistence: Reduced the expertise granted from 250 to 100 in PvE only.
+Chapter 4: Scorched Aftermath: Reduced the burning duration from 5 seconds to 3 seconds in PvE only.
+Chronophantasma: Reduced the damage increase from 15% to 5% in PvE only.
+Coalescence of Ruin: Reduced the cooldown from 8 seconds to 6 seconds in WvW only.
+Cold Shoulder: This trait no longer increases chill duration and now reduces incoming strike damage from chilled enemies.
+Combat High: Increased the strike damage bonus per stack from 2% to 3% in PvE only.
+Compounding Power: Reduced the condition damage increase per stack from 2% to 1% in PvE only.
+Conduit Surge: Reduced the burning stacks from 2 to 1, increased the focused burning duration from 6 seconds to 7 seconds, and increased the unfocused burning duration from 4 seconds to 5 seconds in PvE only.
+Corona Burst: Increased the burning duration from 3 seconds to 5 seconds in PvE only. Reduced the initial power coefficient from 0.96 to 0.5 in PvP and from 0.8 to 0.6 in WvW. Increased the delayed power coefficient from 0.96 to 1.42 in PvP and from 0.8 to 1.0 in WvW.
+Crashing Font: This skill no longer heals for each enemy struck and instead will always heal the user. This healing is increased if a target is struck by the skill.
+Crescendo: Increased the cooldown from 35 seconds to 45 seconds in WvW only.
+Danger Time: Reduced the damage increase from 10% to 5% in PvE only.
+Daring Advance: Updated the description and skill facts to clarify that tethered opponents are revealed and take increased damage from the caster.
+Dark Gunslinger: Reduced the vitality to expertise conversion from 13% to 10% in PvE only.
+Dazzling Hammer: Reduced the power coefficient from 1.5 to 1.2 in PvE only. Increased the cooldown from 10 seconds to 15 seconds in PvP and WvW.
+Dazzling: This trait now triggers on any disable instead of just dazes and stuns.
+Deadeye's Mark: Reduced the power coefficient of all stolen skills from 1.25 to 1 in PvE only.
+Deadly Blades: Increased the condition damage increase from 5% to 10% in PvE only.
+Death Blossom: Reduced the bleeding duration per hit from 7.5 seconds to 6 seconds in PvE only.
+Death Perception: Reduced the critical damage increase from 15% to 10% in PvE only.
+Distracting Throw: Reduced the power coefficient from 0.7 to 0.5 in PvE only.
+Doom Approaches: Reduced the condition damage granted from 240 to 180 and reduced the torment duration from 5 seconds to 4 seconds in PvE only.
+Double Tap: Reduced the power coefficient from 0.8 to 0.7 in PvE only.
+Echoing Eruption: Decreased the torment duration from 7 seconds to 5 seconds in PvE only.
+Effulgent Stance: Reduced the base barrier from 3,973 to 2,245 and increased the healing power coefficient from 0.2 to 1.0 in PvE only.
+Electric Artillery: Reduced the minimum burning duration from 4 seconds to 3 seconds, reduced the focused burning duration scaling from 1 second to 0.5 seconds, and reduced the unfocused burning duration scaling from 0.5 seconds to 0.25 seconds in PvE only.
+Elemental Synergy: Increased the base healing from 1,064 to 1,576 and increased the endurance gained from 25 to 30 in PvP and WvW.
+Elements of Rage: Reduced the condition damage bonus from 7% to 5% in PvE only.
+Embrace the Darkness: Decreased the bonus torment count from 2 to 1 PvE only.
+Empire Divided: Increased the power from 120 to 240 in PvP only.
+Empowered Armaments: Fixed an issue that caused Luminary's Blessing to grant a small damage increase with this trait equipped.
+Empowering Auras: Reduced the damage bonus per stack from 2% to 1% in PvE only.
+Empowering Spirits: Increased the quickness duration from 3 seconds to 3.75 seconds in PvE only.
+Enhanced Embodiment: Reduced the Cosmic Wisdom duration increase when invoking legends from 5 seconds to 1 second in PvE only.
+Entangling Asp: Reduced the power coefficient from 1.6 to 1.2 in PvE only.
+Epilogue: Ashes of the Just: Reduced the burning duration from 3 seconds to 2 seconds in PvE only.
+Equal and Opposite Reaction: Reduced the quickness and stability durations from 3 seconds to 2 seconds in PvP only.
+Eternal Night: Reduced the poison duration from 6 seconds to 4 seconds in PvE only.
+Executioner's Scythe: Increased the power coefficient from 3/4/5 to 4/6/8 in PvE only.
+Exhilarating Ephemera: Reduced the damage bonus from 15% to 10% in PvE only.
+Explosive Entrance: Reduced the power coefficient from 0.9 to 0.4 in PvP and from 1.25 to 0.4 in WvW.
+Falling Spider: Reduced the power coefficient from 2.1 to 1.8 in PvE only.
+Familiar's Blessing: Reduced the quickness duration from 4 seconds to 3 seconds in PvE only.
+Familiar's Focus: Reduced the strike damage bonus from 15% to 10% in PvE only. Reduced the condition damage bonus from 15% to 10% in PvE only.
+Fatal Frenzy: Reduced the condition damage granted from 300 to 150 in PvE only. Increased the power from 150 to 300 in WvW only.
+Fierce Blow: Increased the power coefficient from 1.0 to 1.2 in PvP and WvW.
+Flame Blast: Reduced the burning stacks from 3 to 1 and increased the burning duration from 4 seconds to 6 seconds in PvE only.
+Flame Spear: Increased the power coefficient from 1.25 to 1.5 in PvE only.
+Forerunner of Death: Decreased the power coefficient of Death Drop from 4.2 to 3.3 in PvE only.
+Fracturing Strike: Reduced the burning duration from 3 seconds to 2 seconds in PvE only.
+Glaring Burst: Reduced the damage bonus when hammer is equipped from 50% to 25% in PvE only.
+Glass Cannon: Reduced the damage increase from 10% to 7% in PvE only.
+Gleaming Blade: Reduced the power coefficient from 1.8 to 1.5 in PvE only.
+Grasping Shadows: Reduced the torment duration from 10 seconds to 6 seconds in PvE only.
+Heartseeker: Reduced the power coefficient at less than 50% health/25% health from 1.75/2.5 to 1.6/2.2 in PvE only.
+Helio Rush: Reduced the power coefficient from 1.8 to 1.5 in PvE only.
+Hex-Eater Vortex: Reduced the torment duration from 3 seconds to 1.5 seconds in PvE only.
+Hidden Barbs: Reduced the bleeding damage increase from 33% to 20% in PvE only.
+Holo-Dancer Decoy: Reduced the power coefficient from 2.5 to 2 in PvE only.
+Hunter's Tactics: Reduced the damage increase from 15% to 10% in PvE only.
+Hurricane of Pain: Reduced the power coefficient per strike from 0.69 to 0.55 in PvE only.
+Illusionary Wave: Reduced the cooldown from 25 seconds to 20 seconds. This skill now inflicts vulnerability.
+Imaginary Axes: Reduced the clone torment duration from 6 seconds to 4 seconds in PvE only.
+Increased the cooldown of swapping a defeated pet from 25 seconds to 35 seconds in WvW only.
+Inferno: Reduced the power scaling from 10% to 7.5% in PvE only.
+Infusing Terror: Reactivating this skill to cast Terrify no longer removes the damage reduction effect.
+Inspired Virtue: Reduced the strike damage bonus per boon from 1% to 0.5% in PvE only.
+Jade Mortar: Increased the burning duration from 3 seconds to 6 seconds in PvE only.
+Leg Specialist: Reduced the damage increase from 10% to 5% in PvE only.
+Lightning Javelin: Increased the power coefficient from 1.1 to 1.35 in PvE only.
+Lingering Spirits: Reduced the damage increase from 7% to 5% in PvE only.
+Lively Lute: Increased the cooldown from 12 seconds to 15 seconds in WvW only.
+Lotus Training: Reduced the torment duration of Impaling Lotus from 6 seconds to 4 seconds in PvE only. Reduced the bleeding duration of Impaling Lotus from 8 seconds to 4 seconds in PvE only.
+Lucent Thrust: Reduced the power coefficient of the initial strike from 1.35 to 1.0 in PvE only. Reduced the power coefficient of the projectile from 1.0 to 0.8 in PvE only.
+Luminous Staff: Reduced the power coefficient from 0.65 to 0.3 in PvE only. Increased the cooldown from 15 seconds to 20 seconds in WvW only.
+Malicious Ashen Assault: Reduced the power coefficient from 0.4 to 0.3 in PvE only. Reduced the bleeding duration from 5 seconds to 4 seconds in PvE only. Reduced the poison duration from 5 seconds to 4 seconds in PvE only. Damaging conditions are now applied across all hits instead of on the final strike. Vulnerability is now applied on the final strike instead of across all hits.
+Mental Focus: Reduced the damage increase from 10% to 5% in PvE only.
+Metal Legion Guitar: Reduced the power coefficient on pulses from 1.2 to 0.8 in PvE only. Reduced the power coefficient on the final smash from 3.0 to 2.5 in PvE only.
+Meteor: Increased the power coefficient from 2.3 to 2.7 in PvE only.
+Mind Stab: This skill now deals increased damage against vulnerable foes.
+Mind the Gap: Reduced the power coefficient from 2.0 to 1.6 in PvE only.
+Mirror Blade: Increased the power coefficient from 1.5 to 2.5 and increased the damage reduction per bounce from 15% to 80% in PvE only.
+Mistburn Mortar: Reduced the burning duration of the base version from 2 seconds to 1.5 seconds in PvE only. Reduced the burning duration of the traited version from 2.5 seconds to 2 seconds in PvE only. Reduced the burning duration granted by the effect from 2.5 seconds to 1 second in PvE only.
+Napalm: Reduced the burning duration from 4 seconds to 3.25 seconds in PvE only.
+Natural Balance: Reduced the condition damage increase from 10% to 5% in PvE only.
+New Genes: Reduced the alacrity duration from 6 seconds to 5 seconds in PvE only.
+Nightmare Weapon: Reduced the base healing from 1,207 to 774 and increased the healing power coefficient from 0.3 to 0.5 in PvE only.
+Nomad's Advance: Increased the power coefficient from 1.7 to 2.0 in PvP only.
+Nomad's Endurance: Reduced the condition damage increase from 10% to 5% in PvE only.
+Otherworldly Bond: This skill no longer increases outgoing strike damage.
+Peacekeeper: Reduced the burning duration from 2 seconds to 1.5 seconds in PvE only.
+Phantom Razor: Reduced the bleeding and torment durations from 7 seconds to 5 seconds in PvE only.
+Phantom's Onslaught: Reduced the cooldown from 15 seconds to 12 seconds in PvP and WvW.
+Phase Smash: Increased the power coefficient from 1.0 to 1.1 in WvW only.
+Photon Blitz: Increased the burning duration from 2 seconds to 3 seconds in PvE only.
+Piercing Shards: Reduced the strike damage bonus from 10% to 7% in PvE only.
+Power Block: Increased the damage increase from 10% to 15% in PvP and WvW.
+Predator's Onslaught: Reduced the damage increase from 15% to 10% in PvE only.
+Preservation: Reduced the base healing from 5,170 to 2,450 and increased the healing power coefficient from 1.5 to 2.5 in PvE only.
+Pure Strike: Reduced the damage increase from 7.5/15% to 5/10% in PvE only.
+Purging Flames: Reduced the burning duration from 4 seconds to 2 seconds in PvE only.
+Pyromancer's Training: Reduced the strike damage bonus from 10% to 7% in PvE only.
+Radiant Arc: Increased the power coefficient from 1.5 to 1.65 in PvP and WvW.
+Radiant Bulwark: Increased the cooldown from 30 seconds to 35 seconds in PvP and WvW.
+Radiant Courage: Increased the cooldown from 45 seconds to 55 seconds in PvP and WvW.
+Radiant Justice: Increased the cooldown from 20 seconds to 25 seconds in PvP and WvW.
+Radiant Resolve: Increased the cooldown from 30 seconds to 35 seconds in PvP and WvW.
+Raging Ricochet: This skill no longer grants a bonus to outgoing condition damage when consuming a fire bullet and instead grants might to the user when consuming a fire bullet.
+Reaver's Rage: Reduced the energy cost from 35 to 30 in PvP only.
+Release Potential: Assassin: Reduced the power coefficient from 1 to 0.6 in PvE only.
+Release Potential: Mesmer: Reduced the torment duration from 6 seconds to 3 seconds in PvE only.
+Relic of Fog: This relic now has an 8-second internal cooldown in PvP and WvW.
+Relic of the Steamshrieker: Reduced the burning stacks from 2 to 1 in PvE only.
+Resilient Weapon: Reduced the base healing per pulse from 1,412 to 1,092 and increased the healing power coefficient from 0.2 to 0.28 in PvE only.
+Rocket Charge: Reduced the cooldown from 18 seconds to 16 seconds in PvP and WvW.
+Rupturing Smash: Increased the power coefficient from 1.13 to 1.25 in WvW and from 1.45 to 1.6 in PvP.
+Rushing Justice: Reduced the burning duration from the Justice effect from 2 seconds to 1.5 seconds in PvE only.
+Shattering Assault: Reduced the power coefficient from 2.0 to 1.8 in PvE only.
+Shield of Courage: Increased the cooldown from 45 seconds to 60 seconds in WvW only.
+Shining Spin: Reduced the power coefficient from 1.05 to 0.8 in PvP only.
+Shivers of Dread: This trait now increases chill duration.
+Shock Shield: Reduced the cooldown from 18 seconds to 16 seconds in PvP and WvW.
+Shrapnel Grenade: Reduced the bleeding duration from 10 seconds to 7 seconds in PvE only.
+Soul Eater: Increased the damage increase from 10% to 12% in PvE only.
+Sovereign of Light: Reduced the base healing from 1,673 to 809 and increased the healing power coefficient from 1.2 to 1.5 in PvE only.
+Specialized Elements: Increased the empowered skill recharge reduction from 20% to 50% in PvE only.
+Spectacular Sphere: Reduced the quickness duration from 2.5 seconds to 2 seconds in PvE only.
+Sphere Specialist: Reduced the bonus boon duration from 100% to 50% in PvE only.
+Spirit of Nature: Reduced the number of revivable targets from 3 to 2 in WvW only.
+Spiteful Spirit: Reduced the number of boons removed from 2 to 1 in WvW only.
+Spiteful Talisman: Reduced the damage increase from 10% to 5% in PvE only.
+Splinter Weapon: Reduced the power coefficient from 0.35 to 0.25 in WvW and from 0.5 to 0.4 in PvE.
+Stalwart Strength: Reduced the damage increase from 12.5% to 10% in PvE only.
+Stoke the Flames: Reduced the burning stacks from 3 to 2 in PvE only.
+Stone Heart: This trait no longer prevents critical hits and instead grants a large damage reduction. This damage reduction is reduced while specialized in Earth in PvP only.
+Stone Summit Cannon: Reduced the power coefficient from 1.2 to 1.0 in PvE only. Reduced the burning duration on the initial skill from 4 seconds to 3 seconds in PvE only. Reduced the burning duration on the backfire skill from 6 seconds to 4 seconds in PvE only.
+Stormsoul: Reduced the strike damage bonus from 10% to 7% in PvE only.
+Strengthening Stanzas: Reduced the condition damage increase from 15% to 10% in PvE only.
+Summon Kryptis Turret: Reduced the power coefficient from 0.4 to 0.35 in PvE only.
+Swift Revenge: Reduced the strike damage bonus from 10% to 7% in PvE only.
+Tale of the August Queen: Reduced the distortion duration from 2 seconds to 1.5 seconds in WvW only.
+Tale of the Honorable Rogue: Increased the cooldown from 30 seconds to 40 seconds in WvW only.
+Three Round Burst: Reduced the power coefficient from 0.85 to 0.75 in PvE only.
+Transcendent Tempest: Reduced the condition damage bonus from 25% to 20% in PvE only.
+True Shot: Reduced the power coefficient from 3.2 to 2.8 in PvE only.
+Twice as Vicious: Reduced the strike damage increase from 10% to 7% in PvE only.
+Twilight Combo: Reduced the power coefficient on initial hit from 1.5 to 1.0 in PvE only.
+Tyrant's Momentum: Reduced the condition damage bonus for each stack of Lethal Tempo from 2% to 1% in PvE only.
+Unload: Reduced the power coefficient from 0.45 to 0.42 in PvE only.
+Unscathed Contender: Reduced the strike damage bonus while you have aegis and while above the health threshold from 7%/7% to 5%/5% in PvE only.
+Vampiric Slash: Reduced the power coefficient from 1.4 to 1.0 in PvE only.
+Venomous Volley: Reduced the power coefficient from 0.5 to 0.4 in PvE only.
+Vow of the Untamed: Reduced the damage increase from 20% to 15% in WvW only.
+Wanderlust: Reduced the ritualist attack power coefficient from 1.0 to 0.8 in WvW only.
+Weakening Shroud: The ability used when entering shroud has been renamed Weakening Shroud and now corrupts a boon in addition to its previous effects.
+Weakening Whirl: Reduced the power coefficient from 0.84 to 0.74 in PvE only.
+Weaver's Prowess: This trait no longer grants a bonus to outgoing condition damage.
+Well of Sorrow: Reduced the torment, bleeding, and poison duration from 8 seconds to 6 seconds in PvE only.
+Whirling Wrath: Reduced the power coefficient of strikes from 0.45 to 0.35 in PvE only. Reduced the power coefficient of projectiles from 0.375 to 0.275 in PvE only.
+Wicked Corruption: Reduced the critical-strike damage increase from 12.5% to 10% in PvE only.
+Willing Host: This trait now increases outgoing condition damage in PvE.

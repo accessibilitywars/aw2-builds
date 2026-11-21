@@ -1,0 +1,202 @@
+Fireball: Reduced the casting time by approximately 0.25 seconds.
+Flame Burst: This skill has been reworked and renamed Fire Blast.
+Fire Blast: Launch a giant fireball at your enemy, dealing damage and burning targets on impact.
+Chain Lightning: This skill no longer bounces between targets and instead instantly chains to valid targets.
+Lightning Surge: This skill has been reworked. Summon a blinding bolt of lightning at a target location. After a delay, lightning strikes again to deal increased damage.
+Stoning: Reduced the aftercast of this skill by approximately 0.2 seconds.
+Eruption: This skill now pulses the crippled condition in an area prior to detonation.
+Shock Wave: This skill has been reworked. Create a shock wave at a target location. Enemies are immobilized and briefly dazed on impact.
+Meteor Shower: Increased the power coefficient from 1.6 to 2.0 in PvE only. Fixed an issue that caused multiple instances of this skill to share damage falloff.
+Wildfire: Reduced the burning duration from 3 seconds to 2.5 seconds in PvE only.
+Dust Storm: This skill can now damage the same enemy only once per attack interval.
+Meteor: Increased the power coefficient from 2.7 to 3.0 in PvE only.
+Signet of Water: This skill no longer strikes enemies and no longer revives allies. Increased the base healing from 1,940 to 2,440 2,708 and increased the conditions removed from 3 to 4. This signet's passive no longer reduces incoming condition durations and instead increases outgoing healing.
+Attuning to an element will now grant the elementalist a boon based on that element. Elemental Attunement will increase the duration of these boons and grant them to nearby allies.
+Tempestuous Aria: Increased the condition damage bonus from 5% to 7% in PvE only.
+Transcendent Tempest: Increased the condition damage bonus from 20% to 25% in PvE only.
+Elements of Rage: Reduced the strike damage bonus from 15% to 12% in PvE only. Reduced the condition damage bonus from 10% to 7% in PvE only.
+Galvanize: Increased the power coefficient from 2.6 to 3.1 in PvE only.
+Fiery Impact: Increased the power coefficient from 1.75 to 2.25 in PvE only.
+Shale Storm: Increased the power coefficient from 1.5 to 2.0 in PvE only.
+Familiar's Focus: Increased the strike damage bonus from 10% to 12% in PvE only.
+Specialized Elements: Reduced the empowered skill recharge reduction from 33% to 20% in PvE only.
+Calcify: This skill no longer dazes and instead grants protection in PvP only.
+Net Shot and Overcharged Shot now flip Rifle Burst into Rocket Burst. Rocket Burst launches a volley of rockets at your target.
+Energizing Slam: Increased the cooldown from 6 seconds to 8 seconds and reduced the power coefficient from 1.5 to 1.35 in PvP only.
+Rocket Fist Prototype: Reduced the burning duration from 5 seconds to 1 second in PvP and WvW.
+Flame Blast: Increased the cooldown from 6 seconds to 8 seconds.
+Rocket Kick: This skill now breaks stun and then launches the user backwards, allowing them to evade attacks. Increased the cooldown from 15 seconds to 20 seconds in PvE and from 15 seconds to 25 seconds in WvW and PvP.
+Elixir S: Reduced the cooldown from 60 seconds to 50 seconds in WvW and PvP.
+Toss Elixir S: Reduced the cooldown from 45 seconds to 30 seconds in PvE and from 45 seconds to 40 seconds in WvW and PvP.
+Elixir B: Increased the cooldown from 20 seconds to 25 seconds and reduced the boon extension from 3 seconds to 2 seconds in PvP only.
+Toss Elixir B: Increased the cooldown from 20 seconds to 30 seconds in PvP only.
+Grenade explosion radii increased from 120 to 180.
+Grenadier: This trait no longer increases the radii of grenade skills and instead increases the damage of explosion skills.
+Modified Ammunition: This trait now scales up to 5 conditions only. Increased the damage per condition from 1% to 2% in PvE only and WvW.
+Bunker Down: Reduced the power coefficient from 0.95 to 0.5 in PvP only.
+Elixir X: Reduced the recharge from 60 75 seconds to 75 60 seconds.
+Supply Crate: Reduced the recharge from 120 seconds to 105 seconds in PvP only.
+Impact Savant: Increased the damage-to-barrier conversion from 10% to 15% in PvP only.
+Ex Machina: This trait no longer increases the cooldown of Function Gyro in PvP and WvW. Increased the base barrier from 1,034 to 1,500 in PvP and WvW.
+Hard Light Arena: Reduced the cooldown from 35 seconds to 30 seconds in PvE and PvP.
+Double Helix: Reduced the attribute increase from 100% to 50% in PvE only.
+Offensive Protocol: Pierce: Increased the cooldown from 20 seconds to 25 seconds and reduced the stun duration from 2 seconds to 1.5 seconds in PvP only.
+Offensive Protocol: Demolish: Reduced the spin power coefficient from 0.5 to 0.4 and reduced the final power coefficient from 1.25 to 1.0 in PvP only.
+Flux State: Reduced the pulse power coefficient from 0.4 to 0.25 in PvP only.
+Orb of Wrath: Increased the projectile speed.
+Chains of Light: This skill will now strike up to 4 2 additional enemies around its target.
+Core Cleave: Increased the bleeding duration from 1 second to 2.5 seconds.
+Bleeding Edge: Increased the bleeding duration from 1 second to 2.5 seconds.
+Searing Slash: Increased the burning duration from 2 to 2.5 seconds in PvE only.
+Symbol of Vengeance: Increased the bleeding duration from 3 seconds to 5 seconds in PvE only.
+Blazing Edge: Increased the burning duration from 3 seconds to 5 seconds in PvE only.
+Empower: Increased the might stacks per pulse from 3 to 4 and increased the duration from 10 seconds to 12 seconds in PvE only.
+Smite Condition: This skill now has a casting time. Increased the damage coefficient when removing a condition from 1.9 to 2.75 in PvE and from 0.3 to 1.5 in WvW and PvP.
+Zealot's Resolution: This trait will now create a symbol at the struck enemy's location instead of the guardian's location.
+Inspired Virtue: This trait now scales up to 5 boons only. Increased the damage per boon from 0.5% to 1.5% in PvE and from 1% to 1.5% in WvW and PvP.
+Unscathed Contender: This trait has been reworked. Deal 10% increased damage while above the health threshold or while you have aegis. Lowered the health threshold from 90% to 75%. The damage increase is 12% in PvE and 10% in PvP and WvW.
+Mantra final charges now restore one page as a baseline.
+Potent Haste: Increased the might duration from 6 seconds to 10 seconds in PvE only.
+Purity of Word: Increased the baseline number of pages from 5 to 8. Lowered the page interval from 8 seconds to 6 seconds in PvP only and PvE.
+Unrelenting Criticism: This trait has been reworked. Bleeding duration is increased and bleeding deals increased damage.
+Weighty Terms: This trait has been renamed Revelation.
+Revelation: This trait has been moved to the adept tier, replacing Liberator's Vow, and no longer slows enemies. Reduced the number of pages restored from 2 to 1.
+Archivist of Whispers: This trait has been reworked and renamed Bastion.
+Bastion: Protection has increased effectiveness when applied to you.
+Fervid Conviction: This is a new master-tier trait. When you gain pages from Swift Scholar, grant Ashes of the Just to nearby allies.
+Stalwart Speed: This trait has been reworked. When you gain pages from Swift Scholar, grant quickness to nearby allies.
+Imbued Haste: This trait no longer grants additional attributes and instead increases outgoing condition damage and healing as well as reducing incoming damage.
+Stoic Demeanor: This trait has been reworked and moved to the middle grandmaster slot. Retain Tome of Courage's passive while it is on cooldown. Disabling or immobilizing enemies reduces the cooldown of Unbroken Lines.
+Quickfire: This trait has been reworked, moved to the top grandmaster slot, and renamed Righteous Flames.
+Righteous Flames: Retain Tome of Justice's passive while it is on cooldown. Ashes of the Just's burning is improved.
+Loremaster: This trait has been reworked and renamed Deliverance.
+Deliverance: Retain Tome of Resolve's passive while it is on cooldown. Eternal Oasis now heals allies over time.
+Phoenix Protocol: This trait now applies its boons to nearby allies.
+Empowered Armaments: Increased the damage increase from 10% to 13% in PvE only.
+Shaper of Chaos: This trait no longer detonates chaos aura when gaining chaos aura and instead detonates chaos aura when shatter skill 1 is used. Increased the confusion from 4 stacks for 5 seconds to 6 stacks for 6 seconds in PvE and from 3 stacks to 4 stacks in WvW and PvP.
+Bladecall: Reduced the return power coefficient from 0.55 to 0.4 in PvP only.
+Illusionary Leap: The clone's attack will now inflict immobilized instead of crippled.
+Swap: This skill no longer immobilizes nearby enemies. This skill now grants access to Disenchant for a brief window of time.
+Disenchant: Strike your target and remove boons from them. This skill deals increased damage against enemies with no boons.
+Signet of Inspiration: Increased the cooldown from 20 seconds to 30 seconds in WvW only
+Phantasmal Warden: This skill has been moved, replacing Phantasmal Disenchanter as a utility skill. Reduced the number of hits from 12 to 8. The phantasm now spawns at the user's location.
+Phantasmal Disenchanter: This skill has been moved, replacing Phantasmal Warden as a focus skill. This skill now has an initial attack in which the mesmer fires a projectile that removes boons from the targeted enemy.
+Warden's Feedback: This trait has been renamed to Focal Feedback and moved to the adept tier.
+Focal Feedback: This trait no longer affects Phantasmal Warden. Instead, this trait now causes boons removed from enemies by Phantasmal Disenchanter to be transferred to the mesmer when it is equipped.
+Sympathetic Visage: This trait has been moved to the master tier and now removes conditions from allies in an area around the mesmer when a phantasm is summoned.
+Chronophantasma: This trait now reduces condition durations applied by resummoned phantasms. Reduces the strike damage of resummoned phantasms from 105% to 100% in PvE only.
+Bladesong Harmony: Fixed an issue that caused this skill to deal more damage than intended with the trait Shatter Storm. Reduced the power coefficient from 0.45 to 0.4 in PvP and WvW.
+Tale of the August Queen: Increased the cooldown from 75 seconds to 90 seconds in WvW only.
+Harmonious Harp: Increased the cooldown from 35 seconds to 45 seconds in WvW only.
+Love Song: Reduced the distortion increase from 1 second to 0.5 seconds and increased the damage reduction from 7% to 10% in WvW only.
+Rending Claws: This skill no longer inflicts additional vulnerability against low-health enemies and instead reduces the recharge time of your other axe skills when striking a low-health enemy.
+Ghastly Claws: This skill now also deals bonus damage against low-health enemies.
+Target the Weak: This trait now scales up to 5 conditions only. Increased the critical-strike chance per condition from 2% to 4% in PvE and from 2% to 3% in WvW and PvP.
+Locust Swarm: This skill no longer pulses around the user and instead sends swarms toward nearby enemies. Insect swarms latch on to targets struck, dealing periodic strike damage and healing allies around the user.
+Soul Grasp: This skill has been reworked. Send out a projectile that bounces between enemies before returning to the user. Upon returning, the projectile grants life force based on how many enemies were struck.
+Signet of Vampirism: This skill no longer applies a mark to enemies and instead grants effect stacks to the user. Effect stacks are expended upon striking a foe to siphon health from the foe, healing the user.
+Augury of Death: Increased the life siphon base damage from 172 to 750 and life siphon base healing from 156 to 750 in PvE and from 172 to 450 and life siphon base healing from 156 to 450 in PvP and WvW. Life-siphon healing is reduced for each target beyond the first. Life-siphon healing is no longer increased in melee range.
+Abrasive Grit: Increased the might duration from 6 seconds to 8 seconds in PvE only.
+Desert Empowerment: Increased the alacrity duration from 1.5 seconds to 2 seconds in PvE only.
+Cascading Corruption: Reduced the torment stacks from 6 to 3 and reduced meltdown's strike and condition damage increase from 10% to 7% in PvE only.
+Anguish: This skill's bonus damage now scales up to only 5 conditions, and striking a disabled or defiant target now grants the maximum damage increase instead of granting a separate damage increase. Increased the damage per condition from 2% to 4%. Increased the power coefficient per hit from 0.125 to 0.15 in PvE only.
+Summon Spirits: Anguish's bonus damage now scales up to only 5 conditions, and striking a disabled or defiant target now grants the maximum damage increase instead of granting a separate damage increase. Increased the damage per condition from 2% to 4%. Increased Anguish's power coefficient per hit from 0.5 to 0.6 in PvE only.
+Spirit's Strength: Reduced the effectiveness increase from 50% to 33% in PvE only.
+Unleashed Savage Shockwave: This skill's bonus damage now scales up to only 5 conditions, and striking a disabled or defiant target now grants the maximum damage increase instead of granting a separate damage increase. Increased the damage per condition from 2% to 4%. Increased the power coefficient per hit from 0.8 to 0.96 in PvE and from 0.5 to 0.55 in PvP and WvW.
+Strength of the Pack: Strikes from the player now grant might to both the player and their pet. Strikes from their pet no longer grant might to the player and instead deal increased damage.
+Bountiful Hunter: This trait now scales up to 5 boons only. Increased the damage per boon from 1% to 2% in PvE and from 1% to 1.5% in PvP and WvW.
+Crossfire: This skill no longer inflicts increased bleeding duration when flanking a target. Increased the bleeding duration from 2 seconds to 5 seconds in PvE and from 2 seconds to 3 seconds in WvW and PvP.
+Poison Volley: This skill's increased poison duration is now inflicted to movement-impaired, disabled, and defiant targets instead of when flanking. Reduced the cooldown from 8 seconds to 6 seconds in PvE only. Increased the poison duration from 5 seconds to 7 seconds in PvE only.
+Quick Shot: Reduced the cooldown from 8 seconds to 6 seconds in PvE and from 12 seconds to 10 seconds in WvW and PvP.
+Crippling Shot: Reduced the cooldown from 12 seconds to 10 seconds. Increased the immobilize duration from 1.5 seconds to 2 seconds. Increased the pet bleeding stacks from 1 to 2 and reduced the bleeding duration from 15 seconds to 7.5 seconds.
+Concussion Shot: Reduced the cooldown from 20 seconds to 16 seconds.
+Hidden Barbs: This trait now causes short-bow skills to pierce.
+Hunter's Tactics: This trait now grants its bonuses for a duration after striking an enemy from behind or the side.
+Light on your Feet: This trait no longer modifies short-bow skills and instead grants increased movement speed for a brief duration after dodging or using a ranger skill that evades.
+Blood Moon: Reduced the bleeding duration from 4 seconds to 3 seconds in PvE only.
+Natural Balance: Increased the condition damage boost from 5% to 15% in PvE only.
+Eclipse: Reduced the Seed of Life poison duration from 8 seconds to 6 seconds and the Natural Convergence burning duration from 5 seconds to 4 seconds in PvE only.
+Oppressive Superiority: This trait has been reworked and renamed Apex Predator.
+Apex Predator: Merged abilities cause a savage frenzy of attacks when they strike an enemy. Frenzies caused by beast skills are stronger.
+Venomous Outburst: Increased the cooldown from 10 seconds to 13 seconds in PvE only.
+Rending Vines: Increased the cooldown from 10 seconds to 13 seconds in PvE only.
+Frigid Blitz: This skill has been reworked. Teleport near your target and perform a leaping an axe strike that inflicts chilled and torment on foes in the area.
+Hammer Bolt: Reduced the power coefficient from 0.5 to 0.4 in PvP only.
+Coalescence of Ruin: Fixed an issue that could cause this skill to strike a target multiple times. Increased the power coefficient from 1.3 to 1.45 in PvP only.
+Phase Smash: Increased the cooldown from 15 seconds to 20 seconds in PvP only.
+Field of the Mists: Increased the cooldown from 12 seconds to 15 seconds and reduced the power coefficient from 1.1 to 0.91 in PvP only.
+Envoy of Exuberance: Increased the cooldown from 15 seconds to 18 seconds in PvP only.
+Forced Engagement: Instead of taunting, this skill now tethers the target and will pull them to the revenant if they exceed the range threshold. If the target is out of the threshold when struck, they will be immediately pulled. This skill also inflicts crippled. This skill now deals additional defiance damage.
+Project Tranquility: The description of this skill now clarifies that your next Legendary Centaur Stance skill is empowered after the tablet is summoned.
+Natural Harmony: This skill now grants Tranquil after it is used if it was not empowered.
+Purifying Essence: This skill now grants Tranquil after it is used if it was not empowered.
+Energy Expulsion: This skill no longer destroys the tablet after casting. This skill now grants Tranquil after it is used if it was not empowered. Stability granted by the empowered version of this skill is now granted on casting instead of during the tablet explosion.
+Reinforced Potency: This trait now scales up to 5 boons only. Increased the damage bonus from 1% to 2% in PvE and WvW and from 1.5% to 2% in PvP.
+Lasting Legacy: Reduced the strike damage per stack from 5% to 4% in PvE only.
+Reaver's Curse: This trait has been moved to the adept tier, replacing Leviathan Strength.
+Angsiyan's Trust: This trait has been moved to the adept tier, replacing Amnesty of Shing Jea.
+Song of Arboreum: This trait has been moved to the adept tier, replacing Redemptor's Sermon.
+Forerunner of Death: This trait has been moved to the master tier, replacing Reaver's Curse.
+Vassals of the Empire: This trait has been moved to the master tier, replacing Angsiyan's Trust.
+Saint of zu Heltzer: This trait has moved to the master tier, replacing Song of Arboreum.
+Balance in Discord: This trait has been reworked. Gain endurance when you swap legends or use Alliance Tactics.
+Empire Divided: This trait has been reworked and renamed Rise to the Occasion.
+Rise to the Occasion: Strike damage and outgoing healing are increased while your endurance bar is not full.
+Friend of the Luxons: This is a new grandmaster trait. Gain the ability to use the Archemorus's Strike skill, which knocks down and deals damage to nearby enemies. Gain increased strike damage after using a Luxon skill.
+Heated Rivalry: This is a new grandmaster trait. While in Legendary Alliance stance, when you use a number of Luxon skills, Alliance Tactics is recharged, and your next-used Kurzick skill will have its energy cost refunded. When you use a number of Kurzick skills, Alliance Tactics is recharged, and your next-used Luxon skill will have its energy cost refunded. The number of skills required to trigger the effect is 2 in PvE and 3 in PvP and WvW.
+Friend of the Kurzicks: This is a new grandmaster trait. Gain the ability to use the Shield of Saint Viktor skill. Shield of Saint Viktor grants barrier to nearby allies and creates a projectile-blocking dome at your location. Heal nearby allies after using a Kurzick skill.
+Gladiator's Defense: This skill has been reworked. Break stun and block incoming attacks. After which, the conduit also retaliates with an attack to nearby enemies. During the blocking phase, if an attack is blocked, the retaliation attack deals increased damage and inflicts weakness. If Legendary Dwarf Stance is equipped, gain aegis after blocking.
+Beguiling Haze: Reduced the power coefficient from 2.2 to 1.0 and the follow-up power coefficient from 0.6 to 0.3 in PvE only.
+Release Potential: Assassin: Increased the power coefficient per hit from 0.6 to 0.9 in PvE only.
+Release Potential: Dervish: Increased the power coefficient from 1.8 to 2.4 in PvE only.
+Mistfire: Increased the burning duration from 6 seconds to 8 seconds in PvE only.
+Numinous Gift: Reduced the might stacks from 5 to 3 and reduced the quickness duration from 3 seconds to 2 seconds in PvP only.
+Spinning Axe: Increased the outgoing velocity from 1,500 to 1,800.
+Venomous Volley: Increased the outgoing velocity from 1,500 to 1,800.
+Cunning Salvo: Increased the outgoing velocity from 1,500 to 1,800.
+Vampiric Slash: Increased the initiative cost from 1 to 2 in PvP only.
+Shattering Assault: Increased the initiative cost from 2 to 3 in PvP only.
+Distracting Throw: Increased the initiative cost from 3 to 4 in PvP only.
+Shadow Veil: Increased the initiative cost from 4 to 5 in PvP only.
+Exposed Weakness: This trait now scales up to 5 conditions only. Increased the damage per condition from 2% to 3% 4% in PvE only.
+Twin Fangs: This trait now grants its critical-hit chance bonus for a duration after striking an enemy from behind or the side.
+Three-Round Burst: Increased the power coefficient per hit from 0.75 to 0.85 in PvE only.
+Expeditious Dodger: This trait has been reworked and renamed to Deft Initiation.
+Deft Initiation: Your first attack when entering combat inflicts vulnerability and grants you might. This ability is refreshed when you shadowstep or use a movement skill.
+Feline Grace: This trait has been reworked. Swiftness on you is improved. Gain swiftness when you shadowstep or use a movement skill.
+Instant Reflexes: This trait has been reworked and renamed to Opportune Opening.
+Opportune Opening: Deft Initiation inflicts crippled. Deal increased damage to foes affected with movement-impairing conditions.
+Pumping Up: This trait has been reworked and renamed to Endurance Training.
+Endurance Training: Gain vigor upon successfully evading an attack.
+Assassin's Reward: This trait has been reworked and moved to the top master trait slot, replacing Guarded Initiation. Deft Initiation heals you.
+Hard to Catch: This trait has been reworked. Gain resistance when you steal.
+Sharp Initiation: This trait replaces Assassin's Reward in the top grandmaster trait slot. Deft Initiation deals damage to the affected foe.
+Don't Stop: This trait has been reworked. When you gain swiftness, gain endurance and lose a movement-impairing condition.
+Deadeye's Mark: The melee version of this skill now requires a pathing check before it can be activated.
+Malicious Death's Judgement: This skill now does full damage to both its target and marked foes. Malice is only consumed upon striking a marked foe.
+Premeditation: This trait now scales up to 5 boons only. Increased the damage per boon from 1% to 2%.
+Canach-Coin Toss: Increased the cooldown from 25 seconds to 30 seconds in PvP only.
+Metal Legion Guitar: Reduced the number of effect stacks granted from 3 to 2 in PvE only.
+Chak Shield: Reduced the number of effect stacks granted from 3 to 2 in PvE only.
+Summon Kryptis Turret: Reduced the torment duration from 4 seconds to 2 seconds in PvE only. Reduced the torment duration with Meticulous Custodian from 5 seconds to 2.5 seconds in PvE only.
+Forged Surfer Dash: Reduced the additional bomb burning duration from 3.5 seconds to 1 second in PvE only. Reduced the additional bomb burning duration with Meticulous Custodian from 4.5 seconds to 2 seconds in PvE only. Reduced the additional bomb's burning duration from 3 seconds to 2 seconds in PvP only.
+Zephyrite Sun Crystal: Reduced the burning stacks from 2 to 1 in PvE only. Reduced the burning stacks with Meticulous Custodian from 3 to 2 in PvE only. Reduced the burning duration from 4 seconds to 3 seconds in PvP only.
+Mistburn Mortar: Reduced the additional strike burning duration from 6 seconds to 3 seconds in PvP only.
+Repeat Ransacker: Reduced the recharge reduction from 2 seconds to 1.5 seconds in PvP only.
+Fan of Fire: This skill will now deal increased damage and burning the first time it strikes each enemy, with reduced damage and burning for each subsequent hit against the same enemy. The damage and burning when striking an enemy with all three arrows will be approximately the same.
+Arcing Arrow: This skill will now also inflict burning in PvP and WvW.
+Smoldering Arrow: This skill will now also inflict burning.
+Pin Down: This skill will now recharge Fan of Fire if it strikes an enemy.
+Empowered: This trait now scales up to 5 boons only. Increased the damage increase per boon from 1% to 2% in PvE and from 1% to 1.5% in PvP and WvW.
+Destruction of the Empowered: This trait now scales up to 5 boons only. Increased the damage increase per boon from 3% to 4%.
+Signet of Rage: This skill now grants 10 adrenaline and recharges weapon burst skills. Reduced the cooldown from 40 seconds to 30 seconds in PvE only, reduced the boon durations from 25 seconds to 10 seconds, and increased the might stacks from 5 to 20 in PvE only.
+Call of Valor: This skill now properly prioritizes party and squad members.
+Imminent Threat: This skill has been reworked. Break stun, gain barrier and adrenaline for each nearby foe, and remove offensive boons from nearby foes. Barrier and adrenaline gain is reduced for each enemy beyond the first. Remove an offensive boon from enemies
+Resolute Counter: Increased the base healing from 820 to 1,250 1,300 in WvW and PvP.
+Break Enchantments: Increased the ammunition from 1 to 2 in PvE and PvP. Power coefficient increased from 1.5 to 3.0 in PvE only. Damage bonus from removing boons reduced from 300% to 100% 50% in PvE only. Increased the casting time from 0.04 seconds to 0.6 seconds.
+Featherfoot Grace: This skill now additionally grants resolution.
+Sight Beyond Sight: This skill no longer gives a guaranteed critical hit on skill use. This skill now removes defensive boons from affected enemies and removes all condition types on use instead of just non-damaging conditions.
+Chant of Action: Increased the cooldown from 12 seconds to 20 seconds, increased the initial might stacks from 2 to 4, and increased the fury duration from 2 seconds to 4 seconds in PvP only.
+Chant of Recuperation: Increased the cooldown from 18 seconds to 30 seconds, increased the base barrier from 1,615 to 2,015, and increased the barrier scaling from 0.5 to 0.8 in PvP only.
+Chant of Freedom: Increased the cooldown from 30 seconds to 40 seconds, increased the stability stacks from 1 to 2, and increased the stability duration from 2 seconds to 3 seconds in PvP only.
+
